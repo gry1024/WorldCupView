@@ -1,0 +1,61 @@
+name: Hourly data update and CloudBase deploy
+
+on:
+  push:
+    branches: [main]
+  schedule:
+    - cron: "7 * * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+env:
+  NODE_VERSION: "24"
+  PNPM_VERSION: "11.7.0"
+  CLOUDBASE_CLOUD_PATH: "/worldcupview"
+
+jobs:
+  update-build-deploy:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: ${{ env.NODE_VERSION }}
+
+      - name: Setup pnpm
+        run: |
+          corepack enable
+          corepack prepare pnpm@${{ env.PNPM_VERSION }} --activate
+
+      - name: Install dependencies
+        run: pnpm install --frozen-lockfile
+
+      - name: Update data
+        run: pnpm update:data
+
+      - name: Commit refreshed data
+        run: |
+          git config user.name "worldcupview-bot"
+          git config user.email "worldcupview-bot@users.noreply.github.com"
+          git add src/data/worldcup-data.json public/data/worldcup-data.json
+          git diff --cached --quiet || git commit -m "chore: refresh world cup data"
+
+      - name: Verify
+        run: pnpm lint && pnpm test && pnpm build
+
+      - name: Install CloudBase CLI
+        if: ${{ secrets.TCB_SECRET_ID != '' && secrets.TCB_SECRET_KEY != '' && secrets.TCB_ENV_ID != '' }}
+        run: npm install -g @cloudbase/cli
+
+      - name: Login CloudBase
+        if: ${{ secrets.TCB_SECRET_ID != '' && secrets.TCB_SECRET_KEY != '' && secrets.TCB_ENV_ID != '' }}
+        run: tcb login --apiKeyId "${{ secrets.TCB_SECRET_ID }}" --apiKey "${{ secrets.TCB_SECRET_KEY }}"
+
+      - name: Deploy to CloudBase static hosting
+        if: ${{ secrets.TCB_SECRET_ID != '' && secrets.TCB_SECRET_KEY != '' && secrets.TCB_ENV_ID != '' }}
+        run: tcb hosting deploy ./out "${{ env.CLOUDBASE_CLOUD_PATH }}" -e "${{ secrets.TCB_ENV_ID }}"
