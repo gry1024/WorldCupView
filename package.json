@@ -12,7 +12,8 @@
     "test:watch": "vitest",
     "e2e": "playwright test",
     "update:data": "tsx scripts/update-data.ts",
-    "verify": "pnpm lint && pnpm test && pnpm build && pnpm e2e"
+    "verify": "pnpm lint && pnpm test && pnpm build && pnpm e2e",
+    "publish:after-login": "powershell -NoProfile -ExecutionPolicy Bypass -File scripts/publish-after-login.ps1"
   },
   "dependencies": {
     "clsx": "^2.1.1",

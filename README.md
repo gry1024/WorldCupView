@@ -51,6 +51,16 @@ tcb login --apiKeyId "$TCB_SECRET_ID" --apiKey "$TCB_SECRET_KEY"
 tcb hosting deploy ./out /worldcupview -e "$TCB_ENV_ID"
 ```
 
+登录和密钥环境变量准备好后，可一键开源并部署：
+
+```powershell
+$env:TCB_ENV_ID="your-cloudbase-env-id"
+$env:TCB_SECRET_ID="your-tencent-secret-id"
+$env:TCB_SECRET_KEY="your-tencent-secret-key"
+gh auth login -h github.com
+pnpm publish:after-login -- -PublicUrl "https://your-subdomain.example.com/worldcupview/"
+```
+
 ## 数据源
 
 - WorldCup26 public API：球队、赛程、比分、射手。
