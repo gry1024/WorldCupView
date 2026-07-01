@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-01T04:27:25.929Z",
+  "updatedAt": "2026-07-01T05:19:42.491Z",
   "sources": [
     "https://worldcup26.ir/get/teams",
     "https://worldcup26.ir/get/games",
@@ -1011,7 +1011,7 @@
       "shots": 0,
       "shotsOnTarget": 0,
       "xg": 0,
-      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Santiago%20Gim%C3%A9nez%202023.jpg",
+      "image": "/player-photos/julian-quinones-20260701.png",
       "headline": "墨西哥中锋"
     },
     {
@@ -1024,7 +1024,7 @@
       "shots": 0,
       "shotsOnTarget": 0,
       "xg": 0,
-      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Edson%20%C3%81lvarez%202023.jpg",
+      "image": "/player-photos/julian-quinones-20260701.png",
       "headline": "墨西哥中场屏障"
     },
     {
@@ -1037,7 +1037,7 @@
       "shots": 0,
       "shotsOnTarget": 0,
       "xg": 0,
-      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Alphonso%20Davies%202022.jpg",
+      "image": "/player-photos/julian-quinones-20260701.png",
       "headline": "加拿大速度核心"
     },
     {
@@ -1050,7 +1050,7 @@
       "shots": 8,
       "shotsOnTarget": 4,
       "xg": 1.28,
-      "image": "/player-photos/jonathan-david.jpg",
+      "image": "/player-photos/jonathan-david-20260701.jpg",
       "headline": "加拿大射手"
     },
     {
@@ -1063,7 +1063,7 @@
       "shots": 6,
       "shotsOnTarget": 3,
       "xg": 0.96,
-      "image": "/player-photos/vinicius-jr.jpg",
+      "image": "/player-photos/vinicius-jr-20260701.jpg",
       "headline": "巴西爆点"
     },
     {
@@ -1076,7 +1076,7 @@
       "shots": 0,
       "shotsOnTarget": 0,
       "xg": 0,
-      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Rodrygo%20Goes%202018.jpg",
+      "image": "/player-photos/julian-quinones-20260701.png",
       "headline": "巴西灵活前锋"
     },
     {
@@ -1089,7 +1089,7 @@
       "shots": 0,
       "shotsOnTarget": 0,
       "xg": 0,
-      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Christian%20Pulisic%202019.jpg",
+      "image": "/player-photos/julian-quinones-20260701.png",
       "headline": "美国前场核心"
     },
     {
@@ -1102,7 +1102,7 @@
       "shots": 0,
       "shotsOnTarget": 0,
       "xg": 0,
-      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Weston%20McKennie%202022.jpg",
+      "image": "/player-photos/julian-quinones-20260701.png",
       "headline": "美国中场覆盖者"
     },
     {
@@ -1115,7 +1115,7 @@
       "shots": 0,
       "shotsOnTarget": 0,
       "xg": 0,
-      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Jamal%20Musiala%202022.jpg",
+      "image": "/player-photos/julian-quinones-20260701.png",
       "headline": "德国前场灵感"
     },
     {
@@ -1128,7 +1128,7 @@
       "shots": 6,
       "shotsOnTarget": 3,
       "xg": 0.96,
-      "image": "/player-photos/kai-havertz.jpg",
+      "image": "/player-photos/kai-havertz-20260701.jpg",
       "headline": "德国锋线衔接点"
     },
     {
@@ -1141,7 +1141,7 @@
       "shots": 2,
       "shotsOnTarget": 1,
       "xg": 0.32,
-      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Lamine%20Yamal%20in%202025%20(cropped).jpg",
+      "image": "/player-photos/julian-quinones-20260701.png",
       "headline": "西班牙边路新星"
     },
     {
@@ -1154,7 +1154,7 @@
       "shots": 0,
       "shotsOnTarget": 0,
       "xg": 0,
-      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Pedri%202022.jpg",
+      "image": "/player-photos/julian-quinones-20260701.png",
       "headline": "西班牙中场节拍器"
     },
     {
@@ -1167,7 +1167,7 @@
       "shots": 12,
       "shotsOnTarget": 6,
       "xg": 1.92,
-      "image": "/player-photos/kylian-mbappe.jpg",
+      "image": "/player-photos/kylian-mbappe-20260701.jpg",
       "headline": "法国冲刺核心"
     },
     {
@@ -1180,7 +1180,7 @@
       "shots": 8,
       "shotsOnTarget": 4,
       "xg": 1.28,
-      "image": "/player-photos/ousmane-dembele.jpg",
+      "image": "/player-photos/ousmane-dembele-20260701.jpg",
       "headline": "法国边路推进器"
     },
     {
@@ -1193,7 +1193,7 @@
       "shots": 10,
       "shotsOnTarget": 5,
       "xg": 1.6,
-      "image": "/player-photos/erling-haaland.jpg",
+      "image": "/player-photos/erling-haaland-20260701.jpg",
       "headline": "挪威终结者"
     },
     {
@@ -1206,7 +1206,7 @@
       "shots": 0,
       "shotsOnTarget": 0,
       "xg": 0,
-      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Martin%20%C3%98degaard%202021.jpg",
+      "image": "/player-photos/julian-quinones-20260701.png",
       "headline": "挪威组织核心"
     },
     {
@@ -1219,7 +1219,7 @@
       "shots": 12,
       "shotsOnTarget": 6,
       "xg": 1.92,
-      "image": "/player-photos/lionel-messi.jpg",
+      "image": "/player-photos/lionel-messi-20260701.jpg",
       "headline": "阿根廷领袖"
     },
     {
@@ -1232,7 +1232,7 @@
       "shots": 0,
       "shotsOnTarget": 0,
       "xg": 0,
-      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Juli%C3%A1n%20%C3%81lvarez%202022.jpg",
+      "image": "/player-photos/julian-quinones-20260701.png",
       "headline": "阿根廷锋线冲击"
     },
     {
@@ -1245,7 +1245,7 @@
       "shots": 4,
       "shotsOnTarget": 2,
       "xg": 0.64,
-      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Cristiano%20Ronaldo%20with%20Al%20Nassr%2C%2019%20September%202023%20-%2054%20(cropped).jpg",
+      "image": "/player-photos/julian-quinones-20260701.png",
       "headline": "葡萄牙门前标志"
     },
     {
@@ -1258,7 +1258,7 @@
       "shots": 2,
       "shotsOnTarget": 1,
       "xg": 0.32,
-      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Rafael%20Le%C3%A3o%202022.jpg",
+      "image": "/player-photos/julian-quinones-20260701.png",
       "headline": "葡萄牙左路爆点"
     },
     {
@@ -1271,7 +1271,7 @@
       "shots": 4,
       "shotsOnTarget": 2,
       "xg": 0.64,
-      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Harry%20Kane%20in%20Russia%202.jpg",
+      "image": "/player-photos/julian-quinones-20260701.png",
       "headline": "英格兰队长"
     },
     {
@@ -1284,7 +1284,7 @@
       "shots": 0,
       "shotsOnTarget": 0,
       "xg": 0,
-      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Jude%20Bellingham%202023.jpg",
+      "image": "/player-photos/julian-quinones-20260701.png",
       "headline": "英格兰中场推进"
     },
     {
@@ -1297,7 +1297,7 @@
       "shots": 6,
       "shotsOnTarget": 3,
       "xg": 0.96,
-      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Juli%C3%A1n%20Qui%C3%B1ones%202023.jpg",
+      "image": "/player-photos/julian-quinones-20260701.png",
       "headline": "墨西哥禁区冲击手"
     },
     {
@@ -1310,7 +1310,7 @@
       "shots": 2,
       "shotsOnTarget": 1,
       "xg": 0.32,
-      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Association%20football%20match%202022.jpg",
+      "image": "/player-photos/julian-quinones-20260701.png",
       "headline": "本届进球球员"
     },
     {
@@ -1323,7 +1323,7 @@
       "shots": 2,
       "shotsOnTarget": 1,
       "xg": 0.32,
-      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Association%20football%20match%202022.jpg",
+      "image": "/player-photos/julian-quinones-20260701.png",
       "headline": "本届进球球员"
     },
     {
@@ -1336,7 +1336,7 @@
       "shots": 2,
       "shotsOnTarget": 1,
       "xg": 0.32,
-      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Association%20football%20match%202022.jpg",
+      "image": "/player-photos/julian-quinones-20260701.png",
       "headline": "本届进球球员"
     },
     {
@@ -1349,7 +1349,7 @@
       "shots": 2,
       "shotsOnTarget": 1,
       "xg": 0.32,
-      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Association%20football%20match%202022.jpg",
+      "image": "/player-photos/julian-quinones-20260701.png",
       "headline": "本届进球球员"
     },
     {
@@ -1362,7 +1362,7 @@
       "shots": 2,
       "shotsOnTarget": 1,
       "xg": 0.32,
-      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Association%20football%20match%202022.jpg",
+      "image": "/player-photos/julian-quinones-20260701.png",
       "headline": "本届进球球员"
     },
     {
@@ -1375,7 +1375,7 @@
       "shots": 2,
       "shotsOnTarget": 1,
       "xg": 0.32,
-      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Association%20football%20match%202022.jpg",
+      "image": "/player-photos/julian-quinones-20260701.png",
       "headline": "本届进球球员"
     },
     {
@@ -1388,7 +1388,7 @@
       "shots": 4,
       "shotsOnTarget": 2,
       "xg": 0.64,
-      "image": "/player-photos/folarin-balogun.jpg",
+      "image": "/player-photos/folarin-balogun-20260701.jpg",
       "headline": "美国锋线冲击"
     },
     {
@@ -1401,7 +1401,7 @@
       "shots": 2,
       "shotsOnTarget": 1,
       "xg": 0.32,
-      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Association%20football%20match%202022.jpg",
+      "image": "/player-photos/julian-quinones-20260701.png",
       "headline": "本届进球球员"
     },
     {
@@ -1414,7 +1414,7 @@
       "shots": 2,
       "shotsOnTarget": 1,
       "xg": 0.32,
-      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Association%20football%20match%202022.jpg",
+      "image": "/player-photos/julian-quinones-20260701.png",
       "headline": "本届进球球员"
     },
     {
@@ -1427,7 +1427,7 @@
       "shots": 2,
       "shotsOnTarget": 1,
       "xg": 0.32,
-      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Association%20football%20match%202022.jpg",
+      "image": "/player-photos/julian-quinones-20260701.png",
       "headline": "本届进球球员"
     },
     {
@@ -1440,7 +1440,7 @@
       "shots": 2,
       "shotsOnTarget": 1,
       "xg": 0.32,
-      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Association%20football%20match%202022.jpg",
+      "image": "/player-photos/julian-quinones-20260701.png",
       "headline": "本届进球球员"
     },
     {
@@ -1453,7 +1453,7 @@
       "shots": 2,
       "shotsOnTarget": 1,
       "xg": 0.32,
-      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Association%20football%20match%202022.jpg",
+      "image": "/player-photos/julian-quinones-20260701.png",
       "headline": "本届进球球员"
     },
     {
@@ -1466,7 +1466,7 @@
       "shots": 2,
       "shotsOnTarget": 1,
       "xg": 0.32,
-      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Association%20football%20match%202022.jpg",
+      "image": "/player-photos/julian-quinones-20260701.png",
       "headline": "本届进球球员"
     },
     {
@@ -1479,7 +1479,7 @@
       "shots": 2,
       "shotsOnTarget": 1,
       "xg": 0.32,
-      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Association%20football%20match%202022.jpg",
+      "image": "/player-photos/julian-quinones-20260701.png",
       "headline": "本届进球球员"
     },
     {
@@ -1492,7 +1492,7 @@
       "shots": 2,
       "shotsOnTarget": 1,
       "xg": 0.32,
-      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Association%20football%20match%202022.jpg",
+      "image": "/player-photos/julian-quinones-20260701.png",
       "headline": "本届进球球员"
     },
     {
@@ -1505,7 +1505,7 @@
       "shots": 2,
       "shotsOnTarget": 1,
       "xg": 0.32,
-      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Association%20football%20match%202022.jpg",
+      "image": "/player-photos/julian-quinones-20260701.png",
       "headline": "本届进球球员"
     },
     {
@@ -1518,7 +1518,7 @@
       "shots": 2,
       "shotsOnTarget": 1,
       "xg": 0.32,
-      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Association%20football%20match%202022.jpg",
+      "image": "/player-photos/julian-quinones-20260701.png",
       "headline": "本届进球球员"
     },
     {
@@ -1531,7 +1531,7 @@
       "shots": 2,
       "shotsOnTarget": 1,
       "xg": 0.32,
-      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Association%20football%20match%202022.jpg",
+      "image": "/player-photos/julian-quinones-20260701.png",
       "headline": "本届进球球员"
     },
     {
@@ -1544,7 +1544,7 @@
       "shots": 2,
       "shotsOnTarget": 1,
       "xg": 0.32,
-      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Association%20football%20match%202022.jpg",
+      "image": "/player-photos/julian-quinones-20260701.png",
       "headline": "本届进球球员"
     },
     {
@@ -1557,7 +1557,7 @@
       "shots": 2,
       "shotsOnTarget": 1,
       "xg": 0.32,
-      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Association%20football%20match%202022.jpg",
+      "image": "/player-photos/julian-quinones-20260701.png",
       "headline": "本届进球球员"
     },
     {
@@ -1570,7 +1570,7 @@
       "shots": 2,
       "shotsOnTarget": 1,
       "xg": 0.32,
-      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Association%20football%20match%202022.jpg",
+      "image": "/player-photos/julian-quinones-20260701.png",
       "headline": "本届进球球员"
     },
     {
@@ -1583,7 +1583,7 @@
       "shots": 2,
       "shotsOnTarget": 1,
       "xg": 0.32,
-      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Association%20football%20match%202022.jpg",
+      "image": "/player-photos/julian-quinones-20260701.png",
       "headline": "本届进球球员"
     },
     {
@@ -1596,7 +1596,7 @@
       "shots": 2,
       "shotsOnTarget": 1,
       "xg": 0.32,
-      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Association%20football%20match%202022.jpg",
+      "image": "/player-photos/julian-quinones-20260701.png",
       "headline": "本届进球球员"
     },
     {
@@ -1609,7 +1609,7 @@
       "shots": 2,
       "shotsOnTarget": 1,
       "xg": 0.32,
-      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Association%20football%20match%202022.jpg",
+      "image": "/player-photos/julian-quinones-20260701.png",
       "headline": "本届进球球员"
     },
     {
@@ -1622,7 +1622,7 @@
       "shots": 2,
       "shotsOnTarget": 1,
       "xg": 0.32,
-      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Association%20football%20match%202022.jpg",
+      "image": "/player-photos/julian-quinones-20260701.png",
       "headline": "本届进球球员"
     },
     {
@@ -1635,7 +1635,7 @@
       "shots": 2,
       "shotsOnTarget": 1,
       "xg": 0.32,
-      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Association%20football%20match%202022.jpg",
+      "image": "/player-photos/julian-quinones-20260701.png",
       "headline": "本届进球球员"
     },
     {
@@ -1648,7 +1648,7 @@
       "shots": 4,
       "shotsOnTarget": 2,
       "xg": 0.64,
-      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Amad%20Diallo%202021.jpg",
+      "image": "/player-photos/julian-quinones-20260701.png",
       "headline": "科特迪瓦边路冲击"
     },
     {
@@ -1661,7 +1661,7 @@
       "shots": 4,
       "shotsOnTarget": 2,
       "xg": 0.64,
-      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Yasin%20Ayari%202023.jpg",
+      "image": "/player-photos/julian-quinones-20260701.png",
       "headline": "瑞典中场新锐"
     },
     {
@@ -1674,7 +1674,7 @@
       "shots": 2,
       "shotsOnTarget": 1,
       "xg": 0.32,
-      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Alexander%20Isak%202019.jpg",
+      "image": "/player-photos/julian-quinones-20260701.png",
       "headline": "瑞典锋线支点"
     },
     {
@@ -1687,7 +1687,7 @@
       "shots": 2,
       "shotsOnTarget": 1,
       "xg": 0.32,
-      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Association%20football%20match%202022.jpg",
+      "image": "/player-photos/julian-quinones-20260701.png",
       "headline": "本届进球球员"
     },
     {
@@ -1700,7 +1700,7 @@
       "shots": 2,
       "shotsOnTarget": 1,
       "xg": 0.32,
-      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Association%20football%20match%202022.jpg",
+      "image": "/player-photos/julian-quinones-20260701.png",
       "headline": "本届进球球员"
     },
     {
@@ -1713,7 +1713,7 @@
       "shots": 2,
       "shotsOnTarget": 1,
       "xg": 0.32,
-      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Association%20football%20match%202022.jpg",
+      "image": "/player-photos/julian-quinones-20260701.png",
       "headline": "本届进球球员"
     },
     {
@@ -1726,7 +1726,7 @@
       "shots": 2,
       "shotsOnTarget": 1,
       "xg": 0.32,
-      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Association%20football%20match%202022.jpg",
+      "image": "/player-photos/julian-quinones-20260701.png",
       "headline": "本届进球球员"
     },
     {
@@ -1739,7 +1739,7 @@
       "shots": 2,
       "shotsOnTarget": 1,
       "xg": 0.32,
-      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Association%20football%20match%202022.jpg",
+      "image": "/player-photos/julian-quinones-20260701.png",
       "headline": "本届进球球员"
     },
     {
@@ -1752,7 +1752,7 @@
       "shots": 2,
       "shotsOnTarget": 1,
       "xg": 0.32,
-      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Abdulelah%20Al-Amri%202023.jpg",
+      "image": "/player-photos/julian-quinones-20260701.png",
       "headline": "沙特后场定位球威胁"
     },
     {
@@ -1765,7 +1765,7 @@
       "shots": 4,
       "shotsOnTarget": 2,
       "xg": 0.64,
-      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Maximiliano%20Ara%C3%BAjo%202022.jpg",
+      "image": "/player-photos/julian-quinones-20260701.png",
       "headline": "乌拉圭左路推进点"
     },
     {
@@ -1778,7 +1778,7 @@
       "shots": 2,
       "shotsOnTarget": 1,
       "xg": 0.32,
-      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Association%20football%20match%202022.jpg",
+      "image": "/player-photos/julian-quinones-20260701.png",
       "headline": "本届进球球员"
     },
     {
@@ -1791,7 +1791,7 @@
       "shots": 2,
       "shotsOnTarget": 1,
       "xg": 0.32,
-      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Association%20football%20match%202022.jpg",
+      "image": "/player-photos/julian-quinones-20260701.png",
       "headline": "本届进球球员"
     },
     {
@@ -1804,7 +1804,7 @@
       "shots": 4,
       "shotsOnTarget": 2,
       "xg": 0.64,
-      "image": "/player-photos/elijah-just.jpg",
+      "image": "/player-photos/elijah-just-20260701.jpg",
       "headline": "新西兰反击点"
     },
     {
@@ -1817,7 +1817,7 @@
       "shots": 2,
       "shotsOnTarget": 1,
       "xg": 0.32,
-      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Association%20football%20match%202022.jpg",
+      "image": "/player-photos/julian-quinones-20260701.png",
       "headline": "本届进球球员"
     },
     {
@@ -1830,7 +1830,7 @@
       "shots": 2,
       "shotsOnTarget": 1,
       "xg": 0.32,
-      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Association%20football%20match%202022.jpg",
+      "image": "/player-photos/julian-quinones-20260701.png",
       "headline": "本届进球球员"
     },
     {
@@ -1843,7 +1843,7 @@
       "shots": 4,
       "shotsOnTarget": 2,
       "xg": 0.64,
-      "image": "/player-photos/aymen-hussein.jpg",
+      "image": "/player-photos/aymen-hussein-20260701.jpg",
       "headline": "伊拉克禁区支点"
     },
     {
@@ -1856,7 +1856,7 @@
       "shots": 2,
       "shotsOnTarget": 1,
       "xg": 0.32,
-      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Association%20football%20match%202022.jpg",
+      "image": "/player-photos/julian-quinones-20260701.png",
       "headline": "本届进球球员"
     },
     {
@@ -1869,7 +1869,7 @@
       "shots": 2,
       "shotsOnTarget": 1,
       "xg": 0.32,
-      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Association%20football%20match%202022.jpg",
+      "image": "/player-photos/julian-quinones-20260701.png",
       "headline": "本届进球球员"
     },
     {
@@ -1882,7 +1882,7 @@
       "shots": 2,
       "shotsOnTarget": 1,
       "xg": 0.32,
-      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Association%20football%20match%202022.jpg",
+      "image": "/player-photos/julian-quinones-20260701.png",
       "headline": "本届进球球员"
     },
     {
@@ -1895,7 +1895,7 @@
       "shots": 2,
       "shotsOnTarget": 1,
       "xg": 0.32,
-      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Association%20football%20match%202022.jpg",
+      "image": "/player-photos/julian-quinones-20260701.png",
       "headline": "本届进球球员"
     },
     {
@@ -1908,7 +1908,7 @@
       "shots": 2,
       "shotsOnTarget": 1,
       "xg": 0.32,
-      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Association%20football%20match%202022.jpg",
+      "image": "/player-photos/julian-quinones-20260701.png",
       "headline": "本届进球球员"
     },
     {
@@ -1921,7 +1921,7 @@
       "shots": 2,
       "shotsOnTarget": 1,
       "xg": 0.32,
-      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Association%20football%20match%202022.jpg",
+      "image": "/player-photos/julian-quinones-20260701.png",
       "headline": "本届进球球员"
     },
     {
@@ -1934,7 +1934,7 @@
       "shots": 2,
       "shotsOnTarget": 1,
       "xg": 0.32,
-      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Association%20football%20match%202022.jpg",
+      "image": "/player-photos/julian-quinones-20260701.png",
       "headline": "本届进球球员"
     },
     {
@@ -1947,7 +1947,7 @@
       "shots": 2,
       "shotsOnTarget": 1,
       "xg": 0.32,
-      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Association%20football%20match%202022.jpg",
+      "image": "/player-photos/julian-quinones-20260701.png",
       "headline": "本届进球球员"
     },
     {
@@ -1960,7 +1960,7 @@
       "shots": 2,
       "shotsOnTarget": 1,
       "xg": 0.32,
-      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Association%20football%20match%202022.jpg",
+      "image": "/player-photos/julian-quinones-20260701.png",
       "headline": "本届进球球员"
     },
     {
@@ -1973,7 +1973,7 @@
       "shots": 2,
       "shotsOnTarget": 1,
       "xg": 0.32,
-      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Association%20football%20match%202022.jpg",
+      "image": "/player-photos/julian-quinones-20260701.png",
       "headline": "本届进球球员"
     },
     {
@@ -1986,7 +1986,7 @@
       "shots": 2,
       "shotsOnTarget": 1,
       "xg": 0.32,
-      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Association%20football%20match%202022.jpg",
+      "image": "/player-photos/julian-quinones-20260701.png",
       "headline": "本届进球球员"
     },
     {
@@ -1999,7 +1999,7 @@
       "shots": 2,
       "shotsOnTarget": 1,
       "xg": 0.32,
-      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Abbosbek%20Fayzullaev%202024.jpg",
+      "image": "/player-photos/julian-quinones-20260701.png",
       "headline": "乌兹别克斯坦前场核心"
     },
     {
@@ -2012,7 +2012,7 @@
       "shots": 4,
       "shotsOnTarget": 2,
       "xg": 0.64,
-      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Daniel%20Mu%C3%B1oz%202022.jpg",
+      "image": "/player-photos/julian-quinones-20260701.png",
       "headline": "哥伦比亚边路冲击"
     },
     {
@@ -2025,7 +2025,7 @@
       "shots": 2,
       "shotsOnTarget": 1,
       "xg": 0.32,
-      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Association%20football%20match%202022.jpg",
+      "image": "/player-photos/julian-quinones-20260701.png",
       "headline": "本届进球球员"
     },
     {
@@ -2038,7 +2038,7 @@
       "shots": 2,
       "shotsOnTarget": 1,
       "xg": 0.32,
-      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Association%20football%20match%202022.jpg",
+      "image": "/player-photos/julian-quinones-20260701.png",
       "headline": "本届进球球员"
     },
     {
@@ -2051,7 +2051,7 @@
       "shots": 6,
       "shotsOnTarget": 3,
       "xg": 0.96,
-      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Johan%20Manzambi%202024.jpg",
+      "image": "/player-photos/julian-quinones-20260701.png",
       "headline": "瑞士前场活力"
     },
     {
@@ -2064,7 +2064,7 @@
       "shots": 2,
       "shotsOnTarget": 1,
       "xg": 0.32,
-      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Association%20football%20match%202022.jpg",
+      "image": "/player-photos/julian-quinones-20260701.png",
       "headline": "本届进球球员"
     },
     {
@@ -2077,7 +2077,7 @@
       "shots": 4,
       "shotsOnTarget": 2,
       "xg": 0.64,
-      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Amine%20Harit%202018.jpg",
+      "image": "/player-photos/julian-quinones-20260701.png",
       "headline": "摩洛哥前场创造者"
     },
     {
@@ -2090,7 +2090,7 @@
       "shots": 2,
       "shotsOnTarget": 1,
       "xg": 0.32,
-      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Association%20football%20match%202022.jpg",
+      "image": "/player-photos/julian-quinones-20260701.png",
       "headline": "本届进球球员"
     },
     {
@@ -2103,7 +2103,7 @@
       "shots": 2,
       "shotsOnTarget": 1,
       "xg": 0.32,
-      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Association%20football%20match%202022.jpg",
+      "image": "/player-photos/julian-quinones-20260701.png",
       "headline": "本届进球球员"
     },
     {
@@ -2116,7 +2116,7 @@
       "shots": 2,
       "shotsOnTarget": 1,
       "xg": 0.32,
-      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Association%20football%20match%202022.jpg",
+      "image": "/player-photos/julian-quinones-20260701.png",
       "headline": "本届进球球员"
     },
     {
@@ -2129,7 +2129,7 @@
       "shots": 2,
       "shotsOnTarget": 1,
       "xg": 0.32,
-      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Association%20football%20match%202022.jpg",
+      "image": "/player-photos/julian-quinones-20260701.png",
       "headline": "本届进球球员"
     },
     {
@@ -2142,7 +2142,7 @@
       "shots": 2,
       "shotsOnTarget": 1,
       "xg": 0.32,
-      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Association%20football%20match%202022.jpg",
+      "image": "/player-photos/julian-quinones-20260701.png",
       "headline": "本届进球球员"
     },
     {
@@ -2155,7 +2155,7 @@
       "shots": 2,
       "shotsOnTarget": 1,
       "xg": 0.32,
-      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Association%20football%20match%202022.jpg",
+      "image": "/player-photos/julian-quinones-20260701.png",
       "headline": "本届进球球员"
     },
     {
@@ -2168,7 +2168,7 @@
       "shots": 2,
       "shotsOnTarget": 1,
       "xg": 0.32,
-      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Association%20football%20match%202022.jpg",
+      "image": "/player-photos/julian-quinones-20260701.png",
       "headline": "本届进球球员"
     },
     {
@@ -2181,7 +2181,7 @@
       "shots": 4,
       "shotsOnTarget": 2,
       "xg": 0.64,
-      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Ismael%20Saibari%202023.jpg",
+      "image": "/player-photos/julian-quinones-20260701.png",
       "headline": "摩洛哥中前场衔接"
     },
     {
@@ -2194,7 +2194,7 @@
       "shots": 2,
       "shotsOnTarget": 1,
       "xg": 0.32,
-      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Association%20football%20match%202022.jpg",
+      "image": "/player-photos/julian-quinones-20260701.png",
       "headline": "本届进球球员"
     },
     {
@@ -2207,7 +2207,7 @@
       "shots": 6,
       "shotsOnTarget": 3,
       "xg": 0.96,
-      "image": "/player-photos/matheus-cunha.jpg",
+      "image": "/player-photos/matheus-cunha-20260701.jpg",
       "headline": "巴西前场游击手"
     },
     {
@@ -2220,7 +2220,7 @@
       "shots": 6,
       "shotsOnTarget": 3,
       "xg": 0.96,
-      "image": "/player-photos/brian-brobbey.jpg",
+      "image": "/player-photos/brian-brobbey-20260701.jpg",
       "headline": "荷兰禁区支点"
     },
     {
@@ -2233,7 +2233,7 @@
       "shots": 6,
       "shotsOnTarget": 3,
       "xg": 0.96,
-      "image": "/player-photos/cody-gakpo.jpg",
+      "image": "/player-photos/cody-gakpo-20260701.jpg",
       "headline": "荷兰左路终结"
     },
     {
@@ -2246,7 +2246,7 @@
       "shots": 2,
       "shotsOnTarget": 1,
       "xg": 0.32,
-      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Association%20football%20match%202022.jpg",
+      "image": "/player-photos/julian-quinones-20260701.png",
       "headline": "本届进球球员"
     },
     {
@@ -2259,7 +2259,7 @@
       "shots": 4,
       "shotsOnTarget": 2,
       "xg": 0.64,
-      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Anthony%20Elanga%202022.jpg",
+      "image": "/player-photos/julian-quinones-20260701.png",
       "headline": "瑞典速度点"
     },
     {
@@ -2272,7 +2272,7 @@
       "shots": 4,
       "shotsOnTarget": 2,
       "xg": 0.64,
-      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Deniz%20Undav%202024.jpg",
+      "image": "/player-photos/julian-quinones-20260701.png",
       "headline": "德国门前终结"
     },
     {
@@ -2285,7 +2285,7 @@
       "shots": 2,
       "shotsOnTarget": 1,
       "xg": 0.32,
-      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Association%20football%20match%202022.jpg",
+      "image": "/player-photos/julian-quinones-20260701.png",
       "headline": "本届进球球员"
     },
     {
@@ -2298,7 +2298,7 @@
       "shots": 2,
       "shotsOnTarget": 1,
       "xg": 0.32,
-      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Association%20football%20match%202022.jpg",
+      "image": "/player-photos/julian-quinones-20260701.png",
       "headline": "本届进球球员"
     },
     {
@@ -2311,7 +2311,7 @@
       "shots": 4,
       "shotsOnTarget": 2,
       "xg": 0.64,
-      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Ayase%20Ueda%202023.jpg",
+      "image": "/player-photos/julian-quinones-20260701.png",
       "headline": "日本门前终结"
     },
     {
@@ -2324,7 +2324,7 @@
       "shots": 2,
       "shotsOnTarget": 1,
       "xg": 0.32,
-      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Association%20football%20match%202022.jpg",
+      "image": "/player-photos/julian-quinones-20260701.png",
       "headline": "本届进球球员"
     },
     {
@@ -2337,7 +2337,7 @@
       "shots": 4,
       "shotsOnTarget": 2,
       "xg": 0.64,
-      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Mikel%20Oyarzabal%202018.jpg",
+      "image": "/player-photos/julian-quinones-20260701.png",
       "headline": "西班牙锋线串联点"
     },
     {
@@ -2350,7 +2350,7 @@
       "shots": 2,
       "shotsOnTarget": 1,
       "xg": 0.32,
-      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Association%20football%20match%202022.jpg",
+      "image": "/player-photos/julian-quinones-20260701.png",
       "headline": "本届进球球员"
     },
     {
@@ -2363,7 +2363,7 @@
       "shots": 2,
       "shotsOnTarget": 1,
       "xg": 0.32,
-      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Association%20football%20match%202022.jpg",
+      "image": "/player-photos/julian-quinones-20260701.png",
       "headline": "本届进球球员"
     },
     {
@@ -2376,7 +2376,7 @@
       "shots": 2,
       "shotsOnTarget": 1,
       "xg": 0.32,
-      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Association%20football%20match%202022.jpg",
+      "image": "/player-photos/julian-quinones-20260701.png",
       "headline": "本届进球球员"
     },
     {
@@ -2389,7 +2389,7 @@
       "shots": 2,
       "shotsOnTarget": 1,
       "xg": 0.32,
-      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Association%20football%20match%202022.jpg",
+      "image": "/player-photos/julian-quinones-20260701.png",
       "headline": "本届进球球员"
     },
     {
@@ -2402,7 +2402,7 @@
       "shots": 2,
       "shotsOnTarget": 1,
       "xg": 0.32,
-      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Association%20football%20match%202022.jpg",
+      "image": "/player-photos/julian-quinones-20260701.png",
       "headline": "本届进球球员"
     },
     {
@@ -2415,7 +2415,7 @@
       "shots": 2,
       "shotsOnTarget": 1,
       "xg": 0.32,
-      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Association%20football%20match%202022.jpg",
+      "image": "/player-photos/julian-quinones-20260701.png",
       "headline": "本届进球球员"
     },
     {
@@ -2428,7 +2428,7 @@
       "shots": 2,
       "shotsOnTarget": 1,
       "xg": 0.32,
-      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Association%20football%20match%202022.jpg",
+      "image": "/player-photos/julian-quinones-20260701.png",
       "headline": "本届进球球员"
     },
     {
@@ -2441,7 +2441,7 @@
       "shots": 2,
       "shotsOnTarget": 1,
       "xg": 0.32,
-      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Association%20football%20match%202022.jpg",
+      "image": "/player-photos/julian-quinones-20260701.png",
       "headline": "本届进球球员"
     },
     {
@@ -2454,7 +2454,7 @@
       "shots": 2,
       "shotsOnTarget": 1,
       "xg": 0.32,
-      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Marcus%20Holmgren%20Pedersen%202022.jpg",
+      "image": "/player-photos/julian-quinones-20260701.png",
       "headline": "挪威边路推进"
     },
     {
@@ -2467,7 +2467,7 @@
       "shots": 6,
       "shotsOnTarget": 3,
       "xg": 0.96,
-      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Isma%C3%AFla%20Sarr%202018.jpg",
+      "image": "/player-photos/julian-quinones-20260701.png",
       "headline": "塞内加尔纵深点"
     },
     {
@@ -2480,7 +2480,7 @@
       "shots": 2,
       "shotsOnTarget": 1,
       "xg": 0.32,
-      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Association%20football%20match%202022.jpg",
+      "image": "/player-photos/julian-quinones-20260701.png",
       "headline": "本届进球球员"
     },
     {
@@ -2493,7 +2493,7 @@
       "shots": 2,
       "shotsOnTarget": 1,
       "xg": 0.32,
-      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Association%20football%20match%202022.jpg",
+      "image": "/player-photos/julian-quinones-20260701.png",
       "headline": "本届进球球员"
     },
     {
@@ -2506,7 +2506,7 @@
       "shots": 2,
       "shotsOnTarget": 1,
       "xg": 0.32,
-      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Association%20football%20match%202022.jpg",
+      "image": "/player-photos/julian-quinones-20260701.png",
       "headline": "本届进球球员"
     },
     {
@@ -2519,7 +2519,7 @@
       "shots": 2,
       "shotsOnTarget": 1,
       "xg": 0.32,
-      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Association%20football%20match%202022.jpg",
+      "image": "/player-photos/julian-quinones-20260701.png",
       "headline": "本届进球球员"
     },
     {
@@ -2532,7 +2532,7 @@
       "shots": 2,
       "shotsOnTarget": 1,
       "xg": 0.32,
-      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Abduvohid%20Nematov%202022.jpg",
+      "image": "/player-photos/julian-quinones-20260701.png",
       "headline": "中亚门前定位球参与点"
     },
     {
@@ -2545,7 +2545,7 @@
       "shots": 2,
       "shotsOnTarget": 1,
       "xg": 0.32,
-      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Association%20football%20match%202022.jpg",
+      "image": "/player-photos/julian-quinones-20260701.png",
       "headline": "本届进球球员"
     },
     {
@@ -2558,7 +2558,7 @@
       "shots": 2,
       "shotsOnTarget": 1,
       "xg": 0.32,
-      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Association%20football%20match%202022.jpg",
+      "image": "/player-photos/julian-quinones-20260701.png",
       "headline": "本届进球球员"
     },
     {
@@ -2571,7 +2571,7 @@
       "shots": 2,
       "shotsOnTarget": 1,
       "xg": 0.32,
-      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Edin%20D%C5%BEeko%202015.jpg",
+      "image": "/player-photos/julian-quinones-20260701.png",
       "headline": "波黑锋线支点"
     },
     {
@@ -2584,7 +2584,7 @@
       "shots": 2,
       "shotsOnTarget": 1,
       "xg": 0.32,
-      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Association%20football%20match%202022.jpg",
+      "image": "/player-photos/julian-quinones-20260701.png",
       "headline": "本届进球球员"
     },
     {
@@ -2597,7 +2597,7 @@
       "shots": 2,
       "shotsOnTarget": 1,
       "xg": 0.32,
-      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Association%20football%20match%202022.jpg",
+      "image": "/player-photos/julian-quinones-20260701.png",
       "headline": "本届进球球员"
     },
     {
@@ -2610,7 +2610,7 @@
       "shots": 2,
       "shotsOnTarget": 1,
       "xg": 0.32,
-      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Association%20football%20match%202022.jpg",
+      "image": "/player-photos/julian-quinones-20260701.png",
       "headline": "本届进球球员"
     },
     {
@@ -2623,7 +2623,7 @@
       "shots": 2,
       "shotsOnTarget": 1,
       "xg": 0.32,
-      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Association%20football%20match%202022.jpg",
+      "image": "/player-photos/julian-quinones-20260701.png",
       "headline": "本届进球球员"
     },
     {
@@ -2636,7 +2636,7 @@
       "shots": 2,
       "shotsOnTarget": 1,
       "xg": 0.32,
-      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Association%20football%20match%202022.jpg",
+      "image": "/player-photos/julian-quinones-20260701.png",
       "headline": "本届进球球员"
     },
     {
@@ -2649,7 +2649,7 @@
       "shots": 2,
       "shotsOnTarget": 1,
       "xg": 0.32,
-      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Association%20football%20match%202022.jpg",
+      "image": "/player-photos/julian-quinones-20260701.png",
       "headline": "本届进球球员"
     },
     {
@@ -2662,7 +2662,7 @@
       "shots": 2,
       "shotsOnTarget": 1,
       "xg": 0.32,
-      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Association%20football%20match%202022.jpg",
+      "image": "/player-photos/julian-quinones-20260701.png",
       "headline": "本届进球球员"
     },
     {
@@ -2675,7 +2675,7 @@
       "shots": 2,
       "shotsOnTarget": 1,
       "xg": 0.32,
-      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Association%20football%20match%202022.jpg",
+      "image": "/player-photos/julian-quinones-20260701.png",
       "headline": "本届进球球员"
     },
     {
@@ -2688,7 +2688,7 @@
       "shots": 2,
       "shotsOnTarget": 1,
       "xg": 0.32,
-      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Association%20football%20match%202022.jpg",
+      "image": "/player-photos/julian-quinones-20260701.png",
       "headline": "本届进球球员"
     },
     {
@@ -2701,7 +2701,7 @@
       "shots": 2,
       "shotsOnTarget": 1,
       "xg": 0.32,
-      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Association%20football%20match%202022.jpg",
+      "image": "/player-photos/julian-quinones-20260701.png",
       "headline": "本届进球球员"
     },
     {
@@ -2714,7 +2714,7 @@
       "shots": 4,
       "shotsOnTarget": 2,
       "xg": 0.64,
-      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Nicolas%20P%C3%A9p%C3%A9%202019.jpg",
+      "image": "/player-photos/julian-quinones-20260701.png",
       "headline": "科特迪瓦边锋"
     },
     {
@@ -2727,7 +2727,7 @@
       "shots": 2,
       "shotsOnTarget": 1,
       "xg": 0.32,
-      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Association%20football%20match%202022.jpg",
+      "image": "/player-photos/julian-quinones-20260701.png",
       "headline": "本届进球球员"
     },
     {
@@ -2740,7 +2740,7 @@
       "shots": 2,
       "shotsOnTarget": 1,
       "xg": 0.32,
-      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Association%20football%20match%202022.jpg",
+      "image": "/player-photos/julian-quinones-20260701.png",
       "headline": "本届进球球员"
     },
     {
@@ -2753,7 +2753,7 @@
       "shots": 2,
       "shotsOnTarget": 1,
       "xg": 0.32,
-      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Association%20football%20match%202022.jpg",
+      "image": "/player-photos/julian-quinones-20260701.png",
       "headline": "本届进球球员"
     },
     {
@@ -2766,7 +2766,7 @@
       "shots": 2,
       "shotsOnTarget": 1,
       "xg": 0.32,
-      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Association%20football%20match%202022.jpg",
+      "image": "/player-photos/julian-quinones-20260701.png",
       "headline": "本届进球球员"
     },
     {
@@ -2779,7 +2779,7 @@
       "shots": 2,
       "shotsOnTarget": 1,
       "xg": 0.32,
-      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Association%20football%20match%202022.jpg",
+      "image": "/player-photos/julian-quinones-20260701.png",
       "headline": "本届进球球员"
     },
     {
@@ -2792,7 +2792,7 @@
       "shots": 2,
       "shotsOnTarget": 1,
       "xg": 0.32,
-      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Association%20football%20match%202022.jpg",
+      "image": "/player-photos/julian-quinones-20260701.png",
       "headline": "本届进球球员"
     },
     {
@@ -2805,7 +2805,7 @@
       "shots": 2,
       "shotsOnTarget": 1,
       "xg": 0.32,
-      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Association%20football%20match%202022.jpg",
+      "image": "/player-photos/julian-quinones-20260701.png",
       "headline": "本届进球球员"
     },
     {
@@ -2818,7 +2818,7 @@
       "shots": 2,
       "shotsOnTarget": 1,
       "xg": 0.32,
-      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Association%20football%20match%202022.jpg",
+      "image": "/player-photos/julian-quinones-20260701.png",
       "headline": "本届进球球员"
     },
     {
@@ -2831,7 +2831,7 @@
       "shots": 2,
       "shotsOnTarget": 1,
       "xg": 0.32,
-      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Association%20football%20match%202022.jpg",
+      "image": "/player-photos/julian-quinones-20260701.png",
       "headline": "本届进球球员"
     },
     {
@@ -2844,7 +2844,7 @@
       "shots": 2,
       "shotsOnTarget": 1,
       "xg": 0.32,
-      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Association%20football%20match%202022.jpg",
+      "image": "/player-photos/julian-quinones-20260701.png",
       "headline": "本届进球球员"
     },
     {
@@ -2857,7 +2857,7 @@
       "shots": 2,
       "shotsOnTarget": 1,
       "xg": 0.32,
-      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Association%20football%20match%202022.jpg",
+      "image": "/player-photos/julian-quinones-20260701.png",
       "headline": "本届进球球员"
     },
     {
@@ -2870,7 +2870,7 @@
       "shots": 2,
       "shotsOnTarget": 1,
       "xg": 0.32,
-      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Association%20football%20match%202022.jpg",
+      "image": "/player-photos/julian-quinones-20260701.png",
       "headline": "本届进球球员"
     },
     {
@@ -2883,7 +2883,7 @@
       "shots": 2,
       "shotsOnTarget": 1,
       "xg": 0.32,
-      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Association%20football%20match%202022.jpg",
+      "image": "/player-photos/julian-quinones-20260701.png",
       "headline": "本届进球球员"
     },
     {
@@ -2896,7 +2896,7 @@
       "shots": 4,
       "shotsOnTarget": 2,
       "xg": 0.64,
-      "image": "/player-photos/pape-gueye.jpg",
+      "image": "/player-photos/pape-gueye-20260701.jpg",
       "headline": "塞内加尔中场插上点"
     },
     {
@@ -2909,7 +2909,7 @@
       "shots": 2,
       "shotsOnTarget": 1,
       "xg": 0.32,
-      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Association%20football%20match%202022.jpg",
+      "image": "/player-photos/julian-quinones-20260701.png",
       "headline": "本届进球球员"
     },
     {
@@ -2922,7 +2922,7 @@
       "shots": 2,
       "shotsOnTarget": 1,
       "xg": 0.32,
-      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Association%20football%20match%202022.jpg",
+      "image": "/player-photos/julian-quinones-20260701.png",
       "headline": "本届进球球员"
     },
     {
@@ -2935,7 +2935,7 @@
       "shots": 2,
       "shotsOnTarget": 1,
       "xg": 0.32,
-      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Association%20football%20match%202022.jpg",
+      "image": "/player-photos/julian-quinones-20260701.png",
       "headline": "本届进球球员"
     },
     {
@@ -2948,7 +2948,7 @@
       "shots": 2,
       "shotsOnTarget": 1,
       "xg": 0.32,
-      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Association%20football%20match%202022.jpg",
+      "image": "/player-photos/julian-quinones-20260701.png",
       "headline": "本届进球球员"
     },
     {
@@ -2961,7 +2961,7 @@
       "shots": 2,
       "shotsOnTarget": 1,
       "xg": 0.32,
-      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Association%20football%20match%202022.jpg",
+      "image": "/player-photos/julian-quinones-20260701.png",
       "headline": "本届进球球员"
     },
     {
@@ -2974,7 +2974,7 @@
       "shots": 2,
       "shotsOnTarget": 1,
       "xg": 0.32,
-      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Association%20football%20match%202022.jpg",
+      "image": "/player-photos/julian-quinones-20260701.png",
       "headline": "本届进球球员"
     },
     {
@@ -2987,7 +2987,7 @@
       "shots": 2,
       "shotsOnTarget": 1,
       "xg": 0.32,
-      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Association%20football%20match%202022.jpg",
+      "image": "/player-photos/julian-quinones-20260701.png",
       "headline": "本届进球球员"
     },
     {
@@ -3000,7 +3000,7 @@
       "shots": 4,
       "shotsOnTarget": 2,
       "xg": 0.64,
-      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Leandro%20Trossard%202018.jpg",
+      "image": "/player-photos/julian-quinones-20260701.png",
       "headline": "比利时前场多面手"
     },
     {
@@ -3013,7 +3013,7 @@
       "shots": 2,
       "shotsOnTarget": 1,
       "xg": 0.32,
-      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Association%20football%20match%202022.jpg",
+      "image": "/player-photos/julian-quinones-20260701.png",
       "headline": "本届进球球员"
     },
     {
@@ -3026,7 +3026,7 @@
       "shots": 2,
       "shotsOnTarget": 1,
       "xg": 0.32,
-      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Association%20football%20match%202022.jpg",
+      "image": "/player-photos/julian-quinones-20260701.png",
       "headline": "本届进球球员"
     },
     {
@@ -3039,7 +3039,7 @@
       "shots": 2,
       "shotsOnTarget": 1,
       "xg": 0.32,
-      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Association%20football%20match%202022.jpg",
+      "image": "/player-photos/julian-quinones-20260701.png",
       "headline": "本届进球球员"
     },
     {
@@ -3052,7 +3052,7 @@
       "shots": 2,
       "shotsOnTarget": 1,
       "xg": 0.32,
-      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Association%20football%20match%202022.jpg",
+      "image": "/player-photos/julian-quinones-20260701.png",
       "headline": "本届进球球员"
     },
     {
@@ -3065,7 +3065,7 @@
       "shots": 2,
       "shotsOnTarget": 1,
       "xg": 0.32,
-      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Association%20football%20match%202022.jpg",
+      "image": "/player-photos/julian-quinones-20260701.png",
       "headline": "本届进球球员"
     },
     {
@@ -3078,7 +3078,7 @@
       "shots": 2,
       "shotsOnTarget": 1,
       "xg": 0.32,
-      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Association%20football%20match%202022.jpg",
+      "image": "/player-photos/julian-quinones-20260701.png",
       "headline": "本届进球球员"
     },
     {
@@ -3091,7 +3091,7 @@
       "shots": 2,
       "shotsOnTarget": 1,
       "xg": 0.32,
-      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Association%20football%20match%202022.jpg",
+      "image": "/player-photos/julian-quinones-20260701.png",
       "headline": "本届进球球员"
     },
     {
@@ -3104,7 +3104,7 @@
       "shots": 2,
       "shotsOnTarget": 1,
       "xg": 0.32,
-      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Association%20football%20match%202022.jpg",
+      "image": "/player-photos/julian-quinones-20260701.png",
       "headline": "本届进球球员"
     },
     {
@@ -3117,7 +3117,7 @@
       "shots": 2,
       "shotsOnTarget": 1,
       "xg": 0.32,
-      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Association%20football%20match%202022.jpg",
+      "image": "/player-photos/julian-quinones-20260701.png",
       "headline": "本届进球球员"
     },
     {
@@ -3130,7 +3130,7 @@
       "shots": 2,
       "shotsOnTarget": 1,
       "xg": 0.32,
-      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Association%20football%20match%202022.jpg",
+      "image": "/player-photos/julian-quinones-20260701.png",
       "headline": "本届进球球员"
     },
     {
@@ -3143,7 +3143,7 @@
       "shots": 2,
       "shotsOnTarget": 1,
       "xg": 0.32,
-      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Association%20football%20match%202022.jpg",
+      "image": "/player-photos/julian-quinones-20260701.png",
       "headline": "本届进球球员"
     },
     {
@@ -3156,7 +3156,7 @@
       "shots": 2,
       "shotsOnTarget": 1,
       "xg": 0.32,
-      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Mousa%20Al-Taamari%202023.jpg",
+      "image": "/player-photos/julian-quinones-20260701.png",
       "headline": "约旦反击核心"
     },
     {
@@ -3169,7 +3169,7 @@
       "shots": 2,
       "shotsOnTarget": 1,
       "xg": 0.32,
-      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Association%20football%20match%202022.jpg",
+      "image": "/player-photos/julian-quinones-20260701.png",
       "headline": "本届进球球员"
     },
     {
@@ -3182,7 +3182,7 @@
       "shots": 2,
       "shotsOnTarget": 1,
       "xg": 0.32,
-      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Association%20football%20match%202022.jpg",
+      "image": "/player-photos/julian-quinones-20260701.png",
       "headline": "本届进球球员"
     },
     {
@@ -3195,7 +3195,7 @@
       "shots": 2,
       "shotsOnTarget": 1,
       "xg": 0.32,
-      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Association%20football%20match%202022.jpg",
+      "image": "/player-photos/julian-quinones-20260701.png",
       "headline": "本届进球球员"
     },
     {
@@ -3208,7 +3208,7 @@
       "shots": 4,
       "shotsOnTarget": 2,
       "xg": 0.64,
-      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Riyad%20Mahrez%202014.jpg",
+      "image": "/player-photos/julian-quinones-20260701.png",
       "headline": "阿尔及利亚右路核心"
     },
     {
@@ -3221,7 +3221,7 @@
       "shots": 2,
       "shotsOnTarget": 1,
       "xg": 0.32,
-      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Association%20football%20match%202022.jpg",
+      "image": "/player-photos/julian-quinones-20260701.png",
       "headline": "本届进球球员"
     },
     {
@@ -3234,7 +3234,7 @@
       "shots": 2,
       "shotsOnTarget": 1,
       "xg": 0.32,
-      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Association%20football%20match%202022.jpg",
+      "image": "/player-photos/julian-quinones-20260701.png",
       "headline": "本届进球球员"
     },
     {
@@ -3247,7 +3247,7 @@
       "shots": 2,
       "shotsOnTarget": 1,
       "xg": 0.32,
-      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Association%20football%20match%202022.jpg",
+      "image": "/player-photos/julian-quinones-20260701.png",
       "headline": "本届进球球员"
     },
     {
@@ -3260,7 +3260,7 @@
       "shots": 2,
       "shotsOnTarget": 1,
       "xg": 0.32,
-      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Stephen%20Eust%C3%A1quio%202022.jpg",
+      "image": "/player-photos/julian-quinones-20260701.png",
       "headline": "加拿大中场枢纽"
     },
     {
@@ -3273,7 +3273,7 @@
       "shots": 2,
       "shotsOnTarget": 1,
       "xg": 0.32,
-      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Association%20football%20match%202022.jpg",
+      "image": "/player-photos/julian-quinones-20260701.png",
       "headline": "本届进球球员"
     },
     {
@@ -3286,7 +3286,7 @@
       "shots": 2,
       "shotsOnTarget": 1,
       "xg": 0.32,
-      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Association%20football%20match%202022.jpg",
+      "image": "/player-photos/julian-quinones-20260701.png",
       "headline": "本届进球球员"
     },
     {
@@ -3299,7 +3299,7 @@
       "shots": 2,
       "shotsOnTarget": 1,
       "xg": 0.32,
-      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Association%20football%20match%202022.jpg",
+      "image": "/player-photos/julian-quinones-20260701.png",
       "headline": "本届进球球员"
     },
     {
@@ -3312,7 +3312,7 @@
       "shots": 2,
       "shotsOnTarget": 1,
       "xg": 0.32,
-      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Association%20football%20match%202022.jpg",
+      "image": "/player-photos/julian-quinones-20260701.png",
       "headline": "本届进球球员"
     },
     {
@@ -3325,7 +3325,7 @@
       "shots": 2,
       "shotsOnTarget": 1,
       "xg": 0.32,
-      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Association%20football%20match%202022.jpg",
+      "image": "/player-photos/julian-quinones-20260701.png",
       "headline": "本届进球球员"
     },
     {
@@ -3338,7 +3338,7 @@
       "shots": 2,
       "shotsOnTarget": 1,
       "xg": 0.32,
-      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Association%20football%20match%202022.jpg",
+      "image": "/player-photos/julian-quinones-20260701.png",
       "headline": "本届进球球员"
     },
     {
@@ -3351,7 +3351,7 @@
       "shots": 2,
       "shotsOnTarget": 1,
       "xg": 0.32,
-      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Association%20football%20match%202022.jpg",
+      "image": "/player-photos/julian-quinones-20260701.png",
       "headline": "本届进球球员"
     },
     {
@@ -3364,7 +3364,7 @@
       "shots": 2,
       "shotsOnTarget": 1,
       "xg": 0.32,
-      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Association%20football%20match%202022.jpg",
+      "image": "/player-photos/julian-quinones-20260701.png",
       "headline": "本届进球球员"
     }
   ],
@@ -8085,12 +8085,12 @@
   "social": [
     {
       "teamId": "mexico",
-      "supportPercent": 65,
-      "sentiment": 0.05,
-      "volume": 139200,
-      "headline": "墨西哥最新动态汇总，情绪中性｜The Guardian",
-      "source": "The Guardian",
-      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQdWRsak00TFFfZmVkV3VqT0N1a0tBa2o1bzBNX1g2MkJjNTFMa1pFOFh1THZUelJXc2p0dkNMQ19ELWZuNE9nb3dzalpoY1JFTXFyNlA5Z3Nza3VvSjhlRUplZVh1Yy13VFowVDh4QjRGYndzdEUxS1A4ejJEQWg3ekdxSnQ0MmdWZjlOMmZhbUdSaldzcGZXZ3BUOVJjajBhdDE5MnNTYUJXVTd6Rzk3WFJvWEVBSHQ2MHNOQTQ4R3BnY25HQ2xJZnpRU2xUeFRLU1BsX0pOTGxlZmU4WXV5OA?oc=5"
+      "supportPercent": 64,
+      "sentiment": 0,
+      "volume": 115200,
+      "headline": "墨西哥最新动态汇总，情绪中性｜newkerala.com",
+      "source": "newkerala.com",
+      "url": "https://www.newkerala.com/news/a/club-tijuana-expresses-great-pride-serving-as-irans-266.htm"
     },
     {
       "teamId": "south-africa",
@@ -8118,11 +8118,12 @@
     },
     {
       "teamId": "canada",
-      "supportPercent": 51,
-      "sentiment": 0.15,
-      "volume": 37500,
-      "headline": "加拿大 的全球讨论热度稳定",
-      "source": "WorldCupView model"
+      "supportPercent": 50,
+      "sentiment": 0,
+      "volume": 114000,
+      "headline": "全球媒体关注：2026 世界杯最新动态汇总，情绪中性｜jamaicaobserver.com",
+      "source": "jamaicaobserver.com",
+      "url": "https://www.jamaicaobserver.com/2026/05/25/jamaican-receive-extensive-free-air-premium-multi-platform-coverage-fifa-world-cup-2026/"
     },
     {
       "teamId": "bosnia-and-herzegovina",
@@ -8134,11 +8135,12 @@
     },
     {
       "teamId": "qatar",
-      "supportPercent": 49,
-      "sentiment": 0.13,
-      "volume": 34500,
-      "headline": "卡塔尔 的全球讨论热度稳定",
-      "source": "WorldCupView model"
+      "supportPercent": 48,
+      "sentiment": 0,
+      "volume": 87600,
+      "headline": "卡塔尔商业、出行与观赛服务升温，情绪中性｜gdnonline.com",
+      "source": "gdnonline.com",
+      "url": "https://www.gdnonline.com:443/Details/1395871/Qatar-Airways-unveils-FIFA-World-Cup-2026-livery"
     },
     {
       "teamId": "switzerland",
@@ -8151,11 +8153,11 @@
     {
       "teamId": "brazil",
       "supportPercent": 82,
-      "sentiment": -0.15,
-      "volume": 150000,
-      "headline": "巴西最新动态汇总，情绪中性｜BBC",
-      "source": "BBC",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9SQlBYNWFrbXNNUGVfRmEyQmFfbm5PYzVVZEZwOUVlTTNzOU1oMmNUUHR0d29oa25MbFpIWXVqYm9XbjFjOHQ2RTEwTi1SYnZQLUdjcnVya0R0bU1xODJoa3dPcjI?oc=5"
+      "sentiment": 0,
+      "volume": 126000,
+      "headline": "全球媒体关注：2026 世界杯最新动态汇总，情绪中性｜wwd.com",
+      "source": "wwd.com",
+      "url": "https://wwd.com/pop-culture/culture-news/world-cup-2026-brand-collaborations-1238984935/"
     },
     {
       "teamId": "morocco",
@@ -8176,11 +8178,10 @@
     {
       "teamId": "scotland",
       "supportPercent": 45,
-      "sentiment": 0.05,
-      "volume": 57600,
-      "headline": "全球媒体关注：2026 世界杯赛程与小组形势更新，情绪中性｜Yahoo Sports",
-      "source": "Yahoo Sports",
-      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOU1U0UXo4NFBRTUV0ZE1tOWt1X1BOYUZEUDJfaVhKU2NCQWtfZFc1cC14SW9kcWxkRUlNc1BwS1hqeUtHcFlUX2owY0xXdkNfR0tGNl9JNnhwU3l6WUZwTi1BOU5YSmZpZFA4YWp4Y2FWVjNoZ0lqOUxnM2pRMG5BeTNRZFA3aUdRY1BWbzFGbFBnemNBNnZ1TVFaNUJPUUV5Z0kxa2RhN1Ryck9UMlY5RzV5dlNTczl6OWVyRXZPSWdwSmszX3FCaUdqQWx3MFVMYWdnZHRmVFF0T1hULW1IcURfSQ?oc=5"
+      "sentiment": 0.08,
+      "volume": 27000,
+      "headline": "苏格兰 的全球讨论热度稳定",
+      "source": "WorldCupView model"
     },
     {
       "teamId": "united-states",
@@ -8192,12 +8193,12 @@
     },
     {
       "teamId": "paraguay",
-      "supportPercent": 44,
-      "sentiment": 0.05,
-      "volume": 55200,
-      "headline": "德国最新动态汇总，情绪中性｜NDTV Sports",
-      "source": "NDTV Sports",
-      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQU3ZMZTh6aU1Fa1R5WmZxVUczOTBXTGY4Ti1mVkFoLVZNM0FJOS14RmZUbkw4ckFzVUplclpOTUtETUk4cENiUmVpSEM1V1htcS1QOWpNcGo3Y0FJWllPSXhOTTNBbmN5NjRPbHZmencySkVKTkVsRDRlSnNoS1FTU2xFcGZEQU16X1cyOU5lVGpqTTlfRDlDbUhHTG1Kcjc0ZGJ0VVl2c2tFQ243RW1SMEFlNVgxM0pjNlRZLTFlRnEyOU0zTVhRaDM2bTRxdTRaekR3?oc=5"
+      "supportPercent": 43,
+      "sentiment": 0,
+      "volume": 31200,
+      "headline": "全球媒体关注：2026 世界杯最新动态汇总，情绪中性｜prokerala.com",
+      "source": "prokerala.com",
+      "url": "https://www.prokerala.com/news/articles/a1771682.html"
     },
     {
       "teamId": "australia",
@@ -8209,21 +8210,20 @@
     },
     {
       "teamId": "turkey",
-      "supportPercent": 40,
-      "sentiment": -0.22,
-      "volume": 76800,
-      "headline": "全球媒体关注：2026 世界杯赛程与小组形势更新，情绪中性｜UEFA.com",
-      "source": "UEFA.com",
-      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPN2JMTXRPVmREV09GaEdtaGRTS1pVbXlKZ3hyb2lzWUE1QnEyNVh4REc0ZUFCeVY0UXVVb2ZTVnlzNExOSmJsd1VmaHF4ekJ4RHJBc3h6UkxVMllZekl3UjZGakVtUDZxbGFzWmxHdnU2OUdHcldtX2pMU3YyMzQwdm80djczWTdKVzVmb1kyOFdJdzZfYlVEa0pBUGpfeHdMM2hleVlPamp4UDk4Q1U2SDZ3ajYxX3pMMWVFZ3RKNkNTbVlNWDVZYXBWcnFkUzhVYnplV1BwNkl4d28?oc=5"
+      "supportPercent": 42,
+      "sentiment": 0,
+      "volume": 28800,
+      "headline": "全球媒体关注：2026 世界杯最新动态汇总，情绪中性｜mid-day.com",
+      "source": "mid-day.com",
+      "url": "https://www.mid-day.com/entertainment/korean-entertainment/article/blackpinks-lisa-joins-katy-perry-and-future-for-fifa-world-cup-2026-kick-off-23634979"
     },
     {
       "teamId": "germany",
-      "supportPercent": 80,
-      "sentiment": 0.05,
-      "volume": 121200,
-      "headline": "全球媒体关注：2026 世界杯球迷声量和社交媒体讨论上升，情绪中性｜AccuWeather",
-      "source": "AccuWeather",
-      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNa2ttSXFqekM5Yk91MVZTWTdkV1RRbXFLUDJ1Z01RVmNlTzMtOGhCWWlDVlVpajFuNHZja0NsVnYtb0kySVJNWDZtQlZyV2lIdFJLX1hJaDNFRFR5bDlLUjVSZWFrR2NJdXlPcXRsN2FvVzNSWG5QN2NrZjZFT3h6aXYxbndON0ZUbEM2UTNYcldONFp5clFJZThCUnRlZ0FpSGZ0MEFtN20yNm9Ia0tZQjMyZU9XSzFhZmppMUZtNDh4QnRXc0dXOUJyQk5RRkl5ajQ4eHphcTRCQQ?oc=5"
+      "supportPercent": 82,
+      "sentiment": 0.41,
+      "volume": 76500,
+      "headline": "德国 的全球讨论热度稳定",
+      "source": "WorldCupView model"
     },
     {
       "teamId": "curacao",
@@ -8243,20 +8243,20 @@
     },
     {
       "teamId": "ecuador",
-      "supportPercent": 63,
-      "sentiment": 0.3,
+      "supportPercent": 60,
+      "sentiment": 0,
       "volume": 60000,
-      "headline": "厄瓜多尔 的全球讨论热度稳定",
-      "source": "WorldCupView model"
+      "headline": "全球媒体关注：2026 世界杯球迷声量和社交媒体讨论上升，情绪中性｜ft.lk",
+      "source": "ft.lk",
+      "url": "https://www.ft.lk/front-page/SLT-Mobitel-PEOTV-secures-exclusive-media-broadcast-rights-for-FIFA-World-Cup-2026/44-792844"
     },
     {
       "teamId": "netherlands",
-      "supportPercent": 70,
-      "sentiment": 0.05,
-      "volume": 99600,
-      "headline": "挪威最新动态汇总，情绪中性｜The Guardian",
-      "source": "The Guardian",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQYjN6RUUzRFVSZl9ubHk2SDVQQ002VUxXZzljTVlGYUlKcDI1THdoSTNoRUZDVEpLUTNoelI3X0FyMXloQlA1a2tMT0xWOF9TVHdpZDJXTl90T3BPUWIwbjVsRDBMLXJRNmtjUFpJU01Gd0N5bmk5bGJtLTF4UWZGd09nLTVrRS1FZVZfQUp2allMR3l2MkctNVZFRkdOQUxYQ2dkUUF3?oc=5"
+      "supportPercent": 73,
+      "sentiment": 0.43,
+      "volume": 79500,
+      "headline": "荷兰 的全球讨论热度稳定",
+      "source": "WorldCupView model"
     },
     {
       "teamId": "japan",
@@ -8269,29 +8269,28 @@
     {
       "teamId": "sweden",
       "supportPercent": 37,
-      "sentiment": 0.05,
-      "volume": 96000,
-      "headline": "法国最新动态汇总，情绪中性｜FOX Sports",
-      "source": "FOX Sports",
-      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBSdWF2Zm9mR0Z0WjBkZWFRZTVHQ3ZCN1hBMkctengxRnRycUtENjdKOEJlRGZ2WXhtUTNHQm9BMEJJT1BtQlNYXzl2eEtsWDFZYmZ4QWZlYVRMaGVJcVMyTGt3?oc=5"
+      "sentiment": -0.03,
+      "volume": 10500,
+      "headline": "瑞典 的全球讨论热度稳定",
+      "source": "WorldCupView model"
     },
     {
       "teamId": "tunisia",
-      "supportPercent": 40,
-      "sentiment": 0.35,
+      "supportPercent": 36,
+      "sentiment": 0,
       "volume": 24000,
-      "headline": "全球媒体关注：2026 世界杯最新动态汇总，情绪中性｜Fox Sports",
-      "source": "Fox Sports",
-      "url": "https://news.google.com/rss/articles/CBMitgJBVV95cUxNTGozREV0b1NmXzFsUlVScEhydkVxQXNfMERRODI2Tll1Ml9OSkkxQ1h1Mms5cXltc1p0TmhZd1pESE1MWEppbmZpd3d5WnptTUJYZkVGd3diNzNnMzZxMWxIWmx2SUkwLW9XbktDQWhxOFVFMlB1ZmJjVWFMWEwyZGNma3AyVHBacXg2ZDVGM083NkdKNm9Cb0F5VWRwVVN3dFdfZGR2XzVNV1h1anU5QUxncXllT0p1Ri0xMnpnYW40eHFZeVloZFFlX2xCa2l1TWZQOG1RaVUtdFVtSDRKZDZZLThwTnJ4NDJPS1VhYjNJbVlFRnFhQi12dG5mdTJsU194T1RwMDFWT1RxemxHV2VJSXItamdqTm5wMWVOa0hQSVZ2TEpTM3hDUmhqMWZmQ1hDRDN30gG2AkFVX3lxTE1MajNERXRvU2ZfMWxSVVJwSHJ2RXFBc18wRFE4MjZOWXUyX05KSTFDWHUyazlxeW1zWnROaFl3WkRITUxYSmluZml3d3laem1NQlhmRUZ3d2I3M2czNnExbEhabHZJSTAtb1duS0NBaHE4VUUyUHVmYmNVYUxYTDJkY2ZrcDJUcFpxeDZkNUYzTzc2R0o2b0JvQXlVZHBVU3d0V19kZHZfNU1XWHVqdTlBTGdxeWVPSnVGLTEyemdhbjR4cVl5WWhkUWVfbEJraXVNZlA4bVFpVS10VW1INEpkNlktOHBOcng0Mk9LVWFiM0ltWUVGcWFCLXZ0bmZ1MmxTX3hPVHAwMVZPVHF6bEdXZUlJci1qZ2pObnAxZU5rSFBJVnZMSlMzeENSaGoxZmZDWENEM3c?oc=5"
+      "headline": "美国最新动态汇总，情绪中性｜ibtimes.co.uk",
+      "source": "ibtimes.co.uk",
+      "url": "https://www.ibtimes.co.uk/eleonora-incardona-fifa-world-cup-2026-coverage-1801329"
     },
     {
       "teamId": "belgium",
-      "supportPercent": 69,
-      "sentiment": 0.05,
+      "supportPercent": 68,
+      "sentiment": 0,
       "volume": 74400,
-      "headline": "全球媒体关注：2026 世界杯最新动态汇总，情绪中性｜Reuters",
-      "source": "Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNWGhJRzRwaEFrMVV4RTF0eHVpX3BmdHlwMi04MGR3MU5OZnlmVWw4bC1TbVRXc0ZhdlpweXktYTUxMTk4cHZHZVUzQTREaWlja0t4SllmczNudGx3cmx2X3FFWlhhNVQ4UkFGSDY5Z3lpdE5sOUxrMUhzS2JDQkdTZldCSjA2aEpNS3BGcXptTkVQb2tIVjd6RmhTeFRDNmdFb1p2XzZyYU1VTVU?oc=5"
+      "headline": "全球媒体关注：2026 世界杯球迷声量和社交媒体讨论上升，情绪中性｜birminghammail.co.uk",
+      "source": "birminghammail.co.uk",
+      "url": "https://www.birminghammail.co.uk/whats-on/shopping/amazons-world-cup-2026-water-34128761"
     },
     {
       "teamId": "egypt",
@@ -8319,12 +8318,11 @@
     },
     {
       "teamId": "spain",
-      "supportPercent": 77,
-      "sentiment": 0.17,
-      "volume": 177600,
-      "headline": "全球媒体关注：2026 世界杯赛果与淘汰赛走势成为焦点，情绪偏积极｜ESPN India",
-      "source": "ESPN India",
-      "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxQUHJDUTFyUEhtZEJHNXNNRkFoeEhqSnpyVlA1cEN2TmF3ZUpGcGs3b0QxdXdVUG5ySGpoTW9MTW9DQ3pjaHI4RlF5UVJ3bUFSVjNVWXVPU2p0WGFOcWdqNUV0cjVHTWdaZUhmVndGWlRkTU1VQWxfeWVZY1laUlZZMjZjakpHZFNoN1NCV3JvSlNLV283a1B4N2VMbEJwWUUzdG5fOWFPNXBQWnE2cVp0OVphSVVBU3BkZi1mTl9adGxqUjRGSGxCbmdpdWNiU1R3WktXWEllWlJiVmFfWmotRmwxTGt1UUpBa1hOWklKRjlibm9idUtGWjVzbjJfUQ?oc=5"
+      "supportPercent": 80,
+      "sentiment": 0.48,
+      "volume": 87000,
+      "headline": "西班牙 的全球讨论热度稳定",
+      "source": "WorldCupView model"
     },
     {
       "teamId": "cape-verde",
@@ -8352,20 +8350,20 @@
     },
     {
       "teamId": "france",
-      "supportPercent": 78,
-      "sentiment": 0.05,
-      "volume": 80400,
-      "headline": "法国最新动态汇总，情绪中性｜The New York Times",
-      "source": "The New York Times",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNZzBoa0pXVUFsZlVqRkZOUEFweU5sZTFONGU4bl9jNWNYTGJGbUpqaGx0STY3ZDBWUGM2c2dyOEVBc2pZcDN3d1NrLUhYNTlnZjVIY2ZXbXJhWUtrY3oxeFJSSTRZclZaSWZGWmM5U2RhOGZZMExEV2Y2WWpwR1FUTkgtLUlSaFU?oc=5"
+      "supportPercent": 82,
+      "sentiment": 0.47,
+      "volume": 85500,
+      "headline": "法国 的全球讨论热度稳定",
+      "source": "WorldCupView model"
     },
     {
       "teamId": "senegal",
-      "supportPercent": 65,
-      "sentiment": 0.32,
-      "volume": 63000,
-      "headline": "塞内加尔 的全球讨论热度稳定",
-      "source": "WorldCupView model"
+      "supportPercent": 61,
+      "sentiment": 0,
+      "volume": 62400,
+      "headline": "全球媒体关注：2026 世界杯赛果与淘汰赛走势成为焦点，情绪偏积极｜fourfourtwo.com",
+      "source": "fourfourtwo.com",
+      "url": "https://www.fourfourtwo.com/competition/will-donald-trump-present-the-world-cup-2026-trophy-to-the-winning-country"
     },
     {
       "teamId": "iraq",
@@ -8378,11 +8376,11 @@
     {
       "teamId": "norway",
       "supportPercent": 61,
-      "sentiment": 0.05,
-      "volume": 85200,
-      "headline": "挪威最新动态汇总，情绪中性｜FOX Sports",
-      "source": "FOX Sports",
-      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE93YUtrX3VHZHNqcm9hRmlUOFRXNXltUFF6ZVZNNlJ2bUNaOGszdzJiUVloS3Fyd0xqTnZjY3hnaDUyWUt6ZmtPa3FzQ2VmSmdRUnB0ZjRHNVI0N0JYVEVpN2tn?oc=5"
+      "sentiment": 0,
+      "volume": 61200,
+      "headline": "全球媒体关注：2026 世界杯最新动态汇总，情绪中性｜indiawest.com",
+      "source": "indiawest.com",
+      "url": "https://indiawest.com/nora-fatehi-to-perform-at-fifa-2026-opening-ceremony/"
     },
     {
       "teamId": "argentina",
@@ -8418,20 +8416,21 @@
     },
     {
       "teamId": "portugal",
-      "supportPercent": 69,
-      "sentiment": -0.08,
-      "volume": 124800,
-      "headline": "全球媒体关注：2026 世界杯赛程与小组形势更新，情绪中性｜Sky Sports",
-      "source": "Sky Sports",
-      "url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxPWUdadTVGMnR2RGdLN1ZaU09SQUxYWHgxUllKcF80QmdNVlNnRFZxMnJ2ZFVqcTRlRFRrRlE2a3JqaE5GdkxVSlMzeEM0QkVOSGtLWFlVX3lQdHdqMmFJTnZhZmFKZHJYRkNMT2hhOEZldjlSam8yNUxhNFpGdEc3aHRVdFBCcjE3dkF5SE1iTEFmTzc0a0VrVkNEWkIzMTFfWFpFQTdVcWdZeXpKUU00NWxaRjM4ZkUwSHFPd0d4cjlyM3BPN29ibndsZy03NU5VcEtOZHh4VVltaHRNSWlkczJjOU5nRWstNDZZaThZczg1RUdJb0NtWlJyWDZmMjZ3M2lDSGV3?oc=5"
+      "supportPercent": 70,
+      "sentiment": 0,
+      "volume": 100800,
+      "headline": "全球媒体关注：2026 世界杯球迷声量和社交媒体讨论上升，情绪中性｜finanznachrichten.de",
+      "source": "finanznachrichten.de",
+      "url": "https://www.finanznachrichten.de/nachrichten-2026-05/68497930-pif-named-as-official-tournament-supporter-of-fifa-world-cup-2026-004.htm"
     },
     {
       "teamId": "democratic-republic-of-the-congo",
-      "supportPercent": 21,
-      "sentiment": -0.22,
-      "volume": 8000,
-      "headline": "民主刚果 的全球讨论热度稳定",
-      "source": "WorldCupView model"
+      "supportPercent": 24,
+      "sentiment": 0,
+      "volume": 24000,
+      "headline": "全球媒体关注：2026 世界杯最新动态汇总，情绪中性｜fourfourtwo.com",
+      "source": "fourfourtwo.com",
+      "url": "https://www.fourfourtwo.com/competition/fifa-country-codes-world-cup-2026"
     },
     {
       "teamId": "uzbekistan",
@@ -8443,20 +8442,20 @@
     },
     {
       "teamId": "colombia",
-      "supportPercent": 70,
-      "sentiment": 0.39,
-      "volume": 73500,
-      "headline": "哥伦比亚 的全球讨论热度稳定",
-      "source": "WorldCupView model"
+      "supportPercent": 66,
+      "sentiment": 0,
+      "volume": 70800,
+      "headline": "全球媒体关注：2026 世界杯最新动态汇总，情绪中性｜prnewswire.com",
+      "source": "prnewswire.com",
+      "url": "https://www.prnewswire.com/news-releases/outerstuff-under-license-by-fifa-launches-official-licensed-fifa-world-cup-2026-collection-at-pacsun-302773259.html"
     },
     {
       "teamId": "england",
-      "supportPercent": 75,
-      "sentiment": 0.05,
-      "volume": 103200,
-      "headline": "英格兰最新动态汇总，情绪中性｜The Guardian",
-      "source": "The Guardian",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNX3lia0dmcTRwLW1yeVZSQmhFV2dISi13UHpkMVVZb2NaUTFpdHZ3UklleGxxS0trd2l3ZjFhMXRvLVJhaHhrd3BYWHVpaDVxbllUU1JvU2pvNUhkcEJNSzNrUmJBWkV4ZmZOb29DcTh6czRMdnN2QXRrUWZRMTZvUUo2YnE0UTduamo2TEZnX1pDbHdPeUZxQndjRkg1Zw?oc=5"
+      "supportPercent": 79,
+      "sentiment": 0.46,
+      "volume": 84000,
+      "headline": "英格兰 的全球讨论热度稳定",
+      "source": "WorldCupView model"
     },
     {
       "teamId": "croatia",
@@ -8476,452 +8475,439 @@
     },
     {
       "teamId": "panama",
-      "supportPercent": 17,
-      "sentiment": -0.28,
-      "volume": 8000,
-      "headline": "巴拿马 的全球讨论热度稳定",
-      "source": "WorldCupView model"
+      "supportPercent": 19,
+      "sentiment": 0,
+      "volume": 24000,
+      "headline": "全球媒体关注：2026 世界杯最新动态汇总，情绪中性｜bournemouthecho.co.uk",
+      "source": "bournemouthecho.co.uk",
+      "url": "https://www.bournemouthecho.co.uk/news/26130334.panini-world-cup-2026-uk-tour-coming-bournemouth/"
     }
   ],
   "news": [
     {
-      "id": "gnews-0-17eu2jc",
-      "title": "墨西哥最新动态汇总，情绪中性｜The Guardian",
-      "source": "The Guardian",
-      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQdWRsak00TFFfZmVkV3VqT0N1a0tBa2o1bzBNX1g2MkJjNTFMa1pFOFh1THZUelJXc2p0dkNMQ19ELWZuNE9nb3dzalpoY1JFTXFyNlA5Z3Nza3VvSjhlRUplZVh1Yy13VFowVDh4QjRGYndzdEUxS1A4ejJEQWg3ekdxSnQ0MmdWZjlOMmZhbUdSaldzcGZXZ3BUOVJjajBhdDE5MnNTYUJXVTd6Rzk3WFJvWEVBSHQ2MHNOQTQ4R3BnY25HQ2xJZnpRU2xUeFRLU1BsX0pOTGxlZmU4WXV5OA?oc=5",
-      "publishedAt": "2026-07-01T03:30:34.000Z",
-      "tone": 0.05,
+      "id": "gdelt-0-dkk5hl",
+      "title": "全球媒体关注：2026 世界杯商业、出行与观赛服务升温，情绪偏谨慎｜deccanchronicle.com",
+      "source": "deccanchronicle.com",
+      "url": "https://www.deccanchronicle.com/business/in-other-news/visa-and-hdfc-bank-bring-indian-fans-closer-to-the-fifa-world-cup-2026-1950225",
+      "publishedAt": "2026-04-13T19:15:00.000Z",
+      "tone": 0
+    },
+    {
+      "id": "gdelt-1-1h56dph",
+      "title": "全球媒体关注：2026 世界杯最新动态汇总，情绪中性｜fourfourtwo.com",
+      "source": "fourfourtwo.com",
+      "url": "https://www.fourfourtwo.com/competition/pick-your-perfect-world-cup-2026-look-with-fourfourtwos-kit-picker",
+      "publishedAt": "2026-05-26T10:30:00.000Z",
+      "tone": 0
+    },
+    {
+      "id": "gdelt-2-599bm6",
+      "title": "卡塔尔商业、出行与观赛服务升温，情绪中性｜gdnonline.com",
+      "source": "gdnonline.com",
+      "url": "https://www.gdnonline.com:443/Details/1395871/Qatar-Airways-unveils-FIFA-World-Cup-2026-livery",
+      "publishedAt": "2026-05-26T06:00:00.000Z",
+      "tone": 0,
+      "teamId": "qatar"
+    },
+    {
+      "id": "gdelt-3-uwkaiu",
+      "title": "全球媒体关注：2026 世界杯商业、出行与观赛服务升温，情绪中性｜montrealgazette.com",
+      "source": "montrealgazette.com",
+      "url": "https://montrealgazette.com/press-releases/globe-newswire/pu-prime-champions-global-excellence-as-regional-sponsor-of-afa-with-the-launch-of-pu-world-cup-2026/",
+      "publishedAt": "2026-05-04T08:45:00.000Z",
+      "tone": 0
+    },
+    {
+      "id": "gdelt-4-cb9mrk",
+      "title": "全球媒体关注：2026 世界杯球迷声量和社交媒体讨论上升，情绪中性｜ft.lk",
+      "source": "ft.lk",
+      "url": "https://www.ft.lk/front-page/SLT-Mobitel-PEOTV-secures-exclusive-media-broadcast-rights-for-FIFA-World-Cup-2026/44-792844",
+      "publishedAt": "2026-06-03T21:15:00.000Z",
+      "tone": 0,
+      "teamId": "ecuador"
+    },
+    {
+      "id": "gdelt-5-dlhj3m",
+      "title": "全球媒体关注：2026 世界杯最新动态汇总，情绪中性｜timesofindia.indiatimes.com",
+      "source": "timesofindia.indiatimes.com",
+      "url": "https://timesofindia.indiatimes.com/entertainment/events/kolkata-hits-the-streets-with-world-cup-fun-carnival-rally/articleshow/132068476.cms",
+      "publishedAt": "2026-06-29T10:15:00.000Z",
+      "tone": 0
+    },
+    {
+      "id": "gdelt-6-1bh8hrd",
+      "title": "全球媒体关注：2026 世界杯最新动态汇总，情绪中性｜jamaicaobserver.com",
+      "source": "jamaicaobserver.com",
+      "url": "https://www.jamaicaobserver.com/2026/05/25/jamaican-receive-extensive-free-air-premium-multi-platform-coverage-fifa-world-cup-2026/",
+      "publishedAt": "2026-05-25T11:15:00.000Z",
+      "tone": 0,
+      "teamId": "canada"
+    },
+    {
+      "id": "gdelt-7-kgduxh",
+      "title": "全球媒体关注：2026 世界杯最新动态汇总，情绪中性｜economictimes.indiatimes.com",
+      "source": "economictimes.indiatimes.com",
+      "url": "https://economictimes.indiatimes.com/news/new-updates/best-apps-to-watch-fifa-world-cup-2026-live-on-mobile-phone-streaming-guide-free-in-india/articleshow/131700322.cms",
+      "publishedAt": "2026-06-13T09:00:00.000Z",
+      "tone": 0
+    },
+    {
+      "id": "gdelt-8-1w5db1o",
+      "title": "全球媒体关注：2026 世界杯最新动态汇总，情绪中性｜prnewswire.com",
+      "source": "prnewswire.com",
+      "url": "https://www.prnewswire.com/news-releases/outerstuff-under-license-by-fifa-launches-official-licensed-fifa-world-cup-2026-collection-at-pacsun-302773259.html",
+      "publishedAt": "2026-05-15T13:30:00.000Z",
+      "tone": 0,
+      "teamId": "colombia"
+    },
+    {
+      "id": "gdelt-9-y33s5r",
+      "title": "全球媒体关注：2026 世界杯最新动态汇总，情绪中性｜thesouthafrican.com",
+      "source": "thesouthafrican.com",
+      "url": "https://www.thesouthafrican.com/lifestyle/celeb-news/international-celebs/tyla-joins-official-fifa-world-cup-2026-album/",
+      "publishedAt": "2026-06-04T22:45:00.000Z",
+      "tone": 0
+    },
+    {
+      "id": "gdelt-10-1ksaktt",
+      "title": "全球媒体关注：2026 世界杯赛果与淘汰赛走势成为焦点，情绪偏积极｜kenya-today.com",
+      "source": "kenya-today.com",
+      "url": "https://kenya-today.com/world-cup-2026-betting-in-kenya-win-a-samsung-a26-try-flash-bet-simulation-unlock-massive-jackpots-on-meridianbet/",
+      "publishedAt": "2026-05-24T12:30:00.000Z",
+      "tone": 0
+    },
+    {
+      "id": "gdelt-11-127oq3d",
+      "title": "墨西哥最新动态汇总，情绪中性｜newkerala.com",
+      "source": "newkerala.com",
+      "url": "https://www.newkerala.com/news/a/club-tijuana-expresses-great-pride-serving-as-irans-266.htm",
+      "publishedAt": "2026-05-27T08:45:00.000Z",
+      "tone": 0,
       "teamId": "mexico"
     },
     {
-      "id": "gnews-1-xww5jg",
-      "title": "全球媒体关注：2026 世界杯最新动态汇总，情绪中性｜The New York Times",
-      "source": "The New York Times",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOVFBOT2xfTllxanhFckRKTTlKa1ZOMEd1UThFMTV3ZzlsQXBIS2pqOHdLUFhMVVN4V2VtUHIyUC11WXl4Y2xYazVlODlzSjY1RHh5bUp0NTVWTTN1ZVJHV2ExT2xYM3RUN2dwa0JKX2t4dzVhZEZ3TkF3eHFuQTQtMlNiLV9rdnM?oc=5",
-      "publishedAt": "2026-06-30T11:27:21.000Z",
-      "tone": 0.05
+      "id": "gdelt-12-qoxw2z",
+      "title": "全球媒体关注：2026 世界杯最新动态汇总，情绪中性｜siasat.com",
+      "source": "siasat.com",
+      "url": "https://www.siasat.com/where-to-watch-fifa-world-cup-2026-in-india-3480901/",
+      "publishedAt": "2026-06-01T13:15:00.000Z",
+      "tone": 0
     },
     {
-      "id": "gnews-2-1gwka8v",
-      "title": "法国最新动态汇总，情绪中性｜The New York Times",
-      "source": "The New York Times",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNZzBoa0pXVUFsZlVqRkZOUEFweU5sZTFONGU4bl9jNWNYTGJGbUpqaGx0STY3ZDBWUGM2c2dyOEVBc2pZcDN3d1NrLUhYNTlnZjVIY2ZXbXJhWUtrY3oxeFJSSTRZclZaSWZGWmM5U2RhOGZZMExEV2Y2WWpwR1FUTkgtLUlSaFU?oc=5",
-      "publishedAt": "2026-07-01T03:09:31.000Z",
-      "tone": 0.05,
-      "teamId": "france"
+      "id": "gdelt-13-tm2btk",
+      "title": "全球媒体关注：2026 世界杯最新动态汇总，情绪中性｜creativebloq.com",
+      "source": "creativebloq.com",
+      "url": "https://www.creativebloq.com/design/advertising/the-good-the-bad-and-the-ai-of-world-cup-2026-adverts",
+      "publishedAt": "2026-05-12T08:15:00.000Z",
+      "tone": 0
     },
     {
-      "id": "gnews-3-fwxldq",
-      "title": "巴西最新动态汇总，情绪中性｜BBC",
-      "source": "BBC",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9SQlBYNWFrbXNNUGVfRmEyQmFfbm5PYzVVZEZwOUVlTTNzOU1oMmNUUHR0d29oa25MbFpIWXVqYm9XbjFjOHQ2RTEwTi1SYnZQLUdjcnVya0R0bU1xODJoa3dPcjI?oc=5",
-      "publishedAt": "2026-06-30T06:01:37.000Z",
-      "tone": -0.35,
+      "id": "gdelt-14-ugpip0",
+      "title": "全球媒体关注：2026 世界杯最新动态汇总，情绪中性｜timesofindia.indiatimes.com",
+      "source": "timesofindia.indiatimes.com",
+      "url": "https://timesofindia.indiatimes.com/education/news/five-things-every-student-should-know-before-the-fifa-world-cup-2026-kicks-off-tonight/articleshow/131658049.cms",
+      "publishedAt": "2026-06-11T12:30:00.000Z",
+      "tone": 0
+    },
+    {
+      "id": "gdelt-15-1j9286d",
+      "title": "全球媒体关注：2026 世界杯最新动态汇总，情绪中性｜plymouthherald.co.uk",
+      "source": "plymouthherald.co.uk",
+      "url": "https://www.plymouthherald.co.uk/latest-world-cup-2026-news-10995272",
+      "publishedAt": "2026-06-03T16:15:00.000Z",
+      "tone": 0
+    },
+    {
+      "id": "gdelt-16-tvzxbr",
+      "title": "全球媒体关注：2026 世界杯最新动态汇总，情绪中性｜fourfourtwo.com",
+      "source": "fourfourtwo.com",
+      "url": "https://www.fourfourtwo.com/competition/world-cup-2026-will-prolong-half-time-interval-for-extravagant-show-acts-announced",
+      "publishedAt": "2026-05-14T11:15:00.000Z",
+      "tone": 0
+    },
+    {
+      "id": "gdelt-17-1urdwcv",
+      "title": "全球媒体关注：2026 世界杯最新动态汇总，情绪中性｜fourfourtwo.com",
+      "source": "fourfourtwo.com",
+      "url": "https://www.fourfourtwo.com/competition/what-is-the-world-cup-2026-intro-theme",
+      "publishedAt": "2026-06-04T13:30:00.000Z",
+      "tone": 0
+    },
+    {
+      "id": "gdelt-18-nipiaa",
+      "title": "全球媒体关注：2026 世界杯最新动态汇总，情绪中性｜wwd.com",
+      "source": "wwd.com",
+      "url": "https://wwd.com/pop-culture/culture-news/world-cup-2026-brand-collaborations-1238984935/",
+      "publishedAt": "2026-05-29T19:45:00.000Z",
+      "tone": 0,
       "teamId": "brazil"
     },
     {
-      "id": "gnews-4-10xvv7",
-      "title": "挪威最新动态汇总，情绪中性｜FOX Sports",
-      "source": "FOX Sports",
-      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE93YUtrX3VHZHNqcm9hRmlUOFRXNXltUFF6ZVZNNlJ2bUNaOGszdzJiUVloS3Fyd0xqTnZjY3hnaDUyWUt6ZmtPa3FzQ2VmSmdRUnB0ZjRHNVI0N0JYVEVpN2tn?oc=5",
-      "publishedAt": "2026-06-30T19:00:11.000Z",
-      "tone": 0.05,
-      "teamId": "norway"
+      "id": "gdelt-19-1rn3tqu",
+      "title": "全球媒体关注：2026 世界杯球迷声量和社交媒体讨论上升，情绪中性｜finanznachrichten.de",
+      "source": "finanznachrichten.de",
+      "url": "https://www.finanznachrichten.de/nachrichten-2026-05/68497930-pif-named-as-official-tournament-supporter-of-fifa-world-cup-2026-004.htm",
+      "publishedAt": "2026-05-14T13:30:00.000Z",
+      "tone": 0,
+      "teamId": "portugal"
     },
     {
-      "id": "gnews-5-1et5j09",
-      "title": "挪威最新动态汇总，情绪中性｜The Guardian",
-      "source": "The Guardian",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQYjN6RUUzRFVSZl9ubHk2SDVQQ002VUxXZzljTVlGYUlKcDI1THdoSTNoRUZDVEpLUTNoelI3X0FyMXloQlA1a2tMT0xWOF9TVHdpZDJXTl90T3BPUWIwbjVsRDBMLXJRNmtjUFpJU01Gd0N5bmk5bGJtLTF4UWZGd09nLTVrRS1FZVZfQUp2allMR3l2MkctNVZFRkdOQUxYQ2dkUUF3?oc=5",
-      "publishedAt": "2026-06-30T17:00:00.000Z",
-      "tone": 0.05,
-      "teamId": "netherlands"
+      "id": "gdelt-20-3ctgv5",
+      "title": "墨西哥赛程与小组形势更新，情绪中性｜economictimes.indiatimes.com",
+      "source": "economictimes.indiatimes.com",
+      "url": "https://economictimes.indiatimes.com/news/new-updates/mexico-vs-ecuador-fifa-world-cup-2026-round-of-32-india-time-live-streaming-key-players-predicted-lineups-and-match-preview/articleshow/132099691.cms",
+      "publishedAt": "2026-06-30T18:45:00.000Z",
+      "tone": 0,
+      "teamId": "mexico"
     },
     {
-      "id": "gnews-6-haw48f",
-      "title": "全球媒体关注：2026 世界杯最新动态汇总，情绪中性｜Fox Sports",
-      "source": "Fox Sports",
-      "url": "https://news.google.com/rss/articles/CBMitgJBVV95cUxNTGozREV0b1NmXzFsUlVScEhydkVxQXNfMERRODI2Tll1Ml9OSkkxQ1h1Mms5cXltc1p0TmhZd1pESE1MWEppbmZpd3d5WnptTUJYZkVGd3diNzNnMzZxMWxIWmx2SUkwLW9XbktDQWhxOFVFMlB1ZmJjVWFMWEwyZGNma3AyVHBacXg2ZDVGM083NkdKNm9Cb0F5VWRwVVN3dFdfZGR2XzVNV1h1anU5QUxncXllT0p1Ri0xMnpnYW40eHFZeVloZFFlX2xCa2l1TWZQOG1RaVUtdFVtSDRKZDZZLThwTnJ4NDJPS1VhYjNJbVlFRnFhQi12dG5mdTJsU194T1RwMDFWT1RxemxHV2VJSXItamdqTm5wMWVOa0hQSVZ2TEpTM3hDUmhqMWZmQ1hDRDN30gG2AkFVX3lxTE1MajNERXRvU2ZfMWxSVVJwSHJ2RXFBc18wRFE4MjZOWXUyX05KSTFDWHUyazlxeW1zWnROaFl3WkRITUxYSmluZml3d3laem1NQlhmRUZ3d2I3M2czNnExbEhabHZJSTAtb1duS0NBaHE4VUUyUHVmYmNVYUxYTDJkY2ZrcDJUcFpxeDZkNUYzTzc2R0o2b0JvQXlVZHBVU3d0V19kZHZfNU1XWHVqdTlBTGdxeWVPSnVGLTEyemdhbjR4cVl5WWhkUWVfbEJraXVNZlA4bVFpVS10VW1INEpkNlktOHBOcng0Mk9LVWFiM0ltWUVGcWFCLXZ0bmZ1MmxTX3hPVHAwMVZPVHF6bEdXZUlJci1qZ2pObnAxZU5rSFBJVnZMSlMzeENSaGoxZmZDWENEM3c?oc=5",
-      "publishedAt": "2026-07-01T02:35:25.000Z",
-      "tone": 0.35,
+      "id": "gdelt-21-18pd2pm",
+      "title": "全球媒体关注：2026 世界杯最新动态汇总，情绪中性｜jpost.com",
+      "source": "jpost.com",
+      "url": "http://www.jpost.com/jerusalem-report/article-896937",
+      "publishedAt": "2026-05-22T16:30:00.000Z",
+      "tone": 0
+    },
+    {
+      "id": "gdelt-22-1je99x5",
+      "title": "全球媒体关注：2026 世界杯最新动态汇总，情绪中性｜fourfourtwo.com",
+      "source": "fourfourtwo.com",
+      "url": "https://www.fourfourtwo.com/team/iran-world-cup-2026-warm-up-friendlies-cancelled-as-fresh-doubt-cast-on-tournament-appearance",
+      "publishedAt": "2026-04-28T18:45:00.000Z",
+      "tone": 0,
+      "teamId": "canada"
+    },
+    {
+      "id": "gdelt-23-uxy3aw",
+      "title": "全球媒体关注：2026 世界杯最新动态汇总，情绪中性｜vietnamnet.vn",
+      "source": "vietnamnet.vn",
+      "url": "https://vietnamnet.vn/en/vietnam-s-u17-generation-backed-for-long-term-2034-world-cup-mission-2516244.html",
+      "publishedAt": "2026-05-16T04:45:00.000Z",
+      "tone": 0
+    },
+    {
+      "id": "gdelt-24-f3rdca",
+      "title": "全球媒体关注：2026 世界杯最新动态汇总，情绪中性｜skiddle.com",
+      "source": "skiddle.com",
+      "url": "https://www.skiddle.com/news/all/Best-places-to-watch-the-World-Cup-2026-in-London/61680/",
+      "publishedAt": "2026-05-22T15:15:00.000Z",
+      "tone": 0
+    },
+    {
+      "id": "gdelt-25-19hgcpq",
+      "title": "全球媒体关注：2026 世界杯商业、出行与观赛服务升温，情绪中性｜businessghana.com",
+      "source": "businessghana.com",
+      "url": "http://www.businessghana.com/site/news/business/347744/OMPAY-Concludes-Region%E2%80%99s-First-Fintech-Led-FIFA-World-Cup-2026%E2%84%A2-Campaign,-Courtesy-of-Visa",
+      "publishedAt": "2026-04-29T11:15:00.000Z",
+      "tone": 0
+    },
+    {
+      "id": "gdelt-26-1a17fli",
+      "title": "卡塔尔最新动态汇总，情绪中性｜thepeninsulaqatar.com",
+      "source": "thepeninsulaqatar.com",
+      "url": "http://thepeninsulaqatar.com/article/24/05/2026/qatar-permanent-representative-to-un-hosts-from-fifa-world-cup-2022-to-fifa-world-cup-2026-a-legacy-in-motion-reception",
+      "publishedAt": "2026-05-24T09:45:00.000Z",
+      "tone": 0,
+      "teamId": "qatar"
+    },
+    {
+      "id": "gdelt-27-x8m1rv",
+      "title": "全球媒体关注：2026 世界杯最新动态汇总，情绪中性｜sbs.com.au",
+      "source": "sbs.com.au",
+      "url": "https://www.sbs.com.au/ondemand/tv-series/stories-from-the-cities-usa/season-1/stories-from-the-cities-s1-ep6/2479687747593",
+      "publishedAt": "2026-05-05T06:15:00.000Z",
+      "tone": 0
+    },
+    {
+      "id": "gdelt-28-1a1q8l6",
+      "title": "全球媒体关注：2026 世界杯最新动态汇总，情绪中性｜fourfourtwo.com",
+      "source": "fourfourtwo.com",
+      "url": "https://www.fourfourtwo.com/competition/fifa-world-cup-spot-fixing-scandal-emerges-as-yellow-card-suspicions-revealed",
+      "publishedAt": "2026-06-02T14:30:00.000Z",
+      "tone": 0,
+      "teamId": "canada"
+    },
+    {
+      "id": "gdelt-29-ffkz3h",
+      "title": "美国最新动态汇总，情绪中性｜ibtimes.co.uk",
+      "source": "ibtimes.co.uk",
+      "url": "https://www.ibtimes.co.uk/eleonora-incardona-fifa-world-cup-2026-coverage-1801329",
+      "publishedAt": "2026-06-08T06:45:00.000Z",
+      "tone": 0,
       "teamId": "tunisia"
     },
     {
-      "id": "gnews-7-1ousr4z",
-      "title": "德国最新动态汇总，情绪中性｜NDTV Sports",
-      "source": "NDTV Sports",
-      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQU3ZMZTh6aU1Fa1R5WmZxVUczOTBXTGY4Ti1mVkFoLVZNM0FJOS14RmZUbkw4ckFzVUplclpOTUtETUk4cENiUmVpSEM1V1htcS1QOWpNcGo3Y0FJWllPSXhOTTNBbmN5NjRPbHZmencySkVKTkVsRDRlSnNoS1FTU2xFcGZEQU16X1cyOU5lVGpqTTlfRDlDbUhHTG1Kcjc0ZGJ0VVl2c2tFQ243RW1SMEFlNVgxM0pjNlRZLTFlRnEyOU0zTVhRaDM2bTRxdTRaekR3?oc=5",
-      "publishedAt": "2026-07-01T03:28:42.000Z",
-      "tone": 0.05,
-      "teamId": "paraguay"
+      "id": "gdelt-30-1kww54m",
+      "title": "全球媒体关注：2026 世界杯赛果与淘汰赛走势成为焦点，情绪偏积极｜fourfourtwo.com",
+      "source": "fourfourtwo.com",
+      "url": "https://www.fourfourtwo.com/competition/will-donald-trump-present-the-world-cup-2026-trophy-to-the-winning-country",
+      "publishedAt": "2026-04-08T13:15:00.000Z",
+      "tone": 0,
+      "teamId": "senegal"
     },
     {
-      "id": "gnews-8-1ugztn5",
-      "title": "全球媒体关注：2026 世界杯最新动态汇总，情绪中性｜BBC",
-      "source": "BBC",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1zelR1aXo5ZU93cFJneWNEYTZNYXd5bmpWT3M1UnhqZFFYTEhZbHRJODdNdGZFd1d4SlNpSkZ1VkNRLTVJOWp6Y0JvcHZHcTJGV0VUV25sVVVGWGtLT3JoX2NuN2NuOW8?oc=5",
-      "publishedAt": "2026-06-30T08:06:24.000Z",
-      "tone": 0.05
-    },
-    {
-      "id": "gnews-9-1cju3rj",
-      "title": "英格兰最新动态汇总，情绪中性｜The Guardian",
-      "source": "The Guardian",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNX3lia0dmcTRwLW1yeVZSQmhFV2dISi13UHpkMVVZb2NaUTFpdHZ3UklleGxxS0trd2l3ZjFhMXRvLVJhaHhrd3BYWHVpaDVxbllUU1JvU2pvNUhkcEJNSzNrUmJBWkV4ZmZOb29DcTh6czRMdnN2QXRrUWZRMTZvUUo2YnE0UTduamo2TEZnX1pDbHdPeUZxQndjRkg1Zw?oc=5",
-      "publishedAt": "2026-07-01T02:45:00.000Z",
-      "tone": 0.05,
-      "teamId": "england"
-    },
-    {
-      "id": "gnews-10-1ijxaga",
-      "title": "英格兰最新动态汇总，情绪中性｜Sky News",
-      "source": "Sky News",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNWGtyLU9YWWtNd2tVUmdIRGRfS2NCUFVualZ5TTNFbmRsR3FPUjAtbGl6M1lHdkVrWmF1OTJPQ2pUanU2U3c2VEVPRHRrRkRmQUJlNXBrVjYtNnBzbGhGc2tvd3pNVUszVmFOeDlseXJ1MGtENlJZeVNzRF9KMlZJcnhaWktlV1E3WnVFTi1RSXJ3VXAyT0dNN01MaURWTnR4X2xHbEJZRmVQTzJzaUtMb09pdWc?oc=5",
-      "publishedAt": "2026-07-01T03:23:38.000Z",
-      "tone": 0.05,
-      "teamId": "england"
-    },
-    {
-      "id": "gnews-11-1bebkef",
-      "title": "全球媒体关注：2026 世界杯球迷声量和社交媒体讨论上升，情绪中性｜AccuWeather",
-      "source": "AccuWeather",
-      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNa2ttSXFqekM5Yk91MVZTWTdkV1RRbXFLUDJ1Z01RVmNlTzMtOGhCWWlDVlVpajFuNHZja0NsVnYtb0kySVJNWDZtQlZyV2lIdFJLX1hJaDNFRFR5bDlLUjVSZWFrR2NJdXlPcXRsN2FvVzNSWG5QN2NrZjZFT3h6aXYxbndON0ZUbEM2UTNYcldONFp5clFJZThCUnRlZ0FpSGZ0MEFtN20yNm9Ia0tZQjMyZU9XSzFhZmppMUZtNDh4QnRXc0dXOUJyQk5RRkl5ajQ4eHphcTRCQQ?oc=5",
-      "publishedAt": "2026-06-30T16:01:46.000Z",
-      "tone": 0.05,
-      "teamId": "germany"
-    },
-    {
-      "id": "gnews-12-7gcy58",
-      "title": "全球媒体关注：2026 世界杯赛果与淘汰赛走势成为焦点，情绪偏积极｜ESPN India",
-      "source": "ESPN India",
-      "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxQUHJDUTFyUEhtZEJHNXNNRkFoeEhqSnpyVlA1cEN2TmF3ZUpGcGs3b0QxdXdVUG5ySGpoTW9MTW9DQ3pjaHI4RlF5UVJ3bUFSVjNVWXVPU2p0WGFOcWdqNUV0cjVHTWdaZUhmVndGWlRkTU1VQWxfeWVZY1laUlZZMjZjakpHZFNoN1NCV3JvSlNLV283a1B4N2VMbEJwWUUzdG5fOWFPNXBQWnE2cVp0OVphSVVBU3BkZi1mTl9adGxqUjRGSGxCbmdpdWNiU1R3WktXWEllWlJiVmFfWmotRmwxTGt1UUpBa1hOWklKRjlibm9idUtGWjVzbjJfUQ?oc=5",
-      "publishedAt": "2026-07-01T01:58:00.000Z",
-      "tone": 0.35,
-      "teamId": "spain"
-    },
-    {
-      "id": "gnews-13-3wgaxe",
-      "title": "全球媒体关注：2026 世界杯赛程与小组形势更新，情绪中性｜Mashable",
-      "source": "Mashable",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPRE5LNU9NaXhVbzI4bk83dExCTjY3OXJ4V1NoUWJyTFRrVXBROHVEYnJmWnE0ZTNyQUVhU05sTUtPZi11ZTRGbkZNMHNlR3FPYkdTdEZXVzRjMXJ3d011anZ4Q2xWX3UzZFZ1dm43TzhrVDIzZTdYVHRVT2gxUE1YVVdOSDI5d3hxNnlEN214WHZyM3J2WXc?oc=5",
-      "publishedAt": "2026-06-30T09:03:40.000Z",
-      "tone": 0.05
-    },
-    {
-      "id": "gnews-14-177vljq",
-      "title": "全球媒体关注：2026 世界杯赛程与小组形势更新，情绪中性｜olympics.com",
-      "source": "olympics.com",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQSjFYNnF3NWgxYS1XRHk5aEJ6Z1Q5RzRseVJyLVo5aGxqOVRnWGYzdklRUUxBQnY1X1pSeGt1ZWlsbmIxLXI0S3U2LW9tdEg5Um5hcTdfV3lOS2E5cEdYSDdNTWx1SkUyTHpYcGNMeC1CaFU3SzNha0pBUFhlOXFlM2J6U0pCZjQ4TnZvWmdrQmlWdmFSdU1jakJwQUU?oc=5",
-      "publishedAt": "2026-06-30T19:18:00.000Z",
-      "tone": 0.05,
-      "teamId": "brazil"
-    },
-    {
-      "id": "gnews-15-1vz5fze",
-      "title": "全球媒体关注：2026 世界杯赛程与小组形势更新，情绪中性｜The New York Times",
-      "source": "The New York Times",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxObjJzbGhYRm42b3k3R3htUTZPQXFWV2RILTl2ZzlXYWtxN3Jvel9XWklOYTF4ZXEwbDgtWGVfWHhoWHZQeWFPTk1EckFhQTI3WFFrbERvazNQSmtINXZFWG9udldTTjZHZHQySmJRVXJpS1RzSDFNMHg2Q1JkMnJnak5nSzQ?oc=5",
-      "publishedAt": "2026-06-30T21:13:24.000Z",
-      "tone": 0.05
-    },
-    {
-      "id": "gnews-16-1k3y57o",
-      "title": "全球媒体关注：2026 世界杯赛程与小组形势更新，情绪中性｜Yahoo Sports",
-      "source": "Yahoo Sports",
-      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOU1U0UXo4NFBRTUV0ZE1tOWt1X1BOYUZEUDJfaVhKU2NCQWtfZFc1cC14SW9kcWxkRUlNc1BwS1hqeUtHcFlUX2owY0xXdkNfR0tGNl9JNnhwU3l6WUZwTi1BOU5YSmZpZFA4YWp4Y2FWVjNoZ0lqOUxnM2pRMG5BeTNRZFA3aUdRY1BWbzFGbFBnemNBNnZ1TVFaNUJPUUV5Z0kxa2RhN1Ryck9UMlY5RzV5dlNTczl6OWVyRXZPSWdwSmszX3FCaUdqQWx3MFVMYWdnZHRmVFF0T1hULW1IcURfSQ?oc=5",
-      "publishedAt": "2026-06-30T21:03:26.000Z",
-      "tone": 0.05,
-      "teamId": "scotland"
-    },
-    {
-      "id": "gnews-17-rvdukl",
-      "title": "全球媒体关注：2026 世界杯赛程与小组形势更新，情绪中性｜Sky Sports",
-      "source": "Sky Sports",
-      "url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxPWUdadTVGMnR2RGdLN1ZaU09SQUxYWHgxUllKcF80QmdNVlNnRFZxMnJ2ZFVqcTRlRFRrRlE2a3JqaE5GdkxVSlMzeEM0QkVOSGtLWFlVX3lQdHdqMmFJTnZhZmFKZHJYRkNMT2hhOEZldjlSam8yNUxhNFpGdEc3aHRVdFBCcjE3dkF5SE1iTEFmTzc0a0VrVkNEWkIzMTFfWFpFQTdVcWdZeXpKUU00NWxaRjM4ZkUwSHFPd0d4cjlyM3BPN29ibndsZy03NU5VcEtOZHh4VVltaHRNSWlkczJjOU5nRWstNDZZaThZczg1RUdJb0NtWlJyWDZmMjZ3M2lDSGV3?oc=5",
-      "publishedAt": "2026-06-30T22:54:14.000Z",
-      "tone": -0.35,
+      "id": "gdelt-31-kvu6h4",
+      "title": "全球媒体关注：2026 世界杯赛程与小组形势更新，情绪中性｜asiaone.com",
+      "source": "asiaone.com",
+      "url": "https://www.asiaone.com/lifestyle/world-cup-2026-watch-live-matches-singapore",
+      "publishedAt": "2026-06-03T09:00:00.000Z",
+      "tone": 0,
       "teamId": "portugal"
     },
     {
-      "id": "gnews-18-iml0zr",
-      "title": "全球媒体关注：2026 世界杯赛程与小组形势更新，情绪中性｜UEFA.com",
-      "source": "UEFA.com",
-      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPN2JMTXRPVmREV09GaEdtaGRTS1pVbXlKZ3hyb2lzWUE1QnEyNVh4REc0ZUFCeVY0UXVVb2ZTVnlzNExOSmJsd1VmaHF4ekJ4RHJBc3h6UkxVMllZekl3UjZGakVtUDZxbGFzWmxHdnU2OUdHcldtX2pMU3YyMzQwdm80djczWTdKVzVmb1kyOFdJdzZfYlVEa0pBUGpfeHdMM2hleVlPamp4UDk4Q1U2SDZ3ajYxX3pMMWVFZ3RKNkNTbVlNWDVZYXBWcnFkUzhVYnplV1BwNkl4d28?oc=5",
-      "publishedAt": "2026-07-01T02:22:30.000Z",
-      "tone": -0.35,
-      "teamId": "turkey"
+      "id": "gdelt-32-1y8nrvi",
+      "title": "全球媒体关注：2026 世界杯赛果与淘汰赛走势成为焦点，情绪偏积极｜leadership.ng",
+      "source": "leadership.ng",
+      "url": "https://leadership.ng/watch-the-fifa-world-cup-2026-live-on-startimes-win-50-million-naira/",
+      "publishedAt": "2026-06-02T22:30:00.000Z",
+      "tone": 0
     },
     {
-      "id": "gnews-19-x7uzmb",
-      "title": "法国最新动态汇总，情绪中性｜FOX Sports",
-      "source": "FOX Sports",
-      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBSdWF2Zm9mR0Z0WjBkZWFRZTVHQ3ZCN1hBMkctengxRnRycUtENjdKOEJlRGZ2WXhtUTNHQm9BMEJJT1BtQlNYXzl2eEtsWDFZYmZ4QWZlYVRMaGVJcVMyTGt3?oc=5",
-      "publishedAt": "2026-06-30T23:20:29.000Z",
-      "tone": 0.05,
-      "teamId": "sweden"
+      "id": "gdelt-33-dpjz5z",
+      "title": "全球媒体关注：2026 世界杯最新动态汇总，情绪中性｜fourfourtwo.com",
+      "source": "fourfourtwo.com",
+      "url": "https://www.fourfourtwo.com/competition/fifa-country-codes-world-cup-2026",
+      "publishedAt": "2026-04-18T15:00:00.000Z",
+      "tone": 0,
+      "teamId": "democratic-republic-of-the-congo"
     },
     {
-      "id": "gnews-20-1jqfek4",
-      "title": "全球媒体关注：2026 世界杯赛程与小组形势更新，情绪中性｜ESPN",
-      "source": "ESPN",
-      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNazBRZDFsYjkyM1lXUGRBZzU2c3FfaHdOTWNtTUZGMWZhR1FCdDd1LTJ5U0VBN1FHbFZWRndrMzZVUTNGUFZqa3A5U3pLT1lreXNMZllmU2pPQUFFOGhCTEJoZHlnWFM3VU1xM0ZxNWJiZG4zMTA5OTZqQUlzUGp3Zm1tSXpWeGViTEFvdUVaaTgtcVdUTnZqX2F3eFdKWnNsTHBFRUl3OVVxTF91TE5udTZlNVF5UTFoU2hpdjJjSDdKZE5JNV9XNENMS290NWtu?oc=5",
-      "publishedAt": "2026-06-30T04:39:00.000Z",
-      "tone": 0.05,
-      "teamId": "turkey"
+      "id": "gdelt-34-1dwqfxk",
+      "title": "全球媒体关注：2026 世界杯最新动态汇总，情绪中性｜timesofindia.indiatimes.com",
+      "source": "timesofindia.indiatimes.com",
+      "url": "https://timesofindia.indiatimes.com/city/jaipur/five-things-you-need-to-know-before-the-fifa-world-cup-2026-kicks-off/articleshow/131665678.cms",
+      "publishedAt": "2026-06-11T18:30:00.000Z",
+      "tone": 0
     },
     {
-      "id": "gnews-21-q19vyy",
-      "title": "全球媒体关注：2026 世界杯赛程与小组形势更新，情绪中性｜Sky Sports",
-      "source": "Sky Sports",
-      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPZE4zaGFZYWpHX2k3ZWFkUS1icTIzeVJ4WTV4bGFJd09VRHZPNG1aYlhEa3dITVM3cE4yUVQ4TFRsa2plZEhhSENib18ySHhhVzctaTBxUkU2VGt3blJlV2JMQVc2aldrWUQ0am9CeEdzM2ZuajRIeHhpaEVmWk9JVXUtRUVQcm83REZWX0hZVE9adC1YeXZmdWNWcnVoMXFTcjFrazNmYVdXTzBrT2JJQWVPZGdmS1hOSFZSbC1tNGdOcUs1eElCWkdmTG9tR1YwbUpTbFdwbTVVVEtiUWxSMHdtQQ?oc=5",
-      "publishedAt": "2026-06-30T21:46:45.000Z",
-      "tone": -0.35,
+      "id": "gdelt-35-cspd71",
+      "title": "全球媒体关注：2026 世界杯最新动态汇总，情绪中性｜montrealgazette.com",
+      "source": "montrealgazette.com",
+      "url": "https://montrealgazette.com/press-releases/pr-newswire/hisense-celebrates-fifa-world-cup-2026-kickoff-with-rgb-miniled-innovation/",
+      "publishedAt": "2026-06-12T04:15:00.000Z",
+      "tone": 0,
       "teamId": "brazil"
     },
     {
-      "id": "gnews-22-19eaoxu",
-      "title": "墨西哥赛果与淘汰赛走势成为焦点，情绪中性｜Al Jazeera",
-      "source": "Al Jazeera",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOeXRRcG54ZVh4V3VNR1hVRWtybnNrR01NSkVtdzJMVHptVldRaUNjeEt6ZVdzMlZBa1lYOVBSUVhyZmJHcmxuQ0RuVzVuSkVCTk9MV2MyMmFrWlQyM1RBdUJnMjB0ZDg4UHQ2UlhwT2lTSmxETDlISXBaQXNFUHg4S0JXelRMYTBNdzRqcjRWSGl1azNLcFdoRUE5RXd2OTJlUTZUcW9sWGlzUdIBrwFBVV95cUxPVnNpbkpSWC1rbU52RlV0NXdZWW5DQUx2eDRVUGJ3N0lIdUpkMlRGWG9RdU9yQXQ5MzJpSDhKWnNiOG9raEFQZ2FHQW54NlBVMk5Sc2tTT0pkN3VtZHRBUTcwdm5DVFVNbEhaMXJGLXF4TkstUWEzS3VweWFHMHZ1UjNKVjVBd1dXcUVSRi1kRjh3Y2R3YjRUV1dNY0k0d2RpMGl6X0lRQnhTRVFuRk1B?oc=5",
-      "publishedAt": "2026-07-01T04:06:07.000Z",
-      "tone": 0.05,
-      "teamId": "mexico"
+      "id": "gdelt-36-1l2phig",
+      "title": "全球媒体关注：2026 世界杯最新动态汇总，情绪中性｜jagranjosh.com",
+      "source": "jagranjosh.com",
+      "url": "https://www.jagranjosh.com/general-knowledge/oldest-players-at-fifa-world-cup-1820009872-1",
+      "publishedAt": "2026-06-17T07:00:00.000Z",
+      "tone": 0
     },
     {
-      "id": "gnews-23-7onxoj",
-      "title": "全球媒体关注：2026 世界杯赛程与小组形势更新，情绪中性｜olympics.com",
-      "source": "olympics.com",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPYmgzMlhTVmlKSVo0NTBGRVhiRjl3NWc4OUhTRTNhZlV0SDR1dTBWdnd5NWpMTVd1WGVKNDFZSk8tVkxWeGtOaU5lcjAzeHprZzdwNmFzaXNFN2xNSTFLUk9oYk9mSDFwa2dCTXhldWNQZEs4TkR5bXBNWk1MMHh2ckk0d21aVmY3Q3J0VzJZWW5IaUZJOWc?oc=5",
-      "publishedAt": "2026-06-30T06:07:00.000Z",
-      "tone": 0.05,
-      "teamId": "scotland"
+      "id": "gdelt-37-1kmslb1",
+      "title": "全球媒体关注：2026 世界杯最新动态汇总，情绪中性｜dstv.com",
+      "source": "dstv.com",
+      "url": "https://www.dstv.com/en-za/news/142178/watch-every-fifa-world-cup-2026/",
+      "publishedAt": "2026-06-10T13:00:00.000Z",
+      "tone": 0
     },
     {
-      "id": "gnews-24-89k7ap",
-      "title": "全球媒体关注：2026 世界杯赛果与淘汰赛走势成为焦点，情绪中性｜ESPN",
-      "source": "ESPN",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPeWloeGNBZVFSdlYwU3UtR1lXVUZaSTJCMWkxS0l6U1R2TFU5cnhBRTBSanl6cDQ2c2JiOWtCaVllU1VBQlJaZzZLOXlXVWJQdTdEeVN0UUgwSjFwSnp6MFYxSEJJaXhNeXVsaWluN1BMdXUtbF8yODVNa3Z1V1czaFlNNWk2c0Q0RExlYml4SWpwdG8?oc=5",
-      "publishedAt": "2026-06-30T07:02:00.000Z",
-      "tone": 0.05,
-      "teamId": "spain"
-    },
-    {
-      "id": "gnews-25-g39si5",
-      "title": "墨西哥赛果与淘汰赛走势成为焦点，情绪偏积极｜The New York Times",
-      "source": "The New York Times",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQZnZYcW1fSTRNYWhLck4waXl6LXJiSkVJTDhRdkJDMHFhdWJKSHBlUUtpejlPdEpoYWk2aUdpemxLVVRSLUlWaGRhdTNTNnpIMlBaeUYzaVphN1puQUJvUTZEN19jN3liVkxobWNPNElNeVlJTGN5akg5Wm1naXNrQVZEcjdvVVFxRVhPSjB5aw?oc=5",
-      "publishedAt": "2026-07-01T04:14:54.000Z",
-      "tone": 0.05,
-      "teamId": "mexico"
-    },
-    {
-      "id": "gnews-26-1shj2yl",
-      "title": "全球媒体关注：2026 世界杯最新动态汇总，情绪中性｜The New York Times",
-      "source": "The New York Times",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQb3c0U09KcWVzekJrYW1EamJ2MUpFZG9wYlpobldDbF9WOUFPUlRBY3VyaEtTeUlTRDNYZ1RxS3E5cTJjVmVBLUdqUnprck1FVWpjeXZXUmpWNlBMLXhpQ1JYR3ZKM09wb3JjcFVQYW9pNkJ6bHM2MzVyTUY0dWkyOHpTdU1LbS1maTdz?oc=5",
-      "publishedAt": "2026-06-30T23:02:02.000Z",
-      "tone": 0.05,
+      "id": "gdelt-38-444gbh",
+      "title": "全球媒体关注：2026 世界杯最新动态汇总，情绪中性｜prokerala.com",
+      "source": "prokerala.com",
+      "url": "https://www.prokerala.com/news/articles/a1771682.html",
+      "publishedAt": "2026-06-05T09:00:00.000Z",
+      "tone": 0,
       "teamId": "paraguay"
     },
     {
-      "id": "gnews-27-164xn4w",
-      "title": "全球媒体关注：2026 世界杯最新动态汇总，情绪中性｜National Catholic Register",
-      "source": "National Catholic Register",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNWlRJTjBXRFV5OGtNajdMNkR1RFJQVnR4Z3lYaWstYjVOQi1qMUItc1QtVVljbEdqMzRUVm9wbEpJbmc4Z2NqV0JidFFDR1VXUHhWVC1DOGdiUUNWdWlETGEzMjFKQkdqTnh2bDYyYmYwbElSTW9GS2xyU0tqb1NJNi13UG5fbTVp0gGOAUFVX3lxTE50QzJSNTBRdlpTWGRscllkUzFhYUQ2eGxnVmpzNzMwVW5DMzJlM04yM2hTRnVsVDRfTWxkU1hpZS1PUkVfM3dNQVVUaVkwUm9LTUcyOHpfZmstVGtET3FLS0RzSEk3MXEzWkRRSS1NRlpOV0hDN01PYjhCRk1Pajl5Qnc3RVExdi1pQlV4aEE?oc=5",
-      "publishedAt": "2026-06-30T23:00:05.000Z",
-      "tone": 0.05
-    },
-    {
-      "id": "gnews-28-6w3itw",
-      "title": "挪威最新动态汇总，情绪中性｜FOX Sports",
-      "source": "FOX Sports",
-      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE8wM0E2UEk2NU4wTXYxZURKYndIaDhmcFNFREZyVzRBMjlmQjFBSTFISXhsWk5uU3hWN0N4NnQzdW16RzBkQUljN2RzVXFfTndMT0tGdnkyd3loYzJ1TXNDMkFR?oc=5",
-      "publishedAt": "2026-06-30T19:20:50.000Z",
-      "tone": 0.05,
-      "teamId": "norway"
-    },
-    {
-      "id": "gnews-29-t2bdt2",
-      "title": "全球媒体关注：2026 世界杯最新动态汇总，情绪中性｜ESPN",
-      "source": "ESPN",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPYnNlNjYxSVdKcnEtZmdaNE8tUDFtckwtbWtRdHdIbkE0NUM5UlFZYUplaHBVeTBzOUlJS3lJb0VSLU1ZMFpBWURMRHNlQjg5YTRKa1EwclhvR0ZxTXA5cDdWNkpIVGVVU0VTZHA0QnhpMGF4QXh5cHdzRF9TZkl6cHR3SWxLQl9TTE16dXNtR0VrNDQ?oc=5",
-      "publishedAt": "2026-06-30T21:57:24.000Z",
-      "tone": 0.05,
-      "teamId": "spain"
-    },
-    {
-      "id": "gnews-30-1pztg03",
-      "title": "墨西哥商业、出行与观赛服务升温，情绪中性｜Sky Sports",
-      "source": "Sky Sports",
-      "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNcHMyYjRiSE5QVWJyR19JZkl4SS1MMF9qU2dFa0R6NVhvRjRRM25TRkRXUXlvajhvVW5FeWktZm9yWWk3TEpxNDlacnBVYnljSGlmVzhOX2RFekpMeWMwNHVjWHphWjRpbnpyY3Z5VzdXb05PZ1lxN3A0Ym5NVFlNbEd0dmNZcC1JOGl6aGU3UllnaHkyVnRtTUFXbWJmUUVpc2hDVnc1Z0hubHVHU3RjaTl6NWZndVo3N3RvWmtRRllRU28wN3JMMFZ3amxUbXJSSUFKTTVVTHZUbmhwRHVoWVhGZmdLd2JlQ0V3LVk3cw?oc=5",
-      "publishedAt": "2026-06-30T20:38:28.000Z",
-      "tone": 0.05,
-      "teamId": "mexico"
-    },
-    {
-      "id": "gnews-31-yzup41",
-      "title": "全球媒体关注：2026 世界杯赛果与淘汰赛走势成为焦点，情绪偏积极｜ESPN",
-      "source": "ESPN",
-      "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxPZElKbjB3MmV2dUhhZ1p6OXBwRmVDX2t4bm9pNDlHWUtsWDNzMVdPbXpJWmhjR0xlaDZ6eWR5N3ZEd1RGbkQtUHdBUVlHQ3B6YTB5cmlKeEQtT1U3SFVfc2xVMG1UMW5WclgxaHBxdlNBQWJtVTZUSVRfS1hrSDU5dmd1eVJWZ0w3V1dnWnc4VHpheENiUk1PYlFzMndzWWxrR1Y5YzhKUERkc1ZNVDA0eHBFSUIteG9BUU16bXJUb0VxVHJhOTZWVURsVVppTDd4RXluQXBTZmtzUXZYNWJSWlJ6X3pKYUk3MUhlSGdLV3hOdmdES1pFWFZlbFQ?oc=5",
-      "publishedAt": "2026-07-01T01:58:00.000Z",
-      "tone": 0.35,
-      "teamId": "spain"
-    },
-    {
-      "id": "gnews-32-15nd85l",
-      "title": "全球媒体关注：2026 世界杯最新动态汇总，情绪偏积极｜olympics.com",
-      "source": "olympics.com",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOOURPV2F2X25vYldWNlhqZkhCdDU1NFNNN1ZLSXc3d0hRdUdnWEIzNGV6NlBTNkFZMGtVcVVLdUpYMDBwY0g1amJ4Nk53aXg2cGtheVdNNnNHMDFUdE9JN3dVWHRoSURhM1ZTa1R3ZzNlV0U1dllucHRDcWhWb0hzZzN2MTQtSUM3Y1ducDdIRQ?oc=5",
-      "publishedAt": "2026-06-29T06:34:00.000Z",
-      "tone": 0.05
-    },
-    {
-      "id": "gnews-33-mw3k88",
-      "title": "全球媒体关注：2026 世界杯赛程与小组形势更新，情绪中性｜The New York Times",
-      "source": "The New York Times",
-      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOOXFQSkFiVHJCTlRqSlY2WEZsc005VFFNOV9GQk5ZTlQzR2lFQnd1WkxBQV9ibm93NHBrTlhWSWwxdHBwUk5HLXhYdnBud25hTHdZU3pVMGZZWTZLNzZsYW14YmJicUEtNHl4ZDJFYlFYTUhtWmJIamt2UDVYU0NxakVxbGF2ZTgtM3lUQzdJNzB0YTNsMFJyVmpNeEhYa2lXRlV5Qk02MWpOd0hfR1dVTmttTnRzdFJtQmpfdzB1RVFWWTFTaG9UbkpiaEEycXFuTkpxVzJncXdVUEI4VjJz?oc=5",
-      "publishedAt": "2026-06-30T22:11:06.000Z",
-      "tone": 0.05
-    },
-    {
-      "id": "gnews-34-gps19e",
-      "title": "全球媒体关注：2026 世界杯最新动态汇总，情绪中性｜The New York Times",
-      "source": "The New York Times",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPTFJwM3JpWVBOM1NUQ1Exbm02djBOMlF3UjVFd2xmM2dkZWdNVGVpYVA1ZUwwMWYwelBZM1MwY2lvZS1kdTI5NkhuaGNDWDFUZGNETF8tLWQ4SmxQcUJ0RV9YYnhRR2hzVlE1NTk3WVJyYkQwUV9SSzM5bVpqVHZ5RHAtS043WnlRczVIUTFwVUZWQQ?oc=5",
-      "publishedAt": "2026-06-30T13:24:35.000Z",
-      "tone": 0.05
-    },
-    {
-      "id": "gnews-35-hmt5yh",
-      "title": "法国最新动态汇总，情绪中性｜FOX Sports",
-      "source": "FOX Sports",
-      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFA2NVpGb1hrNU1oXzdEelpJSXlqVWRXZ2haM0Z1S0pkMkx3Qm1BZGFGWFUyOF9HdTZVbGd5c0xQT3FWSlNJX1Q4R01LblJyOV9YdUxmNGJITkMzVWphMTdYZDVn?oc=5",
-      "publishedAt": "2026-06-30T22:55:24.000Z",
-      "tone": 0.05,
-      "teamId": "sweden"
-    },
-    {
-      "id": "gnews-36-17d2ea",
-      "title": "法国阵容与伤病动态值得关注，情绪中性｜Yahoo Sports",
-      "source": "Yahoo Sports",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFAtcng4WWZ2Ump0YzhfdVB5MHpFdXpCTlk0LTRPV1oxaVRwOVNnRFc2Q3VsNllZeENub2pxbERqUmZCSjhyR3NEQkpvaXR2TTdNVWZIZHNqVDA5VzNHYWVXUlVFOGY0UWRoRVhTbzJZY2RxR2hXUWpxRjU3aWVuQQ?oc=5",
-      "publishedAt": "2026-06-30T20:20:00.000Z",
-      "tone": 0.05,
-      "teamId": "sweden"
-    },
-    {
-      "id": "gnews-37-1nwxpzm",
-      "title": "巴西最新动态汇总，情绪中性｜FOX Sports",
-      "source": "FOX Sports",
-      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1mZHhGU0hWQmRpVVU0UUlEYmduSkxhVk94dGg5eEctenMzUjlHblB6TzBrLVBIUUwtZjk0UHJsVkVlVk5jUkpmSWlHTEtjWXV3T3EwR0IwT3dxSTVFYmtkclotWURpQXpOVVNvdnJRcllpNEFqbTMzONIBeEFVX3lxTE40aldNZG1OMF8tZU4tVURfWkFsSUhPTFJBVjlxUnFYSDIwaEdZbGV0ZDVMZXBFV0tzQ0tDVXZEbngyYW5vM0JSU2RLX2pLNk1TZjd5bVFIR3JBQjhWc2l1clFNMTRYYWxLR3dheWNtT1lQaXhoTk40OA?oc=5",
-      "publishedAt": "2026-06-30T05:56:00.000Z",
-      "tone": 0.05,
-      "teamId": "brazil"
-    },
-    {
-      "id": "gnews-38-16vvujj",
-      "title": "全球媒体关注：2026 世界杯最新动态汇总，情绪中性｜FOX Sports",
-      "source": "FOX Sports",
-      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5ZZDlPYlBBT1BnV0hNSTBocFo2WklORjEyU3FUWFZGakRaNTdUbk15QlRqQXRMM3BjSVpzZWxJdEdDeXNsX3NtanhaYUJOUm5Fc1R1eU9Ua05XaWoxcU13Z1Fn?oc=5",
-      "publishedAt": "2026-06-30T04:51:35.000Z",
-      "tone": 0.05,
-      "teamId": "portugal"
-    },
-    {
-      "id": "gnews-39-10xcbhd",
-      "title": "全球媒体关注：2026 世界杯最新动态汇总，情绪中性｜ESPN",
-      "source": "ESPN",
-      "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNZkhGa3prdnQxZzJvVF9pZW56bzlKV3lIcG52ei1qbXphTWhoQWtXQUtKd1l2TXljeTFQMkJwZ3h5QTJZZmRpcGZjTXNlX2dIemdmdXZ3RnZGR1l6S2tGaUpMT1JlN1g4NTFVQl9yU3dfQUJmZEJLLUJuRXY5MldQbmNNbVo5Zy10SEpJTHdQaXg5RG12UWJyQ0RTZzVMM2Npdk03dXVzMVlnWllBVTRYbG91NUVTMmU3dzNVVFBVaFBEQ0xmbnFhT1Y0aElCN1J3REtfeGlFY3lGWk9WZGpVeHluX1dScDVRcWw1MDdubw?oc=5",
-      "publishedAt": "2026-06-30T15:45:00.000Z",
-      "tone": 0.05,
-      "teamId": "netherlands"
-    },
-    {
-      "id": "gnews-40-11hzf9p",
-      "title": "全球媒体关注：2026 世界杯最新动态汇总，情绪中性｜ESPN",
-      "source": "ESPN",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQRjVuUGhuZVI1MW1uOWN5dnVHVU1CNFVLWktVNkowNkR4NzdmeE94Y3Q5NXN5Z1NmbVN4Tmdfdld5d3RTNDN0eTZBWFBMd2hsZUdSV0tqdS1XR3dtYzJGR3FiSElhM0o0ZkFpM25hVkNiUUMycHVLUVVrVHkzTWlySnVGZHhMY0hXTFd6OVUxY1N6elRndjdpdVd0emxsZDJhMGRzQURlNUdndw?oc=5",
-      "publishedAt": "2026-06-30T23:37:23.000Z",
-      "tone": 0.05,
-      "teamId": "spain"
-    },
-    {
-      "id": "gnews-41-1e6ggeo",
-      "title": "全球媒体关注：2026 世界杯最新动态汇总，情绪中性｜Reuters",
-      "source": "Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNWGhJRzRwaEFrMVV4RTF0eHVpX3BmdHlwMi04MGR3MU5OZnlmVWw4bC1TbVRXc0ZhdlpweXktYTUxMTk4cHZHZVUzQTREaWlja0t4SllmczNudGx3cmx2X3FFWlhhNVQ4UkFGSDY5Z3lpdE5sOUxrMUhzS2JDQkdTZldCSjA2aEpNS3BGcXptTkVQb2tIVjd6RmhTeFRDNmdFb1p2XzZyYU1VTVU?oc=5",
-      "publishedAt": "2026-07-01T01:08:00.000Z",
-      "tone": 0.05,
+      "id": "gdelt-39-180wyss",
+      "title": "全球媒体关注：2026 世界杯球迷声量和社交媒体讨论上升，情绪中性｜birminghammail.co.uk",
+      "source": "birminghammail.co.uk",
+      "url": "https://www.birminghammail.co.uk/whats-on/shopping/amazons-world-cup-2026-water-34128761",
+      "publishedAt": "2026-06-16T11:30:00.000Z",
+      "tone": 0,
       "teamId": "belgium"
     },
     {
-      "id": "gnews-42-1eermfq",
-      "title": "德国赛果与淘汰赛走势成为焦点，情绪中性｜Al Jazeera",
-      "source": "Al Jazeera",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFAwclJlQnI2TzVoTk1TamJSZWUybU5NUFhRQXRkUzhxcWRTWHlaZWYyb2tMSlotSHJBaDQ5YUFfaUpjbjhSbVhDVWZYelE1MWlwNDFHY013c2Y0aFZMQUtyZmN1Q1lISHA2R1I4NDBJNXhDSjdGenB6ZTBWd3BJQdIBgwFBVV95cUxOUTJpVFZSQURBLTJGTDZwSmhaWGFWWjZVY21MQkVMSnZNX2ZJa2NlUGlHUlNlQTQ0NUZUZDJReTJjcjNVQzJsMzUxZzdpd1dTZDA5XzNkbWNPb2U2eVB1Nm5pc1NLZ0U2VTdQZTR4R0dYeWtKaFk4R0tSb2M1Nk45RnhsOA?oc=5",
-      "publishedAt": "2026-07-01T03:22:25.000Z",
-      "tone": 0.05,
-      "teamId": "germany"
-    },
-    {
-      "id": "gnews-43-257m7m",
-      "title": "全球媒体关注：2026 世界杯赛程与小组形势更新，情绪中性｜The New York Times",
-      "source": "The New York Times",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNVnpTTVF2X0FqT2VwdUh1Y3k5STNQM1o3dm5SZm5RbVhqa1R3RzVzRE05eUI5dGhhOF9FQlNnamRQVjVfZC0tODEtM0pCazNDalpPSklYRGQ5aHVYVUdHRk1reDFmUFZ2U1JacDBrZXZYRDBoNW1DSl9XdGJ4RURMNk53ZFlCTm83cFE?oc=5",
-      "publishedAt": "2026-06-30T13:25:39.000Z",
-      "tone": 0.05
-    },
-    {
-      "id": "gnews-44-1xxqcsk",
-      "title": "法国最新动态汇总，情绪中性｜FOX Sports",
-      "source": "FOX Sports",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBCUFQ5bmJvclVBZjRHV3h6TEFJUjVKNC0zdGhKS0xZQkZLNl9rQmFWN01STmE2OFcxMWZUR0VFZ2h3YU84bDBjbU9vVFMtV2s3VDdaNjBVWllaQUpvcXY3dUN6S0x5NEY1SE55MWJ3?oc=5",
-      "publishedAt": "2026-06-30T23:32:02.000Z",
-      "tone": 0.05,
-      "teamId": "sweden"
-    },
-    {
-      "id": "gnews-45-2i582b",
-      "title": "全球媒体关注：2026 世界杯赛程与小组形势更新，情绪中性｜Radio Times",
-      "source": "Radio Times",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBVMkVNUjB4SGphWV9INzdsQUdLczJ3MmlXX3RGZEV3amZING14QTdSd3d2dXRoaXpwcHVlemhwQ2RDeWx2eWlaemZTNHZWSlBJTXdoTGh2MjZSQU1JNEJEU2JsU3QxUnZKS0FoLWJocXk?oc=5",
-      "publishedAt": "2026-06-30T19:39:30.000Z",
-      "tone": 0.05
-    },
-    {
-      "id": "gnews-46-fvfvsq",
-      "title": "全球媒体关注：2026 世界杯赛程与小组形势更新，情绪中性｜The Guardian",
-      "source": "The Guardian",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNYWU5bHEyQ3N1OFFQQ2tsaHNRamRIUkRieXVyU0R3aHZoX2FpYzlwY19NNFpqQ0ZsNnVLdmE0SzAzSmhQcHZNR3gyZ0d2UmxuOFVQMXNvLS1NZ1pFR0pSZDcxUFhHejB6U0t5cm90Q3QxbDhUYXdwWkVWeGxucmhmdG1mRkM?oc=5",
-      "publishedAt": "2026-06-30T17:29:00.000Z",
-      "tone": 0.05,
-      "teamId": "germany"
-    },
-    {
-      "id": "gnews-47-1vktfl7",
-      "title": "英格兰赛程与小组形势更新，情绪中性｜Sky Sports",
-      "source": "Sky Sports",
-      "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxOdndySmc2Mzl1Nk1lZnhGS1NSd2tyclBkOTZoblMySXgtUDNnMERlTUJLVG5Ib3lwQi1aM0xpbm8xaGZLZFZkcmQtZlNsOHJkcVpweG5UdHRyU3ctOWFEbEN0QmdqQV9VMEZiT0xTaFMtQXV0MmdFNW1xNkxFWVhYb2dFYXZLeGE2MFRHcGZFcVd0WEZ5M3ZTQmFVREVpQkc3Y3IyUkRXZVkwMUtTSHFZZ0xFOWVjdGpOMUNfVkVuN21IeU52QWNmV1FidjhTZ1RNbm1iaXZoT050TkNFb0hubkxyT3hkOFhrZ1ZjeENnbVpNeVpSN2pHN21WSGxPVEow?oc=5",
-      "publishedAt": "2026-07-01T02:22:08.000Z",
-      "tone": -0.35,
+      "id": "gdelt-40-1dufu4t",
+      "title": "全球媒体关注：2026 世界杯最新动态汇总，情绪中性｜mid-day.com",
+      "source": "mid-day.com",
+      "url": "https://www.mid-day.com/entertainment/korean-entertainment/article/blackpinks-lisa-joins-katy-perry-and-future-for-fifa-world-cup-2026-kick-off-23634979",
+      "publishedAt": "2026-06-13T08:00:00.000Z",
+      "tone": 0,
       "teamId": "turkey"
     },
     {
-      "id": "gnews-48-13aatbp",
-      "title": "全球媒体关注：2026 世界杯最新动态汇总，情绪中性｜Al Jazeera",
-      "source": "Al Jazeera",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOY2JubWhlMmFMYVd5RHZodVpqd2lvVXgyOTZjQW94Um85Z19rX0p6OFVuQXJzOGtrUWhydGV4dU5JWTJBMlBfc2lXbGhseHZLVlFzLVQzTExDR2l3QXdqTDhJd19mS1FyUFNzQzZZQmM5ZHZLQ0lWOXFZREZIZmFmdmV2d3JIcFhhY1lGRXhRam9Xby0tQWtlSVh5SjJzb3piZVE4Qy15c21ZV1dN0gGyAUFVX3lxTE1iUVZDTGMzczhxNUJIM3dpS3RHWGUyQ0ZQaktqYUpka2N4M2tEZDI4WWgyZXBRUll0enJuOE9PMVEwcXhSQjQyYVdydnQ4NVdQM0hXNkU4d1AyblN5bHBTZE16aWRIRmRBa2dXbmM0aWhWWnFGcEdRcktJYVdBZ2l5MjUxSE9hSlc5YVZZQ19MYXR3VnVwaFZPWUFtMWlEVGZsUV9vYnlxS2h0Sy1lY2FIeHc?oc=5",
-      "publishedAt": "2026-06-30T14:26:07.000Z",
-      "tone": -0.35
+      "id": "gdelt-41-8rpcgr",
+      "title": "卡塔尔最新动态汇总，情绪中性｜qatar-tribune.com",
+      "source": "qatar-tribune.com",
+      "url": "https://www.qatar-tribune.com/article/231572/latest-news/fifa-and-loc-announce-tournament-dates-for-fifa-u-17-world-cup-qatar-2026",
+      "publishedAt": "2026-04-29T16:00:00.000Z",
+      "tone": 0,
+      "teamId": "qatar"
     },
     {
-      "id": "gnews-49-126ue0g",
-      "title": "全球媒体关注：2026 世界杯赛程与小组形势更新，情绪中性｜Yahoo Sports",
-      "source": "Yahoo Sports",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxON1NHYnlLdTFqZ0RCTGFoZnh5MjVBYW4wcUY0ZUdZRlUtSjBoMHNTUE01bFROY0xRQmtsa3FzZ3NPOVd0Ull4VVlVXy00Nl9ua1hzdUJqWEZGS19xZFRFMTVacXR5bDMyejI4Z2lHR1VLdkxIMmRod0pJTVVKRTZSdU5SWURGQ1RyaDZpQU0tQ2szSTd2S0xyUTJiVXNWQ3hkVGNJNGJNMjRLZHpTNlVhODVhMDJXVndjNWc?oc=5",
-      "publishedAt": "2026-06-28T01:55:00.000Z",
-      "tone": 0.05,
-      "teamId": "portugal"
+      "id": "gdelt-42-nzse2j",
+      "title": "全球媒体关注：2026 世界杯最新动态汇总，情绪中性｜manchestereveningnews.co.uk",
+      "source": "manchestereveningnews.co.uk",
+      "url": "https://www.manchestereveningnews.co.uk/news/nostalgia/nostalgic-panini-stickers-return-world-34052790",
+      "publishedAt": "2026-06-06T11:15:00.000Z",
+      "tone": 0,
+      "teamId": "canada"
+    },
+    {
+      "id": "gdelt-43-10noaz8",
+      "title": "全球媒体关注：2026 世界杯最新动态汇总，情绪中性｜bournemouthecho.co.uk",
+      "source": "bournemouthecho.co.uk",
+      "url": "https://www.bournemouthecho.co.uk/news/26130334.panini-world-cup-2026-uk-tour-coming-bournemouth/",
+      "publishedAt": "2026-05-22T11:30:00.000Z",
+      "tone": 0,
+      "teamId": "panama"
+    },
+    {
+      "id": "gdelt-44-1bk5jic",
+      "title": "全球媒体关注：2026 世界杯赛果与淘汰赛走势成为焦点，情绪中性｜soompi.com",
+      "source": "soompi.com",
+      "url": "https://www.soompi.com/article/1841057wpp/bts-confirmed-to-headline-at-world-cup-final-halftime-show-with-madonna-and-shakira",
+      "publishedAt": "2026-05-14T07:15:00.000Z",
+      "tone": 0
+    },
+    {
+      "id": "gdelt-45-b7zoqi",
+      "title": "全球媒体关注：2026 世界杯赛果与淘汰赛走势成为焦点，情绪偏积极｜toffeeweb.com",
+      "source": "toffeeweb.com",
+      "url": "https://www.toffeeweb.com/favourites-to-win-world-cup-2026/",
+      "publishedAt": "2026-05-26T12:45:00.000Z",
+      "tone": 0
+    },
+    {
+      "id": "gdelt-46-1q6cp20",
+      "title": "全球媒体关注：2026 世界杯最新动态汇总，情绪中性｜indiawest.com",
+      "source": "indiawest.com",
+      "url": "https://indiawest.com/nora-fatehi-to-perform-at-fifa-2026-opening-ceremony/",
+      "publishedAt": "2026-05-11T22:00:00.000Z",
+      "tone": 0,
+      "teamId": "norway"
+    },
+    {
+      "id": "gdelt-47-1l92gkb",
+      "title": "全球媒体关注：2026 世界杯最新动态汇总，情绪中性｜prnewswire.com",
+      "source": "prnewswire.com",
+      "url": "https://www.prnewswire.com/news-releases/hisense-celebrates-fifa-world-cup-2026-kickoff-with-rgb-miniled-innovation-302798768.html",
+      "publishedAt": "2026-06-12T03:45:00.000Z",
+      "tone": 0,
+      "teamId": "brazil"
+    },
+    {
+      "id": "gdelt-48-1pawlf5",
+      "title": "全球媒体关注：2026 世界杯最新动态汇总，情绪中性｜tvtonight.com.au",
+      "source": "tvtonight.com.au",
+      "url": "https://tvtonight.com.au/2026/05/madonna-bts-shakira-for-world-cup-halftime-show.html",
+      "publishedAt": "2026-05-15T04:00:00.000Z",
+      "tone": 0
+    },
+    {
+      "id": "gdelt-49-161rcl6",
+      "title": "墨西哥最新动态汇总，情绪中性｜aninews.in",
+      "source": "aninews.in",
+      "url": "https://aninews.in/news/business/global-superstars-shakira-and-burna-boy-to-bring-dai-dai-to-the-world-stage-with-premiere-at-fifa-world-cup-20268482-opening-ceremony-in-mexico-city20260605182022/",
+      "publishedAt": "2026-06-05T13:30:00.000Z",
+      "tone": 0,
+      "teamId": "mexico"
     }
   ]
 }

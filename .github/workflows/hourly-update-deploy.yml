@@ -39,15 +39,17 @@ jobs:
       - name: Update data
         run: pnpm update:data
 
-      - name: Commit refreshed data
+      - name: Verify
+        run: pnpm lint && pnpm test && pnpm build
+
+      - name: Commit and push refreshed data
         run: |
           git config user.name "worldcupview-bot"
           git config user.email "worldcupview-bot@users.noreply.github.com"
           git add src/data/worldcup-data.json public/data/worldcup-data.json
-          git diff --cached --quiet || git commit -m "chore: refresh world cup data"
-
-      - name: Verify
-        run: pnpm lint && pnpm test && pnpm build
+          git diff --cached --quiet && exit 0
+          git commit -m "chore: refresh world cup data [skip ci]"
+          git push origin HEAD:${GITHUB_REF_NAME}
 
       - name: Install CloudBase CLI
         if: ${{ secrets.TCB_CLOUDBASE_API_KEY != '' && secrets.TCB_ENV_ID != '' }}

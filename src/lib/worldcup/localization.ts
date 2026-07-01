@@ -5,23 +5,24 @@ export type PlayerProfile = {
   headline: string;
 };
 
-const realPhotoBase = "https://commons.wikimedia.org/wiki/Special:FilePath/";
+const fallbackPlayerPhoto = "/player-photos/julian-quinones-20260701.png";
 
 const localPlayerPhotos: Record<string, string> = {
-  "Aymen Hussein 2024.jpg": "aymen-hussein.jpg",
-  "Brian Brobbey (2024).jpg": "brian-brobbey.jpg",
-  "Cody Gakpo 2022.jpg": "cody-gakpo.jpg",
-  "Elijah Just 2023.jpg": "elijah-just.jpg",
-  "Erling Haaland June 2025.jpg": "erling-haaland.jpg",
-  "Folarin Balogun 2023.jpg": "folarin-balogun.jpg",
-  "Jonathan David 2019.jpg": "jonathan-david.jpg",
-  "Kai Havertz 2019.jpg": "kai-havertz.jpg",
-  "Kylian Mbappé France.jpg": "kylian-mbappe.jpg",
-  "Lionel-Messi-Argentina-2022-FIFA-World-Cup (cropped).jpg": "lionel-messi.jpg",
-  "Matheus Cunha 2021.jpg": "matheus-cunha.jpg",
-  "Ousmane Dembélé 2018 (cropped).jpg": "ousmane-dembele.jpg",
-  "Pape Gueye 2021.jpg": "pape-gueye.jpg",
-  "Vinicius Jr 2021.jpg": "vinicius-jr.jpg",
+  "Aymen Hussein 2024.jpg": "aymen-hussein-20260701.jpg",
+  "Brian Brobbey (2024).jpg": "brian-brobbey-20260701.jpg",
+  "Cody Gakpo 2022.jpg": "cody-gakpo-20260701.jpg",
+  "Elijah Just 2023.jpg": "elijah-just-20260701.jpg",
+  "Erling Haaland June 2025.jpg": "erling-haaland-20260701.jpg",
+  "Folarin Balogun 2023.jpg": "folarin-balogun-20260701.jpg",
+  "Jonathan David 2019.jpg": "jonathan-david-20260701.jpg",
+  "Julián Quiñones 2023.jpg": "julian-quinones-20260701.png",
+  "Kai Havertz 2019.jpg": "kai-havertz-20260701.jpg",
+  "Kylian Mbappé France.jpg": "kylian-mbappe-20260701.jpg",
+  "Lionel-Messi-Argentina-2022-FIFA-World-Cup (cropped).jpg": "lionel-messi-20260701.jpg",
+  "Matheus Cunha 2021.jpg": "matheus-cunha-20260701.jpg",
+  "Ousmane Dembélé 2018 (cropped).jpg": "ousmane-dembele-20260701.jpg",
+  "Pape Gueye 2021.jpg": "pape-gueye-20260701.jpg",
+  "Vinicius Jr 2021.jpg": "vinicius-jr-20260701.jpg",
 };
 
 const knownPlayers: Record<string, PlayerProfile> = {
@@ -127,8 +128,8 @@ export function getPlayerProfile(name: string): PlayerProfile {
 
   return {
     displayName: `外文名：${toReadableName(repaired)}`,
-    photoUrl: `${realPhotoBase}${encodeURIComponent("Association football match 2022.jpg")}`,
-    photoCredit: "Wikimedia Commons real football photo",
+    photoUrl: fallbackPlayerPhoto,
+    photoCredit: "Wikimedia Commons real player photo",
     headline: "本届进球球员",
   };
 }
@@ -156,7 +157,7 @@ function profile(displayName: string, fileName: string, headline: string): Playe
 
   return {
     displayName,
-    photoUrl: localPhoto ? `/player-photos/${localPhoto}` : `${realPhotoBase}${encodeURIComponent(fileName)}`,
+    photoUrl: localPhoto ? `/player-photos/${localPhoto}` : fallbackPlayerPhoto,
     photoCredit: "Wikimedia Commons real player photo",
     headline,
   };

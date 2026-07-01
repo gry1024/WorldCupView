@@ -588,6 +588,9 @@ h2 {
   grid-template-rows: 30px repeat(8, minmax(0, 1fr));
   gap: 7px;
   padding: 10px;
+  overflow-x: hidden;
+  overflow-y: auto;
+  overscroll-behavior: contain;
 }
 
 .column-title {
@@ -1265,6 +1268,7 @@ h2 {
   .match-column {
     grid-template-rows: none;
     grid-auto-rows: auto;
+    overflow: visible;
   }
 
   .match-card {

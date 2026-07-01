@@ -373,7 +373,7 @@ function PlayersPanel({ topScorers, teams }: { topScorers: ReturnType<typeof ran
         {topScorers.map((player, index) => (
           <div className="scorer-row" key={player.playerId}>
             <span>{index + 1}</span>
-            <Image src={assetSrc(player.image)} alt={player.name} width={34} height={34} unoptimized />
+            <Image src={assetSrc(player.image)} alt={player.name} width={34} height={34} unoptimized loading="eager" />
             <strong>{player.name}</strong>
             <em>{teams.get(player.teamId)?.name}</em>
             <b>{player.goals}球</b>
