@@ -1,3 +1,4 @@
+import { getPlayerProfile, repairPlayerName } from "./localization";
 import type { Match, MatchScorer, MatchStage, MatchStats, NewsItem, Player, SocialSignal, Team, WorldCupData } from "./types";
 
 type WorldCup26Team = {
@@ -84,53 +85,54 @@ const teamNameZh: Record<string, string> = {
 };
 
 const confederationByCode: Record<string, string> = {
-  ARG: "CONMEBOL",
-  AUS: "AFC",
-  AUT: "UEFA",
-  BEL: "UEFA",
-  BIH: "UEFA",
-  BRA: "CONMEBOL",
-  CAN: "CONCACAF",
-  CIV: "CAF",
-  COD: "CAF",
-  COL: "CONMEBOL",
-  CPV: "CAF",
-  CRO: "UEFA",
-  CUW: "CONCACAF",
-  CZE: "UEFA",
-  ECU: "CONMEBOL",
-  EGY: "CAF",
-  ENG: "UEFA",
-  ESP: "UEFA",
-  FRA: "UEFA",
-  GER: "UEFA",
-  GHA: "CAF",
-  HAI: "CONCACAF",
-  IRN: "AFC",
-  IRQ: "AFC",
-  JOR: "AFC",
-  JPN: "AFC",
-  KOR: "AFC",
-  KSA: "AFC",
-  MAR: "CAF",
-  MEX: "CONCACAF",
-  NED: "UEFA",
-  NOR: "UEFA",
-  NZL: "OFC",
-  PAN: "CONCACAF",
-  PAR: "CONMEBOL",
-  POR: "UEFA",
-  QAT: "AFC",
-  RSA: "CAF",
-  SCO: "UEFA",
-  SEN: "CAF",
-  SUI: "UEFA",
-  SWE: "UEFA",
-  TUN: "CAF",
-  TUR: "UEFA",
-  URU: "CONMEBOL",
-  USA: "CONCACAF",
-  UZB: "AFC",
+  ARG: "南美足联",
+  AUS: "亚足联",
+  AUT: "欧洲足联",
+  BEL: "欧洲足联",
+  BIH: "欧洲足联",
+  BRA: "南美足联",
+  CAN: "中北美及加勒比足联",
+  CIV: "非洲足联",
+  COD: "非洲足联",
+  COL: "南美足联",
+  CPV: "非洲足联",
+  CRO: "欧洲足联",
+  CUW: "中北美及加勒比足联",
+  CZE: "欧洲足联",
+  ECU: "南美足联",
+  EGY: "非洲足联",
+  ENG: "欧洲足联",
+  ESP: "欧洲足联",
+  FRA: "欧洲足联",
+  GER: "欧洲足联",
+  GHA: "非洲足联",
+  HAI: "中北美及加勒比足联",
+  ALG: "非洲足联",
+  IRN: "亚足联",
+  IRQ: "亚足联",
+  JOR: "亚足联",
+  JPN: "亚足联",
+  KOR: "亚足联",
+  KSA: "亚足联",
+  MAR: "非洲足联",
+  MEX: "中北美及加勒比足联",
+  NED: "欧洲足联",
+  NOR: "欧洲足联",
+  NZL: "大洋洲足联",
+  PAN: "中北美及加勒比足联",
+  PAR: "南美足联",
+  POR: "欧洲足联",
+  QAT: "亚足联",
+  RSA: "非洲足联",
+  SCO: "欧洲足联",
+  SEN: "非洲足联",
+  SUI: "欧洲足联",
+  SWE: "欧洲足联",
+  TUN: "非洲足联",
+  TUR: "欧洲足联",
+  URU: "南美足联",
+  USA: "中北美及加勒比足联",
+  UZB: "亚足联",
 };
 
 const rankByCode: Record<string, number> = {
@@ -260,10 +262,10 @@ export function parseScorers(raw: string | undefined, teamId: string): MatchScor
 
       const base = Number(minuteMatch[1]);
       const stoppage = minuteMatch[2] ? Number(minuteMatch[2]) : 0;
-      const playerName = entry
+      const playerName = repairPlayerName(entry
         .slice(0, minuteMatch.index)
         .replace(/\(p\)|pen\.?|own goal/gi, "")
-        .trim();
+        .trim());
 
       return {
         playerName,
@@ -354,9 +356,10 @@ function buildPlayers(teams: Team[], matches: Match[]): Player[] {
   for (const team of teams) {
     for (const name of team.starPlayers) {
       const id = slugifyName(name);
+      const profile = getPlayerProfile(name);
       playerByName.set(id, {
         id,
-        name,
+        name: profile.displayName,
         teamId: team.id,
         position: guessPosition(name),
         goals: 0,
@@ -364,8 +367,8 @@ function buildPlayers(teams: Team[], matches: Match[]): Player[] {
         shots: 0,
         shotsOnTarget: 0,
         xg: 0,
-        image: playerAvatar(name),
-        headline: "核心球员",
+        image: profile.photoUrl,
+        headline: profile.headline,
       });
     }
   }
@@ -382,9 +385,10 @@ function buildPlayers(teams: Team[], matches: Match[]): Player[] {
         continue;
       }
 
+      const profile = getPlayerProfile(scorer.playerName);
       playerByName.set(id, {
         id,
-        name: scorer.playerName,
+        name: profile.displayName,
         teamId: scorer.teamId,
         position: guessPosition(scorer.playerName),
         goals: 0,
@@ -392,8 +396,8 @@ function buildPlayers(teams: Team[], matches: Match[]): Player[] {
         shots: 2,
         shotsOnTarget: 1,
         xg: 0.32,
-        image: playerAvatar(scorer.playerName),
-        headline: "本届已有进球",
+        image: profile.photoUrl,
+        headline: profile.headline,
       });
     }
   }
@@ -501,7 +505,13 @@ function buildHighlights(scorers: MatchScorer[], homeName?: string, awayName?: s
   if (status === "upcoming") return ["赛前阵容与赔率持续更新", "开赛前可进行模拟投注"];
   if (scorers.length === 0) return ["防守质量高于进攻转化", "门将和定位球成为关键变量"];
 
-  return scorers.slice(0, 3).map((scorer) => `${scorer.minute}' ${scorer.playerName ?? "进球队员"} 改写比分`).concat(`${homeName ?? "主队"} vs ${awayName ?? "客队"} 技术统计已生成`);
+  return scorers
+    .slice(0, 3)
+    .map((scorer) => {
+      const displayName = scorer.playerName ? getPlayerProfile(scorer.playerName).displayName : "进球队员";
+      return `${scorer.minute}' ${displayName} 改写比分`;
+    })
+    .concat(`${homeName ?? "主队"} 对阵 ${awayName ?? "客队"} 技术统计已生成`);
 }
 
 function stadiumName(id?: string): string {
@@ -513,22 +523,22 @@ function stadiumCity(id?: string): string {
 }
 
 const stadiums: Record<string, { name: string; city: string }> = {
-  "1": { name: "Estadio Azteca", city: "Mexico City" },
-  "2": { name: "Guadalajara Stadium", city: "Guadalajara" },
-  "3": { name: "Monterrey Stadium", city: "Monterrey" },
-  "4": { name: "MetLife Stadium", city: "New York New Jersey" },
-  "5": { name: "AT&T Stadium", city: "Dallas" },
-  "6": { name: "NRG Stadium", city: "Houston" },
-  "7": { name: "Mercedes-Benz Stadium", city: "Atlanta" },
-  "8": { name: "Hard Rock Stadium", city: "Miami" },
-  "9": { name: "Arrowhead Stadium", city: "Kansas City" },
-  "10": { name: "Lincoln Financial Field", city: "Philadelphia" },
-  "11": { name: "Gillette Stadium", city: "Boston" },
-  "12": { name: "Levi's Stadium", city: "San Francisco Bay Area" },
-  "13": { name: "SoFi Stadium", city: "Los Angeles" },
-  "14": { name: "Lumen Field", city: "Seattle" },
-  "15": { name: "BC Place", city: "Vancouver" },
-  "16": { name: "BMO Field", city: "Toronto" },
+  "1": { name: "阿兹特克体育场", city: "墨西哥城" },
+  "2": { name: "瓜达拉哈拉体育场", city: "瓜达拉哈拉" },
+  "3": { name: "蒙特雷体育场", city: "蒙特雷" },
+  "4": { name: "大都会人寿体育场", city: "纽约/新泽西" },
+  "5": { name: "AT&T 体育场", city: "达拉斯" },
+  "6": { name: "NRG 体育场", city: "休斯敦" },
+  "7": { name: "梅赛德斯-奔驰体育场", city: "亚特兰大" },
+  "8": { name: "硬石体育场", city: "迈阿密" },
+  "9": { name: "箭头体育场", city: "堪萨斯城" },
+  "10": { name: "林肯金融球场", city: "费城" },
+  "11": { name: "吉列体育场", city: "波士顿" },
+  "12": { name: "李维斯体育场", city: "旧金山湾区" },
+  "13": { name: "SoFi 体育场", city: "洛杉矶" },
+  "14": { name: "卢门球场", city: "西雅图" },
+  "15": { name: "BC 广场", city: "温哥华" },
+  "16": { name: "BMO 球场", city: "多伦多" },
 };
 
 function teamStrength(team?: Team): number {
@@ -559,10 +569,6 @@ function guessPosition(name: string): string {
   if (/mbapp|haaland|kane|ronaldo|gimenez|david|vinicius|rodrygo|leão|yamal/i.test(name)) return "FW";
   if (/bellingham|pedri|odegaard|mckennie|alvarez/i.test(name)) return "MF";
   return "AM";
-}
-
-function playerAvatar(name: string): string {
-  return `https://api.dicebear.com/9.x/personas/svg?seed=${encodeURIComponent(name)}&backgroundColor=0a7f5a,f5c542,1f4e79`;
 }
 
 function clamp(value: number, min: number, max: number): number {

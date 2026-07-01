@@ -30,3 +30,17 @@ test("visitors can inspect teams and place a simulated bet", async ({ page }) =>
   await page.getByRole("button", { name: /主胜/ }).first().click();
   await expect(page.getByText(/已下注/)).toBeVisible();
 });
+
+test("players section renders real non-cartoon player photos", async ({ page }) => {
+  await page.goto("/");
+
+  await page.getByRole("tab", { name: "球员" }).click();
+  const leaderPhoto = page.locator(".player-leader img").first();
+
+  await expect(leaderPhoto).toBeVisible();
+  await expect(leaderPhoto).toHaveAttribute("src", /commons\.wikimedia\.org|upload\.wikimedia\.org/);
+  await expect(leaderPhoto).not.toHaveAttribute("src", /dicebear/);
+  await expect
+    .poll(async () => leaderPhoto.evaluate((image) => (image as HTMLImageElement).naturalWidth), { timeout: 15_000 })
+    .toBeGreaterThan(40);
+});

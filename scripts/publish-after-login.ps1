@@ -1,6 +1,6 @@
 param(
   [string]$RepoName = "WorldCupView",
-  [string]$CloudPath = "/worldcupview",
+  [string]$CloudPath = "worldcupview",
   [string]$PublicUrl = "",
   [switch]$SkipCloudBaseDeploy
 )
@@ -66,16 +66,13 @@ if (git remote get-url origin 2>$null) {
 Run { git push -u origin main }
 
 $tcbEnvId = Require-Env "TCB_ENV_ID"
-$tcbSecretId = Require-Env "TCB_SECRET_ID"
-$tcbSecretKey = Require-Env "TCB_SECRET_KEY"
+$tcbCloudBaseApiKey = Require-Env "TCB_CLOUDBASE_API_KEY"
 
 Write-Host "Writing CloudBase secrets to GitHub Actions"
 $tcbEnvId | gh secret set TCB_ENV_ID --repo $repoFullName
 if ($LASTEXITCODE -ne 0) { throw "Failed to set TCB_ENV_ID secret." }
-$tcbSecretId | gh secret set TCB_SECRET_ID --repo $repoFullName
-if ($LASTEXITCODE -ne 0) { throw "Failed to set TCB_SECRET_ID secret." }
-$tcbSecretKey | gh secret set TCB_SECRET_KEY --repo $repoFullName
-if ($LASTEXITCODE -ne 0) { throw "Failed to set TCB_SECRET_KEY secret." }
+$tcbCloudBaseApiKey | gh secret set TCB_CLOUDBASE_API_KEY --repo $repoFullName
+if ($LASTEXITCODE -ne 0) { throw "Failed to set TCB_CLOUDBASE_API_KEY secret." }
 
 if (-not [string]::IsNullOrWhiteSpace($PublicUrl)) {
   $readmePath = Join-Path $gitRoot "README.md"
@@ -91,9 +88,11 @@ Run { pnpm verify }
 
 if (-not $SkipCloudBaseDeploy) {
   Write-Host "Deploying static site to CloudBase path $CloudPath"
-  Run { pnpm --package=@cloudbase/cli dlx tcb login --apiKeyId $tcbSecretId --apiKey $tcbSecretKey }
+  Run { pnpm --package=@cloudbase/cli dlx tcb login --cloudbase-api-key $tcbCloudBaseApiKey -e $tcbEnvId }
+  $normalizedCloudPath = $CloudPath.Trim("/")
+  $env:NEXT_PUBLIC_BASE_PATH = "/$normalizedCloudPath"
   Run { pnpm build }
-  Run { pnpm --package=@cloudbase/cli dlx tcb hosting deploy ./out $CloudPath -e $tcbEnvId }
+  Run { pnpm --package=@cloudbase/cli dlx tcb hosting deploy ./out $normalizedCloudPath -e $tcbEnvId }
 }
 
 Write-Host "Published $repoFullName and deployed CloudBase path $CloudPath"

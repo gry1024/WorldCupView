@@ -1,5 +1,9 @@
 import { defineConfig, devices } from "@playwright/test";
 
+for (const key of ["HTTP_PROXY", "HTTPS_PROXY", "ALL_PROXY", "NO_PROXY", "http_proxy", "https_proxy", "all_proxy", "no_proxy"]) {
+  process.env[key] = "";
+}
+
 export default defineConfig({
   testDir: "./tests",
   timeout: 30_000,

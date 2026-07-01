@@ -8,7 +8,7 @@ describe("WorldCup26 data normalization", () => {
     expect(scorers).toEqual([
       { playerName: "Kylian Mbappé", teamId: "france", minute: 14 },
       { playerName: "Kylian Mbappé", teamId: "france", minute: 54 },
-      { playerName: "H. Kane", teamId: "france", minute: 94 },
+      { playerName: "Harry Kane", teamId: "france", minute: 94 },
     ]);
   });
 
@@ -74,6 +74,7 @@ describe("WorldCup26 data normalization", () => {
       name: "墨西哥",
       code: "MEX",
       group: "A",
+      confederation: "中北美及加勒比足联",
       flagImage: "https://flagcdn.com/w80/mx.png",
     });
     expect(data.matches[0]).toMatchObject({
@@ -84,7 +85,11 @@ describe("WorldCup26 data normalization", () => {
       status: "finished",
       homeScore: 2,
       awayScore: 1,
+      venue: "阿兹特克体育场",
+      city: "墨西哥城",
     });
+    expect(data.matches[0].highlights).toContain("墨西哥 对阵 加拿大 技术统计已生成");
+    expect(data.matches[0].highlights.join(" ")).toContain("希门尼斯");
     expect(data.matches[0].scorers).toHaveLength(2);
   });
 });

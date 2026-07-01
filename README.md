@@ -1,4 +1,4 @@
-网址：CloudBase 子域名待绑定；默认部署路径 `/worldcupview`；本地预览 `http://127.0.0.1:3100/`
+网址：https://groy-env-d5g7okht7dcd202fe-1401196005.tcloudbaseapp.com/worldcupview/
 
 # WorldCupView
 
@@ -34,29 +34,27 @@ pnpm e2e
 
 ## 部署
 
-项目静态导出到 `out/`，避免覆盖 CloudBase 根域名，默认上传到 `/worldcupview`。
+项目静态导出到 `out/`，避免覆盖 CloudBase 根域名，默认上传到 `worldcupview` 目录；构建时使用 `NEXT_PUBLIC_BASE_PATH=/worldcupview` 生成子路径资源。
 
 GitHub 仓库 secrets：
 
 - `TCB_ENV_ID`
-- `TCB_SECRET_ID`
-- `TCB_SECRET_KEY`
+- `TCB_CLOUDBASE_API_KEY`
 
 手动部署：
 
 ```bash
-pnpm build
+NEXT_PUBLIC_BASE_PATH=/worldcupview pnpm build
 npm install -g @cloudbase/cli
-tcb login --apiKeyId "$TCB_SECRET_ID" --apiKey "$TCB_SECRET_KEY"
-tcb hosting deploy ./out /worldcupview -e "$TCB_ENV_ID"
+tcb login --cloudbase-api-key "$TCB_CLOUDBASE_API_KEY" -e "$TCB_ENV_ID"
+tcb hosting deploy ./out worldcupview -e "$TCB_ENV_ID"
 ```
 
 登录和密钥环境变量准备好后，可一键开源并部署：
 
 ```powershell
 $env:TCB_ENV_ID="your-cloudbase-env-id"
-$env:TCB_SECRET_ID="your-tencent-secret-id"
-$env:TCB_SECRET_KEY="your-tencent-secret-key"
+$env:TCB_CLOUDBASE_API_KEY="your-cloudbase-api-key"
 gh auth login -h github.com
 pnpm publish:after-login -- -PublicUrl "https://your-subdomain.example.com/worldcupview/"
 ```

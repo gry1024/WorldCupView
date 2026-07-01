@@ -34,6 +34,7 @@ const tabs: Array<{ key: TabKey; label: string; icon: React.ComponentType<{ size
 ];
 
 const stake = 50;
+const basePath = process.env.NEXT_PUBLIC_BASE_PATH ?? "";
 
 export function WorldCupViewApp({ initialData }: { initialData: WorldCupData }) {
   const [data, setData] = useState(initialData);
@@ -72,7 +73,7 @@ export function WorldCupViewApp({ initialData }: { initialData: WorldCupData }) 
   useEffect(() => {
     const refresh = async () => {
       try {
-        const response = await fetch(`/data/worldcup-data.json?ts=${Date.now()}`, { cache: "no-store" });
+        const response = await fetch(`${basePath}/data/worldcup-data.json?ts=${Date.now()}`, { cache: "no-store" });
         if (!response.ok) return;
         const nextData = (await response.json()) as WorldCupData;
         setData(nextData);
@@ -229,7 +230,7 @@ function OverviewPanel({
       <section className="pitch-card player-race">
         <div className="section-heading">
           <span>射手榜</span>
-          <strong>Top 6</strong>
+          <strong>前六</strong>
         </div>
         <div className="compact-rank">
           {topScorers.slice(0, 6).map((player, index) => (
@@ -329,6 +330,11 @@ function MatchColumn({
             <strong>{matchName(match, teamById, "away")}</strong>
           </div>
           <p>{match.summary}</p>
+          <div className="highlight-chips" aria-label="比赛亮点">
+            {match.highlights.slice(0, 2).map((highlight) => (
+              <span key={highlight}>{highlight}</span>
+            ))}
+          </div>
           {match.stats && (
             <div className="stat-bars">
               <Bar label="射门" left={match.stats.homeShots} right={match.stats.awayShots} />
@@ -353,7 +359,8 @@ function PlayersPanel({ topScorers, teams }: { topScorers: ReturnType<typeof ran
             <p className="eyebrow">金靴领跑</p>
             <h2>{leader.name}</h2>
             <strong>{leader.goals} 球 · {teams.get(leader.teamId)?.name}</strong>
-            <span>{leader.shotsOnTarget} 次射正 / xG {leader.xg.toFixed(2)}</span>
+            <span>{leader.shotsOnTarget} 次射正 / 预期进球 {leader.xg.toFixed(2)}</span>
+            <small>真实球员照片 · 维基共享资源</small>
           </div>
         </section>
       )}
@@ -364,7 +371,7 @@ function PlayersPanel({ topScorers, teams }: { topScorers: ReturnType<typeof ran
             <Image src={player.image} alt={player.name} width={34} height={34} unoptimized />
             <strong>{player.name}</strong>
             <em>{teams.get(player.teamId)?.name}</em>
-            <b>{player.goals}</b>
+            <b>{player.goals}球</b>
             <div className="mini-meter">
               <i style={{ width: `${Math.min(100, player.shotsOnTarget * 13)}%` }} />
             </div>
@@ -466,7 +473,7 @@ function PulsePanel({ data, teamById }: { data: WorldCupData; teamById: Map<stri
         </div>
         {data.news.slice(0, 10).map((item) => (
           <a className="pulse-headline" href={item.url} key={item.id} target="_blank" rel="noreferrer">
-            <span>{item.source}</span>
+            <span>来源：{item.source}</span>
             <strong>{item.title}</strong>
             <em>{item.tone >= 0 ? "情绪偏正" : "情绪偏负"}</em>
           </a>
@@ -503,7 +510,7 @@ function BettingPanel({
             <div key={bet.id}>
               <span>已下注</span>
               <strong>{bet.stake} @ {bet.odds}</strong>
-              <em>{bet.status}</em>
+              <em>{betStatusText(bet.status)}</em>
             </div>
           ))}
         </div>
@@ -565,8 +572,15 @@ function MetricPill({ icon: Icon, label, value }: { icon: React.ComponentType<{ 
 }
 
 function ScoreInline({ match }: { match: Match }) {
-  if (match.status === "upcoming") return <span className="score-inline">vs</span>;
+  if (match.status === "upcoming") return <span className="score-inline">对阵</span>;
   return <span className="score-inline">{match.homeScore ?? 0}:{match.awayScore ?? 0}</span>;
+}
+
+function betStatusText(status: Wallet["bets"][number]["status"]) {
+  if (status === "open") return "待开奖";
+  if (status === "won") return "已赢";
+  if (status === "lost") return "未中";
+  return "已退回";
 }
 
 function Bar({ label, left, right }: { label: string; left: number; right: number }) {
