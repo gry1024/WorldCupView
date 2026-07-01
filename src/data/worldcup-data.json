@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-01T19:07:10.378Z",
+  "updatedAt": "2026-07-01T20:53:36.170Z",
   "sources": [
     "https://worldcup26.ir/get/teams",
     "https://worldcup26.ir/get/games",
@@ -2880,9 +2880,9 @@
       "position": "AM",
       "goals": 0,
       "assists": 0,
-      "shots": 2,
-      "shotsOnTarget": 1,
-      "xg": 0.32,
+      "shots": 4,
+      "shotsOnTarget": 2,
+      "xg": 0.64,
       "image": "/player-photos/julian-quinones-20260701.png",
       "headline": "本届进球球员"
     },
@@ -7536,17 +7536,35 @@
       "awayTeamId": "senegal",
       "homeTeamLabel": "Winner Group G",
       "awayTeamLabel": "3rd Group A/E/H/I/J",
-      "status": "upcoming",
+      "status": "live",
+      "homeScore": 0,
+      "awayScore": 1,
       "odds": {
         "home": 2.2,
         "draw": 4.95,
         "away": 2.53
       },
-      "scorers": [],
-      "summary": "比利时 对 塞内加尔 将在 07/01/2026 13:00 开球。",
+      "stats": {
+        "homeShots": 12,
+        "awayShots": 11,
+        "homeShotsOnTarget": 4,
+        "awayShotsOnTarget": 5,
+        "homePossession": 56,
+        "awayPossession": 44,
+        "homeCorners": 4,
+        "awayCorners": 4
+      },
+      "scorers": [
+        {
+          "playerName": "Habib Diarra",
+          "teamId": "senegal",
+          "minute": 25
+        }
+      ],
+      "summary": "比利时 对 塞内加尔 正在进行，当前比分 0-1。",
       "highlights": [
-        "赛前阵容与赔率持续更新",
-        "开赛前可进行模拟投注"
+        "25' 外文名：Habib Diarra 改写比分",
+        "比利时 对阵 塞内加尔 技术统计已生成"
       ]
     },
     {
