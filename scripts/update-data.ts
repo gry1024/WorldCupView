@@ -207,7 +207,7 @@ function refreshCachedData(data: WorldCupData, news: NewsItem[]): WorldCupData {
       confederation: chineseConfederation(team.confederation, team.code),
     })),
     players: data.players.map((player) => {
-      if (!player.name.startsWith("外文名：") && !player.image.includes("dicebear")) return player;
+      if (!player.name.startsWith("外文名：") && !shouldRefreshPlayerImage(player.image)) return player;
       const profile = getPlayerProfile(player.name.replace(/^外文名：/, ""));
       return {
         ...player,
@@ -227,6 +227,10 @@ function refreshCachedData(data: WorldCupData, news: NewsItem[]): WorldCupData {
       highlights: match.highlights.map(repairHighlight),
     })),
   };
+}
+
+function shouldRefreshPlayerImage(image: string): boolean {
+  return image.includes("dicebear") || image.includes("commons.wikimedia.org") || image.includes("upload.wikimedia.org");
 }
 
 async function withRetry<T>(label: string, request: () => Promise<T>): Promise<T> {

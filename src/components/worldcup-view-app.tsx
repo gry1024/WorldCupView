@@ -36,6 +36,11 @@ const tabs: Array<{ key: TabKey; label: string; icon: React.ComponentType<{ size
 const stake = 50;
 const basePath = process.env.NEXT_PUBLIC_BASE_PATH ?? "";
 
+function assetSrc(src: string) {
+  if (!basePath || !src.startsWith("/")) return src;
+  return `${basePath}${src}`;
+}
+
 export function WorldCupViewApp({ initialData }: { initialData: WorldCupData }) {
   const [data, setData] = useState(initialData);
   const [activeTab, setActiveTab] = useState<TabKey>("overview");
@@ -354,7 +359,7 @@ function PlayersPanel({ topScorers, teams }: { topScorers: ReturnType<typeof ran
     <div className="players-grid">
       {leader && (
         <section className="pitch-card player-leader">
-          <Image src={leader.image} alt={leader.name} width={160} height={160} unoptimized priority />
+          <Image src={assetSrc(leader.image)} alt={leader.name} width={160} height={160} unoptimized priority />
           <div>
             <p className="eyebrow">金靴领跑</p>
             <h2>{leader.name}</h2>
@@ -368,7 +373,7 @@ function PlayersPanel({ topScorers, teams }: { topScorers: ReturnType<typeof ran
         {topScorers.map((player, index) => (
           <div className="scorer-row" key={player.playerId}>
             <span>{index + 1}</span>
-            <Image src={player.image} alt={player.name} width={34} height={34} unoptimized />
+            <Image src={assetSrc(player.image)} alt={player.name} width={34} height={34} unoptimized />
             <strong>{player.name}</strong>
             <em>{teams.get(player.teamId)?.name}</em>
             <b>{player.goals}球</b>
@@ -417,7 +422,7 @@ function TeamsPanel({
 
       <section className="pitch-card team-detail">
         <div className="team-crest" style={{ background: `linear-gradient(135deg, ${selectedTeam.palette[0]}, ${selectedTeam.palette[1]})` }}>
-          {selectedTeam.flagImage && <Image src={selectedTeam.flagImage} alt={selectedTeam.name} width={84} height={56} unoptimized />}
+          {selectedTeam.flagImage && <Image src={assetSrc(selectedTeam.flagImage)} alt={selectedTeam.name} width={84} height={56} unoptimized />}
         </div>
         <div>
           <p className="eyebrow">国家队全景</p>

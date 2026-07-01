@@ -7,6 +7,23 @@ export type PlayerProfile = {
 
 const realPhotoBase = "https://commons.wikimedia.org/wiki/Special:FilePath/";
 
+const localPlayerPhotos: Record<string, string> = {
+  "Aymen Hussein 2024.jpg": "aymen-hussein.jpg",
+  "Brian Brobbey (2024).jpg": "brian-brobbey.jpg",
+  "Cody Gakpo 2022.jpg": "cody-gakpo.jpg",
+  "Elijah Just 2023.jpg": "elijah-just.jpg",
+  "Erling Haaland June 2025.jpg": "erling-haaland.jpg",
+  "Folarin Balogun 2023.jpg": "folarin-balogun.jpg",
+  "Jonathan David 2019.jpg": "jonathan-david.jpg",
+  "Kai Havertz 2019.jpg": "kai-havertz.jpg",
+  "Kylian Mbappé France.jpg": "kylian-mbappe.jpg",
+  "Lionel-Messi-Argentina-2022-FIFA-World-Cup (cropped).jpg": "lionel-messi.jpg",
+  "Matheus Cunha 2021.jpg": "matheus-cunha.jpg",
+  "Ousmane Dembélé 2018 (cropped).jpg": "ousmane-dembele.jpg",
+  "Pape Gueye 2021.jpg": "pape-gueye.jpg",
+  "Vinicius Jr 2021.jpg": "vinicius-jr.jpg",
+};
+
 const knownPlayers: Record<string, PlayerProfile> = {
   "lionel messi": profile("梅西", "Lionel-Messi-Argentina-2022-FIFA-World-Cup (cropped).jpg", "阿根廷领袖"),
   "erling haaland": profile("哈兰德", "Erling Haaland June 2025.jpg", "挪威终结者"),
@@ -135,9 +152,11 @@ export function toChineseNewsTitle(title: string, source: string): string {
 }
 
 function profile(displayName: string, fileName: string, headline: string): PlayerProfile {
+  const localPhoto = localPlayerPhotos[fileName];
+
   return {
     displayName,
-    photoUrl: `${realPhotoBase}${encodeURIComponent(fileName)}`,
+    photoUrl: localPhoto ? `/player-photos/${localPhoto}` : `${realPhotoBase}${encodeURIComponent(fileName)}`,
     photoCredit: "Wikimedia Commons real player photo",
     headline,
   };

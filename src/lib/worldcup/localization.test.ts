@@ -14,7 +14,7 @@ describe("Chinese localization and real player photos", () => {
     const profile = getPlayerProfile("Lionel Messi");
 
     expect(profile.displayName).toBe("梅西");
-    expect(profile.photoUrl).toContain("commons.wikimedia.org");
+    expect(profile.photoUrl).toContain("/player-photos/lionel-messi.jpg");
     expect(profile.photoUrl).not.toContain("dicebear");
     expect(profile.photoCredit).toContain("Wikimedia Commons");
   });

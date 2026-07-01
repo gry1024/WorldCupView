@@ -12,6 +12,9 @@ export default defineConfig({
   },
   use: {
     baseURL: "http://127.0.0.1:3100",
+    launchOptions: {
+      args: ["--no-proxy-server"],
+    },
     trace: "on-first-retry",
   },
   webServer: {
