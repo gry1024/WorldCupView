@@ -29,4 +29,8 @@ describe("hourly update deploy workflow", () => {
     expect(workflow).toMatch(/git diff --cached --quiet/);
     expect(workflow).toMatch(/git diff --cached --quiet && exit 0/);
   });
+
+  it("does not reference secrets directly in step if expressions", () => {
+    expect(workflow).not.toMatch(/if:\s*\$\{\{[^}]*secrets\./);
+  });
 });

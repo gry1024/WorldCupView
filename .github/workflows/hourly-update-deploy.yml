@@ -15,6 +15,8 @@ env:
   PNPM_VERSION: "11.7.0"
   CLOUDBASE_CLOUD_PATH: "worldcupview"
   NEXT_PUBLIC_BASE_PATH: "/worldcupview"
+  TCB_CLOUDBASE_API_KEY: ${{ secrets.TCB_CLOUDBASE_API_KEY }}
+  TCB_ENV_ID: ${{ secrets.TCB_ENV_ID }}
 
 jobs:
   update-build-deploy:
@@ -52,13 +54,13 @@ jobs:
           git push origin HEAD:${GITHUB_REF_NAME}
 
       - name: Install CloudBase CLI
-        if: ${{ secrets.TCB_CLOUDBASE_API_KEY != '' && secrets.TCB_ENV_ID != '' }}
+        if: ${{ env.TCB_CLOUDBASE_API_KEY != '' && env.TCB_ENV_ID != '' }}
         run: npm install -g @cloudbase/cli
 
       - name: Login CloudBase
-        if: ${{ secrets.TCB_CLOUDBASE_API_KEY != '' && secrets.TCB_ENV_ID != '' }}
-        run: tcb login --cloudbase-api-key "${{ secrets.TCB_CLOUDBASE_API_KEY }}" -e "${{ secrets.TCB_ENV_ID }}"
+        if: ${{ env.TCB_CLOUDBASE_API_KEY != '' && env.TCB_ENV_ID != '' }}
+        run: tcb login --cloudbase-api-key "$TCB_CLOUDBASE_API_KEY" -e "$TCB_ENV_ID"
 
       - name: Deploy to CloudBase static hosting
-        if: ${{ secrets.TCB_CLOUDBASE_API_KEY != '' && secrets.TCB_ENV_ID != '' }}
-        run: tcb hosting deploy ./out "${{ env.CLOUDBASE_CLOUD_PATH }}" -e "${{ secrets.TCB_ENV_ID }}"
+        if: ${{ env.TCB_CLOUDBASE_API_KEY != '' && env.TCB_ENV_ID != '' }}
+        run: tcb hosting deploy ./out "${{ env.CLOUDBASE_CLOUD_PATH }}" -e "$TCB_ENV_ID"
