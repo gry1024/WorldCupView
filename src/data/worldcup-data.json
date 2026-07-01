@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-01T16:36:53.546Z",
+  "updatedAt": "2026-07-01T19:07:10.378Z",
   "sources": [
     "https://worldcup26.ir/get/teams",
     "https://worldcup26.ir/get/games",
@@ -3062,9 +3062,9 @@
       "position": "AM",
       "goals": 0,
       "assists": 0,
-      "shots": 2,
-      "shotsOnTarget": 1,
-      "xg": 0.32,
+      "shots": 6,
+      "shotsOnTarget": 3,
+      "xg": 0.96,
       "image": "/player-photos/julian-quinones-20260701.png",
       "headline": "本届进球球员"
     },
@@ -7481,8 +7481,8 @@
       "awayTeamId": "democratic-republic-of-the-congo",
       "homeTeamLabel": "Winner Group L",
       "awayTeamLabel": "3rd Group E/H/I/J/K",
-      "status": "live",
-      "homeScore": 0,
+      "status": "finished",
+      "homeScore": 2,
       "awayScore": 1,
       "odds": {
         "home": 1.39,
@@ -7490,24 +7490,36 @@
         "away": 6.2
       },
       "stats": {
-        "homeShots": 17,
+        "homeShots": 21,
         "awayShots": 6,
-        "homeShotsOnTarget": 6,
+        "homeShotsOnTarget": 10,
         "awayShotsOnTarget": 3,
         "homePossession": 68,
         "awayPossession": 32,
-        "homeCorners": 6,
+        "homeCorners": 7,
         "awayCorners": 2
       },
       "scorers": [
+        {
+          "playerName": "Hri Kin",
+          "teamId": "england",
+          "minute": 75
+        },
+        {
+          "playerName": "Hri Kin",
+          "teamId": "england",
+          "minute": 86
+        },
         {
           "playerName": "Braian Sipnga",
           "teamId": "democratic-republic-of-the-congo",
           "minute": 7
         }
       ],
-      "summary": "英格兰 对 民主刚果 正在进行，当前比分 0-1。",
+      "summary": "英格兰 2-1 民主刚果，比赛已结束。",
       "highlights": [
+        "75' 外文名：Hri Kin 改写比分",
+        "86' 外文名：Hri Kin 改写比分",
         "7' 外文名：Braian Sipnga 改写比分",
         "英格兰 对阵 民主刚果 技术统计已生成"
       ]
@@ -7796,17 +7808,17 @@
       "venue": "阿兹特克体育场",
       "city": "墨西哥城",
       "homeTeamId": "mexico",
-      "awayTeamId": "winner-match-80",
+      "awayTeamId": "england",
       "homeTeamLabel": "Winner Match 79",
       "awayTeamLabel": "Winner Match 80",
       "status": "upcoming",
       "odds": {
-        "home": 2.04,
-        "draw": 6.57,
-        "away": 2.8
+        "home": 2.55,
+        "draw": 5.31,
+        "away": 2.19
       },
       "scorers": [],
-      "summary": "墨西哥 对 Winner Match 80 将在 07/05/2026 18:00 开球。",
+      "summary": "墨西哥 对 英格兰 将在 07/05/2026 18:00 开球。",
       "highlights": [
         "赛前阵容与赔率持续更新",
         "开赛前可进行模拟投注"
