@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-01T20:53:36.170Z",
+  "updatedAt": "2026-07-01T22:38:17.658Z",
   "sources": [
     "https://worldcup26.ir/get/teams",
     "https://worldcup26.ir/get/games",
@@ -2464,9 +2464,9 @@
       "position": "AM",
       "goals": 0,
       "assists": 0,
-      "shots": 6,
-      "shotsOnTarget": 3,
-      "xg": 0.96,
+      "shots": 8,
+      "shotsOnTarget": 4,
+      "xg": 1.28,
       "image": "/player-photos/julian-quinones-20260701.png",
       "headline": "塞内加尔纵深点"
     },
@@ -3023,9 +3023,9 @@
       "position": "AM",
       "goals": 0,
       "assists": 0,
-      "shots": 2,
-      "shotsOnTarget": 1,
-      "xg": 0.32,
+      "shots": 4,
+      "shotsOnTarget": 2,
+      "xg": 0.64,
       "image": "/player-photos/julian-quinones-20260701.png",
       "headline": "本届进球球员"
     },
@@ -3371,6 +3371,19 @@
       "id": "braian-sipnga",
       "name": "外文名：Braian Sipnga",
       "teamId": "democratic-republic-of-the-congo",
+      "position": "AM",
+      "goals": 0,
+      "assists": 0,
+      "shots": 2,
+      "shotsOnTarget": 1,
+      "xg": 0.32,
+      "image": "/player-photos/julian-quinones-20260701.png",
+      "headline": "本届进球球员"
+    },
+    {
+      "id": "youri-tielemans",
+      "name": "外文名：Youri Tielemans",
+      "teamId": "belgium",
       "position": "AM",
       "goals": 0,
       "assists": 0,
@@ -7537,32 +7550,49 @@
       "homeTeamLabel": "Winner Group G",
       "awayTeamLabel": "3rd Group A/E/H/I/J",
       "status": "live",
-      "homeScore": 0,
-      "awayScore": 1,
+      "homeScore": 2,
+      "awayScore": 2,
       "odds": {
         "home": 2.2,
         "draw": 4.95,
         "away": 2.53
       },
       "stats": {
-        "homeShots": 12,
-        "awayShots": 11,
-        "homeShotsOnTarget": 4,
-        "awayShotsOnTarget": 5,
+        "homeShots": 16,
+        "awayShots": 13,
+        "homeShotsOnTarget": 8,
+        "awayShotsOnTarget": 7,
         "homePossession": 56,
         "awayPossession": 44,
-        "homeCorners": 4,
+        "homeCorners": 5,
         "awayCorners": 4
       },
       "scorers": [
         {
+          "playerName": "Romelu Lukaku",
+          "teamId": "belgium",
+          "minute": 86
+        },
+        {
+          "playerName": "Youri Tielemans",
+          "teamId": "belgium",
+          "minute": 89
+        },
+        {
           "playerName": "Habib Diarra",
           "teamId": "senegal",
           "minute": 25
+        },
+        {
+          "playerName": "Ismaïla Sarr",
+          "teamId": "senegal",
+          "minute": 51
         }
       ],
-      "summary": "比利时 对 塞内加尔 正在进行，当前比分 0-1。",
+      "summary": "比利时 对 塞内加尔 正在进行，当前比分 2-2。",
       "highlights": [
+        "86' 外文名：Romelu Lukaku 改写比分",
+        "89' 外文名：Youri Tielemans 改写比分",
         "25' 外文名：Habib Diarra 改写比分",
         "比利时 对阵 塞内加尔 技术统计已生成"
       ]
