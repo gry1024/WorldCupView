@@ -69,15 +69,19 @@ $tcbEnvId = Require-Env "TCB_ENV_ID"
 $tcbCloudBaseApiKey = Require-Env "TCB_CLOUDBASE_API_KEY"
 
 Write-Host "Writing CloudBase secrets to GitHub Actions"
-$tcbEnvId | gh secret set TCB_ENV_ID --repo $repoFullName
-if ($LASTEXITCODE -ne 0) { throw "Failed to set TCB_ENV_ID secret." }
-$tcbCloudBaseApiKey | gh secret set TCB_CLOUDBASE_API_KEY --repo $repoFullName
-if ($LASTEXITCODE -ne 0) { throw "Failed to set TCB_CLOUDBASE_API_KEY secret." }
+Run { gh secret set TCB_ENV_ID --repo $repoFullName --body $tcbEnvId }
+Run { gh secret set TCB_CLOUDBASE_API_KEY --repo $repoFullName --body $tcbCloudBaseApiKey }
 
 if (-not [string]::IsNullOrWhiteSpace($PublicUrl)) {
   $readmePath = Join-Path $gitRoot "README.md"
   $readme = Get-Content -LiteralPath $readmePath -Raw -Encoding UTF8
-  $readme = $readme -replace "^网址：.*", "网址：$PublicUrl"
+  $lines = $readme -split "\r?\n"
+  if ($lines.Count -gt 0 -and $lines[0].StartsWith("网址：")) {
+    $lines[0] = "网址：$PublicUrl"
+    $readme = $lines -join [Environment]::NewLine
+  } else {
+    $readme = "网址：$PublicUrl$([Environment]::NewLine)$([Environment]::NewLine)$readme"
+  }
   Set-Content -LiteralPath $readmePath -Value $readme -Encoding UTF8 -NoNewline
   Run { git add README.md }
   Run { git commit -m "docs: update published url" }
