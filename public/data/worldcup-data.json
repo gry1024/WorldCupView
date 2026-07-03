@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-03T19:44:05.491Z",
+  "updatedAt": "2026-07-03T21:20:39.856Z",
   "sources": [
     "https://worldcup26.ir/get/teams",
     "https://worldcup26.ir/get/games",
@@ -7894,9 +7894,11 @@
       "awayTeamId": "egypt",
       "homeTeamLabel": "Runner-up Group D",
       "awayTeamLabel": "Runner-up Group G",
-      "status": "live",
+      "status": "finished",
       "homeScore": 1,
       "awayScore": 1,
+      "homePenaltyScore": 2,
+      "awayPenaltyScore": 4,
       "odds": {
         "home": 1.98,
         "draw": 5.13,
@@ -7924,7 +7926,7 @@
           "minute": 13
         }
       ],
-      "summary": "澳大利亚 对 埃及 正在进行，当前比分 1-1。",
+      "summary": "澳大利亚 与 埃及 常规时间战平，点球比分 2-4。",
       "highlights": [
         "55' 外文名：Mohamed Hany 改写比分",
         "13' 外文名：Emam Ashour 改写比分",
@@ -8140,17 +8142,17 @@
       "venue": "梅赛德斯-奔驰体育场",
       "city": "亚特兰大",
       "homeTeamId": "winner-match-86",
-      "awayTeamId": "winner-match-88",
+      "awayTeamId": "egypt",
       "homeTeamLabel": "Winner Match 86",
       "awayTeamLabel": "Winner Match 88",
       "status": "upcoming",
       "odds": {
-        "home": 2.35,
-        "draw": 3.15,
-        "away": 2.35
+        "home": 1.8,
+        "draw": 7.29,
+        "away": 3.56
       },
       "scorers": [],
-      "summary": "Winner Match 86 对 Winner Match 88 将在 07/07/2026 12:00 开球。",
+      "summary": "Winner Match 86 对 埃及 将在 07/07/2026 12:00 开球。",
       "highlights": [
         "赛前阵容与赔率持续更新",
         "开赛前可进行模拟投注"
