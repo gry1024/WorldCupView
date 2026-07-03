@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-03T21:20:39.856Z",
+  "updatedAt": "2026-07-03T23:16:25.845Z",
   "sources": [
     "https://worldcup26.ir/get/teams",
     "https://worldcup26.ir/get/games",
@@ -1138,9 +1138,9 @@
       "position": "AM",
       "goals": 0,
       "assists": 0,
-      "shots": 12,
-      "shotsOnTarget": 6,
-      "xg": 1.92,
+      "shots": 14,
+      "shotsOnTarget": 7,
+      "xg": 2.24,
       "image": "/player-photos/lionel-messi-20260701.jpg",
       "headline": "阿根廷领袖"
     },
@@ -7945,17 +7945,35 @@
       "awayTeamId": "cape-verde",
       "homeTeamLabel": "Winner Group J",
       "awayTeamLabel": "Runner-up Group H",
-      "status": "upcoming",
+      "status": "live",
+      "homeScore": 1,
+      "awayScore": 0,
       "odds": {
         "home": 1.54,
         "draw": 14.85,
         "away": 6.2
       },
-      "scorers": [],
-      "summary": "阿根廷 对 佛得角 将在 07/03/2026 18:00 开球。",
+      "stats": {
+        "homeShots": 21,
+        "awayShots": 5,
+        "homeShotsOnTarget": 9,
+        "awayShotsOnTarget": 2,
+        "homePossession": 68,
+        "awayPossession": 32,
+        "homeCorners": 7,
+        "awayCorners": 2
+      },
+      "scorers": [
+        {
+          "playerName": "Lionel Messi",
+          "teamId": "argentina",
+          "minute": 29
+        }
+      ],
+      "summary": "阿根廷 对 佛得角 正在进行，当前比分 1-0。",
       "highlights": [
-        "赛前阵容与赔率持续更新",
-        "开赛前可进行模拟投注"
+        "29' 梅西 改写比分",
+        "阿根廷 对阵 佛得角 技术统计已生成"
       ]
     },
     {
