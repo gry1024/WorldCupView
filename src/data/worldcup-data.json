@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-05T11:10:17.418Z",
+  "updatedAt": "2026-07-05T14:03:17.773Z",
   "sources": [
     "https://worldcup26.ir/get/teams",
     "https://worldcup26.ir/get/games",
@@ -8583,11 +8583,10 @@
     {
       "teamId": "scotland",
       "supportPercent": 45,
-      "sentiment": 0,
-      "volume": 33600,
-      "headline": "全球媒体关注：2026 世界杯最新动态汇总，情绪中性｜moneycontrol.com",
-      "source": "moneycontrol.com",
-      "url": "https://www.moneycontrol.com/entertainment/can-fifa-world-cup-help-zee5-score-paid-users-advertiser-interest-is-only-half-the-game-article-13940657.html"
+      "sentiment": 0.08,
+      "volume": 27000,
+      "headline": "苏格兰 的全球讨论热度稳定",
+      "source": "WorldCupView model"
     },
     {
       "teamId": "turkey",
@@ -9234,7 +9233,15 @@
       "tone": 0
     },
     {
-      "id": "gdelt-32-dpjz5z",
+      "id": "gdelt-32-13rpvvz",
+      "title": "全球媒体关注：2026 世界杯最新动态汇总，情绪中性｜barcablaugranes.com",
+      "source": "barcablaugranes.com",
+      "url": "https://www.barcablaugranes.com/fc-barcelona-transfer-rumors-news/125671/mikel-oyarzabal-plays-down-barcelona-talk-again-happy-at-real-sociedad",
+      "publishedAt": "2026-07-05T11:45:00.000Z",
+      "tone": 0
+    },
+    {
+      "id": "gdelt-33-dpjz5z",
       "title": "全球媒体关注：2026 世界杯最新动态汇总，情绪中性｜fourfourtwo.com",
       "source": "fourfourtwo.com",
       "url": "https://www.fourfourtwo.com/competition/fifa-country-codes-world-cup-2026",
@@ -9243,7 +9250,7 @@
       "teamId": "democratic-republic-of-the-congo"
     },
     {
-      "id": "gdelt-33-1dwqfxk",
+      "id": "gdelt-34-1dwqfxk",
       "title": "全球媒体关注：2026 世界杯最新动态汇总，情绪中性｜timesofindia.indiatimes.com",
       "source": "timesofindia.indiatimes.com",
       "url": "https://timesofindia.indiatimes.com/city/jaipur/five-things-you-need-to-know-before-the-fifa-world-cup-2026-kicks-off/articleshow/131665678.cms",
@@ -9251,7 +9258,7 @@
       "tone": 0
     },
     {
-      "id": "gdelt-34-cspd71",
+      "id": "gdelt-35-cspd71",
       "title": "全球媒体关注：2026 世界杯最新动态汇总，情绪中性｜montrealgazette.com",
       "source": "montrealgazette.com",
       "url": "https://montrealgazette.com/press-releases/pr-newswire/hisense-celebrates-fifa-world-cup-2026-kickoff-with-rgb-miniled-innovation/",
@@ -9260,7 +9267,7 @@
       "teamId": "brazil"
     },
     {
-      "id": "gdelt-35-1l2phig",
+      "id": "gdelt-36-1l2phig",
       "title": "全球媒体关注：2026 世界杯最新动态汇总，情绪中性｜jagranjosh.com",
       "source": "jagranjosh.com",
       "url": "https://www.jagranjosh.com/general-knowledge/oldest-players-at-fifa-world-cup-1820009872-1",
@@ -9268,7 +9275,7 @@
       "tone": 0
     },
     {
-      "id": "gdelt-36-1kmslb1",
+      "id": "gdelt-37-1kmslb1",
       "title": "全球媒体关注：2026 世界杯最新动态汇总，情绪中性｜dstv.com",
       "source": "dstv.com",
       "url": "https://www.dstv.com/en-za/news/142178/watch-every-fifa-world-cup-2026/",
@@ -9276,7 +9283,7 @@
       "tone": 0
     },
     {
-      "id": "gdelt-37-444gbh",
+      "id": "gdelt-38-444gbh",
       "title": "全球媒体关注：2026 世界杯最新动态汇总，情绪中性｜prokerala.com",
       "source": "prokerala.com",
       "url": "https://www.prokerala.com/news/articles/a1771682.html",
@@ -9285,7 +9292,7 @@
       "teamId": "paraguay"
     },
     {
-      "id": "gdelt-38-180wyss",
+      "id": "gdelt-39-180wyss",
       "title": "全球媒体关注：2026 世界杯球迷声量和社交媒体讨论上升，情绪中性｜birminghammail.co.uk",
       "source": "birminghammail.co.uk",
       "url": "https://www.birminghammail.co.uk/whats-on/shopping/amazons-world-cup-2026-water-34128761",
@@ -9294,7 +9301,7 @@
       "teamId": "belgium"
     },
     {
-      "id": "gdelt-39-1dufu4t",
+      "id": "gdelt-40-1dufu4t",
       "title": "全球媒体关注：2026 世界杯最新动态汇总，情绪中性｜mid-day.com",
       "source": "mid-day.com",
       "url": "https://www.mid-day.com/entertainment/korean-entertainment/article/blackpinks-lisa-joins-katy-perry-and-future-for-fifa-world-cup-2026-kick-off-23634979",
@@ -9303,7 +9310,7 @@
       "teamId": "turkey"
     },
     {
-      "id": "gdelt-40-8rpcgr",
+      "id": "gdelt-41-8rpcgr",
       "title": "卡塔尔最新动态汇总，情绪中性｜qatar-tribune.com",
       "source": "qatar-tribune.com",
       "url": "https://www.qatar-tribune.com/article/231572/latest-news/fifa-and-loc-announce-tournament-dates-for-fifa-u-17-world-cup-qatar-2026",
@@ -9312,7 +9319,7 @@
       "teamId": "qatar"
     },
     {
-      "id": "gdelt-41-nzse2j",
+      "id": "gdelt-42-nzse2j",
       "title": "全球媒体关注：2026 世界杯最新动态汇总，情绪中性｜manchestereveningnews.co.uk",
       "source": "manchestereveningnews.co.uk",
       "url": "https://www.manchestereveningnews.co.uk/news/nostalgia/nostalgic-panini-stickers-return-world-34052790",
@@ -9321,7 +9328,7 @@
       "teamId": "turkey"
     },
     {
-      "id": "gdelt-42-10noaz8",
+      "id": "gdelt-43-10noaz8",
       "title": "全球媒体关注：2026 世界杯最新动态汇总，情绪中性｜bournemouthecho.co.uk",
       "source": "bournemouthecho.co.uk",
       "url": "https://www.bournemouthecho.co.uk/news/26130334.panini-world-cup-2026-uk-tour-coming-bournemouth/",
@@ -9330,7 +9337,7 @@
       "teamId": "panama"
     },
     {
-      "id": "gdelt-43-1bk5jic",
+      "id": "gdelt-44-1bk5jic",
       "title": "全球媒体关注：2026 世界杯赛果与淘汰赛走势成为焦点，情绪中性｜soompi.com",
       "source": "soompi.com",
       "url": "https://www.soompi.com/article/1841057wpp/bts-confirmed-to-headline-at-world-cup-final-halftime-show-with-madonna-and-shakira",
@@ -9338,7 +9345,7 @@
       "tone": 0
     },
     {
-      "id": "gdelt-44-b7zoqi",
+      "id": "gdelt-45-b7zoqi",
       "title": "全球媒体关注：2026 世界杯赛果与淘汰赛走势成为焦点，情绪偏积极｜toffeeweb.com",
       "source": "toffeeweb.com",
       "url": "https://www.toffeeweb.com/favourites-to-win-world-cup-2026/",
@@ -9346,7 +9353,7 @@
       "tone": 0
     },
     {
-      "id": "gdelt-45-1q6cp20",
+      "id": "gdelt-46-1q6cp20",
       "title": "全球媒体关注：2026 世界杯最新动态汇总，情绪中性｜indiawest.com",
       "source": "indiawest.com",
       "url": "https://indiawest.com/nora-fatehi-to-perform-at-fifa-2026-opening-ceremony/",
@@ -9355,7 +9362,7 @@
       "teamId": "norway"
     },
     {
-      "id": "gdelt-46-1l92gkb",
+      "id": "gdelt-47-1l92gkb",
       "title": "全球媒体关注：2026 世界杯最新动态汇总，情绪中性｜prnewswire.com",
       "source": "prnewswire.com",
       "url": "https://www.prnewswire.com/news-releases/hisense-celebrates-fifa-world-cup-2026-kickoff-with-rgb-miniled-innovation-302798768.html",
@@ -9364,7 +9371,7 @@
       "teamId": "brazil"
     },
     {
-      "id": "gdelt-47-1pawlf5",
+      "id": "gdelt-48-1pawlf5",
       "title": "全球媒体关注：2026 世界杯最新动态汇总，情绪中性｜tvtonight.com.au",
       "source": "tvtonight.com.au",
       "url": "https://tvtonight.com.au/2026/05/madonna-bts-shakira-for-world-cup-halftime-show.html",
@@ -9372,22 +9379,13 @@
       "tone": 0
     },
     {
-      "id": "gdelt-48-161rcl6",
+      "id": "gdelt-49-161rcl6",
       "title": "墨西哥最新动态汇总，情绪中性｜aninews.in",
       "source": "aninews.in",
       "url": "https://aninews.in/news/business/global-superstars-shakira-and-burna-boy-to-bring-dai-dai-to-the-world-stage-with-premiere-at-fifa-world-cup-20268482-opening-ceremony-in-mexico-city20260605182022/",
       "publishedAt": "2026-06-05T13:30:00.000Z",
       "tone": 0,
       "teamId": "mexico"
-    },
-    {
-      "id": "gdelt-49-1tx7djk",
-      "title": "全球媒体关注：2026 世界杯最新动态汇总，情绪中性｜moneycontrol.com",
-      "source": "moneycontrol.com",
-      "url": "https://www.moneycontrol.com/entertainment/can-fifa-world-cup-help-zee5-score-paid-users-advertiser-interest-is-only-half-the-game-article-13940657.html",
-      "publishedAt": "2026-06-04T03:00:00.000Z",
-      "tone": 0,
-      "teamId": "scotland"
     }
   ]
 }
