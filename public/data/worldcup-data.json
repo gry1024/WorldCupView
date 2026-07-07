@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-07T18:14:25.035Z",
+  "updatedAt": "2026-07-07T20:56:16.182Z",
   "sources": [
     "https://worldcup26.ir/get/teams",
     "https://worldcup26.ir/get/games",
@@ -8578,17 +8578,29 @@
       "awayTeamId": "colombia",
       "homeTeamLabel": "Winner Match 85",
       "awayTeamLabel": "Winner Match 87",
-      "status": "upcoming",
+      "status": "live",
+      "homeScore": 0,
+      "awayScore": 0,
       "odds": {
         "home": 2.43,
         "draw": 4.05,
         "away": 2.27
       },
+      "stats": {
+        "homeShots": 11,
+        "awayShots": 10,
+        "homeShotsOnTarget": 4,
+        "awayShotsOnTarget": 4,
+        "homePossession": 49,
+        "awayPossession": 51,
+        "homeCorners": 4,
+        "awayCorners": 3
+      },
       "scorers": [],
-      "summary": "瑞士 对 哥伦比亚 将在 07/07/2026 13:00 开球。",
+      "summary": "瑞士 对 哥伦比亚 正在进行，当前比分 0-0。",
       "highlights": [
-        "赛前阵容与赔率持续更新",
-        "开赛前可进行模拟投注"
+        "防守质量高于进攻转化",
+        "门将和定位球成为关键变量"
       ]
     },
     {
