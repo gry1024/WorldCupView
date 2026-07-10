@@ -1,34 +1,11 @@
 {
-  "updatedAt": "2026-07-10T00:15:38.195Z",
+  "updatedAt": "2026-07-10T05:03:59.161Z",
   "sources": [
     "https://worldcup26.ir/get/teams",
     "https://worldcup26.ir/get/games",
     "https://api.gdeltproject.org/api/v2/doc/doc"
   ],
   "teams": [
-    {
-      "id": "mexico",
-      "name": "墨西哥",
-      "code": "MEX",
-      "flag": "🇲🇽",
-      "group": "A",
-      "confederation": "中北美及加勒比足联",
-      "fifaRank": 14,
-      "titles": 0,
-      "bestFinish": "八强",
-      "coach": "官方名单待更新",
-      "starPlayers": [
-        "Santiago Gimenez",
-        "Edson Alvarez"
-      ],
-      "palette": [
-        "#006847",
-        "#ce1126"
-      ],
-      "flagImage": "https://flagcdn.com/w80/mx.png",
-      "form": [],
-      "story": "墨西哥 位于 A 组，当前总览由公开赛程和比分自动合成。"
-    },
     {
       "id": "south-africa",
       "name": "南非",
@@ -48,129 +25,6 @@
       "flagImage": "https://flagcdn.com/w80/za.png",
       "form": [],
       "story": "南非 位于 A 组，当前总览由公开赛程和比分自动合成。"
-    },
-    {
-      "id": "south-korea",
-      "name": "韩国",
-      "code": "KOR",
-      "flag": "🇰🇷",
-      "group": "A",
-      "confederation": "亚足联",
-      "fifaRank": 33,
-      "titles": 0,
-      "bestFinish": "参赛",
-      "coach": "官方名单待更新",
-      "starPlayers": [],
-      "palette": [
-        "#1f8a70",
-        "#f2c94c"
-      ],
-      "flagImage": "https://flagcdn.com/w80/kr.png",
-      "form": [],
-      "story": "韩国 位于 A 组，当前总览由公开赛程和比分自动合成。"
-    },
-    {
-      "id": "czech-republic",
-      "name": "捷克",
-      "code": "CZE",
-      "flag": "🇨🇿",
-      "group": "A",
-      "confederation": "欧洲足联",
-      "fifaRank": 34,
-      "titles": 0,
-      "bestFinish": "参赛",
-      "coach": "官方名单待更新",
-      "starPlayers": [],
-      "palette": [
-        "#1f8a70",
-        "#f2c94c"
-      ],
-      "flagImage": "https://flagcdn.com/w80/cz.png",
-      "form": [],
-      "story": "捷克 位于 A 组，当前总览由公开赛程和比分自动合成。"
-    },
-    {
-      "id": "canada",
-      "name": "加拿大",
-      "code": "CAN",
-      "flag": "🇨🇦",
-      "group": "B",
-      "confederation": "中北美及加勒比足联",
-      "fifaRank": 35,
-      "titles": 0,
-      "bestFinish": "参赛",
-      "coach": "官方名单待更新",
-      "starPlayers": [
-        "Alphonso Davies",
-        "Jonathan David"
-      ],
-      "palette": [
-        "#d80621",
-        "#ffffff"
-      ],
-      "flagImage": "https://flagcdn.com/w80/ca.png",
-      "form": [],
-      "story": "加拿大 位于 B 组，当前总览由公开赛程和比分自动合成。"
-    },
-    {
-      "id": "bosnia-and-herzegovina",
-      "name": "波黑",
-      "code": "BIH",
-      "flag": "🇧🇦",
-      "group": "B",
-      "confederation": "欧洲足联",
-      "fifaRank": 36,
-      "titles": 0,
-      "bestFinish": "参赛",
-      "coach": "官方名单待更新",
-      "starPlayers": [],
-      "palette": [
-        "#1f8a70",
-        "#f2c94c"
-      ],
-      "flagImage": "https://flagcdn.com/w80/ba.png",
-      "form": [],
-      "story": "波黑 位于 B 组，当前总览由公开赛程和比分自动合成。"
-    },
-    {
-      "id": "qatar",
-      "name": "卡塔尔",
-      "code": "QAT",
-      "flag": "🇶🇦",
-      "group": "B",
-      "confederation": "亚足联",
-      "fifaRank": 37,
-      "titles": 0,
-      "bestFinish": "参赛",
-      "coach": "官方名单待更新",
-      "starPlayers": [],
-      "palette": [
-        "#1f8a70",
-        "#f2c94c"
-      ],
-      "flagImage": "https://flagcdn.com/w80/qa.png",
-      "form": [],
-      "story": "卡塔尔 位于 B 组，当前总览由公开赛程和比分自动合成。"
-    },
-    {
-      "id": "switzerland",
-      "name": "瑞士",
-      "code": "SUI",
-      "flag": "🇨🇭",
-      "group": "B",
-      "confederation": "欧洲足联",
-      "fifaRank": 16,
-      "titles": 0,
-      "bestFinish": "参赛",
-      "coach": "官方名单待更新",
-      "starPlayers": [],
-      "palette": [
-        "#1f8a70",
-        "#f2c94c"
-      ],
-      "flagImage": "https://flagcdn.com/w80/ch.png",
-      "form": [],
-      "story": "瑞士 位于 B 组，当前总览由公开赛程和比分自动合成。"
     },
     {
       "id": "brazil",
@@ -196,46 +50,6 @@
       "story": "巴西 位于 C 组，当前总览由公开赛程和比分自动合成。"
     },
     {
-      "id": "morocco",
-      "name": "摩洛哥",
-      "code": "MAR",
-      "flag": "🇲🇦",
-      "group": "C",
-      "confederation": "非洲足联",
-      "fifaRank": 13,
-      "titles": 0,
-      "bestFinish": "四强",
-      "coach": "官方名单待更新",
-      "starPlayers": [],
-      "palette": [
-        "#1f8a70",
-        "#f2c94c"
-      ],
-      "flagImage": "https://flagcdn.com/w80/ma.png",
-      "form": [],
-      "story": "摩洛哥 位于 C 组，当前总览由公开赛程和比分自动合成。"
-    },
-    {
-      "id": "haiti",
-      "name": "海地",
-      "code": "HAI",
-      "flag": "🇭🇹",
-      "group": "C",
-      "confederation": "中北美及加勒比足联",
-      "fifaRank": 41,
-      "titles": 0,
-      "bestFinish": "参赛",
-      "coach": "官方名单待更新",
-      "starPlayers": [],
-      "palette": [
-        "#1f8a70",
-        "#f2c94c"
-      ],
-      "flagImage": "https://flagcdn.com/w80/ht.png",
-      "form": [],
-      "story": "海地 位于 C 组，当前总览由公开赛程和比分自动合成。"
-    },
-    {
       "id": "scotland",
       "name": "苏格兰",
       "code": "SCO",
@@ -254,69 +68,6 @@
       "flagImage": "https://flagcdn.com/w80/gb-sct.png",
       "form": [],
       "story": "苏格兰 位于 C 组，当前总览由公开赛程和比分自动合成。"
-    },
-    {
-      "id": "united-states",
-      "name": "美国",
-      "code": "USA",
-      "flag": "🇺🇸",
-      "group": "D",
-      "confederation": "中北美及加勒比足联",
-      "fifaRank": 15,
-      "titles": 0,
-      "bestFinish": "四强",
-      "coach": "官方名单待更新",
-      "starPlayers": [
-        "Christian Pulisic",
-        "Weston McKennie"
-      ],
-      "palette": [
-        "#3c3b6e",
-        "#b22234"
-      ],
-      "flagImage": "https://flagcdn.com/w80/us.png",
-      "form": [],
-      "story": "美国 位于 D 组，当前总览由公开赛程和比分自动合成。"
-    },
-    {
-      "id": "paraguay",
-      "name": "巴拉圭",
-      "code": "PAR",
-      "flag": "🇵🇾",
-      "group": "D",
-      "confederation": "南美足联",
-      "fifaRank": 44,
-      "titles": 0,
-      "bestFinish": "参赛",
-      "coach": "官方名单待更新",
-      "starPlayers": [],
-      "palette": [
-        "#1f8a70",
-        "#f2c94c"
-      ],
-      "flagImage": "https://flagcdn.com/w80/py.png",
-      "form": [],
-      "story": "巴拉圭 位于 D 组，当前总览由公开赛程和比分自动合成。"
-    },
-    {
-      "id": "australia",
-      "name": "澳大利亚",
-      "code": "AUS",
-      "flag": "🇦🇺",
-      "group": "D",
-      "confederation": "亚足联",
-      "fifaRank": 45,
-      "titles": 0,
-      "bestFinish": "参赛",
-      "coach": "官方名单待更新",
-      "starPlayers": [],
-      "palette": [
-        "#1f8a70",
-        "#f2c94c"
-      ],
-      "flagImage": "https://flagcdn.com/w80/au.png",
-      "form": [],
-      "story": "澳大利亚 位于 D 组，当前总览由公开赛程和比分自动合成。"
     },
     {
       "id": "turkey",
@@ -339,49 +90,6 @@
       "story": "土耳其 位于 D 组，当前总览由公开赛程和比分自动合成。"
     },
     {
-      "id": "germany",
-      "name": "德国",
-      "code": "GER",
-      "flag": "🇩🇪",
-      "group": "E",
-      "confederation": "欧洲足联",
-      "fifaRank": 9,
-      "titles": 4,
-      "bestFinish": "冠军",
-      "coach": "官方名单待更新",
-      "starPlayers": [
-        "Jamal Musiala",
-        "Kai Havertz"
-      ],
-      "palette": [
-        "#111111",
-        "#ffcc00"
-      ],
-      "flagImage": "https://flagcdn.com/w80/de.png",
-      "form": [],
-      "story": "德国 位于 E 组，当前总览由公开赛程和比分自动合成。"
-    },
-    {
-      "id": "curacao",
-      "name": "库拉索",
-      "code": "CUW",
-      "flag": "🇨🇼",
-      "group": "E",
-      "confederation": "中北美及加勒比足联",
-      "fifaRank": 48,
-      "titles": 0,
-      "bestFinish": "参赛",
-      "coach": "官方名单待更新",
-      "starPlayers": [],
-      "palette": [
-        "#1f8a70",
-        "#f2c94c"
-      ],
-      "flagImage": "https://flagcdn.com/w80/cw.png",
-      "form": [],
-      "story": "库拉索 位于 E 组，当前总览由公开赛程和比分自动合成。"
-    },
-    {
       "id": "ivory-coast",
       "name": "科特迪瓦",
       "code": "CIV",
@@ -400,26 +108,6 @@
       "flagImage": "https://flagcdn.com/w80/ci.png",
       "form": [],
       "story": "科特迪瓦 位于 E 组，当前总览由公开赛程和比分自动合成。"
-    },
-    {
-      "id": "ecuador",
-      "name": "厄瓜多尔",
-      "code": "ECU",
-      "flag": "🇪🇨",
-      "group": "E",
-      "confederation": "南美足联",
-      "fifaRank": 20,
-      "titles": 0,
-      "bestFinish": "参赛",
-      "coach": "官方名单待更新",
-      "starPlayers": [],
-      "palette": [
-        "#1f8a70",
-        "#f2c94c"
-      ],
-      "flagImage": "https://flagcdn.com/w80/ec.png",
-      "form": [],
-      "story": "厄瓜多尔 位于 E 组，当前总览由公开赛程和比分自动合成。"
     },
     {
       "id": "netherlands",
@@ -442,169 +130,6 @@
       "story": "荷兰 位于 F 组，当前总览由公开赛程和比分自动合成。"
     },
     {
-      "id": "japan",
-      "name": "日本",
-      "code": "JPN",
-      "flag": "🇯🇵",
-      "group": "F",
-      "confederation": "亚足联",
-      "fifaRank": 17,
-      "titles": 0,
-      "bestFinish": "16强",
-      "coach": "官方名单待更新",
-      "starPlayers": [],
-      "palette": [
-        "#1f8a70",
-        "#f2c94c"
-      ],
-      "flagImage": "https://flagcdn.com/w80/jp.png",
-      "form": [],
-      "story": "日本 位于 F 组，当前总览由公开赛程和比分自动合成。"
-    },
-    {
-      "id": "sweden",
-      "name": "瑞典",
-      "code": "SWE",
-      "flag": "🇸🇪",
-      "group": "F",
-      "confederation": "欧洲足联",
-      "fifaRank": 53,
-      "titles": 0,
-      "bestFinish": "参赛",
-      "coach": "官方名单待更新",
-      "starPlayers": [],
-      "palette": [
-        "#1f8a70",
-        "#f2c94c"
-      ],
-      "flagImage": "https://flagcdn.com/w80/se.png",
-      "form": [],
-      "story": "瑞典 位于 F 组，当前总览由公开赛程和比分自动合成。"
-    },
-    {
-      "id": "tunisia",
-      "name": "突尼斯",
-      "code": "TUN",
-      "flag": "🇹🇳",
-      "group": "F",
-      "confederation": "非洲足联",
-      "fifaRank": 54,
-      "titles": 0,
-      "bestFinish": "参赛",
-      "coach": "官方名单待更新",
-      "starPlayers": [],
-      "palette": [
-        "#1f8a70",
-        "#f2c94c"
-      ],
-      "flagImage": "https://flagcdn.com/w80/tn.png",
-      "form": [],
-      "story": "突尼斯 位于 F 组，当前总览由公开赛程和比分自动合成。"
-    },
-    {
-      "id": "belgium",
-      "name": "比利时",
-      "code": "BEL",
-      "flag": "🇧🇪",
-      "group": "G",
-      "confederation": "欧洲足联",
-      "fifaRank": 8,
-      "titles": 0,
-      "bestFinish": "季军",
-      "coach": "官方名单待更新",
-      "starPlayers": [],
-      "palette": [
-        "#1f8a70",
-        "#f2c94c"
-      ],
-      "flagImage": "https://flagcdn.com/w80/be.png",
-      "form": [],
-      "story": "比利时 位于 G 组，当前总览由公开赛程和比分自动合成。"
-    },
-    {
-      "id": "egypt",
-      "name": "埃及",
-      "code": "EGY",
-      "flag": "🇪🇬",
-      "group": "G",
-      "confederation": "非洲足联",
-      "fifaRank": 56,
-      "titles": 0,
-      "bestFinish": "参赛",
-      "coach": "官方名单待更新",
-      "starPlayers": [],
-      "palette": [
-        "#1f8a70",
-        "#f2c94c"
-      ],
-      "flagImage": "https://flagcdn.com/w80/eg.png",
-      "form": [],
-      "story": "埃及 位于 G 组，当前总览由公开赛程和比分自动合成。"
-    },
-    {
-      "id": "iran",
-      "name": "伊朗",
-      "code": "IRN",
-      "flag": "🇮🇷",
-      "group": "G",
-      "confederation": "亚足联",
-      "fifaRank": 57,
-      "titles": 0,
-      "bestFinish": "参赛",
-      "coach": "官方名单待更新",
-      "starPlayers": [],
-      "palette": [
-        "#1f8a70",
-        "#f2c94c"
-      ],
-      "flagImage": "https://flagcdn.com/w80/ir.png",
-      "form": [],
-      "story": "伊朗 位于 G 组，当前总览由公开赛程和比分自动合成。"
-    },
-    {
-      "id": "new-zealand",
-      "name": "新西兰",
-      "code": "NZL",
-      "flag": "🇳🇿",
-      "group": "G",
-      "confederation": "大洋洲足联",
-      "fifaRank": 58,
-      "titles": 0,
-      "bestFinish": "参赛",
-      "coach": "官方名单待更新",
-      "starPlayers": [],
-      "palette": [
-        "#1f8a70",
-        "#f2c94c"
-      ],
-      "flagImage": "https://flagcdn.com/w80/nz.png",
-      "form": [],
-      "story": "新西兰 位于 G 组，当前总览由公开赛程和比分自动合成。"
-    },
-    {
-      "id": "spain",
-      "name": "西班牙",
-      "code": "ESP",
-      "flag": "🇪🇸",
-      "group": "H",
-      "confederation": "欧洲足联",
-      "fifaRank": 2,
-      "titles": 1,
-      "bestFinish": "冠军",
-      "coach": "官方名单待更新",
-      "starPlayers": [
-        "Lamine Yamal",
-        "Pedri"
-      ],
-      "palette": [
-        "#aa151b",
-        "#f1bf00"
-      ],
-      "flagImage": "https://flagcdn.com/w80/es.png",
-      "form": [],
-      "story": "西班牙 位于 H 组，当前总览由公开赛程和比分自动合成。"
-    },
-    {
       "id": "cape-verde",
       "name": "佛得角",
       "code": "CPV",
@@ -623,46 +148,6 @@
       "flagImage": "https://flagcdn.com/w80/cv.png",
       "form": [],
       "story": "佛得角 位于 H 组，当前总览由公开赛程和比分自动合成。"
-    },
-    {
-      "id": "saudi-arabia",
-      "name": "沙特阿拉伯",
-      "code": "KSA",
-      "flag": "🇸🇦",
-      "group": "H",
-      "confederation": "亚足联",
-      "fifaRank": 61,
-      "titles": 0,
-      "bestFinish": "参赛",
-      "coach": "官方名单待更新",
-      "starPlayers": [],
-      "palette": [
-        "#1f8a70",
-        "#f2c94c"
-      ],
-      "flagImage": "https://flagcdn.com/w80/sa.png",
-      "form": [],
-      "story": "沙特阿拉伯 位于 H 组，当前总览由公开赛程和比分自动合成。"
-    },
-    {
-      "id": "uruguay",
-      "name": "乌拉圭",
-      "code": "URU",
-      "flag": "🇺🇾",
-      "group": "H",
-      "confederation": "南美足联",
-      "fifaRank": 12,
-      "titles": 2,
-      "bestFinish": "冠军",
-      "coach": "官方名单待更新",
-      "starPlayers": [],
-      "palette": [
-        "#1f8a70",
-        "#f2c94c"
-      ],
-      "flagImage": "https://flagcdn.com/w80/uy.png",
-      "form": [],
-      "story": "乌拉圭 位于 H 组，当前总览由公开赛程和比分自动合成。"
     },
     {
       "id": "france",
@@ -688,13 +173,13 @@
       "story": "法国 位于 I 组，当前总览由公开赛程和比分自动合成。"
     },
     {
-      "id": "senegal",
-      "name": "塞内加尔",
-      "code": "SEN",
-      "flag": "🇸🇳",
-      "group": "I",
+      "id": "tunisia",
+      "name": "突尼斯",
+      "code": "TUN",
+      "flag": "🇹🇳",
+      "group": "F",
       "confederation": "非洲足联",
-      "fifaRank": 18,
+      "fifaRank": 54,
       "titles": 0,
       "bestFinish": "参赛",
       "coach": "官方名单待更新",
@@ -703,9 +188,29 @@
         "#1f8a70",
         "#f2c94c"
       ],
-      "flagImage": "https://flagcdn.com/w80/sn.png",
+      "flagImage": "https://flagcdn.com/w80/tn.png",
       "form": [],
-      "story": "塞内加尔 位于 I 组，当前总览由公开赛程和比分自动合成。"
+      "story": "突尼斯 位于 F 组，当前总览由公开赛程和比分自动合成。"
+    },
+    {
+      "id": "egypt",
+      "name": "埃及",
+      "code": "EGY",
+      "flag": "🇪🇬",
+      "group": "G",
+      "confederation": "非洲足联",
+      "fifaRank": 56,
+      "titles": 0,
+      "bestFinish": "参赛",
+      "coach": "官方名单待更新",
+      "starPlayers": [],
+      "palette": [
+        "#1f8a70",
+        "#f2c94c"
+      ],
+      "flagImage": "https://flagcdn.com/w80/eg.png",
+      "form": [],
+      "story": "埃及 位于 G 组，当前总览由公开赛程和比分自动合成。"
     },
     {
       "id": "iraq",
@@ -726,6 +231,232 @@
       "flagImage": "https://flagcdn.com/w80/iq.png",
       "form": [],
       "story": "伊拉克 位于 I 组，当前总览由公开赛程和比分自动合成。"
+    },
+    {
+      "id": "portugal",
+      "name": "葡萄牙",
+      "code": "POR",
+      "flag": "🇵🇹",
+      "group": "K",
+      "confederation": "欧洲足联",
+      "fifaRank": 6,
+      "titles": 0,
+      "bestFinish": "季军",
+      "coach": "官方名单待更新",
+      "starPlayers": [
+        "Cristiano Ronaldo",
+        "Rafael Leão"
+      ],
+      "palette": [
+        "#006600",
+        "#ff0000"
+      ],
+      "flagImage": "https://flagcdn.com/w80/pt.png",
+      "form": [],
+      "story": "葡萄牙 位于 K 组，当前总览由公开赛程和比分自动合成。"
+    },
+    {
+      "id": "uzbekistan",
+      "name": "乌兹别克斯坦",
+      "code": "UZB",
+      "flag": "🇺🇿",
+      "group": "K",
+      "confederation": "亚足联",
+      "fifaRank": 73,
+      "titles": 0,
+      "bestFinish": "参赛",
+      "coach": "官方名单待更新",
+      "starPlayers": [],
+      "palette": [
+        "#1f8a70",
+        "#f2c94c"
+      ],
+      "flagImage": "https://flagcdn.com/w80/uz.png",
+      "form": [],
+      "story": "乌兹别克斯坦 位于 K 组，当前总览由公开赛程和比分自动合成。"
+    },
+    {
+      "id": "colombia",
+      "name": "哥伦比亚",
+      "code": "COL",
+      "flag": "🇨🇴",
+      "group": "K",
+      "confederation": "南美足联",
+      "fifaRank": 11,
+      "titles": 0,
+      "bestFinish": "参赛",
+      "coach": "官方名单待更新",
+      "starPlayers": [],
+      "palette": [
+        "#1f8a70",
+        "#f2c94c"
+      ],
+      "flagImage": "https://flagcdn.com/w80/co.png",
+      "form": [],
+      "story": "哥伦比亚 位于 K 组，当前总览由公开赛程和比分自动合成。"
+    },
+    {
+      "id": "ecuador",
+      "name": "厄瓜多尔",
+      "code": "ECU",
+      "flag": "🇪🇨",
+      "group": "E",
+      "confederation": "南美足联",
+      "fifaRank": 20,
+      "titles": 0,
+      "bestFinish": "参赛",
+      "coach": "官方名单待更新",
+      "starPlayers": [],
+      "palette": [
+        "#1f8a70",
+        "#f2c94c"
+      ],
+      "flagImage": "https://flagcdn.com/w80/ec.png",
+      "form": [],
+      "story": "厄瓜多尔 位于 E 组，当前总览由公开赛程和比分自动合成。"
+    },
+    {
+      "id": "japan",
+      "name": "日本",
+      "code": "JPN",
+      "flag": "🇯🇵",
+      "group": "F",
+      "confederation": "亚足联",
+      "fifaRank": 17,
+      "titles": 0,
+      "bestFinish": "16强",
+      "coach": "官方名单待更新",
+      "starPlayers": [],
+      "palette": [
+        "#1f8a70",
+        "#f2c94c"
+      ],
+      "flagImage": "https://flagcdn.com/w80/jp.png",
+      "form": [],
+      "story": "日本 位于 F 组，当前总览由公开赛程和比分自动合成。"
+    },
+    {
+      "id": "new-zealand",
+      "name": "新西兰",
+      "code": "NZL",
+      "flag": "🇳🇿",
+      "group": "G",
+      "confederation": "大洋洲足联",
+      "fifaRank": 58,
+      "titles": 0,
+      "bestFinish": "参赛",
+      "coach": "官方名单待更新",
+      "starPlayers": [],
+      "palette": [
+        "#1f8a70",
+        "#f2c94c"
+      ],
+      "flagImage": "https://flagcdn.com/w80/nz.png",
+      "form": [],
+      "story": "新西兰 位于 G 组，当前总览由公开赛程和比分自动合成。"
+    },
+    {
+      "id": "saudi-arabia",
+      "name": "沙特阿拉伯",
+      "code": "KSA",
+      "flag": "🇸🇦",
+      "group": "H",
+      "confederation": "亚足联",
+      "fifaRank": 61,
+      "titles": 0,
+      "bestFinish": "参赛",
+      "coach": "官方名单待更新",
+      "starPlayers": [],
+      "palette": [
+        "#1f8a70",
+        "#f2c94c"
+      ],
+      "flagImage": "https://flagcdn.com/w80/sa.png",
+      "form": [],
+      "story": "沙特阿拉伯 位于 H 组，当前总览由公开赛程和比分自动合成。"
+    },
+    {
+      "id": "austria",
+      "name": "奥地利",
+      "code": "AUT",
+      "flag": "🇦🇹",
+      "group": "J",
+      "confederation": "欧洲足联",
+      "fifaRank": 69,
+      "titles": 0,
+      "bestFinish": "参赛",
+      "coach": "官方名单待更新",
+      "starPlayers": [],
+      "palette": [
+        "#1f8a70",
+        "#f2c94c"
+      ],
+      "flagImage": "https://flagcdn.com/w80/at.png",
+      "form": [],
+      "story": "奥地利 位于 J 组，当前总览由公开赛程和比分自动合成。"
+    },
+    {
+      "id": "ghana",
+      "name": "加纳",
+      "code": "GHA",
+      "flag": "🇬🇭",
+      "group": "L",
+      "confederation": "非洲足联",
+      "fifaRank": 77,
+      "titles": 0,
+      "bestFinish": "参赛",
+      "coach": "官方名单待更新",
+      "starPlayers": [],
+      "palette": [
+        "#1f8a70",
+        "#f2c94c"
+      ],
+      "flagImage": "https://flagcdn.com/w80/gh.png",
+      "form": [],
+      "story": "加纳 位于 L 组，当前总览由公开赛程和比分自动合成。"
+    },
+    {
+      "id": "south-korea",
+      "name": "韩国",
+      "code": "KOR",
+      "flag": "🇰🇷",
+      "group": "A",
+      "confederation": "亚足联",
+      "fifaRank": 33,
+      "titles": 0,
+      "bestFinish": "参赛",
+      "coach": "官方名单待更新",
+      "starPlayers": [],
+      "palette": [
+        "#1f8a70",
+        "#f2c94c"
+      ],
+      "flagImage": "https://flagcdn.com/w80/kr.png",
+      "form": [],
+      "story": "韩国 位于 A 组，当前总览由公开赛程和比分自动合成。"
+    },
+    {
+      "id": "spain",
+      "name": "西班牙",
+      "code": "ESP",
+      "flag": "🇪🇸",
+      "group": "H",
+      "confederation": "欧洲足联",
+      "fifaRank": 2,
+      "titles": 1,
+      "bestFinish": "冠军",
+      "coach": "官方名单待更新",
+      "starPlayers": [
+        "Lamine Yamal",
+        "Pedri"
+      ],
+      "palette": [
+        "#aa151b",
+        "#f1bf00"
+      ],
+      "flagImage": "https://flagcdn.com/w80/es.png",
+      "form": [],
+      "story": "西班牙 位于 H 组，当前总览由公开赛程和比分自动合成。"
     },
     {
       "id": "norway",
@@ -774,89 +505,6 @@
       "story": "阿根廷 位于 J 组，当前总览由公开赛程和比分自动合成。"
     },
     {
-      "id": "algeria",
-      "name": "阿尔及利亚",
-      "code": "ALG",
-      "flag": "🇩🇿",
-      "group": "J",
-      "confederation": "非洲足联",
-      "fifaRank": 68,
-      "titles": 0,
-      "bestFinish": "参赛",
-      "coach": "官方名单待更新",
-      "starPlayers": [],
-      "palette": [
-        "#1f8a70",
-        "#f2c94c"
-      ],
-      "flagImage": "https://flagcdn.com/w80/dz.png",
-      "form": [],
-      "story": "阿尔及利亚 位于 J 组，当前总览由公开赛程和比分自动合成。"
-    },
-    {
-      "id": "austria",
-      "name": "奥地利",
-      "code": "AUT",
-      "flag": "🇦🇹",
-      "group": "J",
-      "confederation": "欧洲足联",
-      "fifaRank": 69,
-      "titles": 0,
-      "bestFinish": "参赛",
-      "coach": "官方名单待更新",
-      "starPlayers": [],
-      "palette": [
-        "#1f8a70",
-        "#f2c94c"
-      ],
-      "flagImage": "https://flagcdn.com/w80/at.png",
-      "form": [],
-      "story": "奥地利 位于 J 组，当前总览由公开赛程和比分自动合成。"
-    },
-    {
-      "id": "jordan",
-      "name": "约旦",
-      "code": "JOR",
-      "flag": "🇯🇴",
-      "group": "J",
-      "confederation": "亚足联",
-      "fifaRank": 70,
-      "titles": 0,
-      "bestFinish": "参赛",
-      "coach": "官方名单待更新",
-      "starPlayers": [],
-      "palette": [
-        "#1f8a70",
-        "#f2c94c"
-      ],
-      "flagImage": "https://flagcdn.com/w80/jo.png",
-      "form": [],
-      "story": "约旦 位于 J 组，当前总览由公开赛程和比分自动合成。"
-    },
-    {
-      "id": "portugal",
-      "name": "葡萄牙",
-      "code": "POR",
-      "flag": "🇵🇹",
-      "group": "K",
-      "confederation": "欧洲足联",
-      "fifaRank": 6,
-      "titles": 0,
-      "bestFinish": "季军",
-      "coach": "官方名单待更新",
-      "starPlayers": [
-        "Cristiano Ronaldo",
-        "Rafael Leão"
-      ],
-      "palette": [
-        "#006600",
-        "#ff0000"
-      ],
-      "flagImage": "https://flagcdn.com/w80/pt.png",
-      "form": [],
-      "story": "葡萄牙 位于 K 组，当前总览由公开赛程和比分自动合成。"
-    },
-    {
       "id": "democratic-republic-of-the-congo",
       "name": "民主刚果",
       "code": "COD",
@@ -875,46 +523,6 @@
       "flagImage": "https://flagcdn.com/w80/cd.png",
       "form": [],
       "story": "民主刚果 位于 K 组，当前总览由公开赛程和比分自动合成。"
-    },
-    {
-      "id": "uzbekistan",
-      "name": "乌兹别克斯坦",
-      "code": "UZB",
-      "flag": "🇺🇿",
-      "group": "K",
-      "confederation": "亚足联",
-      "fifaRank": 73,
-      "titles": 0,
-      "bestFinish": "参赛",
-      "coach": "官方名单待更新",
-      "starPlayers": [],
-      "palette": [
-        "#1f8a70",
-        "#f2c94c"
-      ],
-      "flagImage": "https://flagcdn.com/w80/uz.png",
-      "form": [],
-      "story": "乌兹别克斯坦 位于 K 组，当前总览由公开赛程和比分自动合成。"
-    },
-    {
-      "id": "colombia",
-      "name": "哥伦比亚",
-      "code": "COL",
-      "flag": "🇨🇴",
-      "group": "K",
-      "confederation": "南美足联",
-      "fifaRank": 11,
-      "titles": 0,
-      "bestFinish": "参赛",
-      "coach": "官方名单待更新",
-      "starPlayers": [],
-      "palette": [
-        "#1f8a70",
-        "#f2c94c"
-      ],
-      "flagImage": "https://flagcdn.com/w80/co.png",
-      "form": [],
-      "story": "哥伦比亚 位于 K 组，当前总览由公开赛程和比分自动合成。"
     },
     {
       "id": "england",
@@ -940,33 +548,13 @@
       "story": "英格兰 位于 L 组，当前总览由公开赛程和比分自动合成。"
     },
     {
-      "id": "croatia",
-      "name": "克罗地亚",
-      "code": "CRO",
-      "flag": "🇭🇷",
-      "group": "L",
+      "id": "czech-republic",
+      "name": "捷克",
+      "code": "CZE",
+      "flag": "🇨🇿",
+      "group": "A",
       "confederation": "欧洲足联",
-      "fifaRank": 10,
-      "titles": 0,
-      "bestFinish": "亚军",
-      "coach": "官方名单待更新",
-      "starPlayers": [],
-      "palette": [
-        "#1f8a70",
-        "#f2c94c"
-      ],
-      "flagImage": "https://flagcdn.com/w80/hr.png",
-      "form": [],
-      "story": "克罗地亚 位于 L 组，当前总览由公开赛程和比分自动合成。"
-    },
-    {
-      "id": "ghana",
-      "name": "加纳",
-      "code": "GHA",
-      "flag": "🇬🇭",
-      "group": "L",
-      "confederation": "非洲足联",
-      "fifaRank": 77,
+      "fifaRank": 34,
       "titles": 0,
       "bestFinish": "参赛",
       "coach": "官方名单待更新",
@@ -975,9 +563,275 @@
         "#1f8a70",
         "#f2c94c"
       ],
-      "flagImage": "https://flagcdn.com/w80/gh.png",
+      "flagImage": "https://flagcdn.com/w80/cz.png",
       "form": [],
-      "story": "加纳 位于 L 组，当前总览由公开赛程和比分自动合成。"
+      "story": "捷克 位于 A 组，当前总览由公开赛程和比分自动合成。"
+    },
+    {
+      "id": "canada",
+      "name": "加拿大",
+      "code": "CAN",
+      "flag": "🇨🇦",
+      "group": "B",
+      "confederation": "中北美及加勒比足联",
+      "fifaRank": 35,
+      "titles": 0,
+      "bestFinish": "参赛",
+      "coach": "官方名单待更新",
+      "starPlayers": [
+        "Alphonso Davies",
+        "Jonathan David"
+      ],
+      "palette": [
+        "#d80621",
+        "#ffffff"
+      ],
+      "flagImage": "https://flagcdn.com/w80/ca.png",
+      "form": [],
+      "story": "加拿大 位于 B 组，当前总览由公开赛程和比分自动合成。"
+    },
+    {
+      "id": "qatar",
+      "name": "卡塔尔",
+      "code": "QAT",
+      "flag": "🇶🇦",
+      "group": "B",
+      "confederation": "亚足联",
+      "fifaRank": 37,
+      "titles": 0,
+      "bestFinish": "参赛",
+      "coach": "官方名单待更新",
+      "starPlayers": [],
+      "palette": [
+        "#1f8a70",
+        "#f2c94c"
+      ],
+      "flagImage": "https://flagcdn.com/w80/qa.png",
+      "form": [],
+      "story": "卡塔尔 位于 B 组，当前总览由公开赛程和比分自动合成。"
+    },
+    {
+      "id": "switzerland",
+      "name": "瑞士",
+      "code": "SUI",
+      "flag": "🇨🇭",
+      "group": "B",
+      "confederation": "欧洲足联",
+      "fifaRank": 16,
+      "titles": 0,
+      "bestFinish": "参赛",
+      "coach": "官方名单待更新",
+      "starPlayers": [],
+      "palette": [
+        "#1f8a70",
+        "#f2c94c"
+      ],
+      "flagImage": "https://flagcdn.com/w80/ch.png",
+      "form": [],
+      "story": "瑞士 位于 B 组，当前总览由公开赛程和比分自动合成。"
+    },
+    {
+      "id": "morocco",
+      "name": "摩洛哥",
+      "code": "MAR",
+      "flag": "🇲🇦",
+      "group": "C",
+      "confederation": "非洲足联",
+      "fifaRank": 13,
+      "titles": 0,
+      "bestFinish": "四强",
+      "coach": "官方名单待更新",
+      "starPlayers": [],
+      "palette": [
+        "#1f8a70",
+        "#f2c94c"
+      ],
+      "flagImage": "https://flagcdn.com/w80/ma.png",
+      "form": [],
+      "story": "摩洛哥 位于 C 组，当前总览由公开赛程和比分自动合成。"
+    },
+    {
+      "id": "paraguay",
+      "name": "巴拉圭",
+      "code": "PAR",
+      "flag": "🇵🇾",
+      "group": "D",
+      "confederation": "南美足联",
+      "fifaRank": 44,
+      "titles": 0,
+      "bestFinish": "参赛",
+      "coach": "官方名单待更新",
+      "starPlayers": [],
+      "palette": [
+        "#1f8a70",
+        "#f2c94c"
+      ],
+      "flagImage": "https://flagcdn.com/w80/py.png",
+      "form": [],
+      "story": "巴拉圭 位于 D 组，当前总览由公开赛程和比分自动合成。"
+    },
+    {
+      "id": "curacao",
+      "name": "库拉索",
+      "code": "CUW",
+      "flag": "🇨🇼",
+      "group": "E",
+      "confederation": "中北美及加勒比足联",
+      "fifaRank": 48,
+      "titles": 0,
+      "bestFinish": "参赛",
+      "coach": "官方名单待更新",
+      "starPlayers": [],
+      "palette": [
+        "#1f8a70",
+        "#f2c94c"
+      ],
+      "flagImage": "https://flagcdn.com/w80/cw.png",
+      "form": [],
+      "story": "库拉索 位于 E 组，当前总览由公开赛程和比分自动合成。"
+    },
+    {
+      "id": "sweden",
+      "name": "瑞典",
+      "code": "SWE",
+      "flag": "🇸🇪",
+      "group": "F",
+      "confederation": "欧洲足联",
+      "fifaRank": 53,
+      "titles": 0,
+      "bestFinish": "参赛",
+      "coach": "官方名单待更新",
+      "starPlayers": [],
+      "palette": [
+        "#1f8a70",
+        "#f2c94c"
+      ],
+      "flagImage": "https://flagcdn.com/w80/se.png",
+      "form": [],
+      "story": "瑞典 位于 F 组，当前总览由公开赛程和比分自动合成。"
+    },
+    {
+      "id": "algeria",
+      "name": "阿尔及利亚",
+      "code": "ALG",
+      "flag": "🇩🇿",
+      "group": "J",
+      "confederation": "非洲足联",
+      "fifaRank": 68,
+      "titles": 0,
+      "bestFinish": "参赛",
+      "coach": "官方名单待更新",
+      "starPlayers": [],
+      "palette": [
+        "#1f8a70",
+        "#f2c94c"
+      ],
+      "flagImage": "https://flagcdn.com/w80/dz.png",
+      "form": [],
+      "story": "阿尔及利亚 位于 J 组，当前总览由公开赛程和比分自动合成。"
+    },
+    {
+      "id": "jordan",
+      "name": "约旦",
+      "code": "JOR",
+      "flag": "🇯🇴",
+      "group": "J",
+      "confederation": "亚足联",
+      "fifaRank": 70,
+      "titles": 0,
+      "bestFinish": "参赛",
+      "coach": "官方名单待更新",
+      "starPlayers": [],
+      "palette": [
+        "#1f8a70",
+        "#f2c94c"
+      ],
+      "flagImage": "https://flagcdn.com/w80/jo.png",
+      "form": [],
+      "story": "约旦 位于 J 组，当前总览由公开赛程和比分自动合成。"
+    },
+    {
+      "id": "haiti",
+      "name": "海地",
+      "code": "HAI",
+      "flag": "🇭🇹",
+      "group": "C",
+      "confederation": "中北美及加勒比足联",
+      "fifaRank": 41,
+      "titles": 0,
+      "bestFinish": "参赛",
+      "coach": "官方名单待更新",
+      "starPlayers": [],
+      "palette": [
+        "#1f8a70",
+        "#f2c94c"
+      ],
+      "flagImage": "https://flagcdn.com/w80/ht.png",
+      "form": [],
+      "story": "海地 位于 C 组，当前总览由公开赛程和比分自动合成。"
+    },
+    {
+      "id": "germany",
+      "name": "德国",
+      "code": "GER",
+      "flag": "🇩🇪",
+      "group": "E",
+      "confederation": "欧洲足联",
+      "fifaRank": 9,
+      "titles": 4,
+      "bestFinish": "冠军",
+      "coach": "官方名单待更新",
+      "starPlayers": [
+        "Jamal Musiala",
+        "Kai Havertz"
+      ],
+      "palette": [
+        "#111111",
+        "#ffcc00"
+      ],
+      "flagImage": "https://flagcdn.com/w80/de.png",
+      "form": [],
+      "story": "德国 位于 E 组，当前总览由公开赛程和比分自动合成。"
+    },
+    {
+      "id": "uruguay",
+      "name": "乌拉圭",
+      "code": "URU",
+      "flag": "🇺🇾",
+      "group": "H",
+      "confederation": "南美足联",
+      "fifaRank": 12,
+      "titles": 2,
+      "bestFinish": "冠军",
+      "coach": "官方名单待更新",
+      "starPlayers": [],
+      "palette": [
+        "#1f8a70",
+        "#f2c94c"
+      ],
+      "flagImage": "https://flagcdn.com/w80/uy.png",
+      "form": [],
+      "story": "乌拉圭 位于 H 组，当前总览由公开赛程和比分自动合成。"
+    },
+    {
+      "id": "senegal",
+      "name": "塞内加尔",
+      "code": "SEN",
+      "flag": "🇸🇳",
+      "group": "I",
+      "confederation": "非洲足联",
+      "fifaRank": 18,
+      "titles": 0,
+      "bestFinish": "参赛",
+      "coach": "官方名单待更新",
+      "starPlayers": [],
+      "palette": [
+        "#1f8a70",
+        "#f2c94c"
+      ],
+      "flagImage": "https://flagcdn.com/w80/sn.png",
+      "form": [],
+      "story": "塞内加尔 位于 I 组，当前总览由公开赛程和比分自动合成。"
     },
     {
       "id": "panama",
@@ -998,61 +852,155 @@
       "flagImage": "https://flagcdn.com/w80/pa.png",
       "form": [],
       "story": "巴拿马 位于 L 组，当前总览由公开赛程和比分自动合成。"
+    },
+    {
+      "id": "mexico",
+      "name": "墨西哥",
+      "code": "MEX",
+      "flag": "🇲🇽",
+      "group": "A",
+      "confederation": "中北美及加勒比足联",
+      "fifaRank": 14,
+      "titles": 0,
+      "bestFinish": "八强",
+      "coach": "官方名单待更新",
+      "starPlayers": [
+        "Santiago Gimenez",
+        "Edson Alvarez"
+      ],
+      "palette": [
+        "#006847",
+        "#ce1126"
+      ],
+      "flagImage": "https://flagcdn.com/w80/mx.png",
+      "form": [],
+      "story": "墨西哥 位于 A 组，当前总览由公开赛程和比分自动合成。"
+    },
+    {
+      "id": "bosnia-and-herzegovina",
+      "name": "波黑",
+      "code": "BIH",
+      "flag": "🇧🇦",
+      "group": "B",
+      "confederation": "欧洲足联",
+      "fifaRank": 36,
+      "titles": 0,
+      "bestFinish": "参赛",
+      "coach": "官方名单待更新",
+      "starPlayers": [],
+      "palette": [
+        "#1f8a70",
+        "#f2c94c"
+      ],
+      "flagImage": "https://flagcdn.com/w80/ba.png",
+      "form": [],
+      "story": "波黑 位于 B 组，当前总览由公开赛程和比分自动合成。"
+    },
+    {
+      "id": "united-states",
+      "name": "美国",
+      "code": "USA",
+      "flag": "🇺🇸",
+      "group": "D",
+      "confederation": "中北美及加勒比足联",
+      "fifaRank": 15,
+      "titles": 0,
+      "bestFinish": "四强",
+      "coach": "官方名单待更新",
+      "starPlayers": [
+        "Christian Pulisic",
+        "Weston McKennie"
+      ],
+      "palette": [
+        "#3c3b6e",
+        "#b22234"
+      ],
+      "flagImage": "https://flagcdn.com/w80/us.png",
+      "form": [],
+      "story": "美国 位于 D 组，当前总览由公开赛程和比分自动合成。"
+    },
+    {
+      "id": "australia",
+      "name": "澳大利亚",
+      "code": "AUS",
+      "flag": "🇦🇺",
+      "group": "D",
+      "confederation": "亚足联",
+      "fifaRank": 45,
+      "titles": 0,
+      "bestFinish": "参赛",
+      "coach": "官方名单待更新",
+      "starPlayers": [],
+      "palette": [
+        "#1f8a70",
+        "#f2c94c"
+      ],
+      "flagImage": "https://flagcdn.com/w80/au.png",
+      "form": [],
+      "story": "澳大利亚 位于 D 组，当前总览由公开赛程和比分自动合成。"
+    },
+    {
+      "id": "belgium",
+      "name": "比利时",
+      "code": "BEL",
+      "flag": "🇧🇪",
+      "group": "G",
+      "confederation": "欧洲足联",
+      "fifaRank": 8,
+      "titles": 0,
+      "bestFinish": "季军",
+      "coach": "官方名单待更新",
+      "starPlayers": [],
+      "palette": [
+        "#1f8a70",
+        "#f2c94c"
+      ],
+      "flagImage": "https://flagcdn.com/w80/be.png",
+      "form": [],
+      "story": "比利时 位于 G 组，当前总览由公开赛程和比分自动合成。"
+    },
+    {
+      "id": "iran",
+      "name": "伊朗",
+      "code": "IRN",
+      "flag": "🇮🇷",
+      "group": "G",
+      "confederation": "亚足联",
+      "fifaRank": 57,
+      "titles": 0,
+      "bestFinish": "参赛",
+      "coach": "官方名单待更新",
+      "starPlayers": [],
+      "palette": [
+        "#1f8a70",
+        "#f2c94c"
+      ],
+      "flagImage": "https://flagcdn.com/w80/ir.png",
+      "form": [],
+      "story": "伊朗 位于 G 组，当前总览由公开赛程和比分自动合成。"
+    },
+    {
+      "id": "croatia",
+      "name": "克罗地亚",
+      "code": "CRO",
+      "flag": "🇭🇷",
+      "group": "L",
+      "confederation": "欧洲足联",
+      "fifaRank": 10,
+      "titles": 0,
+      "bestFinish": "亚军",
+      "coach": "官方名单待更新",
+      "starPlayers": [],
+      "palette": [
+        "#1f8a70",
+        "#f2c94c"
+      ],
+      "flagImage": "https://flagcdn.com/w80/hr.png",
+      "form": [],
+      "story": "克罗地亚 位于 L 组，当前总览由公开赛程和比分自动合成。"
     }
   ],
   "players": [
-    {
-      "id": "santiago-gimenez",
-      "name": "希门尼斯",
-      "teamId": "mexico",
-      "position": "FW",
-      "goals": 0,
-      "assists": 0,
-      "shots": 0,
-      "shotsOnTarget": 0,
-      "xg": 0,
-      "image": "/player-photos/julian-quinones-20260701.png",
-      "headline": "墨西哥中锋"
-    },
-    {
-      "id": "edson-alvarez",
-      "name": "埃德松·阿尔瓦雷斯",
-      "teamId": "mexico",
-      "position": "MF",
-      "goals": 0,
-      "assists": 0,
-      "shots": 0,
-      "shotsOnTarget": 0,
-      "xg": 0,
-      "image": "/player-photos/julian-quinones-20260701.png",
-      "headline": "墨西哥中场屏障"
-    },
-    {
-      "id": "alphonso-davies",
-      "name": "阿方索·戴维斯",
-      "teamId": "canada",
-      "position": "AM",
-      "goals": 0,
-      "assists": 0,
-      "shots": 0,
-      "shotsOnTarget": 0,
-      "xg": 0,
-      "image": "/player-photos/julian-quinones-20260701.png",
-      "headline": "加拿大速度核心"
-    },
-    {
-      "id": "jonathan-david",
-      "name": "乔纳森·戴维",
-      "teamId": "canada",
-      "position": "FW",
-      "goals": 0,
-      "assists": 0,
-      "shots": 8,
-      "shotsOnTarget": 4,
-      "xg": 1.28,
-      "image": "/player-photos/jonathan-david-20260701.jpg",
-      "headline": "加拿大射手"
-    },
     {
       "id": "vinicius-junior",
       "name": "维尼修斯",
@@ -1080,56 +1028,56 @@
       "headline": "巴西灵活前锋"
     },
     {
-      "id": "christian-pulisic",
-      "name": "普利西奇",
-      "teamId": "united-states",
+      "id": "kylian-mbappe",
+      "name": "姆巴佩",
+      "teamId": "france",
+      "position": "FW",
+      "goals": 0,
+      "assists": 0,
+      "shots": 14,
+      "shotsOnTarget": 7,
+      "xg": 2.24,
+      "image": "/player-photos/kylian-mbappe-20260701.jpg",
+      "headline": "法国冲刺核心"
+    },
+    {
+      "id": "ousmane-dembele",
+      "name": "登贝莱",
+      "teamId": "france",
       "position": "AM",
       "goals": 0,
       "assists": 0,
-      "shots": 0,
-      "shotsOnTarget": 0,
-      "xg": 0,
-      "image": "/player-photos/julian-quinones-20260701.png",
-      "headline": "美国前场核心"
+      "shots": 10,
+      "shotsOnTarget": 5,
+      "xg": 1.6,
+      "image": "/player-photos/ousmane-dembele-20260701.jpg",
+      "headline": "法国边路推进器"
     },
     {
-      "id": "weston-mckennie",
-      "name": "麦肯尼",
-      "teamId": "united-states",
-      "position": "MF",
+      "id": "cristiano-ronaldo",
+      "name": "C罗",
+      "teamId": "portugal",
+      "position": "FW",
       "goals": 0,
       "assists": 0,
-      "shots": 0,
-      "shotsOnTarget": 0,
-      "xg": 0,
+      "shots": 4,
+      "shotsOnTarget": 2,
+      "xg": 0.64,
       "image": "/player-photos/julian-quinones-20260701.png",
-      "headline": "美国中场覆盖者"
+      "headline": "葡萄牙门前标志"
     },
     {
-      "id": "jamal-musiala",
-      "name": "穆西亚拉",
-      "teamId": "germany",
-      "position": "AM",
+      "id": "rafael-leao",
+      "name": "莱奥",
+      "teamId": "portugal",
+      "position": "FW",
       "goals": 0,
       "assists": 0,
-      "shots": 0,
-      "shotsOnTarget": 0,
-      "xg": 0,
+      "shots": 2,
+      "shotsOnTarget": 1,
+      "xg": 0.32,
       "image": "/player-photos/julian-quinones-20260701.png",
-      "headline": "德国前场灵感"
-    },
-    {
-      "id": "kai-havertz",
-      "name": "哈弗茨",
-      "teamId": "germany",
-      "position": "AM",
-      "goals": 0,
-      "assists": 0,
-      "shots": 6,
-      "shotsOnTarget": 3,
-      "xg": 0.96,
-      "image": "/player-photos/kai-havertz-20260701.jpg",
-      "headline": "德国锋线衔接点"
+      "headline": "葡萄牙左路爆点"
     },
     {
       "id": "lamine-yamal",
@@ -1156,32 +1104,6 @@
       "xg": 0,
       "image": "/player-photos/julian-quinones-20260701.png",
       "headline": "西班牙中场节拍器"
-    },
-    {
-      "id": "kylian-mbappe",
-      "name": "姆巴佩",
-      "teamId": "france",
-      "position": "FW",
-      "goals": 0,
-      "assists": 0,
-      "shots": 14,
-      "shotsOnTarget": 7,
-      "xg": 2.24,
-      "image": "/player-photos/kylian-mbappe-20260701.jpg",
-      "headline": "法国冲刺核心"
-    },
-    {
-      "id": "ousmane-dembele",
-      "name": "登贝莱",
-      "teamId": "france",
-      "position": "AM",
-      "goals": 0,
-      "assists": 0,
-      "shots": 10,
-      "shotsOnTarget": 5,
-      "xg": 1.6,
-      "image": "/player-photos/ousmane-dembele-20260701.jpg",
-      "headline": "法国边路推进器"
     },
     {
       "id": "erling-haaland",
@@ -1236,32 +1158,6 @@
       "headline": "阿根廷锋线冲击"
     },
     {
-      "id": "cristiano-ronaldo",
-      "name": "C罗",
-      "teamId": "portugal",
-      "position": "FW",
-      "goals": 0,
-      "assists": 0,
-      "shots": 4,
-      "shotsOnTarget": 2,
-      "xg": 0.64,
-      "image": "/player-photos/julian-quinones-20260701.png",
-      "headline": "葡萄牙门前标志"
-    },
-    {
-      "id": "rafael-leao",
-      "name": "莱奥",
-      "teamId": "portugal",
-      "position": "FW",
-      "goals": 0,
-      "assists": 0,
-      "shots": 2,
-      "shotsOnTarget": 1,
-      "xg": 0.32,
-      "image": "/player-photos/julian-quinones-20260701.png",
-      "headline": "葡萄牙左路爆点"
-    },
-    {
       "id": "harry-kane",
       "name": "凯恩",
       "teamId": "england",
@@ -1286,6 +1182,110 @@
       "xg": 0,
       "image": "/player-photos/julian-quinones-20260701.png",
       "headline": "英格兰中场推进"
+    },
+    {
+      "id": "alphonso-davies",
+      "name": "阿方索·戴维斯",
+      "teamId": "canada",
+      "position": "AM",
+      "goals": 0,
+      "assists": 0,
+      "shots": 0,
+      "shotsOnTarget": 0,
+      "xg": 0,
+      "image": "/player-photos/julian-quinones-20260701.png",
+      "headline": "加拿大速度核心"
+    },
+    {
+      "id": "jonathan-david",
+      "name": "乔纳森·戴维",
+      "teamId": "canada",
+      "position": "FW",
+      "goals": 0,
+      "assists": 0,
+      "shots": 8,
+      "shotsOnTarget": 4,
+      "xg": 1.28,
+      "image": "/player-photos/jonathan-david-20260701.jpg",
+      "headline": "加拿大射手"
+    },
+    {
+      "id": "jamal-musiala",
+      "name": "穆西亚拉",
+      "teamId": "germany",
+      "position": "AM",
+      "goals": 0,
+      "assists": 0,
+      "shots": 0,
+      "shotsOnTarget": 0,
+      "xg": 0,
+      "image": "/player-photos/julian-quinones-20260701.png",
+      "headline": "德国前场灵感"
+    },
+    {
+      "id": "kai-havertz",
+      "name": "哈弗茨",
+      "teamId": "germany",
+      "position": "AM",
+      "goals": 0,
+      "assists": 0,
+      "shots": 6,
+      "shotsOnTarget": 3,
+      "xg": 0.96,
+      "image": "/player-photos/kai-havertz-20260701.jpg",
+      "headline": "德国锋线衔接点"
+    },
+    {
+      "id": "santiago-gimenez",
+      "name": "希门尼斯",
+      "teamId": "mexico",
+      "position": "FW",
+      "goals": 0,
+      "assists": 0,
+      "shots": 0,
+      "shotsOnTarget": 0,
+      "xg": 0,
+      "image": "/player-photos/julian-quinones-20260701.png",
+      "headline": "墨西哥中锋"
+    },
+    {
+      "id": "edson-alvarez",
+      "name": "埃德松·阿尔瓦雷斯",
+      "teamId": "mexico",
+      "position": "MF",
+      "goals": 0,
+      "assists": 0,
+      "shots": 0,
+      "shotsOnTarget": 0,
+      "xg": 0,
+      "image": "/player-photos/julian-quinones-20260701.png",
+      "headline": "墨西哥中场屏障"
+    },
+    {
+      "id": "christian-pulisic",
+      "name": "普利西奇",
+      "teamId": "united-states",
+      "position": "AM",
+      "goals": 0,
+      "assists": 0,
+      "shots": 0,
+      "shotsOnTarget": 0,
+      "xg": 0,
+      "image": "/player-photos/julian-quinones-20260701.png",
+      "headline": "美国前场核心"
+    },
+    {
+      "id": "weston-mckennie",
+      "name": "麦肯尼",
+      "teamId": "united-states",
+      "position": "MF",
+      "goals": 0,
+      "assists": 0,
+      "shots": 0,
+      "shotsOnTarget": 0,
+      "xg": 0,
+      "image": "/player-photos/julian-quinones-20260701.png",
+      "headline": "美国中场覆盖者"
     },
     {
       "id": "julian-quinones",
@@ -1470,6 +1470,19 @@
       "headline": "本届进球球员"
     },
     {
+      "id": "j-mcginn",
+      "name": "外文名：J. McGinn",
+      "teamId": "scotland",
+      "position": "AM",
+      "goals": 0,
+      "assists": 0,
+      "shots": 2,
+      "shotsOnTarget": 1,
+      "xg": 0.32,
+      "image": "/player-photos/julian-quinones-20260701.png",
+      "headline": "本届进球球员"
+    },
+    {
       "id": "nestory-irankunda",
       "name": "外文名：Nestory Irankunda",
       "teamId": "australia",
@@ -1486,19 +1499,6 @@
       "id": "c-metcalfe",
       "name": "外文名：C. Metcalfe",
       "teamId": "australia",
-      "position": "AM",
-      "goals": 0,
-      "assists": 0,
-      "shots": 2,
-      "shotsOnTarget": 1,
-      "xg": 0.32,
-      "image": "/player-photos/julian-quinones-20260701.png",
-      "headline": "本届进球球员"
-    },
-    {
-      "id": "j-mcginn",
-      "name": "外文名：J. McGinn",
-      "teamId": "scotland",
       "position": "AM",
       "goals": 0,
       "assists": 0,
@@ -1743,32 +1743,6 @@
       "headline": "本届进球球员"
     },
     {
-      "id": "abdulelah-al-amri",
-      "name": "阿卜杜勒伊拉·阿姆里",
-      "teamId": "saudi-arabia",
-      "position": "AM",
-      "goals": 0,
-      "assists": 0,
-      "shots": 2,
-      "shotsOnTarget": 1,
-      "xg": 0.32,
-      "image": "/player-photos/julian-quinones-20260701.png",
-      "headline": "沙特后场定位球威胁"
-    },
-    {
-      "id": "maximiliano-araujo",
-      "name": "马克西米利亚诺·阿劳霍",
-      "teamId": "uruguay",
-      "position": "AM",
-      "goals": 0,
-      "assists": 0,
-      "shots": 4,
-      "shotsOnTarget": 2,
-      "xg": 0.64,
-      "image": "/player-photos/julian-quinones-20260701.png",
-      "headline": "乌拉圭左路推进点"
-    },
-    {
       "id": "ramin-rezaiian",
       "name": "外文名：Ramin Rezaiian",
       "teamId": "iran",
@@ -1806,6 +1780,32 @@
       "xg": 0.64,
       "image": "/player-photos/elijah-just-20260701.jpg",
       "headline": "新西兰反击点"
+    },
+    {
+      "id": "abdulelah-al-amri",
+      "name": "阿卜杜勒伊拉·阿姆里",
+      "teamId": "saudi-arabia",
+      "position": "AM",
+      "goals": 0,
+      "assists": 0,
+      "shots": 2,
+      "shotsOnTarget": 1,
+      "xg": 0.32,
+      "image": "/player-photos/julian-quinones-20260701.png",
+      "headline": "沙特后场定位球威胁"
+    },
+    {
+      "id": "maximiliano-araujo",
+      "name": "马克西米利亚诺·阿劳霍",
+      "teamId": "uruguay",
+      "position": "AM",
+      "goals": 0,
+      "assists": 0,
+      "shots": 4,
+      "shotsOnTarget": 2,
+      "xg": 0.64,
+      "image": "/player-photos/julian-quinones-20260701.png",
+      "headline": "乌拉圭左路推进点"
     },
     {
       "id": "b-barcola",
@@ -2666,6 +2666,19 @@
       "headline": "本届进球球员"
     },
     {
+      "id": "taplv-maskv",
+      "name": "外文名：Taplv Maskv",
+      "teamId": "south-africa",
+      "position": "AM",
+      "goals": 0,
+      "assists": 0,
+      "shots": 2,
+      "shotsOnTarget": 1,
+      "xg": 0.32,
+      "image": "/player-photos/julian-quinones-20260701.png",
+      "headline": "本届进球球员"
+    },
+    {
       "id": "mateo-chavez",
       "name": "外文名：Mateo Chávez",
       "teamId": "mexico",
@@ -2682,19 +2695,6 @@
       "id": "alvaro-fidalgo",
       "name": "外文名：Álvaro Fidalgo",
       "teamId": "mexico",
-      "position": "AM",
-      "goals": 0,
-      "assists": 0,
-      "shots": 2,
-      "shotsOnTarget": 1,
-      "xg": 0.32,
-      "image": "/player-photos/julian-quinones-20260701.png",
-      "headline": "本届进球球员"
-    },
-    {
-      "id": "taplv-maskv",
-      "name": "外文名：Taplv Maskv",
-      "teamId": "south-africa",
       "position": "AM",
       "goals": 0,
       "assists": 0,
@@ -3147,45 +3147,6 @@
       "headline": "本届进球球员"
     },
     {
-      "id": "mousa-al-taamari",
-      "name": "穆萨·塔马里",
-      "teamId": "jordan",
-      "position": "AM",
-      "goals": 0,
-      "assists": 0,
-      "shots": 2,
-      "shotsOnTarget": 1,
-      "xg": 0.32,
-      "image": "/player-photos/julian-quinones-20260701.png",
-      "headline": "约旦反击核心"
-    },
-    {
-      "id": "jivani-lv-slsv",
-      "name": "外文名：Jivani Lv Slsv",
-      "teamId": "argentina",
-      "position": "AM",
-      "goals": 0,
-      "assists": 0,
-      "shots": 2,
-      "shotsOnTarget": 1,
-      "xg": 0.32,
-      "image": "/player-photos/julian-quinones-20260701.png",
-      "headline": "本届进球球员"
-    },
-    {
-      "id": "lautaro-martinez",
-      "name": "外文名：Lautaro Martínez",
-      "teamId": "argentina",
-      "position": "AM",
-      "goals": 0,
-      "assists": 0,
-      "shots": 2,
-      "shotsOnTarget": 1,
-      "xg": 0.32,
-      "image": "/player-photos/julian-quinones-20260701.png",
-      "headline": "本届进球球员"
-    },
-    {
       "id": "rafik-blghali",
       "name": "外文名：Rafik Blghali",
       "teamId": "algeria",
@@ -3241,6 +3202,45 @@
       "id": "sasa-kalajdzic",
       "name": "外文名：Saša Kalajdžić",
       "teamId": "austria",
+      "position": "AM",
+      "goals": 0,
+      "assists": 0,
+      "shots": 2,
+      "shotsOnTarget": 1,
+      "xg": 0.32,
+      "image": "/player-photos/julian-quinones-20260701.png",
+      "headline": "本届进球球员"
+    },
+    {
+      "id": "mousa-al-taamari",
+      "name": "穆萨·塔马里",
+      "teamId": "jordan",
+      "position": "AM",
+      "goals": 0,
+      "assists": 0,
+      "shots": 2,
+      "shotsOnTarget": 1,
+      "xg": 0.32,
+      "image": "/player-photos/julian-quinones-20260701.png",
+      "headline": "约旦反击核心"
+    },
+    {
+      "id": "jivani-lv-slsv",
+      "name": "外文名：Jivani Lv Slsv",
+      "teamId": "argentina",
+      "position": "AM",
+      "goals": 0,
+      "assists": 0,
+      "shots": 2,
+      "shotsOnTarget": 1,
+      "xg": 0.32,
+      "image": "/player-photos/julian-quinones-20260701.png",
+      "headline": "本届进球球员"
+    },
+    {
+      "id": "lautaro-martinez",
+      "name": "外文名：Lautaro Martínez",
+      "teamId": "argentina",
       "position": "AM",
       "goals": 0,
       "assists": 0,
@@ -3928,6 +3928,47 @@
       ]
     },
     {
+      "id": "wc26-5",
+      "stage": "group",
+      "group": "C",
+      "matchday": 1,
+      "utcDate": "2026-06-13T21:00:00.000Z",
+      "venue": "箭头体育场",
+      "city": "堪萨斯城",
+      "homeTeamId": "haiti",
+      "awayTeamId": "scotland",
+      "status": "finished",
+      "homeScore": 0,
+      "awayScore": 1,
+      "odds": {
+        "home": 2.32,
+        "draw": 3.33,
+        "away": 2.38
+      },
+      "stats": {
+        "homeShots": 10,
+        "awayShots": 13,
+        "homeShotsOnTarget": 4,
+        "awayShotsOnTarget": 6,
+        "homePossession": 52,
+        "awayPossession": 48,
+        "homeCorners": 3,
+        "awayCorners": 4
+      },
+      "scorers": [
+        {
+          "playerName": "J. McGinn",
+          "teamId": "scotland",
+          "minute": 28
+        }
+      ],
+      "summary": "海地 0-1 苏格兰，比赛已结束。",
+      "highlights": [
+        "28' 外文名：J. McGinn 改写比分",
+        "海地 对阵 苏格兰 技术统计已生成"
+      ]
+    },
+    {
       "id": "wc26-6",
       "stage": "group",
       "group": "D",
@@ -3972,47 +4013,6 @@
         "27' 外文名：Nestory Irankunda 改写比分",
         "75' 外文名：C. Metcalfe 改写比分",
         "澳大利亚 对阵 土耳其 技术统计已生成"
-      ]
-    },
-    {
-      "id": "wc26-5",
-      "stage": "group",
-      "group": "C",
-      "matchday": 1,
-      "utcDate": "2026-06-13T21:00:00.000Z",
-      "venue": "箭头体育场",
-      "city": "堪萨斯城",
-      "homeTeamId": "haiti",
-      "awayTeamId": "scotland",
-      "status": "finished",
-      "homeScore": 0,
-      "awayScore": 1,
-      "odds": {
-        "home": 2.32,
-        "draw": 3.33,
-        "away": 2.38
-      },
-      "stats": {
-        "homeShots": 10,
-        "awayShots": 13,
-        "homeShotsOnTarget": 4,
-        "awayShotsOnTarget": 6,
-        "homePossession": 52,
-        "awayPossession": 48,
-        "homeCorners": 3,
-        "awayCorners": 4
-      },
-      "scorers": [
-        {
-          "playerName": "J. McGinn",
-          "teamId": "scotland",
-          "minute": 28
-        }
-      ],
-      "summary": "海地 0-1 苏格兰，比赛已结束。",
-      "highlights": [
-        "28' 外文名：J. McGinn 改写比分",
-        "海地 对阵 苏格兰 技术统计已生成"
       ]
     },
     {
@@ -4343,53 +4343,6 @@
       ]
     },
     {
-      "id": "wc26-16",
-      "stage": "group",
-      "group": "H",
-      "matchday": 1,
-      "utcDate": "2026-06-15T18:00:00.000Z",
-      "venue": "硬石体育场",
-      "city": "迈阿密",
-      "homeTeamId": "saudi-arabia",
-      "awayTeamId": "uruguay",
-      "status": "finished",
-      "homeScore": 1,
-      "awayScore": 1,
-      "odds": {
-        "home": 5.9,
-        "draw": 12.69,
-        "away": 1.56
-      },
-      "stats": {
-        "homeShots": 8,
-        "awayShots": 17,
-        "homeShotsOnTarget": 4,
-        "awayShotsOnTarget": 7,
-        "homePossession": 32,
-        "awayPossession": 68,
-        "homeCorners": 3,
-        "awayCorners": 6
-      },
-      "scorers": [
-        {
-          "playerName": "Abdulelah Al-Amri",
-          "teamId": "saudi-arabia",
-          "minute": 41
-        },
-        {
-          "playerName": "Maximiliano Araújo",
-          "teamId": "uruguay",
-          "minute": 80
-        }
-      ],
-      "summary": "沙特阿拉伯 1-1 乌拉圭，比赛已结束。",
-      "highlights": [
-        "41' 阿卜杜勒伊拉·阿姆里 改写比分",
-        "80' 马克西米利亚诺·阿劳霍 改写比分",
-        "沙特阿拉伯 对阵 乌拉圭 技术统计已生成"
-      ]
-    },
-    {
       "id": "wc26-13",
       "stage": "group",
       "group": "G",
@@ -4445,6 +4398,53 @@
         "64' 外文名：Mohammad Mohebi 改写比分",
         "7' 伊莱贾·贾斯特 改写比分",
         "伊朗 对阵 新西兰 技术统计已生成"
+      ]
+    },
+    {
+      "id": "wc26-16",
+      "stage": "group",
+      "group": "H",
+      "matchday": 1,
+      "utcDate": "2026-06-15T18:00:00.000Z",
+      "venue": "硬石体育场",
+      "city": "迈阿密",
+      "homeTeamId": "saudi-arabia",
+      "awayTeamId": "uruguay",
+      "status": "finished",
+      "homeScore": 1,
+      "awayScore": 1,
+      "odds": {
+        "home": 5.9,
+        "draw": 12.69,
+        "away": 1.56
+      },
+      "stats": {
+        "homeShots": 8,
+        "awayShots": 17,
+        "homeShotsOnTarget": 4,
+        "awayShotsOnTarget": 7,
+        "homePossession": 32,
+        "awayPossession": 68,
+        "homeCorners": 3,
+        "awayCorners": 6
+      },
+      "scorers": [
+        {
+          "playerName": "Abdulelah Al-Amri",
+          "teamId": "saudi-arabia",
+          "minute": 41
+        },
+        {
+          "playerName": "Maximiliano Araújo",
+          "teamId": "uruguay",
+          "minute": 80
+        }
+      ],
+      "summary": "沙特阿拉伯 1-1 乌拉圭，比赛已结束。",
+      "highlights": [
+        "41' 阿卜杜勒伊拉·阿姆里 改写比分",
+        "80' 马克西米利亚诺·阿劳霍 改写比分",
+        "沙特阿拉伯 对阵 乌拉圭 技术统计已生成"
       ]
     },
     {
@@ -5493,6 +5493,41 @@
       ]
     },
     {
+      "id": "wc26-37",
+      "stage": "group",
+      "group": "G",
+      "matchday": 2,
+      "utcDate": "2026-06-21T12:00:00.000Z",
+      "venue": "BMO 球场",
+      "city": "多伦多",
+      "homeTeamId": "belgium",
+      "awayTeamId": "iran",
+      "status": "finished",
+      "homeScore": 0,
+      "awayScore": 0,
+      "odds": {
+        "home": 1.62,
+        "draw": 11.97,
+        "away": 5.07
+      },
+      "stats": {
+        "homeShots": 17,
+        "awayShots": 5,
+        "homeShotsOnTarget": 6,
+        "awayShotsOnTarget": 2,
+        "homePossession": 68,
+        "awayPossession": 32,
+        "homeCorners": 6,
+        "awayCorners": 2
+      },
+      "scorers": [],
+      "summary": "比利时 0-0 伊朗，比赛已结束。",
+      "highlights": [
+        "防守质量高于进攻转化",
+        "门将和定位球成为关键变量"
+      ]
+    },
+    {
       "id": "wc26-39",
       "stage": "group",
       "group": "H",
@@ -5548,41 +5583,6 @@
         "21' 奥亚萨瓦尔 改写比分",
         "24' 奥亚萨瓦尔 改写比分",
         "西班牙 对阵 沙特阿拉伯 技术统计已生成"
-      ]
-    },
-    {
-      "id": "wc26-37",
-      "stage": "group",
-      "group": "G",
-      "matchday": 2,
-      "utcDate": "2026-06-21T12:00:00.000Z",
-      "venue": "BMO 球场",
-      "city": "多伦多",
-      "homeTeamId": "belgium",
-      "awayTeamId": "iran",
-      "status": "finished",
-      "homeScore": 0,
-      "awayScore": 0,
-      "odds": {
-        "home": 1.62,
-        "draw": 11.97,
-        "away": 5.07
-      },
-      "stats": {
-        "homeShots": 17,
-        "awayShots": 5,
-        "homeShotsOnTarget": 6,
-        "awayShotsOnTarget": 2,
-        "homePossession": 68,
-        "awayPossession": 32,
-        "homeCorners": 6,
-        "awayCorners": 2
-      },
-      "scorers": [],
-      "summary": "比利时 0-0 伊朗，比赛已结束。",
-      "highlights": [
-        "防守质量高于进攻转化",
-        "门将和定位球成为关键变量"
       ]
     },
     {
@@ -6209,6 +6209,59 @@
       ]
     },
     {
+      "id": "wc26-49",
+      "stage": "group",
+      "group": "C",
+      "matchday": 3,
+      "utcDate": "2026-06-24T18:00:00.000Z",
+      "venue": "硬石体育场",
+      "city": "迈阿密",
+      "homeTeamId": "scotland",
+      "awayTeamId": "brazil",
+      "status": "finished",
+      "homeScore": 0,
+      "awayScore": 3,
+      "odds": {
+        "home": 3.77,
+        "draw": 11.61,
+        "away": 1.76
+      },
+      "stats": {
+        "homeShots": 4,
+        "awayShots": 21,
+        "homeShotsOnTarget": 1,
+        "awayShotsOnTarget": 11,
+        "homePossession": 32,
+        "awayPossession": 68,
+        "homeCorners": 1,
+        "awayCorners": 7
+      },
+      "scorers": [
+        {
+          "playerName": "Vinícius Júnior",
+          "teamId": "brazil",
+          "minute": 7
+        },
+        {
+          "playerName": "Vinícius Júnior",
+          "teamId": "brazil",
+          "minute": 48
+        },
+        {
+          "playerName": "Matheus Cunha",
+          "teamId": "brazil",
+          "minute": 60
+        }
+      ],
+      "summary": "苏格兰 0-3 巴西，比赛已结束。",
+      "highlights": [
+        "7' 维尼修斯 改写比分",
+        "48' 维尼修斯 改写比分",
+        "60' 库尼亚 改写比分",
+        "苏格兰 对阵 巴西 技术统计已生成"
+      ]
+    },
+    {
       "id": "wc26-50",
       "stage": "group",
       "group": "C",
@@ -6277,56 +6330,44 @@
       ]
     },
     {
-      "id": "wc26-49",
+      "id": "wc26-51",
       "stage": "group",
-      "group": "C",
+      "group": "A",
       "matchday": 3,
-      "utcDate": "2026-06-24T18:00:00.000Z",
-      "venue": "硬石体育场",
-      "city": "迈阿密",
-      "homeTeamId": "scotland",
-      "awayTeamId": "brazil",
+      "utcDate": "2026-06-24T19:00:00.000Z",
+      "venue": "蒙特雷体育场",
+      "city": "蒙特雷",
+      "homeTeamId": "south-africa",
+      "awayTeamId": "south-korea",
       "status": "finished",
-      "homeScore": 0,
-      "awayScore": 3,
+      "homeScore": 1,
+      "awayScore": 0,
       "odds": {
-        "home": 3.77,
-        "draw": 11.61,
-        "away": 1.76
+        "home": 2.33,
+        "draw": 3.33,
+        "away": 2.37
       },
       "stats": {
-        "homeShots": 4,
-        "awayShots": 21,
-        "homeShotsOnTarget": 1,
-        "awayShotsOnTarget": 11,
-        "homePossession": 32,
-        "awayPossession": 68,
-        "homeCorners": 1,
-        "awayCorners": 7
+        "homeShots": 13,
+        "awayShots": 9,
+        "homeShotsOnTarget": 6,
+        "awayShotsOnTarget": 3,
+        "homePossession": 52,
+        "awayPossession": 48,
+        "homeCorners": 4,
+        "awayCorners": 3
       },
       "scorers": [
         {
-          "playerName": "Vinícius Júnior",
-          "teamId": "brazil",
-          "minute": 7
-        },
-        {
-          "playerName": "Vinícius Júnior",
-          "teamId": "brazil",
-          "minute": 48
-        },
-        {
-          "playerName": "Matheus Cunha",
-          "teamId": "brazil",
-          "minute": 60
+          "playerName": "Taplv Maskv",
+          "teamId": "south-africa",
+          "minute": 63
         }
       ],
-      "summary": "苏格兰 0-3 巴西，比赛已结束。",
+      "summary": "南非 1-0 韩国，比赛已结束。",
       "highlights": [
-        "7' 维尼修斯 改写比分",
-        "48' 维尼修斯 改写比分",
-        "60' 库尼亚 改写比分",
-        "苏格兰 对阵 巴西 技术统计已生成"
+        "63' 外文名：Taplv Maskv 改写比分",
+        "南非 对阵 韩国 技术统计已生成"
       ]
     },
     {
@@ -6380,47 +6421,6 @@
         "61' 胡利安·基尼奥内斯 改写比分",
         "94' 外文名：Álvaro Fidalgo 改写比分",
         "捷克 对阵 墨西哥 技术统计已生成"
-      ]
-    },
-    {
-      "id": "wc26-51",
-      "stage": "group",
-      "group": "A",
-      "matchday": 3,
-      "utcDate": "2026-06-24T19:00:00.000Z",
-      "venue": "蒙特雷体育场",
-      "city": "蒙特雷",
-      "homeTeamId": "south-africa",
-      "awayTeamId": "south-korea",
-      "status": "finished",
-      "homeScore": 1,
-      "awayScore": 0,
-      "odds": {
-        "home": 2.33,
-        "draw": 3.33,
-        "away": 2.37
-      },
-      "stats": {
-        "homeShots": 13,
-        "awayShots": 9,
-        "homeShotsOnTarget": 6,
-        "awayShotsOnTarget": 3,
-        "homePossession": 52,
-        "awayPossession": 48,
-        "homeCorners": 4,
-        "awayCorners": 3
-      },
-      "scorers": [
-        {
-          "playerName": "Taplv Maskv",
-          "teamId": "south-africa",
-          "minute": 63
-        }
-      ],
-      "summary": "南非 1-0 韩国，比赛已结束。",
-      "highlights": [
-        "63' 外文名：Taplv Maskv 改写比分",
-        "南非 对阵 韩国 技术统计已生成"
       ]
     },
     {
@@ -6629,6 +6629,41 @@
       ]
     },
     {
+      "id": "wc26-57",
+      "stage": "group",
+      "group": "D",
+      "matchday": 3,
+      "utcDate": "2026-06-25T19:00:00.000Z",
+      "venue": "BC 广场",
+      "city": "温哥华",
+      "homeTeamId": "paraguay",
+      "awayTeamId": "australia",
+      "status": "finished",
+      "homeScore": 0,
+      "awayScore": 0,
+      "odds": {
+        "home": 2.32,
+        "draw": 3.33,
+        "away": 2.38
+      },
+      "stats": {
+        "homeShots": 9,
+        "awayShots": 9,
+        "homeShotsOnTarget": 3,
+        "awayShotsOnTarget": 3,
+        "homePossession": 51,
+        "awayPossession": 49,
+        "homeCorners": 3,
+        "awayCorners": 3
+      },
+      "scorers": [],
+      "summary": "巴拉圭 0-0 澳大利亚，比赛已结束。",
+      "highlights": [
+        "防守质量高于进攻转化",
+        "门将和定位球成为关键变量"
+      ]
+    },
+    {
       "id": "wc26-58",
       "stage": "group",
       "group": "D",
@@ -6689,41 +6724,6 @@
         "31' 外文名：Baris Alpr Ailmaz 改写比分",
         "98' 外文名：Kan Aihan 改写比分",
         "土耳其 对阵 美国 技术统计已生成"
-      ]
-    },
-    {
-      "id": "wc26-57",
-      "stage": "group",
-      "group": "D",
-      "matchday": 3,
-      "utcDate": "2026-06-25T19:00:00.000Z",
-      "venue": "BC 广场",
-      "city": "温哥华",
-      "homeTeamId": "paraguay",
-      "awayTeamId": "australia",
-      "status": "finished",
-      "homeScore": 0,
-      "awayScore": 0,
-      "odds": {
-        "home": 2.32,
-        "draw": 3.33,
-        "away": 2.38
-      },
-      "stats": {
-        "homeShots": 9,
-        "awayShots": 9,
-        "homeShotsOnTarget": 3,
-        "awayShotsOnTarget": 3,
-        "homePossession": 51,
-        "awayPossession": 49,
-        "homeCorners": 3,
-        "awayCorners": 3
-      },
-      "scorers": [],
-      "summary": "巴拉圭 0-0 澳大利亚，比赛已结束。",
-      "highlights": [
-        "防守质量高于进攻转化",
-        "门将和定位球成为关键变量"
       ]
     },
     {
@@ -7144,6 +7144,41 @@
       ]
     },
     {
+      "id": "wc26-71",
+      "stage": "group",
+      "group": "K",
+      "matchday": 3,
+      "utcDate": "2026-06-27T19:30:00.000Z",
+      "venue": "硬石体育场",
+      "city": "迈阿密",
+      "homeTeamId": "colombia",
+      "awayTeamId": "portugal",
+      "status": "finished",
+      "homeScore": 0,
+      "awayScore": 0,
+      "odds": {
+        "home": 2.43,
+        "draw": 4.05,
+        "away": 2.28
+      },
+      "stats": {
+        "homeShots": 8,
+        "awayShots": 12,
+        "homeShotsOnTarget": 3,
+        "awayShotsOnTarget": 4,
+        "homePossession": 49,
+        "awayPossession": 51,
+        "homeCorners": 3,
+        "awayCorners": 4
+      },
+      "scorers": [],
+      "summary": "哥伦比亚 0-0 葡萄牙，比赛已结束。",
+      "highlights": [
+        "防守质量高于进攻转化",
+        "门将和定位球成为关键变量"
+      ]
+    },
+    {
       "id": "wc26-72",
       "stage": "group",
       "group": "K",
@@ -7194,99 +7229,6 @@
         "91' 外文名：Yoane Wissa 改写比分",
         "10' 外文名：Aldvr Shvmvrvdvf 改写比分",
         "民主刚果 对阵 乌兹别克斯坦 技术统计已生成"
-      ]
-    },
-    {
-      "id": "wc26-71",
-      "stage": "group",
-      "group": "K",
-      "matchday": 3,
-      "utcDate": "2026-06-27T19:30:00.000Z",
-      "venue": "硬石体育场",
-      "city": "迈阿密",
-      "homeTeamId": "colombia",
-      "awayTeamId": "portugal",
-      "status": "finished",
-      "homeScore": 0,
-      "awayScore": 0,
-      "odds": {
-        "home": 2.43,
-        "draw": 4.05,
-        "away": 2.28
-      },
-      "stats": {
-        "homeShots": 8,
-        "awayShots": 12,
-        "homeShotsOnTarget": 3,
-        "awayShotsOnTarget": 4,
-        "homePossession": 49,
-        "awayPossession": 51,
-        "homeCorners": 3,
-        "awayCorners": 4
-      },
-      "scorers": [],
-      "summary": "哥伦比亚 0-0 葡萄牙，比赛已结束。",
-      "highlights": [
-        "防守质量高于进攻转化",
-        "门将和定位球成为关键变量"
-      ]
-    },
-    {
-      "id": "wc26-70",
-      "stage": "group",
-      "group": "J",
-      "matchday": 3,
-      "utcDate": "2026-06-27T21:00:00.000Z",
-      "venue": "大都会人寿体育场",
-      "city": "纽约/新泽西",
-      "homeTeamId": "jordan",
-      "awayTeamId": "argentina",
-      "status": "finished",
-      "homeScore": 1,
-      "awayScore": 3,
-      "odds": {
-        "home": 5.9,
-        "draw": 16.65,
-        "away": 1.41
-      },
-      "stats": {
-        "homeShots": 5,
-        "awayShots": 22,
-        "homeShotsOnTarget": 3,
-        "awayShotsOnTarget": 11,
-        "homePossession": 32,
-        "awayPossession": 68,
-        "homeCorners": 2,
-        "awayCorners": 7
-      },
-      "scorers": [
-        {
-          "playerName": "Mousa Al-Taamari",
-          "teamId": "jordan",
-          "minute": 55
-        },
-        {
-          "playerName": "Jivani Lv Slsv",
-          "teamId": "argentina",
-          "minute": 19
-        },
-        {
-          "playerName": "Lautaro Martínez",
-          "teamId": "argentina",
-          "minute": 31
-        },
-        {
-          "playerName": "Lionel Messi",
-          "teamId": "argentina",
-          "minute": 80
-        }
-      ],
-      "summary": "约旦 1-3 阿根廷，比赛已结束。",
-      "highlights": [
-        "55' 穆萨·塔马里 改写比分",
-        "19' 外文名：Jivani Lv Slsv 改写比分",
-        "31' 外文名：Lautaro Martínez 改写比分",
-        "约旦 对阵 阿根廷 技术统计已生成"
       ]
     },
     {
@@ -7355,6 +7297,64 @@
         "60' 马赫雷斯 改写比分",
         "93' 马赫雷斯 改写比分",
         "阿尔及利亚 对阵 奥地利 技术统计已生成"
+      ]
+    },
+    {
+      "id": "wc26-70",
+      "stage": "group",
+      "group": "J",
+      "matchday": 3,
+      "utcDate": "2026-06-27T21:00:00.000Z",
+      "venue": "大都会人寿体育场",
+      "city": "纽约/新泽西",
+      "homeTeamId": "jordan",
+      "awayTeamId": "argentina",
+      "status": "finished",
+      "homeScore": 1,
+      "awayScore": 3,
+      "odds": {
+        "home": 5.9,
+        "draw": 16.65,
+        "away": 1.41
+      },
+      "stats": {
+        "homeShots": 5,
+        "awayShots": 22,
+        "homeShotsOnTarget": 3,
+        "awayShotsOnTarget": 11,
+        "homePossession": 32,
+        "awayPossession": 68,
+        "homeCorners": 2,
+        "awayCorners": 7
+      },
+      "scorers": [
+        {
+          "playerName": "Mousa Al-Taamari",
+          "teamId": "jordan",
+          "minute": 55
+        },
+        {
+          "playerName": "Jivani Lv Slsv",
+          "teamId": "argentina",
+          "minute": 19
+        },
+        {
+          "playerName": "Lautaro Martínez",
+          "teamId": "argentina",
+          "minute": 31
+        },
+        {
+          "playerName": "Lionel Messi",
+          "teamId": "argentina",
+          "minute": 80
+        }
+      ],
+      "summary": "约旦 1-3 阿根廷，比赛已结束。",
+      "highlights": [
+        "55' 穆萨·塔马里 改写比分",
+        "19' 外文名：Jivani Lv Slsv 改写比分",
+        "31' 外文名：Lautaro Martínez 改写比分",
+        "约旦 对阵 阿根廷 技术统计已生成"
       ]
     },
     {
@@ -8832,20 +8832,171 @@
   ],
   "social": [
     {
-      "teamId": "mexico",
-      "supportPercent": 63,
-      "sentiment": -0.08,
-      "volume": 115200,
-      "headline": "墨西哥赛程与小组形势更新，情绪偏谨慎｜The Guardian",
-      "source": "The Guardian",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQS2tHaE1fczVoYVQxWEpkamFyRzNIWkZ5VmRJc1F3d3hDekRjeUtlTjAtNjNZWk9WbTBzYWhLNUNEc2VTRGh3MndpekdxbVhUSHBFZ0gzWlN4VTFCWDlxSmNGQmpQRHBFNG1LTm1zRzRrcVlGM0hhY3o5cmM0ZW16WFFKQlZfQmYydGJuQ3hmdUlaMy1VVjBtY2Y5TlRKS1NTSTNVNGVDdXhtZ3hTYWZsdERZc0p6VWU4aUppYk5odmE?oc=5"
-    },
-    {
       "teamId": "south-africa",
       "supportPercent": 53,
       "sentiment": 0.18,
       "volume": 42000,
       "headline": "南非 的全球讨论热度稳定",
+      "source": "WorldCupView model"
+    },
+    {
+      "teamId": "brazil",
+      "supportPercent": 82,
+      "sentiment": -0.11,
+      "volume": 174000,
+      "headline": "全球媒体关注：2026 世界杯赛程与小组形势更新，情绪中性｜olympics.com",
+      "source": "olympics.com",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPa1EtSE1naElSdUlSS0Qyek5QbEFIS3plRTdLY1pXbDF0RkRfMDhjN2VLeUpmSmxKWERVdDdnWnU2dlhCS0ladlk5SkJXUTVXVDlWbV9CODN6SXVKZmE4anNraVkzRTdLUmJhbVpsZnk2c01kNkhMb1lQbHM2Qk5zS1FiYTFPWElDWXI0dV9TYmtBU1hycDg4eVBxSms1UUNi?oc=5"
+    },
+    {
+      "teamId": "scotland",
+      "supportPercent": 44,
+      "sentiment": -0.03,
+      "volume": 129600,
+      "headline": "全球媒体关注：2026 世界杯赛程与小组形势更新，情绪中性｜Yahoo Sports",
+      "source": "Yahoo Sports",
+      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOU1U0UXo4NFBRTUV0ZE1tOWt1X1BOYUZEUDJfaVhKU2NCQWtfZFc1cC14SW9kcWxkRUlNc1BwS1hqeUtHcFlUX2owY0xXdkNfR0tGNl9JNnhwU3l6WUZwTi1BOU5YSmZpZFA4YWp4Y2FWVjNoZ0lqOUxnM2pRMG5BeTNRZFA3aUdRY1BWbzFGbFBnemNBNnZ1TVFaNUJPUUV5Z0kxa2RhN1Ryck9UMlY5RzV5dlNTczl6OWVyRXZPSWdwSmszX3FCaUdqQWx3MFVMYWdnZHRmVFF0T1hULW1IcURfSQ?oc=5"
+    },
+    {
+      "teamId": "turkey",
+      "supportPercent": 42,
+      "sentiment": 0.05,
+      "volume": 76800,
+      "headline": "英格兰赛程与小组形势更新，情绪中性｜Sky Sports",
+      "source": "Sky Sports",
+      "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxPcEFNY2kxUUI0aVFkNVEzNVJEZ240LXhWTk1XWkhXcXpLWDFYTVZkQ1pZSnFfYm8xcmVULXNvRG5ubC1KMXVoR2puNHExUW5VRkZjQURnckdodHdqVmhHVnM5WVNaNVR1M01MSjg1TGlIQ3NwNHp4YzNiazdfNnFLMGFIbHZZTlhjMjdicWNwR1BkTm5vNjZ2TnZvQWhCZThfRVU5THJ1cVZCcENsUDQyU3lEbExmNldmMVluRVRyazJkc1I1XzhaZG12NS0tU3I1Rl9hRzFfREFCZlhNRDJKZG1JYVdVRmx2bGhPUWhXWUdac1pnY1ctdnRR?oc=5"
+    },
+    {
+      "teamId": "ivory-coast",
+      "supportPercent": 40,
+      "sentiment": 0.01,
+      "volume": 16500,
+      "headline": "科特迪瓦 的全球讨论热度稳定",
+      "source": "WorldCupView model"
+    },
+    {
+      "teamId": "netherlands",
+      "supportPercent": 70,
+      "sentiment": 0.12,
+      "volume": 147600,
+      "headline": "阿根廷赛果与淘汰赛走势成为焦点，情绪偏积极｜The Guardian",
+      "source": "The Guardian",
+      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOMGMxMWx6eWIzZGZZWkVpeHZJR3U3Z0Y5RWh0WUxlR2pRbXBSYWRwQzVlUVkxaTFycHViOENZSHloUjdLYl9jUUlFQ2FUaGFES18tZnc5Q3RBcEt4UUpiNDI2emNHZW1KRkcxMDN1OU94UFdpSzlSZWoyOEJ3VG9oNnpqZkVRY3JzcFl1U3VXQUJqSC1nZmZpN2JlQ2hQVUM0bmEyX25NZENxUEI3Z2Zhd0QxTUhJMldIZ2FMTV8wemhCaWZndVZvcU9XNFNZeWM5VkdmUExqaVExRlpYUEE?oc=5"
+    },
+    {
+      "teamId": "cape-verde",
+      "supportPercent": 31,
+      "sentiment": -0.1,
+      "volume": 8000,
+      "headline": "佛得角 的全球讨论热度稳定",
+      "source": "WorldCupView model"
+    },
+    {
+      "teamId": "france",
+      "supportPercent": 78,
+      "sentiment": 0.05,
+      "volume": 176400,
+      "headline": "法国最新动态汇总，情绪中性｜BBC",
+      "source": "BBC",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFA5VzFnYVdiYXNXN2o5QU0wN3dxYnRHYkduSGQ4STdPSkxYcWt3X1I1LVNuMVNPVzNVeGRkbkpSZnJRMzFudVpNSF85OEtPRm5ubjl1Q3lNdFpNdEZ6T3EtbkY3Y2tteGc?oc=5"
+    },
+    {
+      "teamId": "tunisia",
+      "supportPercent": 36,
+      "sentiment": -0.04,
+      "volume": 9000,
+      "headline": "突尼斯 的全球讨论热度稳定",
+      "source": "WorldCupView model"
+    },
+    {
+      "teamId": "egypt",
+      "supportPercent": 35,
+      "sentiment": 0.05,
+      "volume": 24000,
+      "headline": "阿根廷赛程与小组形势更新，情绪中性｜The New York Times",
+      "source": "The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQd2tUOFkxa3VnaDdKNll6TVZoeFlHNWpDcHFXaFYtRHJ5cnJiczFDaHJFclFkNkxsSWVaMVdzQWQ5MWJwRmZMdFJUQWd1UWl3LW1IeE1LTXBqekxSMG4yaGhhcDdYUmhybS1RQ3dxM0o2ajVCdDVQWUY0OXloSjJ0bkd3em0ycjhfakE?oc=5"
+    },
+    {
+      "teamId": "iraq",
+      "supportPercent": 27,
+      "sentiment": -0.15,
+      "volume": 8000,
+      "headline": "伊拉克 的全球讨论热度稳定",
+      "source": "WorldCupView model"
+    },
+    {
+      "teamId": "portugal",
+      "supportPercent": 71,
+      "sentiment": 0.08,
+      "volume": 268800,
+      "headline": "全球媒体关注：2026 世界杯最新动态汇总，情绪中性｜Bleacher Report",
+      "source": "Bleacher Report",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNcFRMTUU4RkthdWlHRFE4cXhtVHhvdmhtdnNsWXFjemI1RlJvQ3E0bi0tNmNqRUozWmVaSXNpbU9wdDY2NVRHQ25ITVVQekV6cU03TWdiMktZWU5Xb1lJMUkwTmM3Rk82NzdpNzJZaVpFQWJ4dEdaOVBZUHdUWjNSZGZMRDAtSjNLV3NWSHlsNlZkcVk?oc=5"
+    },
+    {
+      "teamId": "uzbekistan",
+      "supportPercent": 21,
+      "sentiment": -0.23,
+      "volume": 8000,
+      "headline": "乌兹别克斯坦 的全球讨论热度稳定",
+      "source": "WorldCupView model"
+    },
+    {
+      "teamId": "colombia",
+      "supportPercent": 67,
+      "sentiment": 0.05,
+      "volume": 70800,
+      "headline": "全球媒体关注：2026 世界杯最新动态汇总，情绪中性｜WPLG Local 10",
+      "source": "WPLG Local 10",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNZzlaTXNHTkVnYk52UnRuVllTVTl4bzlrLVpoeDk0ZzR2X2Q3eUlfb2pYMEdZU25zNll6elZNNnhNYUpWOGV0aUREQVFuM1liWWI0ZE5xS3kyWVpabEMxUlVxR0dVczF2Z2hnUFo3bW40UEc5N2Z2TWJYUGdUMk02cTZtYWk5LXF6cjBLdTR3WDRHWG5OZ3hPa1NLQUxfRlBkeWtkRkExUllhUW1ocEdFa0stTzc3X0NnT21Vc2g0V0w?oc=5"
+    },
+    {
+      "teamId": "ecuador",
+      "supportPercent": 63,
+      "sentiment": 0.3,
+      "volume": 60000,
+      "headline": "厄瓜多尔 的全球讨论热度稳定",
+      "source": "WorldCupView model"
+    },
+    {
+      "teamId": "japan",
+      "supportPercent": 65,
+      "sentiment": 0.33,
+      "volume": 64500,
+      "headline": "日本 的全球讨论热度稳定",
+      "source": "WorldCupView model"
+    },
+    {
+      "teamId": "new-zealand",
+      "supportPercent": 33,
+      "sentiment": -0.08,
+      "volume": 8000,
+      "headline": "新西兰 的全球讨论热度稳定",
+      "source": "WorldCupView model"
+    },
+    {
+      "teamId": "saudi-arabia",
+      "supportPercent": 30,
+      "sentiment": -0.11,
+      "volume": 8000,
+      "headline": "沙特阿拉伯 的全球讨论热度稳定",
+      "source": "WorldCupView model"
+    },
+    {
+      "teamId": "austria",
+      "supportPercent": 24,
+      "sentiment": -0.19,
+      "volume": 8000,
+      "headline": "奥地利 的全球讨论热度稳定",
+      "source": "WorldCupView model"
+    },
+    {
+      "teamId": "ghana",
+      "supportPercent": 17,
+      "sentiment": -0.27,
+      "volume": 8000,
+      "headline": "加纳 的全球讨论热度稳定",
       "source": "WorldCupView model"
     },
     {
@@ -8857,6 +9008,50 @@
       "source": "WorldCupView model"
     },
     {
+      "teamId": "spain",
+      "supportPercent": 76,
+      "sentiment": 0.05,
+      "volume": 129600,
+      "headline": "全球媒体关注：2026 世界杯最新动态汇总，情绪中性｜ESPN",
+      "source": "ESPN",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOWXpGdUJQY1d2d1lUQ1BDMTdjWFl3aDlaSjdrazdHNVloVV9HaFBjcG9Fd2hldk1jcGNFWEtHcS1CRkh1UWh0Vmp2R2tPRDQtVDRhU09HTHpqdUFaVW9QaHIxODV3MVNsMHFBcGU4bm5NV1ZDLTBpM21ZZUM2MkpBSXVnZmxFdlRwcXh6dmM2UVdtQlN1RnJmbXhLbnN2blV1bjd6bGJNclRMWVlJZVpMeTNSWnZPOFpR?oc=5"
+    },
+    {
+      "teamId": "norway",
+      "supportPercent": 61,
+      "sentiment": 0.05,
+      "volume": 61200,
+      "headline": "英格兰商业、出行与观赛服务升温，情绪中性｜Al Jazeera",
+      "source": "Al Jazeera",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNbHJkZjJta0UtT3dfUFJmOW9oZ2Q2X25ScjlzTW8tNzNOdktwT2owWW8xWnBKX2dCWnFSNmFpUm1BUW8xUjgzZ1h5MGV5cjNMd0gtRGRnby1GRGliQmQyTWVhN0UwY2paNkpiVWticjBocU5pZEdQbEpKbUNkMmJoRUxuWWtZMV8wZHVibVJWMUMyc2hya0FhUi1oOGdjYlNqdl9TYUFLUlE5aTJfdmk3Uml4LVRSQdIBuwFBVV95cUxNZE5mdDhOUjdGeTkwMmlINFUtNkpnUEpTd29WUjNKTlROVHJTaGxvNnY5bjZjeS1jMlNvcm5sZDMxNkotRmpSWi1hSWRFMHhMUDZsWjVPdXZOQ1F1Qm83QWlOb1BaQXBlN0JNRDJQZFZUQUNMVzBKem5OczA3WXRwNC10UTFFU2RNZkpHYjV0R01GQ1ExVkZKR2RKN25HV0lJSGIzNFlFQXh3dHhTNWhzMmRpb3ZSX3RNMEtr?oc=5"
+    },
+    {
+      "teamId": "argentina",
+      "supportPercent": 82,
+      "sentiment": 0.35,
+      "volume": 82800,
+      "headline": "阿根廷最新动态汇总，情绪偏积极｜Reuters",
+      "source": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOMEpYWEdjUlRHVTRZalQ2ZW4tcG41a0JPQU03N1NjcUNqLVRFUmlDTzZrNlhWbzZjZHZLQUJXNmJlSThrY0NGUVZ2Yk5rOTNRZ09tSXN3cFpmaHpCQmJjWnBOMzJLeG9sa1lnVXJOcl9ELWhqUnJPSWlmVDRWLWtTbG1Hc1dqVDJ1TnRsejlJSXVsRlpNQVA2cTdxNzREMFpCcWJnUHlBT1NtZ0FqRThtMkUzOGRreG9WQWpn?oc=5"
+    },
+    {
+      "teamId": "democratic-republic-of-the-congo",
+      "supportPercent": 21,
+      "sentiment": -0.22,
+      "volume": 8000,
+      "headline": "民主刚果 的全球讨论热度稳定",
+      "source": "WorldCupView model"
+    },
+    {
+      "teamId": "england",
+      "supportPercent": 73,
+      "sentiment": -0.08,
+      "volume": 127200,
+      "headline": "英格兰赛果与淘汰赛走势成为焦点，情绪偏谨慎｜The New York Times",
+      "source": "The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQamdDVU5ZcUs0bkY5b0lHSGFHbTM5b3hkZzlQcnVGS0Y0S0pWMlctaVFsUFoweUxKcFdYTG5tRkhjUmVDZVZIUnpHbEFrODZpN3p3UmFMVWRMYlIxOC1kV25WZTZOb09VSHlEb21jc09mX0dJWDFLcVJMSE5BWGdEMHdxUGY4cUdMRjVseUlyQnMzNG8?oc=5"
+    },
+    {
       "teamId": "czech-republic",
       "supportPercent": 52,
       "sentiment": 0.16,
@@ -8866,19 +9061,10 @@
     },
     {
       "teamId": "canada",
-      "supportPercent": 50,
-      "sentiment": 0.05,
-      "volume": 42000,
-      "headline": "全球媒体关注：2026 世界杯最新动态汇总，情绪中性｜talkSPORT",
-      "source": "talkSPORT",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOd0J1ZldCREhXMFFWN0w4MFFxN2VYeUdYdDhRVWtfWGRHY3pDSTVUR0R1SXFLZGY0eWVyeXZndVk3MkJNM2tueTAta1U1N1RfNVl4UHFhbURfZHFhcVFGeEJuLUZGZzdGM3hYckJXV2Znd2tkLXgzOGp6OWlOTk9OVHFfYjUyczZJLWdnT0Q1cWh3RUVpRTBXSm95VTV0YzNqckNnekw3dVZCZ0E?oc=5"
-    },
-    {
-      "teamId": "bosnia-and-herzegovina",
-      "supportPercent": 50,
-      "sentiment": 0.14,
-      "volume": 36000,
-      "headline": "波黑 的全球讨论热度稳定",
+      "supportPercent": 51,
+      "sentiment": 0.15,
+      "volume": 37500,
+      "headline": "加拿大 的全球讨论热度稳定",
       "source": "WorldCupView model"
     },
     {
@@ -8898,15 +9084,6 @@
       "source": "WorldCupView model"
     },
     {
-      "teamId": "brazil",
-      "supportPercent": 82,
-      "sentiment": -0.11,
-      "volume": 174000,
-      "headline": "全球媒体关注：2026 世界杯赛程与小组形势更新，情绪中性｜olympics.com",
-      "source": "olympics.com",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPa1EtSE1naElSdUlSS0Qyek5QbEFIS3plRTdLY1pXbDF0RkRfMDhjN2VLeUpmSmxKWERVdDdnWnU2dlhCS0ladlk5SkJXUTVXVDlWbV9CODN6SXVKZmE4anNraVkzRTdLUmJhbVpsZnk2c01kNkhMb1lQbHM2Qk5zS1FiYTFPWElDWXI0dV9TYmtBU1hycDg4eVBxSms1UUNi?oc=5"
-    },
-    {
       "teamId": "morocco",
       "supportPercent": 69,
       "sentiment": 0.37,
@@ -8915,63 +9092,11 @@
       "source": "WorldCupView model"
     },
     {
-      "teamId": "haiti",
-      "supportPercent": 46,
-      "sentiment": 0.09,
-      "volume": 28500,
-      "headline": "海地 的全球讨论热度稳定",
-      "source": "WorldCupView model"
-    },
-    {
-      "teamId": "scotland",
-      "supportPercent": 43,
-      "sentiment": -0.15,
-      "volume": 105600,
-      "headline": "全球媒体关注：2026 世界杯赛程与小组形势更新，情绪中性｜Yahoo Sports",
-      "source": "Yahoo Sports",
-      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOU1U0UXo4NFBRTUV0ZE1tOWt1X1BOYUZEUDJfaVhKU2NCQWtfZFc1cC14SW9kcWxkRUlNc1BwS1hqeUtHcFlUX2owY0xXdkNfR0tGNl9JNnhwU3l6WUZwTi1BOU5YSmZpZFA4YWp4Y2FWVjNoZ0lqOUxnM2pRMG5BeTNRZFA3aUdRY1BWbzFGbFBnemNBNnZ1TVFaNUJPUUV5Z0kxa2RhN1Ryck9UMlY5RzV5dlNTczl6OWVyRXZPSWdwSmszX3FCaUdqQWx3MFVMYWdnZHRmVFF0T1hULW1IcURfSQ?oc=5"
-    },
-    {
-      "teamId": "united-states",
-      "supportPercent": 64,
-      "sentiment": 0.05,
-      "volume": 66000,
-      "headline": "全球媒体关注：2026 世界杯最新动态汇总，情绪中性｜BBC",
-      "source": "BBC",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5hOHEzM19TdnFRMm5nNGtJTjhETTZiWTdNa2EtNWUtaThLQWNHaml6U0k2enhhRkhqNDl1MmtRSGZXdzFhRmxMRFlJdi00d242YzlwcWwtWXE0WlBDREFKejVpZ0RxTG8?oc=5"
-    },
-    {
       "teamId": "paraguay",
       "supportPercent": 44,
-      "sentiment": 0.05,
-      "volume": 31200,
-      "headline": "法国最新动态汇总，情绪中性｜Parkinson's Europe",
-      "source": "Parkinson's Europe",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQVldMTHdQWmd6TWJtMEJSSDMtTFh5RllhbkRkSW1kYnZWcHNfREl4LXdoWW9MR1cxUjJaM3pQS2FiMWpVT2hJNWFROVhobDRGRU5VYkc5a1NpTGJVRmExMHR0VlJhaHFxNjhqUUstbmdlcEtQYldHVlJwUFVLanFvZEg4aHl5ZTc3ZFVRNF9CUUVTdw?oc=5"
-    },
-    {
-      "teamId": "australia",
-      "supportPercent": 43,
-      "sentiment": 0.05,
-      "volume": 22500,
-      "headline": "澳大利亚 的全球讨论热度稳定",
-      "source": "WorldCupView model"
-    },
-    {
-      "teamId": "turkey",
-      "supportPercent": 42,
-      "sentiment": 0.05,
-      "volume": 76800,
-      "headline": "全球媒体关注：2026 世界杯赛程与小组形势更新，情绪中性｜TechRadar",
-      "source": "TechRadar",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFB0REMtVDZOWkVUSjhpMmRuYVk1SXlPWl95Sk9nVTFlakRZVHJKdkZwMmZQRkZNdllZbkM0bHZIUUtNYUY5WUswOFBLd3VjWkR5dzZwUURNN1dQUFBsZEhQQ0NZU2FLcU1VVHMzd3FrYTZwc3cxZUQ4eEZMLWs3T28?oc=5"
-    },
-    {
-      "teamId": "germany",
-      "supportPercent": 82,
-      "sentiment": 0.41,
-      "volume": 76500,
-      "headline": "德国 的全球讨论热度稳定",
+      "sentiment": 0.06,
+      "volume": 24000,
+      "headline": "巴拉圭 的全球讨论热度稳定",
       "source": "WorldCupView model"
     },
     {
@@ -8983,39 +9108,6 @@
       "source": "WorldCupView model"
     },
     {
-      "teamId": "ivory-coast",
-      "supportPercent": 40,
-      "sentiment": 0.01,
-      "volume": 16500,
-      "headline": "科特迪瓦 的全球讨论热度稳定",
-      "source": "WorldCupView model"
-    },
-    {
-      "teamId": "ecuador",
-      "supportPercent": 63,
-      "sentiment": 0.3,
-      "volume": 60000,
-      "headline": "厄瓜多尔 的全球讨论热度稳定",
-      "source": "WorldCupView model"
-    },
-    {
-      "teamId": "netherlands",
-      "supportPercent": 70,
-      "sentiment": 0.12,
-      "volume": 147600,
-      "headline": "法国赛果与淘汰赛走势成为焦点，情绪中性｜The Guardian",
-      "source": "The Guardian",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPTzE2VEtfZE5meGh2Yk5sLUpaWlZPVHV2OUYweVpleXlTSmhRSy1iMmVLTFRTbUNxSXg4TnJFclRQaTNmZWVBcVdHbFlQcks4cGQ1MGNEZTgwdU4zMWI3WkR5SDY0M053NjJ1WG1YbVdma0J3QWY1Q216NFpERnlLZW54bmZUa1lDbUR0ZTNlVWpRN1JRS2xyT0xpYzYtUkt4OVFidWIyZw?oc=5"
-    },
-    {
-      "teamId": "japan",
-      "supportPercent": 65,
-      "sentiment": 0.33,
-      "volume": 64500,
-      "headline": "日本 的全球讨论热度稳定",
-      "source": "WorldCupView model"
-    },
-    {
       "teamId": "sweden",
       "supportPercent": 37,
       "sentiment": -0.03,
@@ -9024,70 +9116,35 @@
       "source": "WorldCupView model"
     },
     {
-      "teamId": "tunisia",
-      "supportPercent": 40,
-      "sentiment": 0.35,
-      "volume": 24000,
-      "headline": "全球媒体关注：2026 世界杯最新动态汇总，情绪中性｜Fox Sports",
-      "source": "Fox Sports",
-      "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxPRVgyZjJVdW9WamprMTU5T3dPY3EtYjVXV0Q3aUxMdHV2ZDZJRVV3ZFpvcWpVZnIwTjZ4Ujk0Y1RKTXUybElrS2hVYU9oUm5sZFRFQVVZb2RHa2FmV1Nza2JZV3hkalNycFMzdDBfYm9LdnQ0OUQ3bzUwdC1fWHBDYmZmblJzMk5HNElRemNING16ejdHd0VqUHVtVlBJT2lobVZ4YU5KUS1CYU9zZS1ULVlyTGN0alNHRTFzMkpIeXBHSExxQnFkaV8yV3hPNk1RWVdycTRDODB6djJLalQ5ZWh0QzVrTng5alZwYnRIR2RYcDd5Q2hKSkhWMFM3R0wt0gGAAkFVX3lxTE9FWDJmMlV1b1ZqamsxNTlPd09jcS1iNVdXRDdpTEx0dXZkNklFVXdkWm9xalVmcjBONnhSOTRjVEpNdTJsSWtLaFVhT2hSbmxkVEVBVVlvZEdrYWZXU3NrYllXeGRqU3JwUzN0MF9ib0t2dDQ5RDdvNTB0LV9YcENiZmZuUnMyTkc0SVF6Y0g0bXp6N0d3RWpQdW1WUElPaWhtVnhhTkpRLUJhT3NlLVQtWXJMY3RqU0dFMXMySkh5cEdITHFCcWRpXzJXeE82TVFZV3JxNEM4MHp2MktqVDllaHRDNWtOeDlqVnBidEhHZFhwN3lDaEpKSFYwUzdHTC0?oc=5"
-    },
-    {
-      "teamId": "belgium",
-      "supportPercent": 73,
-      "sentiment": 0.42,
-      "volume": 78000,
-      "headline": "比利时 的全球讨论热度稳定",
+      "teamId": "algeria",
+      "supportPercent": 25,
+      "sentiment": -0.18,
+      "volume": 8000,
+      "headline": "阿尔及利亚 的全球讨论热度稳定",
       "source": "WorldCupView model"
     },
     {
-      "teamId": "egypt",
-      "supportPercent": 35,
-      "sentiment": 0.05,
-      "volume": 24000,
-      "headline": "阿根廷最新动态汇总，情绪中性｜Al Jazeera",
-      "source": "Al Jazeera",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQakRFSTRYMkZwWXVXUzdGTWhrYnprcDEyUFg2d25UMDRLRy13QUg3T2ZiSFBFcnFndzM3bGF1SXNXNno3MVNvamNaV3d1Q3pfd0xHVzZtX1dVNl9mRjl6ZTNQeU9jQmVaZnhLRWsxYkgzX19hQ2xKdnUxczBZMldRak5sQVVLdWFyVkllT3o2QXJia0trVEI3T0F1SkpLZHhjYXN3dHBad1NFSXlyZERv0gG0AUFVX3lxTE1VUlhwdzdSOTNPU1NpMEtNSzBIOWlDaFlNTUU5NVVKWXowQlBRLWp3ekRvTmh2ZVlQQTBtU0h6TEExTXktR2NmQWxoTWNnZ24ydjVzcV85ZHlZb2lQelN6clJfNmlrN1RfNzN2ZFpzZnoybkVRSVJFU0ZZT2dEZlF3bk9STGs5MUZjb0xFWEdXeGx4VDIyV2VTYUpneUprU0U1RERNMGdtYkJCdllaWVJMeXRfSA?oc=5"
-    },
-    {
-      "teamId": "iran",
-      "supportPercent": 33,
-      "sentiment": -0.07,
+      "teamId": "jordan",
+      "supportPercent": 23,
+      "sentiment": -0.2,
       "volume": 8000,
-      "headline": "伊朗 的全球讨论热度稳定",
+      "headline": "约旦 的全球讨论热度稳定",
       "source": "WorldCupView model"
     },
     {
-      "teamId": "new-zealand",
-      "supportPercent": 33,
-      "sentiment": -0.08,
-      "volume": 8000,
-      "headline": "新西兰 的全球讨论热度稳定",
+      "teamId": "haiti",
+      "supportPercent": 46,
+      "sentiment": 0.09,
+      "volume": 28500,
+      "headline": "海地 的全球讨论热度稳定",
       "source": "WorldCupView model"
     },
     {
-      "teamId": "spain",
-      "supportPercent": 76,
-      "sentiment": 0.05,
-      "volume": 105600,
-      "headline": "全球媒体关注：2026 世界杯最新动态汇总，情绪中性｜ESPN",
-      "source": "ESPN",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPYzZTT3UwM0pXTURfeS1SN2hqWTFXNDM4dzBnUGFvSmNBMUtnOG5BSExLSGpVZV92MVpENGNkNWlnWFhrbXhOUjR3MzlBamQ4NVBOOVpDLWk5amY5dmprWVY0aGhiS1pTcGpXMlByMjRibXVQbGE0b1BSbjBYaTdhdFZHSDFjS1Z5M2JSOS02LTExcGM1aW91aTFFeWZZWWZQbkhNSA?oc=5"
-    },
-    {
-      "teamId": "cape-verde",
-      "supportPercent": 31,
-      "sentiment": -0.1,
-      "volume": 8000,
-      "headline": "佛得角 的全球讨论热度稳定",
-      "source": "WorldCupView model"
-    },
-    {
-      "teamId": "saudi-arabia",
-      "supportPercent": 30,
-      "sentiment": -0.11,
-      "volume": 8000,
-      "headline": "沙特阿拉伯 的全球讨论热度稳定",
+      "teamId": "germany",
+      "supportPercent": 82,
+      "sentiment": 0.41,
+      "volume": 76500,
+      "headline": "德国 的全球讨论热度稳定",
       "source": "WorldCupView model"
     },
     {
@@ -9099,128 +9156,11 @@
       "source": "WorldCupView model"
     },
     {
-      "teamId": "france",
-      "supportPercent": 78,
-      "sentiment": 0.05,
-      "volume": 176400,
-      "headline": "法国赛果与淘汰赛走势成为焦点，情绪中性｜Al Jazeera",
-      "source": "Al Jazeera",
-      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5lSk1OMUswNUwxY21WZm9RTVZoSS1mMkZLVVhMS3M5ZmpnVEZLejRYMHB1SGtEdUpmbDU5NW9kUWdGS2ZWdDkwNjlaOGZmYmp5TXVfRFp6bHZnbVY1VDBrLVVWR0p2X0tSRGdNMkxKUDlCcUNESlBXaWFXaTQ?oc=5"
-    },
-    {
       "teamId": "senegal",
       "supportPercent": 65,
       "sentiment": 0.32,
       "volume": 63000,
       "headline": "塞内加尔 的全球讨论热度稳定",
-      "source": "WorldCupView model"
-    },
-    {
-      "teamId": "iraq",
-      "supportPercent": 27,
-      "sentiment": -0.15,
-      "volume": 8000,
-      "headline": "伊拉克 的全球讨论热度稳定",
-      "source": "WorldCupView model"
-    },
-    {
-      "teamId": "norway",
-      "supportPercent": 64,
-      "sentiment": 0.31,
-      "volume": 61500,
-      "headline": "挪威 的全球讨论热度稳定",
-      "source": "WorldCupView model"
-    },
-    {
-      "teamId": "argentina",
-      "supportPercent": 82,
-      "sentiment": 0.2,
-      "volume": 154800,
-      "headline": "阿根廷最新动态汇总，情绪中性｜Yahoo Sports",
-      "source": "Yahoo Sports",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQUTlsWkZBQWFyMlZqZ3d0dUF1NUU2TlNXZ1RnVU5FYVFmbWIwQlk1SDVrSGFTRkpCeXlOTlZ1Ri1IU09LRVVOUGVOVW94cTU4OTFoMkU0d2hhTWxhRGZieUt1aXFqb0FxRGV5cU91TlZMcXpVZ0JfVUJPREt3WG5Ub2NmYktWNkRqbnpYSWZjSWM?oc=5"
-    },
-    {
-      "teamId": "algeria",
-      "supportPercent": 25,
-      "sentiment": -0.18,
-      "volume": 8000,
-      "headline": "阿尔及利亚 的全球讨论热度稳定",
-      "source": "WorldCupView model"
-    },
-    {
-      "teamId": "austria",
-      "supportPercent": 24,
-      "sentiment": -0.19,
-      "volume": 8000,
-      "headline": "奥地利 的全球讨论热度稳定",
-      "source": "WorldCupView model"
-    },
-    {
-      "teamId": "jordan",
-      "supportPercent": 26,
-      "sentiment": 0.05,
-      "volume": 24000,
-      "headline": "英格兰最新动态汇总，情绪中性｜The New York Times",
-      "source": "The New York Times",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNVzBWR3E1NTVia2JQN2NfLS1HeklWcjY4OFJtUmlWV2d2dzZnOU9wb2ZxLURIbEtNOVUtX1ZEcEpaY3p6MzVSZUQ0NGxlOGRHSlJjbGhhdld6X0xERE01QktwQnJEbUhBRGNUaGlzTjdrQ2Fldk1rZWl5Tmwwc1c1WVpYNUl5TDQ0TjJRWkhTcGdnNnlqYVltZThB?oc=5"
-    },
-    {
-      "teamId": "portugal",
-      "supportPercent": 70,
-      "sentiment": 0.05,
-      "volume": 148800,
-      "headline": "全球媒体关注：2026 世界杯最新动态汇总，情绪中性｜Bleacher Report",
-      "source": "Bleacher Report",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNcFRMTUU4RkthdWlHRFE4cXhtVHhvdmhtdnNsWXFjemI1RlJvQ3E0bi0tNmNqRUozWmVaSXNpbU9wdDY2NVRHQ25ITVVQekV6cU03TWdiMktZWU5Xb1lJMUkwTmM3Rk82NzdpNzJZaVpFQWJ4dEdaOVBZUHdUWjNSZGZMRDAtSjNLV3NWSHlsNlZkcVk?oc=5"
-    },
-    {
-      "teamId": "democratic-republic-of-the-congo",
-      "supportPercent": 21,
-      "sentiment": -0.22,
-      "volume": 8000,
-      "headline": "民主刚果 的全球讨论热度稳定",
-      "source": "WorldCupView model"
-    },
-    {
-      "teamId": "uzbekistan",
-      "supportPercent": 21,
-      "sentiment": -0.23,
-      "volume": 8000,
-      "headline": "乌兹别克斯坦 的全球讨论热度稳定",
-      "source": "WorldCupView model"
-    },
-    {
-      "teamId": "colombia",
-      "supportPercent": 70,
-      "sentiment": 0.39,
-      "volume": 73500,
-      "headline": "哥伦比亚 的全球讨论热度稳定",
-      "source": "WorldCupView model"
-    },
-    {
-      "teamId": "england",
-      "supportPercent": 71,
-      "sentiment": -0.35,
-      "volume": 79200,
-      "headline": "英格兰赛果与淘汰赛走势成为焦点，情绪偏谨慎｜The New York Times",
-      "source": "The New York Times",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQamdDVU5ZcUs0bkY5b0lHSGFHbTM5b3hkZzlQcnVGS0Y0S0pWMlctaVFsUFoweUxKcFdYTG5tRkhjUmVDZVZIUnpHbEFrODZpN3p3UmFMVWRMYlIxOC1kV25WZTZOb09VSHlEb21jc09mX0dJWDFLcVJMSE5BWGdEMHdxUGY4cUdMRjVseUlyQnMzNG8?oc=5"
-    },
-    {
-      "teamId": "croatia",
-      "supportPercent": 71,
-      "sentiment": 0.4,
-      "volume": 75000,
-      "headline": "克罗地亚 的全球讨论热度稳定",
-      "source": "WorldCupView model"
-    },
-    {
-      "teamId": "ghana",
-      "supportPercent": 17,
-      "sentiment": -0.27,
-      "volume": 8000,
-      "headline": "加纳 的全球讨论热度稳定",
       "source": "WorldCupView model"
     },
     {
@@ -9230,64 +9170,67 @@
       "volume": 8000,
       "headline": "巴拿马 的全球讨论热度稳定",
       "source": "WorldCupView model"
+    },
+    {
+      "teamId": "mexico",
+      "supportPercent": 68,
+      "sentiment": 0.36,
+      "volume": 69000,
+      "headline": "墨西哥 的全球讨论热度稳定",
+      "source": "WorldCupView model"
+    },
+    {
+      "teamId": "bosnia-and-herzegovina",
+      "supportPercent": 50,
+      "sentiment": 0.14,
+      "volume": 36000,
+      "headline": "波黑 的全球讨论热度稳定",
+      "source": "WorldCupView model"
+    },
+    {
+      "teamId": "united-states",
+      "supportPercent": 67,
+      "sentiment": 0.35,
+      "volume": 67500,
+      "headline": "美国 的全球讨论热度稳定",
+      "source": "WorldCupView model"
+    },
+    {
+      "teamId": "australia",
+      "supportPercent": 43,
+      "sentiment": 0.05,
+      "volume": 22500,
+      "headline": "澳大利亚 的全球讨论热度稳定",
+      "source": "WorldCupView model"
+    },
+    {
+      "teamId": "belgium",
+      "supportPercent": 73,
+      "sentiment": 0.42,
+      "volume": 78000,
+      "headline": "比利时 的全球讨论热度稳定",
+      "source": "WorldCupView model"
+    },
+    {
+      "teamId": "iran",
+      "supportPercent": 33,
+      "sentiment": -0.07,
+      "volume": 8000,
+      "headline": "伊朗 的全球讨论热度稳定",
+      "source": "WorldCupView model"
+    },
+    {
+      "teamId": "croatia",
+      "supportPercent": 71,
+      "sentiment": 0.4,
+      "volume": 75000,
+      "headline": "克罗地亚 的全球讨论热度稳定",
+      "source": "WorldCupView model"
     }
   ],
   "news": [
     {
-      "id": "gnews-0-jb72b8",
-      "title": "全球媒体关注：2026 世界杯赛程与小组形势更新，情绪中性｜Mashable",
-      "source": "Mashable",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPY2thN0JDWGl4TjBDbjZabEJXOWI0dGVqWklWbmJSVG9MZ2NJLVgzdHNQb3d2am5mcTEwenExOGdyUF81bngtR0YtNDZoOHBmYnZIUHJxdDZxbGdOMEtkV09oWDRRQWFPbmp4MnUzM3l4Y0VPWk5Lc0ZVOHg0Y1ZlandpX1hHOHhJUnl4b09fN1VhMGZV?oc=5",
-      "publishedAt": "2026-07-09T21:46:50.000Z",
-      "tone": 0.05
-    },
-    {
-      "id": "gnews-1-kewfsd",
-      "title": "全球媒体关注：2026 世界杯最新动态汇总，情绪中性｜Bleacher Report",
-      "source": "Bleacher Report",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNcFRMTUU4RkthdWlHRFE4cXhtVHhvdmhtdnNsWXFjemI1RlJvQ3E0bi0tNmNqRUozWmVaSXNpbU9wdDY2NVRHQ25ITVVQekV6cU03TWdiMktZWU5Xb1lJMUkwTmM3Rk82NzdpNzJZaVpFQWJ4dEdaOVBZUHdUWjNSZGZMRDAtSjNLV3NWSHlsNlZkcVk?oc=5",
-      "publishedAt": "2026-07-08T15:33:19.000Z",
-      "tone": 0.05,
-      "teamId": "portugal"
-    },
-    {
-      "id": "gnews-2-1eb0vr6",
-      "title": "法国赛果与淘汰赛走势成为焦点，情绪中性｜The Guardian",
-      "source": "The Guardian",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPTzE2VEtfZE5meGh2Yk5sLUpaWlZPVHV2OUYweVpleXlTSmhRSy1iMmVLTFRTbUNxSXg4TnJFclRQaTNmZWVBcVdHbFlQcks4cGQ1MGNEZTgwdU4zMWI3WkR5SDY0M053NjJ1WG1YbVdma0J3QWY1Q216NFpERnlLZW54bmZUa1lDbUR0ZTNlVWpRN1JRS2xyT0xpYzYtUkt4OVFidWIyZw?oc=5",
-      "publishedAt": "2026-07-09T20:00:00.000Z",
-      "tone": 0.05,
-      "teamId": "netherlands"
-    },
-    {
-      "id": "gnews-3-uphchb",
-      "title": "全球媒体关注：2026 世界杯最新动态汇总，情绪中性｜BBC",
-      "source": "BBC",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5hOHEzM19TdnFRMm5nNGtJTjhETTZiWTdNa2EtNWUtaThLQWNHaml6U0k2enhhRkhqNDl1MmtRSGZXdzFhRmxMRFlJdi00d242YzlwcWwtWXE0WlBDREFKejVpZ0RxTG8?oc=5",
-      "publishedAt": "2026-07-09T19:28:14.000Z",
-      "tone": 0.05,
-      "teamId": "united-states"
-    },
-    {
-      "id": "gnews-4-15rosll",
-      "title": "阿根廷最新动态汇总，情绪中性｜Yahoo Sports",
-      "source": "Yahoo Sports",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQUTlsWkZBQWFyMlZqZ3d0dUF1NUU2TlNXZ1RnVU5FYVFmbWIwQlk1SDVrSGFTRkpCeXlOTlZ1Ri1IU09LRVVOUGVOVW94cTU4OTFoMkU0d2hhTWxhRGZieUt1aXFqb0FxRGV5cU91TlZMcXpVZ0JfVUJPREt3WG5Ub2NmYktWNkRqbnpYSWZjSWM?oc=5",
-      "publishedAt": "2026-07-09T04:46:00.000Z",
-      "tone": 0.05,
-      "teamId": "argentina"
-    },
-    {
-      "id": "gnews-5-9cvv7y",
-      "title": "阿根廷最新动态汇总，情绪中性｜BBC",
-      "source": "BBC",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBqR2w5SUs3RmVMM2R3TFpveW9hcnl3X0ZsdE9RQUZOOEJtUGFmV1ZoWXBQTGMwZmZkTGpsTFl4RGJfb2RBdHBqSzhWdE8zTGYxWnZrcnhxemxVZmhzcmE0VTAwaWtubzQ?oc=5",
-      "publishedAt": "2026-07-08T15:37:07.000Z",
-      "tone": 0.05,
-      "teamId": "argentina"
-    },
-    {
-      "id": "gnews-6-1ufmo4p",
+      "id": "gnews-0-1ufmo4p",
       "title": "阿根廷赛果与淘汰赛走势成为焦点，情绪偏积极｜The Guardian",
       "source": "The Guardian",
       "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOMGMxMWx6eWIzZGZZWkVpeHZJR3U3Z0Y5RWh0WUxlR2pRbXBSYWRwQzVlUVkxaTFycHViOENZSHloUjdLYl9jUUlFQ2FUaGFES18tZnc5Q3RBcEt4UUpiNDI2emNHZW1KRkcxMDN1OU94UFdpSzlSZWoyOEJ3VG9oNnpqZkVRY3JzcFl1U3VXQUJqSC1nZmZpN2JlQ2hQVUM0bmEyX25NZENxUEI3Z2Zhd0QxTUhJMldIZ2FMTV8wemhCaWZndVZvcU9XNFNZeWM5VkdmUExqaVExRlpYUEE?oc=5",
@@ -9296,16 +9239,51 @@
       "teamId": "netherlands"
     },
     {
-      "id": "gnews-7-18qf2gf",
-      "title": "阿根廷最新动态汇总，情绪中性｜Al Jazeera",
-      "source": "Al Jazeera",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQakRFSTRYMkZwWXVXUzdGTWhrYnprcDEyUFg2d25UMDRLRy13QUg3T2ZiSFBFcnFndzM3bGF1SXNXNno3MVNvamNaV3d1Q3pfd0xHVzZtX1dVNl9mRjl6ZTNQeU9jQmVaZnhLRWsxYkgzX19hQ2xKdnUxczBZMldRak5sQVVLdWFyVkllT3o2QXJia0trVEI3T0F1SkpLZHhjYXN3dHBad1NFSXlyZERv0gG0AUFVX3lxTE1VUlhwdzdSOTNPU1NpMEtNSzBIOWlDaFlNTUU5NVVKWXowQlBRLWp3ekRvTmh2ZVlQQTBtU0h6TEExTXktR2NmQWxoTWNnZ24ydjVzcV85ZHlZb2lQelN6clJfNmlrN1RfNzN2ZFpzZnoybkVRSVJFU0ZZT2dEZlF3bk9STGs5MUZjb0xFWEdXeGx4VDIyV2VTYUpneUprU0U1RERNMGdtYkJCdllaWVJMeXRfSA?oc=5",
-      "publishedAt": "2026-07-09T08:12:19.000Z",
+      "id": "gnews-1-1eb0vr6",
+      "title": "法国赛果与淘汰赛走势成为焦点，情绪中性｜The Guardian",
+      "source": "The Guardian",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPTzE2VEtfZE5meGh2Yk5sLUpaWlZPVHV2OUYweVpleXlTSmhRSy1iMmVLTFRTbUNxSXg4TnJFclRQaTNmZWVBcVdHbFlQcks4cGQ1MGNEZTgwdU4zMWI3WkR5SDY0M053NjJ1WG1YbVdma0J3QWY1Q216NFpERnlLZW54bmZUa1lDbUR0ZTNlVWpRN1JRS2xyT0xpYzYtUkt4OVFidWIyZw?oc=5",
+      "publishedAt": "2026-07-09T20:00:00.000Z",
       "tone": 0.05,
-      "teamId": "egypt"
+      "teamId": "netherlands"
     },
     {
-      "id": "gnews-8-gqc1uj",
+      "id": "gnews-2-192di92",
+      "title": "法国最新动态汇总，情绪中性｜BBC",
+      "source": "BBC",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFA5VzFnYVdiYXNXN2o5QU0wN3dxYnRHYkduSGQ4STdPSkxYcWt3X1I1LVNuMVNPVzNVeGRkbkpSZnJRMzFudVpNSF85OEtPRm5ubjl1Q3lNdFpNdEZ6T3EtbkY3Y2tteGc?oc=5",
+      "publishedAt": "2026-07-10T00:43:10.000Z",
+      "tone": 0.05,
+      "teamId": "france"
+    },
+    {
+      "id": "gnews-3-18mi513",
+      "title": "英格兰商业、出行与观赛服务升温，情绪中性｜Al Jazeera",
+      "source": "Al Jazeera",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNbHJkZjJta0UtT3dfUFJmOW9oZ2Q2X25ScjlzTW8tNzNOdktwT2owWW8xWnBKX2dCWnFSNmFpUm1BUW8xUjgzZ1h5MGV5cjNMd0gtRGRnby1GRGliQmQyTWVhN0UwY2paNkpiVWticjBocU5pZEdQbEpKbUNkMmJoRUxuWWtZMV8wZHVibVJWMUMyc2hya0FhUi1oOGdjYlNqdl9TYUFLUlE5aTJfdmk3Uml4LVRSQdIBuwFBVV95cUxNZE5mdDhOUjdGeTkwMmlINFUtNkpnUEpTd29WUjNKTlROVHJTaGxvNnY5bjZjeS1jMlNvcm5sZDMxNkotRmpSWi1hSWRFMHhMUDZsWjVPdXZOQ1F1Qm83QWlOb1BaQXBlN0JNRDJQZFZUQUNMVzBKem5OczA3WXRwNC10UTFFU2RNZkpHYjV0R01GQ1ExVkZKR2RKN25HV0lJSGIzNFlFQXh3dHhTNWhzMmRpb3ZSX3RNMEtr?oc=5",
+      "publishedAt": "2026-07-10T04:37:10.000Z",
+      "tone": 0.05,
+      "teamId": "norway"
+    },
+    {
+      "id": "gnews-4-kewfsd",
+      "title": "全球媒体关注：2026 世界杯最新动态汇总，情绪中性｜Bleacher Report",
+      "source": "Bleacher Report",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNcFRMTUU4RkthdWlHRFE4cXhtVHhvdmhtdnNsWXFjemI1RlJvQ3E0bi0tNmNqRUozWmVaSXNpbU9wdDY2NVRHQ25ITVVQekV6cU03TWdiMktZWU5Xb1lJMUkwTmM3Rk82NzdpNzJZaVpFQWJ4dEdaOVBZUHdUWjNSZGZMRDAtSjNLV3NWSHlsNlZkcVk?oc=5",
+      "publishedAt": "2026-07-08T15:33:19.000Z",
+      "tone": 0.05,
+      "teamId": "portugal"
+    },
+    {
+      "id": "gnews-5-5q3v3x",
+      "title": "全球媒体关注：2026 世界杯赛果与淘汰赛走势成为焦点，情绪中性｜Politico",
+      "source": "Politico",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNME93eERDRFNRQWxScnQ3Q0dGYlI5SUUyeXFHMXNQR0FIWEJnOHB0NnBvQjVXZmFuZkMybDd1WEF3OHJjSko2endwZ1F5b3VNc2FnVHlDbnROMm1HMDBJanVacW00OXZBeXQ1VzJ4NGVydXhGaE9FaFhmdjRiWnU3bUkwMldGS1VjanNHZ0xJYktBNGotRVVyQzFtb2JUUkw4N19PRU9UbnZ5c0dZR0NXMW9vWFZNWkgtcTM0T0M4YnRLUVVqTXY1NzFB?oc=5",
+      "publishedAt": "2026-07-09T20:53:11.000Z",
+      "tone": 0.05
+    },
+    {
+      "id": "gnews-6-gqc1uj",
       "title": "英格兰赛果与淘汰赛走势成为焦点，情绪偏谨慎｜The New York Times",
       "source": "The New York Times",
       "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQamdDVU5ZcUs0bkY5b0lHSGFHbTM5b3hkZzlQcnVGS0Y0S0pWMlctaVFsUFoweUxKcFdYTG5tRkhjUmVDZVZIUnpHbEFrODZpN3p3UmFMVWRMYlIxOC1kV25WZTZOb09VSHlEb21jc09mX0dJWDFLcVJMSE5BWGdEMHdxUGY4cUdMRjVseUlyQnMzNG8?oc=5",
@@ -9314,25 +9292,60 @@
       "teamId": "england"
     },
     {
-      "id": "gnews-9-9qbwhw",
-      "title": "全球媒体关注：2026 世界杯最新动态汇总，情绪中性｜Fox Sports",
-      "source": "Fox Sports",
-      "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxPRVgyZjJVdW9WamprMTU5T3dPY3EtYjVXV0Q3aUxMdHV2ZDZJRVV3ZFpvcWpVZnIwTjZ4Ujk0Y1RKTXUybElrS2hVYU9oUm5sZFRFQVVZb2RHa2FmV1Nza2JZV3hkalNycFMzdDBfYm9LdnQ0OUQ3bzUwdC1fWHBDYmZmblJzMk5HNElRemNING16ejdHd0VqUHVtVlBJT2lobVZ4YU5KUS1CYU9zZS1ULVlyTGN0alNHRTFzMkpIeXBHSExxQnFkaV8yV3hPNk1RWVdycTRDODB6djJLalQ5ZWh0QzVrTng5alZwYnRIR2RYcDd5Q2hKSkhWMFM3R0wt0gGAAkFVX3lxTE9FWDJmMlV1b1ZqamsxNTlPd09jcS1iNVdXRDdpTEx0dXZkNklFVXdkWm9xalVmcjBONnhSOTRjVEpNdTJsSWtLaFVhT2hSbmxkVEVBVVlvZEdrYWZXU3NrYllXeGRqU3JwUzN0MF9ib0t2dDQ5RDdvNTB0LV9YcENiZmZuUnMyTkc0SVF6Y0g0bXp6N0d3RWpQdW1WUElPaWhtVnhhTkpRLUJhT3NlLVQtWXJMY3RqU0dFMXMySkh5cEdITHFCcWRpXzJXeE82TVFZV3JxNEM4MHp2MktqVDllaHRDNWtOeDlqVnBidEhHZFhwN3lDaEpKSFYwUzdHTC0?oc=5",
-      "publishedAt": "2026-07-09T20:11:56.000Z",
-      "tone": 0.35,
-      "teamId": "tunisia"
+      "id": "gnews-7-2fi7n1",
+      "title": "全球媒体关注：2026 世界杯赛程与小组形势更新，情绪中性｜Yahoo Sports",
+      "source": "Yahoo Sports",
+      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNaFNrMEJKOHAwQWVGclIwNkNnckVOUlJZOEVLcl96MU1JYXo2Zm0wLS05UjJyd3ctZmFuVnFLV3FzQ2tsWEZzVWY3TUxEMnN6Rkw3RFUtR19QZHgzUks5TVlQa2Y1bk5LYV9XTzI5WG80eUZJTjRnTTNacHdMRXRVM1VPeWoxUWZYQjJoVFJlUTcwN0F6VkRLcjRJM21vSEFmZ2lBQ0VXSU5Nbmg4YWVISWI0NHN1c2hzMEEyTkxiWGtSUTJIODNILXI1OXdtSm4zeGlJbkFLSmhGMkk?oc=5",
+      "publishedAt": "2026-07-09T16:07:21.000Z",
+      "tone": 0.05,
+      "teamId": "portugal"
     },
     {
-      "id": "gnews-10-3b3jsw",
-      "title": "墨西哥赛程与小组形势更新，情绪偏谨慎｜The Guardian",
-      "source": "The Guardian",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQS2tHaE1fczVoYVQxWEpkamFyRzNIWkZ5VmRJc1F3d3hDekRjeUtlTjAtNjNZWk9WbTBzYWhLNUNEc2VTRGh3MndpekdxbVhUSHBFZ0gzWlN4VTFCWDlxSmNGQmpQRHBFNG1LTm1zRzRrcVlGM0hhY3o5cmM0ZW16WFFKQlZfQmYydGJuQ3hmdUlaMy1VVjBtY2Y5TlRKS1NTSTNVNGVDdXhtZ3hTYWZsdERZc0p6VWU4aUppYk5odmE?oc=5",
-      "publishedAt": "2026-07-09T20:30:00.000Z",
+      "id": "gnews-8-jb72b8",
+      "title": "全球媒体关注：2026 世界杯赛程与小组形势更新，情绪中性｜Mashable",
+      "source": "Mashable",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPY2thN0JDWGl4TjBDbjZabEJXOWI0dGVqWklWbmJSVG9MZ2NJLVgzdHNQb3d2am5mcTEwenExOGdyUF81bngtR0YtNDZoOHBmYnZIUHJxdDZxbGdOMEtkV09oWDRRQWFPbmp4MnUzM3l4Y0VPWk5Lc0ZVOHg0Y1ZlandpX1hHOHhJUnl4b09fN1VhMGZV?oc=5",
+      "publishedAt": "2026-07-10T03:47:47.000Z",
+      "tone": 0.05
+    },
+    {
+      "id": "gnews-9-14h5ush",
+      "title": "全球媒体关注：2026 世界杯最新动态汇总，情绪中性｜WPLG Local 10",
+      "source": "WPLG Local 10",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNZzlaTXNHTkVnYk52UnRuVllTVTl4bzlrLVpoeDk0ZzR2X2Q3eUlfb2pYMEdZU25zNll6elZNNnhNYUpWOGV0aUREQVFuM1liWWI0ZE5xS3kyWVpabEMxUlVxR0dVczF2Z2hnUFo3bW40UEc5N2Z2TWJYUGdUMk02cTZtYWk5LXF6cjBLdTR3WDRHWG5OZ3hPa1NLQUxfRlBkeWtkRkExUllhUW1ocEdFa0stTzc3X0NnT21Vc2g0V0w?oc=5",
+      "publishedAt": "2026-07-09T22:47:12.000Z",
+      "tone": 0.05,
+      "teamId": "colombia"
+    },
+    {
+      "id": "gnews-10-1k3y57o",
+      "title": "全球媒体关注：2026 世界杯赛程与小组形势更新，情绪中性｜Yahoo Sports",
+      "source": "Yahoo Sports",
+      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOU1U0UXo4NFBRTUV0ZE1tOWt1X1BOYUZEUDJfaVhKU2NCQWtfZFc1cC14SW9kcWxkRUlNc1BwS1hqeUtHcFlUX2owY0xXdkNfR0tGNl9JNnhwU3l6WUZwTi1BOU5YSmZpZFA4YWp4Y2FWVjNoZ0lqOUxnM2pRMG5BeTNRZFA3aUdRY1BWbzFGbFBnemNBNnZ1TVFaNUJPUUV5Z0kxa2RhN1Ryck9UMlY5RzV5dlNTczl6OWVyRXZPSWdwSmszX3FCaUdqQWx3MFVMYWdnZHRmVFF0T1hULW1IcURfSQ?oc=5",
+      "publishedAt": "2026-07-10T03:26:18.000Z",
       "tone": -0.35,
-      "teamId": "mexico"
+      "teamId": "scotland"
     },
     {
-      "id": "gnews-11-4m9qcg",
+      "id": "gnews-11-1nwxpzm",
+      "title": "法国最新动态汇总，情绪中性｜FOX Sports",
+      "source": "FOX Sports",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1mZHhGU0hWQmRpVVU0UUlEYmduSkxhVk94dGg5eEctenMzUjlHblB6TzBrLVBIUUwtZjk0UHJsVkVlVk5jUkpmSWlHTEtjWXV3T3EwR0IwT3dxSTVFYmtkclotWURpQXpOVVNvdnJRcllpNEFqbTMzONIBeEFVX3lxTE40aldNZG1OMF8tZU4tVURfWkFsSUhPTFJBVjlxUnFYSDIwaEdZbGV0ZDVMZXBFV0tzQ0tDVXZEbngyYW5vM0JSU2RLX2pLNk1TZjd5bVFIR3JBQjhWc2l1clFNMTRYYWxLR3dheWNtT1lQaXhoTk40OA?oc=5",
+      "publishedAt": "2026-07-09T23:51:00.000Z",
+      "tone": 0.05,
+      "teamId": "france"
+    },
+    {
+      "id": "gnews-12-1gt9gey",
+      "title": "英格兰赛程与小组形势更新，情绪中性｜Sky Sports",
+      "source": "Sky Sports",
+      "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxPcEFNY2kxUUI0aVFkNVEzNVJEZ240LXhWTk1XWkhXcXpLWDFYTVZkQ1pZSnFfYm8xcmVULXNvRG5ubC1KMXVoR2puNHExUW5VRkZjQURnckdodHdqVmhHVnM5WVNaNVR1M01MSjg1TGlIQ3NwNHp4YzNiazdfNnFLMGFIbHZZTlhjMjdicWNwR1BkTm5vNjZ2TnZvQWhCZThfRVU5THJ1cVZCcENsUDQyU3lEbExmNldmMVluRVRyazJkc1I1XzhaZG12NS0tU3I1Rl9hRzFfREFCZlhNRDJKZG1JYVdVRmx2bGhPUWhXWUdac1pnY1ctdnRR?oc=5",
+      "publishedAt": "2026-07-10T04:02:44.000Z",
+      "tone": 0.05,
+      "teamId": "turkey"
+    },
+    {
+      "id": "gnews-13-4m9qcg",
       "title": "全球媒体关注：2026 世界杯赛程与小组形势更新，情绪中性｜olympics.com",
       "source": "olympics.com",
       "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPa1EtSE1naElSdUlSS0Qyek5QbEFIS3plRTdLY1pXbDF0RkRfMDhjN2VLeUpmSmxKWERVdDdnWnU2dlhCS0ladlk5SkJXUTVXVDlWbV9CODN6SXVKZmE4anNraVkzRTdLUmJhbVpsZnk2c01kNkhMb1lQbHM2Qk5zS1FiYTFPWElDWXI0dV9TYmtBU1hycDg4eVBxSms1UUNi?oc=5",
@@ -9341,60 +9354,16 @@
       "teamId": "brazil"
     },
     {
-      "id": "gnews-12-1q1yn7c",
-      "title": "全球媒体关注：2026 世界杯最新动态汇总，情绪中性｜talkSPORT",
-      "source": "talkSPORT",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOd0J1ZldCREhXMFFWN0w4MFFxN2VYeUdYdDhRVWtfWGRHY3pDSTVUR0R1SXFLZGY0eWVyeXZndVk3MkJNM2tueTAta1U1N1RfNVl4UHFhbURfZHFhcVFGeEJuLUZGZzdGM3hYckJXV2Znd2tkLXgzOGp6OWlOTk9OVHFfYjUyczZJLWdnT0Q1cWh3RUVpRTBXSm95VTV0YzNqckNnekw3dVZCZ0E?oc=5",
-      "publishedAt": "2026-07-09T15:04:46.000Z",
+      "id": "gnews-14-ir0glf",
+      "title": "法国赛果与淘汰赛走势成为焦点，情绪中性｜Al Jazeera",
+      "source": "Al Jazeera",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5lSk1OMUswNUwxY21WZm9RTVZoSS1mMkZLVVhMS3M5ZmpnVEZLejRYMHB1SGtEdUpmbDU5NW9kUWdGS2ZWdDkwNjlaOGZmYmp5TXVfRFp6bHZnbVY1VDBrLVVWR0p2X0tSRGdNMkxKUDlCcUNESlBXaWFXaTTSAYIBQVVfeXFMUFh1Y0dFeFc4VXRmeUZPUHh5WWs0cjlkbHhYUUd6Q3NpUkNlZlpTM2ZIeUt1ZmMzUWcxWW9QT0VGQkhLdkJIVEtKSm5aTlViSWV5VmNuZ1d1X0lvVmRaZWY4ZVdjdS1taE5hdXJZX29FeF9GSE1FZ0FCdW1PTnd6bV9CUQ?oc=5",
+      "publishedAt": "2026-07-10T03:22:25.000Z",
       "tone": 0.05,
-      "teamId": "canada"
+      "teamId": "france"
     },
     {
-      "id": "gnews-13-190yitn",
-      "title": "全球媒体关注：2026 世界杯赛程与小组形势更新，情绪中性｜TechRadar",
-      "source": "TechRadar",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFB0REMtVDZOWkVUSjhpMmRuYVk1SXlPWl95Sk9nVTFlakRZVHJKdkZwMmZQRkZNdllZbkM0bHZIUUtNYUY5WUswOFBLd3VjWkR5dzZwUURNN1dQUFBsZEhQQ0NZU2FLcU1VVHMzd3FrYTZwc3cxZUQ4eEZMLWs3T28?oc=5",
-      "publishedAt": "2026-07-09T14:47:38.000Z",
-      "tone": 0.05,
-      "teamId": "turkey"
-    },
-    {
-      "id": "gnews-14-1k3y57o",
-      "title": "全球媒体关注：2026 世界杯赛程与小组形势更新，情绪中性｜Yahoo Sports",
-      "source": "Yahoo Sports",
-      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOU1U0UXo4NFBRTUV0ZE1tOWt1X1BOYUZEUDJfaVhKU2NCQWtfZFc1cC14SW9kcWxkRUlNc1BwS1hqeUtHcFlUX2owY0xXdkNfR0tGNl9JNnhwU3l6WUZwTi1BOU5YSmZpZFA4YWp4Y2FWVjNoZ0lqOUxnM2pRMG5BeTNRZFA3aUdRY1BWbzFGbFBnemNBNnZ1TVFaNUJPUUV5Z0kxa2RhN1Ryck9UMlY5RzV5dlNTczl6OWVyRXZPSWdwSmszX3FCaUdqQWx3MFVMYWdnZHRmVFF0T1hULW1IcURfSQ?oc=5",
-      "publishedAt": "2026-07-09T19:37:28.000Z",
-      "tone": -0.35,
-      "teamId": "scotland"
-    },
-    {
-      "id": "gnews-15-1gt9gey",
-      "title": "英格兰赛程与小组形势更新，情绪中性｜Sky Sports",
-      "source": "Sky Sports",
-      "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxPcEFNY2kxUUI0aVFkNVEzNVJEZ240LXhWTk1XWkhXcXpLWDFYTVZkQ1pZSnFfYm8xcmVULXNvRG5ubC1KMXVoR2puNHExUW5VRkZjQURnckdodHdqVmhHVnM5WVNaNVR1M01MSjg1TGlIQ3NwNHp4YzNiazdfNnFLMGFIbHZZTlhjMjdicWNwR1BkTm5vNjZ2TnZvQWhCZThfRVU5THJ1cVZCcENsUDQyU3lEbExmNldmMVluRVRyazJkc1I1XzhaZG12NS0tU3I1Rl9hRzFfREFCZlhNRDJKZG1JYVdVRmx2bGhPUWhXWUdac1pnY1ctdnRR?oc=5",
-      "publishedAt": "2026-07-09T23:46:23.000Z",
-      "tone": 0.05,
-      "teamId": "turkey"
-    },
-    {
-      "id": "gnews-16-1d4f8lp",
-      "title": "阿根廷最新动态汇总，情绪偏积极｜Reuters",
-      "source": "Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOMEpYWEdjUlRHVTRZalQ2ZW4tcG41a0JPQU03N1NjcUNqLVRFUmlDTzZrNlhWbzZjZHZLQUJXNmJlSThrY0NGUVZ2Yk5rOTNRZ09tSXN3cFpmaHpCQmJjWnBOMzJLeG9sa1lnVXJOcl9ELWhqUnJPSWlmVDRWLWtTbG1Hc1dqVDJ1TnRsejlJSXVsRlpNQVA2cTdxNzREMFpCcWJnUHlBT1NtZ0FqRThtMkUzOGRreG9WQWpn?oc=5",
-      "publishedAt": "2026-07-09T19:55:14.000Z",
-      "tone": 0.35,
-      "teamId": "argentina"
-    },
-    {
-      "id": "gnews-17-1iw9p1n",
-      "title": "全球媒体关注：2026 世界杯赛果与淘汰赛走势成为焦点，情绪偏积极｜The New York Times",
-      "source": "The New York Times",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNNkstT3hQU1JPcTR0WEdrTUFqNHRCcmlnMVZtbjZCdXZ2VmJSMk5RMVlhcUNSSnNwN2dZNmNHbFZMX1ZMUmM0SGU1UUU5WS10Qm11bnQ5d1dXTFFvRG5YMjlJanF5M1hQTkdSQTJHaXM2SGMzZ3J6U1gtTjRsVVF3MF9fbE41VU5MVy1ITHdTN1Y1MU5HYlNzWENRWThwaVY4bkVpZVF3dmRSSHV5?oc=5",
-      "publishedAt": "2026-07-09T12:00:34.000Z",
-      "tone": 0.35
-    },
-    {
-      "id": "gnews-18-jv1dpv",
+      "id": "gnews-15-jv1dpv",
       "title": "全球媒体关注：2026 世界杯赛程与小组形势更新，情绪中性｜Times Union",
       "source": "Times Union",
       "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQRUtoTVNNYWtoSEw5Ty1VS1Bpdm5peW9HVmtGb0lYVjhUNlZjYzVKVUdqMDhPc2d2Mk5qRXNfLW4tYXMzQ2dHV3hjYThVUjNqQ0ppZGo4U3loX1FGR1pMQVRkakpnSGZxczVUaC1MRmw3VWpJZ0YzNmlScmxJdlJxa29UMkhaQnB1enl1ZnQxVHVia1JPdjlBdEJITXdKejRRb1lpNGxR?oc=5",
@@ -9403,16 +9372,15 @@
       "teamId": "brazil"
     },
     {
-      "id": "gnews-19-176mti4",
-      "title": "全球媒体关注：2026 世界杯最新动态汇总，情绪中性｜Al Jazeera",
-      "source": "Al Jazeera",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQS0sybnQ0eDJZVmlSUFZwOXZ3eVFFSUNaN0syOUc5QnBxV1JRZzVmN2xwbDBFNTdWVGdRd1FtT1dGNlFWMEdsS09KRHV3eWwxTEtXblRXR0FEZnZpU1dGY0F1d0FkX1Mzb0EwNHo5V09EckMtbnREQmxnSkh2MEZad2ZGUVBQYnEyNDhHRVA1cE45T0p1MEdvdVEzbXVIZ9IBowFBVV95cUxPRjNkQTJnQ2thOThnckNUMktXU1BBSGdaMDlPYUZqVk1sVnhueVIxZjRtRHE5UGtVTXdobmZuSjBLYWVudWI3X2cwY2tSZVNNczZLZmg2aGFqYUhKMmZ6R3R2d19scFRVc2VsdjVMaGxwcHhzMnV1bk5oM2c0UUNlamZtdlo4NWQ5amZQNDl3cW9tS2Z1X2xxQjhuS0FhOG15Z0pR?oc=5",
-      "publishedAt": "2026-07-09T12:06:13.000Z",
-      "tone": 0.05,
-      "teamId": "netherlands"
+      "id": "gnews-16-1iw9p1n",
+      "title": "全球媒体关注：2026 世界杯赛果与淘汰赛走势成为焦点，情绪偏积极｜The New York Times",
+      "source": "The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNNkstT3hQU1JPcTR0WEdrTUFqNHRCcmlnMVZtbjZCdXZ2VmJSMk5RMVlhcUNSSnNwN2dZNmNHbFZMX1ZMUmM0SGU1UUU5WS10Qm11bnQ5d1dXTFFvRG5YMjlJanF5M1hQTkdSQTJHaXM2SGMzZ3J6U1gtTjRsVVF3MF9fbE41VU5MVy1ITHdTN1Y1MU5HYlNzWENRWThwaVY4bkVpZVF3dmRSSHV5?oc=5",
+      "publishedAt": "2026-07-09T12:00:34.000Z",
+      "tone": 0.35
     },
     {
-      "id": "gnews-20-c44jzl",
+      "id": "gnews-17-c44jzl",
       "title": "全球媒体关注：2026 世界杯最新动态汇总，情绪中性｜The Guardian",
       "source": "The Guardian",
       "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQelRYelEyRjJwVTFaWGVsVzVLM0wyVnhhbkV1bnpuV2xPUnVXdWNCN04wTjZwSWZkYlJpdUJ4OWdhNWcxNXFXNUtCbG5MN0dhOF9aMTR3THJHalF4b2UwX1dyRWstbTE2R1BhNXNuR2EwT0RBNWxPYWN3M01RTlRpU2hoVmJVQWJ6akZudW9GUHhqUUky?oc=5",
@@ -9420,34 +9388,34 @@
       "tone": 0.05
     },
     {
-      "id": "gnews-21-2fi7n1",
-      "title": "全球媒体关注：2026 世界杯赛程与小组形势更新，情绪中性｜Yahoo Sports",
-      "source": "Yahoo Sports",
-      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNaFNrMEJKOHAwQWVGclIwNkNnckVOUlJZOEVLcl96MU1JYXo2Zm0wLS05UjJyd3ctZmFuVnFLV3FzQ2tsWEZzVWY3TUxEMnN6Rkw3RFUtR19QZHgzUks5TVlQa2Y1bk5LYV9XTzI5WG80eUZJTjRnTTNacHdMRXRVM1VPeWoxUWZYQjJoVFJlUTcwN0F6VkRLcjRJM21vSEFmZ2lBQ0VXSU5Nbmg4YWVISWI0NHN1c2hzMEEyTkxiWGtSUTJIODNILXI1OXdtSm4zeGlJbkFLSmhGMkk?oc=5",
-      "publishedAt": "2026-07-09T16:07:48.000Z",
+      "id": "gnews-18-1uwkd1x",
+      "title": "全球媒体关注：2026 世界杯最新动态汇总，情绪中性｜ESPN",
+      "source": "ESPN",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOWXpGdUJQY1d2d1lUQ1BDMTdjWFl3aDlaSjdrazdHNVloVV9HaFBjcG9Fd2hldk1jcGNFWEtHcS1CRkh1UWh0Vmp2R2tPRDQtVDRhU09HTHpqdUFaVW9QaHIxODV3MVNsMHFBcGU4bm5NV1ZDLTBpM21ZZUM2MkpBSXVnZmxFdlRwcXh6dmM2UVdtQlN1RnJmbXhLbnN2blV1bjd6bGJNclRMWVlJZVpMeTNSWnZPOFpR?oc=5",
+      "publishedAt": "2026-07-10T01:32:19.000Z",
       "tone": 0.05,
-      "teamId": "portugal"
+      "teamId": "spain"
     },
     {
-      "id": "gnews-22-de4k0a",
+      "id": "gnews-19-de4k0a",
       "title": "全球媒体关注：2026 世界杯赛程与小组形势更新，情绪中性｜Sky Sports",
       "source": "Sky Sports",
       "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPNW95ejZPUE9nVVJnQS1wZzNfUURsMWhILVp4QlVQUm9WWV9QWnIxa0R2RzB2eThsb2pHbFZhY2dRSEJaRC1wTG1OVzN5Y21zM3NYcjJsQndBZ0F3MHJOQXJIb0xGemppM0YwV2Q3R3FWRFJHakNGLUZpejQ0dFRQSHI5S1lOdS0zOUd6NWpOcTBlZGJscDBnci1uak1nTnNsanFxdTJjNXgteTNUcUZMTm96NXM2Wk5ZZGNmVTN3dGFXMlpXRmVUTmp6RTVVb25HQ0JaSFZYc0Rfa01vY0VrNk5Ebw?oc=5",
-      "publishedAt": "2026-07-09T23:32:21.000Z",
+      "publishedAt": "2026-07-10T02:34:14.000Z",
       "tone": -0.35,
       "teamId": "brazil"
     },
     {
-      "id": "gnews-23-icf0t",
-      "title": "法国赛果与淘汰赛走势成为焦点，情绪中性｜Al Jazeera",
-      "source": "Al Jazeera",
-      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5lSk1OMUswNUwxY21WZm9RTVZoSS1mMkZLVVhMS3M5ZmpnVEZLejRYMHB1SGtEdUpmbDU5NW9kUWdGS2ZWdDkwNjlaOGZmYmp5TXVfRFp6bHZnbVY1VDBrLVVWR0p2X0tSRGdNMkxKUDlCcUNESlBXaWFXaTQ?oc=5",
-      "publishedAt": "2026-07-09T23:22:41.000Z",
+      "id": "gnews-20-814f3a",
+      "title": "法国赛果与淘汰赛走势成为焦点，情绪中性｜FOX Sports",
+      "source": "FOX Sports",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5GRGhZZnZDNTR4TG9Xc21mRUpYMVdRWVBGQUhmNElIR2RBbkZBTlJCaGJQREFxZl9hM1hJSlNIUmZGVGVPVU9IclV3anJlYUM3dVlhbklzUUdZTzdTRHpfaWdn?oc=5",
+      "publishedAt": "2026-07-09T22:26:25.000Z",
       "tone": 0.05,
       "teamId": "france"
     },
     {
-      "id": "gnews-24-cfnyth",
+      "id": "gnews-21-cfnyth",
       "title": "法国赛果与淘汰赛走势成为焦点，情绪中性｜olympics.com",
       "source": "olympics.com",
       "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOOTFMUGxfRzJlME5DUERTUjh6OUVhdkViMzV4REk1aXVma2IwNFpaNDBRSjNUMFdMZHc5dWNQNGh5VzNnai1MWGRGUm5qRWJYdHBjRk16WE5ybW5tYkFENHI5aWlrcFowYkU2WTF6b0ZmTFFlUGVLTmJyZlV6a29aRlRMTHZvWTRQV3Y0d3MwN3V0X3hjUGJnWDBwWHp6MER4VGZ3S05CREVvZlZW?oc=5",
@@ -9456,12 +9424,39 @@
       "teamId": "netherlands"
     },
     {
-      "id": "gnews-25-9tkyig",
-      "title": "全球媒体关注：2026 世界杯赛程与小组形势更新，情绪中性｜Mashable",
-      "source": "Mashable",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPdS0zX2ZDNkIxUk56MmZGMzJVZTlCRXBOX1ZvRThEYmZoRG13S2JGUmhTOTFDeF83MXI3QnNFM015LUktSGNCNzFGVGRJaVN4OUVJRjdEUlZYSHlYdGtuR3JaRFZGNzhESURadmhoaEluN3VSSUxrazdfVHZWTjliald2QUd1WUNkYWN1SDY0LW5JQkl3?oc=5",
-      "publishedAt": "2026-07-09T09:23:26.000Z",
+      "id": "gnews-22-176mti4",
+      "title": "全球媒体关注：2026 世界杯最新动态汇总，情绪中性｜Al Jazeera",
+      "source": "Al Jazeera",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQS0sybnQ0eDJZVmlSUFZwOXZ3eVFFSUNaN0syOUc5QnBxV1JRZzVmN2xwbDBFNTdWVGdRd1FtT1dGNlFWMEdsS09KRHV3eWwxTEtXblRXR0FEZnZpU1dGY0F1d0FkX1Mzb0EwNHo5V09EckMtbnREQmxnSkh2MEZad2ZGUVBQYnEyNDhHRVA1cE45T0p1MEdvdVEzbXVIZ9IBowFBVV95cUxPRjNkQTJnQ2thOThnckNUMktXU1BBSGdaMDlPYUZqVk1sVnhueVIxZjRtRHE5UGtVTXdobmZuSjBLYWVudWI3X2cwY2tSZVNNczZLZmg2aGFqYUhKMmZ6R3R2d19scFRVc2VsdjVMaGxwcHhzMnV1bk5oM2c0UUNlamZtdlo4NWQ5amZQNDl3cW9tS2Z1X2xxQjhuS0FhOG15Z0pR?oc=5",
+      "publishedAt": "2026-07-09T12:06:13.000Z",
+      "tone": 0.05,
+      "teamId": "netherlands"
+    },
+    {
+      "id": "gnews-23-1pztg03",
+      "title": "墨西哥商业、出行与观赛服务升温，情绪中性｜Sky Sports",
+      "source": "Sky Sports",
+      "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNcHMyYjRiSE5QVWJyR19JZkl4SS1MMF9qU2dFa0R6NVhvRjRRM25TRkRXUXlvajhvVW5FeWktZm9yWWk3TEpxNDlacnBVYnljSGlmVzhOX2RFekpMeWMwNHVjWHphWjRpbnpyY3Z5VzdXb05PZ1lxN3A0Ym5NVFlNbEd0dmNZcC1JOGl6aGU3UllnaHkyVnRtTUFXbWJmUUVpc2hDVnc1Z0hubHVHU3RjaTl6NWZndVo3N3RvWmtRRllRU28wN3JMMFZ3amxUbXJSSUFKTTVVTHZUbmhwRHVoWVhGZmdLd2JlQ0V3LVk3cw?oc=5",
+      "publishedAt": "2026-07-10T01:22:02.000Z",
+      "tone": 0.05,
+      "teamId": "portugal"
+    },
+    {
+      "id": "gnews-24-sy2jh0",
+      "title": "全球媒体关注：2026 世界杯最新动态汇总，情绪中性｜The New York Times",
+      "source": "The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQU1lQYXQwdVpETWlaY1NGVEJHMnpvMFRjTEo4N3MxZlpyUUhfUllFMkI4RldkZ1o3bVRDZDZxT2EtZnpPWGRwRUNrQTVJbnRYXzd3VGQycEtJWXZnVTRVMU9LeXJmS1FfYVhGM3Qtd0tSSHBZYy15YVB3dEJwT082ZzJKNEI0Z1QzZ3M2QVVwWnhKd0laQTlwQzlTMmRtU1pBUE85cW5OdzMwY3AtSXJoVkp6U2w?oc=5",
+      "publishedAt": "2026-07-09T22:33:49.000Z",
       "tone": 0.05
+    },
+    {
+      "id": "gnews-25-1d4f8lp",
+      "title": "阿根廷最新动态汇总，情绪偏积极｜Reuters",
+      "source": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOMEpYWEdjUlRHVTRZalQ2ZW4tcG41a0JPQU03N1NjcUNqLVRFUmlDTzZrNlhWbzZjZHZLQUJXNmJlSThrY0NGUVZ2Yk5rOTNRZ09tSXN3cFpmaHpCQmJjWnBOMzJLeG9sa1lnVXJOcl9ELWhqUnJPSWlmVDRWLWtTbG1Hc1dqVDJ1TnRsejlJSXVsRlpNQVA2cTdxNzREMFpCcWJnUHlBT1NtZ0FqRThtMkUzOGRreG9WQWpn?oc=5",
+      "publishedAt": "2026-07-09T19:55:14.000Z",
+      "tone": 0.35,
+      "teamId": "argentina"
     },
     {
       "id": "gnews-26-1l73age",
@@ -9472,48 +9467,48 @@
       "tone": 0.35
     },
     {
-      "id": "gnews-27-u6awi7",
-      "title": "全球媒体关注：2026 世界杯最新动态汇总，情绪中性｜ESPN",
-      "source": "ESPN",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPYzZTT3UwM0pXTURfeS1SN2hqWTFXNDM4dzBnUGFvSmNBMUtnOG5BSExLSGpVZV92MVpENGNkNWlnWFhrbXhOUjR3MzlBamQ4NVBOOVpDLWk5amY5dmprWVY0aGhiS1pTcGpXMlByMjRibXVQbGE0b1BSbjBYaTdhdFZHSDFjS1Z5M2JSOS02LTExcGM1aW91aTFFeWZZWWZQbkhNSA?oc=5",
-      "publishedAt": "2026-07-09T07:50:00.000Z",
-      "tone": 0.05,
-      "teamId": "spain"
-    },
-    {
-      "id": "gnews-28-1ggkce9",
-      "title": "全球媒体关注：2026 世界杯赛程与小组形势更新，情绪中性｜ABC News - Breaking News, Latest News and Videos",
-      "source": "ABC News - Breaking News, Latest News and Videos",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOeWJDNXNIY1BzTGZEQmpRMFBDN3RORGNac1hUbGRhbC04VThjSm81YjlWWkQteERVT3FXNHdwVkJiOERTRS1HMXNfVGhKTjZLbmxoNW52WVB2ZVIteFNrdU5ZMG5iQ3YyUW1qRG92eGtpWHh6U3UtYldCRHhrNklxcW1TZ0p3cWllT0p2eWxHS1dRY0dFbzJBRlRWTGYteTJKMWstM0hfYS3SAa4BQVVfeXFMTmNIRTVGN242Z1Y3TWswcTk2RnJrMXZXUXNUbEZ6dHBRYm1NZ3ZmQUlKekVlMWY4M0Z4a216LUx4MTdJZ2pyRlJTbVJYV21lX0pXU19TdUJGQlpyQ3ZXc3NheVFmTmRmOExiRklmTm81VEJVZ3d1cWxYSnZzZjlXZ1JYTHhMNEVPUnFxU2ZaZE4zSjlPNlBKRDNYVTZYMV9RZFJzQzdhYWJBOU1IYWR3?oc=5",
-      "publishedAt": "2026-07-09T09:30:34.000Z",
-      "tone": -0.35
-    },
-    {
-      "id": "gnews-29-814f3a",
-      "title": "法国赛果与淘汰赛走势成为焦点，情绪中性｜FOX Sports",
-      "source": "FOX Sports",
-      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5GRGhZZnZDNTR4TG9Xc21mRUpYMVdRWVBGQUhmNElIR2RBbkZBTlJCaGJQREFxZl9hM1hJSlNIUmZGVGVPVU9IclV3anJlYUM3dVlhbklzUUdZTzdTRHpfaWdn?oc=5",
-      "publishedAt": "2026-07-09T22:26:25.000Z",
-      "tone": 0.05,
-      "teamId": "france"
-    },
-    {
-      "id": "gnews-30-1htbpd1",
-      "title": "墨西哥商业、出行与观赛服务升温，情绪中性｜Sky Sports",
-      "source": "Sky Sports",
-      "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNdXIxbW12UlR3d1h2Q3dRWTY3eXlFa0J0dkhvd0RhSF9KaHBxcEhNZjFDZmNlV0phamNacmk5Si1pbWVzVWE3cVpCODFMWFRNSGRGa240ZDhESnp5QWwwQWZMTzRfQ21fQ1VOdmVsb081R0FRM0U3bWNZNUhndzdFRV9lSHNyemNsWjVLSzVaS284b2JJbWRUNXFUVGtmSGZGUHRuaGJMaWFqOVMwLXljWS13cG5GYS1mTUMzZ1dqZUVMdnBQcENBYXo3ellxU21WalpiYV9PYkRibWJrTXl2Y1pULVdwSnNCRlViUFFvdw?oc=5",
-      "publishedAt": "2026-07-09T19:09:14.000Z",
-      "tone": 0.05,
-      "teamId": "mexico"
-    },
-    {
-      "id": "gnews-31-zk2xkq",
+      "id": "gnews-27-zk2xkq",
       "title": "全球媒体关注：2026 世界杯赛程与小组形势更新，情绪中性｜Yahoo Sports",
       "source": "Yahoo Sports",
       "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPbmx2emVQOUlqRVotV2pCQ3JVTl93LXJCMlM2UTBPSzgtYlJQTGNTdXJPNG5rYmk5WktNZF91N081Y0QxNDI4d3NFRE5uRWhnUTVVUHctYmp4NjlBQ3FmRUdxYXU5a08yWlplRjNlQWx1WjBiMmtPc3JBanY0MTJnVzhjUjN5d3hVUG03VGJzaWFSbFdYMzdtUnd5c1dHX1ZTNjV5WXB3QWxUa3FiVzBWckpTakIxSGdWWThScTh4ZEczTndSZ09oLS1LZw?oc=5",
-      "publishedAt": "2026-07-09T23:56:18.000Z",
+      "publishedAt": "2026-07-10T01:26:18.000Z",
       "tone": 0.05,
       "teamId": "brazil"
+    },
+    {
+      "id": "gnews-28-1jqfek4",
+      "title": "全球媒体关注：2026 世界杯赛程与小组形势更新，情绪中性｜ESPN",
+      "source": "ESPN",
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNazBRZDFsYjkyM1lXUGRBZzU2c3FfaHdOTWNtTUZGMWZhR1FCdDd1LTJ5U0VBN1FHbFZWRndrMzZVUTNGUFZqa3A5U3pLT1lreXNMZllmU2pPQUFFOGhCTEJoZHlnWFM3VU1xM0ZxNWJiZG4zMTA5OTZqQUlzUGp3Zm1tSXpWeGViTEFvdUVaaTgtcVdUTnZqX2F3eFdKWnNsTHBFRUl3OVVxTF91TE5udTZlNVF5UTFoU2hpdjJjSDdKZE5JNV9XNENMS290NWtu?oc=5",
+      "publishedAt": "2026-07-08T07:07:00.000Z",
+      "tone": 0.05,
+      "teamId": "turkey"
+    },
+    {
+      "id": "gnews-29-tachwa",
+      "title": "全球媒体关注：2026 世界杯赛果与淘汰赛走势成为焦点，情绪中性｜Florida International University",
+      "source": "Florida International University",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPZFl3UzNRV1BFLU1aRzdHVWVabWx2NkJZZ3NnWklEZmlnMzVURTUwVE9PYUROVEpQODNEd3ZfNF9FTFhxc0hoc19VSHd1UnhtUjFQdGlYeWpHelM3S29MdDdBNWlMNElBMk1OdUlEM2tRc3RGVkZkcjZzcEoyeHRKV0JNaTRPTE1CVVBOWHJKd1Rsdw?oc=5",
+      "publishedAt": "2026-07-09T22:13:00.000Z",
+      "tone": 0.05,
+      "teamId": "scotland"
+    },
+    {
+      "id": "gnews-30-jqb7v8",
+      "title": "全球媒体关注：2026 世界杯最新动态汇总，情绪中性｜The New York Times",
+      "source": "The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOYXBjSl80d1BwLUJUeHV5MFVIZ0drUm1xdnJDeFJ4SzltYWlqU05oLTMtQS15MTVSb0R6ZkdJeS1XUnVPdkpoRUZKSHVlNVltMFVua0FkOXNOcmFhVURQUzFsbHltMEhlQU5oVjJSMmRmWjY0d19jck9VaWlxbWtPVUU3YVFwNjBFdERwa2J6QUJ3dUsxTC1CZTB3?oc=5",
+      "publishedAt": "2026-07-09T15:44:05.000Z",
+      "tone": 0.05
+    },
+    {
+      "id": "gnews-31-11hzf9p",
+      "title": "全球媒体关注：2026 世界杯最新动态汇总，情绪中性｜ESPN",
+      "source": "ESPN",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQRjVuUGhuZVI1MW1uOWN5dnVHVU1CNFVLWktVNkowNkR4NzdmeE94Y3Q5NXN5Z1NmbVN4Tmdfdld5d3RTNDN0eTZBWFBMd2hsZUdSV0tqdS1XR3dtYzJGR3FiSElhM0o0ZkFpM25hVkNiUUMycHVLUVVrVHkzTWlySnVGZHhMY0hXTFd6OVUxY1N6elRndjdpdVd0emxsZDJhMGRzQURlNUdndw?oc=5",
+      "publishedAt": "2026-07-09T23:35:53.000Z",
+      "tone": 0.05,
+      "teamId": "spain"
     },
     {
       "id": "gnews-32-1fv5mej",
@@ -9525,7 +9520,24 @@
       "teamId": "portugal"
     },
     {
-      "id": "gnews-33-oypr9z",
+      "id": "gnews-33-1g2tbd",
+      "title": "法国赛果与淘汰赛走势成为焦点，情绪中性｜Yahoo Sports",
+      "source": "Yahoo Sports",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPTFI5ejhFNDA1RFdoSGNialU3ZWpLSjdJcDhfTzZSVFV1T1hkZzRwTjFIa0dlVktGbzVrUVVaZnM3bHFENU9BTUc2ZEpYendjWXJndEx5ZXBFX3BJR1NHU1htOUtVUGZyNjhSTkFEXzByWS1udHEwdE1KanZzUC1jVTlwRnFOVDA?oc=5",
+      "publishedAt": "2026-07-09T22:12:54.000Z",
+      "tone": 0.05,
+      "teamId": "scotland"
+    },
+    {
+      "id": "gnews-34-1qqf14w",
+      "title": "全球媒体关注：2026 世界杯最新动态汇总，情绪中性｜Netflix",
+      "source": "Netflix",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQaEUwV0tESzFpcXdZZVZGdmNheWVuSXFka3VKcVdCS1NRX2JoOFJtUkgzWm9xTGNuWnRQTFhjWDd4NWFoQmtja0dKUkpJSEtQTnBRN0gyNVE5WkNLM3FNMDZDVXRmTWdVNmZrVVAzakZBMHBQMWZQaFgyR1BaZEZxbGtja1J4QQ?oc=5",
+      "publishedAt": "2026-07-07T07:00:00.000Z",
+      "tone": 0.05
+    },
+    {
+      "id": "gnews-35-oypr9z",
       "title": "全球媒体关注：2026 世界杯球迷声量和社交媒体讨论上升，情绪中性｜SWX Local Sports",
       "source": "SWX Local Sports",
       "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQYzk3NTA0YnBIem4wN1VFMXd5NnUxcmZWM3JodlhIRmVaUXVJdmhNQWRfQmNrRVlCOVhEb3dkSVdFbXNkSlgzckxoYUEwX0VZclo3eElIaUVOaWlEbE9KX0JILWRQdWZKc3VodGJJUUVCYmFERWhiRXptMGd0SHJKVEhUeWFzTEtuVFpFY0lzemVlaWNxR1pCUUhfZ2ZlMTJHcHN1MHRsNWY3c244eWdOblhVU3hUUmE3Q2tpMUVvbTAzZ25Pa293TWszd1ZVMEZDNGtUZEc5ZnJPa0FtSzNaWVJsbElTUQ?oc=5",
@@ -9534,130 +9546,43 @@
       "teamId": "scotland"
     },
     {
-      "id": "gnews-34-1mz0rnc",
+      "id": "gnews-36-1mz0rnc",
       "title": "法国最新动态汇总，情绪中性｜Parkinson's Europe",
       "source": "Parkinson's Europe",
       "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQVldMTHdQWmd6TWJtMEJSSDMtTFh5RllhbkRkSW1kYnZWcHNfREl4LXdoWW9MR1cxUjJaM3pQS2FiMWpVT2hJNWFROVhobDRGRU5VYkc5a1NpTGJVRmExMHR0VlJhaHFxNjhqUUstbmdlcEtQYldHVlJwUFVLanFvZEg4aHl5ZTc3ZFVRNF9CUUVTdw?oc=5",
       "publishedAt": "2026-07-09T21:03:17.000Z",
       "tone": 0.05,
-      "teamId": "paraguay"
+      "teamId": "france"
     },
     {
-      "id": "gnews-35-t2bdt2",
-      "title": "全球媒体关注：2026 世界杯最新动态汇总，情绪中性｜ESPN",
+      "id": "gnews-37-1sa9uld",
+      "title": "全球媒体关注：2026 世界杯赛果与淘汰赛走势成为焦点，情绪偏积极｜Yahoo Sports",
+      "source": "Yahoo Sports",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQMmpkLTZ1SFdISXZGRks3eTlobHVwd2lPMEZoMHNSV3Q3em1jZ3IzbWtiQkxsSWw2d3QzVmtxRjBTM1R1WWNlR2x5T01ydnAzd09DSi1WS2lKX3VZWVVoNmszaVdMNHN1V1Z2bVd2Nndhc1Q5eHJ6MDktZ1Y1VGw2cktaSkI?oc=5",
+      "publishedAt": "2026-07-09T22:01:58.000Z",
+      "tone": 0.35,
+      "teamId": "portugal"
+    },
+    {
+      "id": "gnews-38-1cmrirg",
+      "title": "英格兰最新动态汇总，情绪中性｜The Guardian",
+      "source": "The Guardian",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPMEdBR1dXYW9tQy1VaGFDZVpRbXlacVhNNW1KNUxmdmw1ZjRMcjVKREdhdEVZaU1TNERRYktMMjNKWDdXSTJveDI4b3djYkdZS2hNYU9JVEZCTE13LTMwVDdoRWVBWmFIVlRwc0tGYUtwUS1iZktxRWdxQmtuT0FpcWt6X28xb0xCb0tsbGN3?oc=5",
+      "publishedAt": "2026-07-08T20:13:00.000Z",
+      "tone": 0.05,
+      "teamId": "england"
+    },
+    {
+      "id": "gnews-39-yh0avs",
+      "title": "英格兰赛程与小组形势更新，情绪中性｜ESPN",
       "source": "ESPN",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPYnNlNjYxSVdKcnEtZmdaNE8tUDFtckwtbWtRdHdIbkE0NUM5UlFZYUplaHBVeTBzOUlJS3lJb0VSLU1ZMFpBWURMRHNlQjg5YTRKa1EwclhvR0ZxTXA5cDdWNkpIVGVVU0VTZHA0QnhpMGF4QXh5cHdzRF9TZkl6cHR3SWxLQl9TTE16dXNtR0VrNDQ?oc=5",
-      "publishedAt": "2026-07-09T19:31:19.000Z",
+      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQbHJfX2tEcE5wcWtqWE5FNzFJd3NGTHBES0tYRmZEN3NBN1V4ZTc2VkxkZHBueTIwcXVhSGJJRkt2dFRRZW9KakYzZ3doM1QxZ3M5UFRtQWJ0eEJXOXF6emJDRTdlY2gwc2hKSjZrMUVEXzBselViVktycjA0T2pIdHRTU29JV29WWDJtaWxNdHcwRnVrWmFVWXRrOUVaaUE3SnpCOTBMalpodG1nNG0zX0N0VlV0WTc4Y050a0JWN0RpbmlmNnpaNFc4amF1ZWJpSHpKVTdDYWVKY2RLeFpIblVvSGJTZw?oc=5",
+      "publishedAt": "2026-07-10T00:00:00.000Z",
       "tone": 0.05,
       "teamId": "spain"
     },
     {
-      "id": "gnews-36-sk1d11",
-      "title": "法国赛果与淘汰赛走势成为焦点，情绪中性｜FOX Sports",
-      "source": "FOX Sports",
-      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1TYnM2MHVTd0ZreTR6VHBNYWJUNUx1OFhVT1NtLTVfN2JvRDJJY2ZMMjR3SEVDdU9VQlFSVEFqMjZVbEd3YWk3MmlxV3RFcGotcTFHdkk0TlB0dTQwQ2pnMGJR?oc=5",
-      "publishedAt": "2026-07-09T22:02:33.000Z",
-      "tone": 0.05,
-      "teamId": "france"
-    },
-    {
-      "id": "gnews-37-2i582b",
-      "title": "全球媒体关注：2026 世界杯赛程与小组形势更新，情绪中性｜Radio Times",
-      "source": "Radio Times",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBVMkVNUjB4SGphWV9INzdsQUdLczJ3MmlXX3RGZEV3amZING14QTdSd3d2dXRoaXpwcHVlemhwQ2RDeWx2eWlaemZTNHZWSlBJTXdoTGh2MjZSQU1JNEJEU2JsU3QxUnZKS0FoLWJocXk?oc=5",
-      "publishedAt": "2026-07-09T19:07:34.000Z",
-      "tone": 0.05
-    },
-    {
-      "id": "gnews-38-1fcea56",
-      "title": "全球媒体关注：2026 世界杯赛程与小组形势更新，情绪中性｜Yahoo Sports",
-      "source": "Yahoo Sports",
-      "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxObDFHWnoyemZsUkRUeFBaRHhPb0RqNDJFa2xqQXY3cE12anlsaFJ6Z3ZOc05WTjg5cUNLaTJxelM0UXVPZG53a2x6Ti1teGVYTFlhM0UyQWYzX2M0c05XMFJIbElXRzAxVUtIMGREYmNjUURuWnk3V0NSTmZRX0kzZ0ZOb3RwUXBqYzVreEJCMFVzVDBWR0hYSmNvUWZiR2JJOERfMnoxb2ZaY0l2X2V2RVk2RXZWRkpEdkhDMS1EVlc2aVhiQTM4UEI1bkp0N1dNZlBPa0pzZ0VJVmxIeVEwLUszR0tYVFRmZGNiWkxGMmlhc3loN1NNa3F6TWxRZERs?oc=5",
-      "publishedAt": "2026-07-09T11:15:00.000Z",
-      "tone": 0.05,
-      "teamId": "portugal"
-    },
-    {
-      "id": "gnews-39-1jqfek4",
-      "title": "全球媒体关注：2026 世界杯赛程与小组形势更新，情绪中性｜ESPN",
-      "source": "ESPN",
-      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNazBRZDFsYjkyM1lXUGRBZzU2c3FfaHdOTWNtTUZGMWZhR1FCdDd1LTJ5U0VBN1FHbFZWRndrMzZVUTNGUFZqa3A5U3pLT1lreXNMZllmU2pPQUFFOGhCTEJoZHlnWFM3VU1xM0ZxNWJiZG4zMTA5OTZqQUlzUGp3Zm1tSXpWeGViTEFvdUVaaTgtcVdUTnZqX2F3eFdKWnNsTHBFRUl3OVVxTF91TE5udTZlNVF5UTFoU2hpdjJjSDdKZE5JNV9XNENMS290NWtu?oc=5",
-      "publishedAt": "2026-07-08T07:07:00.000Z",
-      "tone": 0.05,
-      "teamId": "turkey"
-    },
-    {
-      "id": "gnews-40-1fpd66g",
-      "title": "英格兰最新动态汇总，情绪偏积极｜The New York Times",
-      "source": "The New York Times",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOTklRemk4M2RCSzJjMjlFQU5sZzR5TnEwMGVqQTJCZldUcG9rV2ZhMy1RU0JQYXIxOFhCaDVXZ1N1TGdEUXJiSmFWMVpaN0t2Z3ljRzk2M3h3Z2FrdXgyS2VCTVpPQnR2VHRnc2JnS1FDTDgzRXl3VW5HRWVZaGtFS2R1RUJWdjR6aldPdWR6MHFqUQ?oc=5",
-      "publishedAt": "2026-07-09T20:42:00.000Z",
-      "tone": 0.05,
-      "teamId": "mexico"
-    },
-    {
-      "id": "gnews-41-1dap71r",
-      "title": "英格兰最新动态汇总，情绪中性｜The New York Times",
-      "source": "The New York Times",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNVzBWR3E1NTVia2JQN2NfLS1HeklWcjY4OFJtUmlWV2d2dzZnOU9wb2ZxLURIbEtNOVUtX1ZEcEpaY3p6MzVSZUQ0NGxlOGRHSlJjbGhhdld6X0xERE01QktwQnJEbUhBRGNUaGlzTjdrQ2Fldk1rZWl5Tmwwc1c1WVpYNUl5TDQ0TjJRWkhTcGdnNnlqYVltZThB?oc=5",
-      "publishedAt": "2026-07-09T22:41:03.000Z",
-      "tone": 0.05,
-      "teamId": "jordan"
-    },
-    {
-      "id": "gnews-42-ae8z55",
-      "title": "法国赛果与淘汰赛走势成为焦点，情绪中性｜FOX Sports",
-      "source": "FOX Sports",
-      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1zRW9YQmN5UjBWZFRSUmhuUUxDM21jZjJjeGxyM1h3anRMSEU0UVNrWjh2bDVHQWd1emh4MFh6OW83Z1ZQRWg2a29SSWxtN3M4UExHN2p3b0JTSm54UkdYTjBn?oc=5",
-      "publishedAt": "2026-07-09T21:47:27.000Z",
-      "tone": -0.35,
-      "teamId": "scotland"
-    },
-    {
-      "id": "gnews-43-jqb7v8",
-      "title": "全球媒体关注：2026 世界杯最新动态汇总，情绪中性｜The New York Times",
-      "source": "The New York Times",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOYXBjSl80d1BwLUJUeHV5MFVIZ0drUm1xdnJDeFJ4SzltYWlqU05oLTMtQS15MTVSb0R6ZkdJeS1XUnVPdkpoRUZKSHVlNVltMFVua0FkOXNOcmFhVURQUzFsbHltMEhlQU5oVjJSMmRmWjY0d19jck9VaWlxbWtPVUU3YVFwNjBFdERwa2J6QUJ3dUsxTC1CZTB3?oc=5",
-      "publishedAt": "2026-07-09T15:44:05.000Z",
-      "tone": 0.05
-    },
-    {
-      "id": "gnews-44-tg6zrm",
-      "title": "法国最新动态汇总，情绪中性｜facebook.com",
-      "source": "facebook.com",
-      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxObUpTenhwdU56cFQ0M09NYlRvSnYwNWtrWFVRR3JmZ1laNDJnZUdPeGxwSDFnTGtPWVNfRG5IUlF4SUt5RzJfa2xjTUd5ZWFzNEQ5aWVKR0szTjlyQ1ZRYm9mU3VWY19GR1hCM0pya3FrVlpYbHM5WGJPLUREYmlSdUhkMjFIN1BveEQ5YnFOcjNuSThoZlh6eXo5cTJsSnRjeENGVThBbnQ4bTA5ZkVnOHlYQlptbmxFakw2Mk5oQVF3Y3BEZW41czVleDFDX0ZBZk5qdHVBUFdCZw?oc=5",
-      "publishedAt": "2026-07-09T23:27:53.000Z",
-      "tone": 0.05,
-      "teamId": "france"
-    },
-    {
-      "id": "gnews-45-1qqf14w",
-      "title": "全球媒体关注：2026 世界杯最新动态汇总，情绪中性｜Netflix",
-      "source": "Netflix",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQaEUwV0tESzFpcXdZZVZGdmNheWVuSXFka3VKcVdCS1NRX2JoOFJtUkgzWm9xTGNuWnRQTFhjWDd4NWFoQmtja0dKUkpJSEtQTnBRN0gyNVE5WkNLM3FNMDZDVXRmTWdVNmZrVVAzakZBMHBQMWZQaFgyR1BaZEZxbGtja1J4QQ?oc=5",
-      "publishedAt": "2026-07-07T07:00:00.000Z",
-      "tone": 0.05
-    },
-    {
-      "id": "gnews-46-1nwxpzm",
-      "title": "阿根廷最新动态汇总，情绪偏积极｜FOX Sports",
-      "source": "FOX Sports",
-      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1mZHhGU0hWQmRpVVU0UUlEYmduSkxhVk94dGg5eEctenMzUjlHblB6TzBrLVBIUUwtZjk0UHJsVkVlVk5jUkpmSWlHTEtjWXV3T3EwR0IwT3dxSTVFYmtkclotWURpQXpOVVNvdnJRcllpNEFqbTMzONIBeEFVX3lxTE40aldNZG1OMF8tZU4tVURfWkFsSUhPTFJBVjlxUnFYSDIwaEdZbGV0ZDVMZXBFV0tzQ0tDVXZEbngyYW5vM0JSU2RLX2pLNk1TZjd5bVFIR3JBQjhWc2l1clFNMTRYYWxLR3dheWNtT1lQaXhoTk40OA?oc=5",
-      "publishedAt": "2026-07-08T15:29:00.000Z",
-      "tone": 0.35,
-      "teamId": "argentina"
-    },
-    {
-      "id": "gnews-47-gb675u",
-      "title": "法国赛果与淘汰赛走势成为焦点，情绪中性｜The Guardian",
-      "source": "The Guardian",
-      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPNXhVeHdCZUthTUVtU1JtTkUtcFREcS10NFNPUFU1QTNsT1lQV1pBWVFNSlJQandqeUItMHU1cExXNDdIMXNwLUdOUVNERmgtam5aYzZnSm9QdWdFRWVHU1JWMUlDcUxYTlFXVDJ3c1pVU3QwcTR1Q0UxNnA5NE1DcU95NXRwOVBmY1pnQ1RacUhwVGxPRWQzc1dQbUtfczdaWEx4b0tHOUpNelBoRXNZSS1YQllmXzRvdGJoX1JFTHdicUVxcjRNdXhNV21OWmJGTGg3YmFhSkc?oc=5",
-      "publishedAt": "2026-07-09T13:11:00.000Z",
-      "tone": 0.05,
-      "teamId": "france"
-    },
-    {
-      "id": "gnews-48-qzv2tq",
+      "id": "gnews-40-qzv2tq",
       "title": "全球媒体关注：2026 世界杯赛程与小组形势更新，情绪中性｜FOX Sports",
       "source": "FOX Sports",
       "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPUlhCRDBmdnpWd29JZFhvczVZWWt0LVE4aFNQS1prQ2FIVE9LYXB2T1MwRXJQb1RaLWxKem91ZmN4NVExUnF5Ukg2TnM3dDRVVUZQSDAzdDBoZTlQSzNXWWVPNVBJOWh3UG1PeXJlN2FTX3pTVGg0VlFaYWh1LTBfLW84dTA2WmtxVExnN240blJ5NHpY0gGUAUFVX3lxTE1nNkRvWlc5U1RFOTJXTUdaWHdwcmlfdUtFT0o0ZGJPS2Yzd2l4ME9sclJpZlhZQ3NSTFZiVFNvQnJKTFF1aXI3Q2VpVHVzVndRTU56Z3M0MW9PR2cyTnJUZjlvTFhwX3VvSzN0RUdYZG13Z1oxYmZlMzlMZFdYT1lvbG5mWGFiRjYyZ1ZTaWZEbGk1WGs?oc=5",
@@ -9666,13 +9591,84 @@
       "teamId": "brazil"
     },
     {
-      "id": "gnews-49-1w1mg0k",
-      "title": "美国最新动态汇总，情绪中性｜olympics.com",
+      "id": "gnews-41-83eyta",
+      "title": "全球媒体关注：2026 世界杯最新动态汇总，情绪中性｜FOX Sports",
+      "source": "FOX Sports",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1CeTVDLWZ1d1FsSnZaci1lUFVDdmRUaHpLVFhEcXJGd09IWk1hQk5XSUlTVTFzYnBORzNGeUtocWwwbzU2WTU1REkzcTFxVzB5dG5CSld4MEduQlktWUJHdG5B?oc=5",
+      "publishedAt": "2026-07-09T22:40:21.000Z",
+      "tone": 0.05,
+      "teamId": "portugal"
+    },
+    {
+      "id": "gnews-42-1t2kmhy",
+      "title": "全球媒体关注：2026 世界杯赛果与淘汰赛走势成为焦点，情绪中性｜The New York Times",
+      "source": "The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQWkVkYnhDVFZxRTM0bzJnLXkwRjJkTDRmTDJZcGctU19ISXRqckxMU3NybjZTRXFfM1NpcW9QNlpjRnVjbTIwYkRUX2JLcXh5cks5OFNlZkxSYjI3bkEtZzMyQ1NmOVRVazhfaVNrZ1E2RUdMdFlLa2dLWWtqbTlwWVNmbkxJdmxweXB2cFlwZ1dQcWRNTjJHMUdJUlpzakk?oc=5",
+      "publishedAt": "2026-07-10T01:58:05.000Z",
+      "tone": 0.05
+    },
+    {
+      "id": "gnews-43-1fcea56",
+      "title": "全球媒体关注：2026 世界杯赛程与小组形势更新，情绪中性｜Yahoo Sports",
+      "source": "Yahoo Sports",
+      "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxObDFHWnoyemZsUkRUeFBaRHhPb0RqNDJFa2xqQXY3cE12anlsaFJ6Z3ZOc05WTjg5cUNLaTJxelM0UXVPZG53a2x6Ti1teGVYTFlhM0UyQWYzX2M0c05XMFJIbElXRzAxVUtIMGREYmNjUURuWnk3V0NSTmZRX0kzZ0ZOb3RwUXBqYzVreEJCMFVzVDBWR0hYSmNvUWZiR2JJOERfMnoxb2ZaY0l2X2V2RVk2RXZWRkpEdkhDMS1EVlc2aVhiQTM4UEI1bkp0N1dNZlBPa0pzZ0VJVmxIeVEwLUszR0tYVFRmZGNiWkxGMmlhc3loN1NNa3F6TWxRZERs?oc=5",
+      "publishedAt": "2026-07-09T11:15:00.000Z",
+      "tone": 0.05,
+      "teamId": "portugal"
+    },
+    {
+      "id": "gnews-44-1fpd66g",
+      "title": "英格兰最新动态汇总，情绪偏积极｜The New York Times",
+      "source": "The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOTklRemk4M2RCSzJjMjlFQU5sZzR5TnEwMGVqQTJCZldUcG9rV2ZhMy1RU0JQYXIxOFhCaDVXZ1N1TGdEUXJiSmFWMVpaN0t2Z3ljRzk2M3h3Z2FrdXgyS2VCTVpPQnR2VHRnc2JnS1FDTDgzRXl3VW5HRWVZaGtFS2R1RUJWdjR6aldPdWR6MHFqUQ?oc=5",
+      "publishedAt": "2026-07-09T20:42:00.000Z",
+      "tone": 0.05,
+      "teamId": "england"
+    },
+    {
+      "id": "gnews-45-1huapo3",
+      "title": "英格兰最新动态汇总，情绪中性｜olympics.com",
       "source": "olympics.com",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOWnZpdnUyQVdnUFVTOHgteUNKdFYxaFBqTHVsd09YRUU4Y0g4NGdwYlR6YVluMnNWeXJXUHQwQUJ6ajRKN2k3SDIxREFlU0xGYWM5STBXMjlyQjZoSVdjRVFpWFJsSTFMYUlTRXlGcHRPVHRiaWhIc0VxVEE2OWoxWGRnd3dtSEdRRURJbllCcXQwaDZDdUdGYjVOa1N3OXdubEJBYXFWVlE2X3BEeldFT0N2aUMtWm8?oc=5",
-      "publishedAt": "2026-07-07T07:26:00.000Z",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQSjEyeWNWSHUyZ2lhVDBfMW9fd3NjMUYzdGo1RTMwZDZNaDhsaE54VlotR1Fsa2RFVXltdEpqcEE5MWtUTkdUNmZWUkpoUkxMcV9wWklnR2FCbU1jampGVlhCaC12bmphUF9jYTZMT3ozTUtmV1ZSeXF3cDROUHNlZlctM0hENWlOWmgwVF9xTXVZSmZYcE9UTGw2NkFjT1hnekVhSmk4UTN6TzA?oc=5",
+      "publishedAt": "2026-07-07T08:23:00.000Z",
       "tone": 0.05,
       "teamId": "scotland"
+    },
+    {
+      "id": "gnews-46-17gid9z",
+      "title": "全球媒体关注：2026 世界杯赛程与小组形势更新，情绪中性｜Yahoo Sports",
+      "source": "Yahoo Sports",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQMC1jS2FJZEZQXzU5U0VMREUyN0VhSmhfZFpHeDMxUWJiZWxYdEFqN2FFckdQYnNLMVAzVnlxZS05ckREbWppQWhpallDUzdaZ2VrTkFoMVZ4X2xvVi1pOXd3VVdaME41LTJuUVZPUzBwM3NzRUVpV0UwWjB5YkdjQlQwT2NpQ0Zma1Jtbg?oc=5",
+      "publishedAt": "2026-07-09T18:43:20.000Z",
+      "tone": 0.05,
+      "teamId": "portugal"
+    },
+    {
+      "id": "gnews-47-1gq7e7n",
+      "title": "英格兰最新动态汇总，情绪中性｜FOX Sports",
+      "source": "FOX Sports",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQTGotTUVfU1draHphUDdBaklXcDZoN18yT1VuNEJnUUZZQXYxZm5NQkw4QldFelhpdDNuTElGV1NvUzN3M0lNOXpnZEVBZFFNTThKYTVOa0UtOEFDSHNmSWt1enU1c1NEaDVDc2tBa0RVV3paSG8zTXI5djVUX2d0cnBvdUpSNG0wU2RLV0tveDl1MmJO0gGUAUFVX3lxTFBzcUotb2xKTUVyblBxcDBDWTFMRC1tYnFQV0hkdHVyVWVhaEpGT2gzTURPdVVtY1lEU1JzNWlFb1hmNW5KN2p1blNmYloyclNVQ0wtWG5RSVBEV2hfdW9hVUd2TVZBRkl0bURySkowS2hzaGl2U25jQVpQRldJNWZoOXV5M0RuckxfVVhJYXpleUwxZWQ?oc=5",
+      "publishedAt": "2026-07-10T01:55:38.000Z",
+      "tone": 0.05,
+      "teamId": "portugal"
+    },
+    {
+      "id": "gnews-48-zyazyp",
+      "title": "阿根廷赛程与小组形势更新，情绪中性｜The New York Times",
+      "source": "The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQd2tUOFkxa3VnaDdKNll6TVZoeFlHNWpDcHFXaFYtRHJ5cnJiczFDaHJFclFkNkxsSWVaMVdzQWQ5MWJwRmZMdFJUQWd1UWl3LW1IeE1LTXBqekxSMG4yaGhhcDdYUmhybS1RQ3dxM0o2ajVCdDVQWUY0OXloSjJ0bkd3em0ycjhfakE?oc=5",
+      "publishedAt": "2026-07-08T15:48:07.000Z",
+      "tone": 0.05,
+      "teamId": "egypt"
+    },
+    {
+      "id": "gnews-49-19bye6x",
+      "title": "全球媒体关注：2026 世界杯最新动态汇总，情绪中性｜The Guardian",
+      "source": "The Guardian",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQa2ZrbVJwSmh0RlZBdWM4em4xdTFYVk4za0V1LXdVUGhwUkFRSjI1bFN5NnRlOTJfWTN6RDFyVk5wT3RDRUYwa21DMzNyUG52QjV6YndOTHFJYmdGdk1SN2ZRSjF5V0laR3k5ZnRhR2YzeHhPaUYzeWlsa3lDVHNoakxfYzJPLVZYSF96MWU1U0w0YllEd251U1VORV83cUVxMnRXbkh6bGpYMDZyQnRF?oc=5",
+      "publishedAt": "2026-07-10T01:30:00.000Z",
+      "tone": 0.05,
+      "teamId": "turkey"
     }
   ]
 }
