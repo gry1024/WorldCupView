@@ -1,5 +1,5 @@
 import { describe, expect, it } from "vitest";
-import { createWallet, placeBet, settleBet } from "./betting";
+import { createWallet, placeBet, settleBet, settleOpenBets } from "./betting";
 import type { Match } from "./types";
 
 const finishedMatch: Match = {
@@ -65,5 +65,23 @@ describe("simulated betting", () => {
 
     expect(settledAgain.bets[1]).toMatchObject({ status: "lost", payout: 0 });
     expect(settledAgain.balance).toBe(1025);
+  });
+
+  it("settleOpenBets resolves every open bet whose match has finished and leaves others untouched", () => {
+    const wallet = createWallet("visitor-5");
+    const upcoming: Match = { ...finishedMatch, status: "upcoming", homeScore: undefined, awayScore: undefined };
+    const stillUpcoming: Match = { ...finishedMatch, id: "later", status: "upcoming" };
+
+    const placedHome = placeBet(wallet, upcoming, "home", 100);
+    const placedAway = placeBet(placedHome.wallet, stillUpcoming, "away", 80);
+
+    const settled = settleOpenBets(placedAway.wallet, [finishedMatch, stillUpcoming]);
+
+    const homeBet = settled.bets.find((bet) => bet.matchId === "final-test");
+    const laterBet = settled.bets.find((bet) => bet.matchId === "later");
+
+    expect(homeBet).toMatchObject({ status: "won", payout: 225 });
+    expect(laterBet).toMatchObject({ status: "open" });
+    expect(settled.balance).toBe(1045);
   });
 });

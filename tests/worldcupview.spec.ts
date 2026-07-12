@@ -90,6 +90,32 @@ test("visitors can inspect teams and place a simulated bet", async ({ page }) =>
   await expect(historyRows).toHaveCount(initialHistoryCount + 1);
 });
 
+
+
+test("players, matches, and pulse panels expose real selectable detail states", async ({ page }) => {
+  await page.goto("/");
+
+  await switchToSection(page, 3);
+  const leaderName = page.locator(".player-leader h2");
+  const secondScorer = page.locator(".scorer-row").nth(1);
+  const secondName = await secondScorer.locator("strong").innerText();
+  await secondScorer.click();
+  await expect(secondScorer).toHaveAttribute("aria-pressed", "true");
+  await expect(leaderName).toHaveText(secondName);
+
+  await switchToSection(page, 2);
+  const secondMatch = page.locator(".match-card").nth(1);
+  await secondMatch.click();
+  await expect(secondMatch).toHaveAttribute("aria-pressed", "true");
+  await expect(page.locator(".match-detail-card")).toContainText("比赛详报");
+
+  await switchToSection(page, 5);
+  const secondSignal = page.locator(".support-cell").nth(1);
+  await secondSignal.click();
+  await expect(secondSignal).toHaveAttribute("aria-pressed", "true");
+  await expect(page.locator(".pulse-detail")).toContainText("社媒情绪详情");
+});
+
 test("players section renders real non-cartoon player photos", async ({ page }) => {
   await page.goto("/");
 

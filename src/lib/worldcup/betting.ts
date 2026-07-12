@@ -73,6 +73,21 @@ export function settleBet(wallet: Wallet, betId: string, match: Match): Wallet {
   };
 }
 
+export function settleOpenBets(wallet: Wallet, matches: Match[]): Wallet {
+  const matchById = new Map(matches.map((match) => [match.id, match]));
+  let next = wallet;
+
+  for (const bet of wallet.bets) {
+    if (bet.status !== "open") continue;
+    const match = matchById.get(bet.matchId);
+    if (match && match.status === "finished") {
+      next = settleBet(next, bet.id, match);
+    }
+  }
+
+  return next;
+}
+
 export function getMatchResult(match: Match): Pick {
   if (match.homeScore === undefined || match.awayScore === undefined) {
     throw new Error("比赛没有比分");
