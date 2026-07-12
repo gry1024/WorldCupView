@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-12T17:41:37.681Z",
+  "updatedAt": "2026-07-12T19:19:57.725Z",
   "sources": [
     "https://worldcup26.ir/get/teams",
     "https://worldcup26.ir/get/games",
@@ -9707,7 +9707,15 @@
       "teamId": "turkey"
     },
     {
-      "id": "gdelt-39-13rpvvz",
+      "id": "gdelt-39-jicyme",
+      "title": "全球媒体关注：2026 世界杯最新动态汇总，情绪中性｜sbs.com.au",
+      "source": "sbs.com.au",
+      "url": "https://www.sbs.com.au/language/nepali/en/podcast-episode/nep-worldcup2026-p2-100726/3fzxhitmd",
+      "publishedAt": "2026-07-12T10:30:00.000Z",
+      "tone": 0
+    },
+    {
+      "id": "gdelt-40-13rpvvz",
       "title": "全球媒体关注：2026 世界杯最新动态汇总，情绪中性｜barcablaugranes.com",
       "source": "barcablaugranes.com",
       "url": "https://www.barcablaugranes.com/fc-barcelona-transfer-rumors-news/125671/mikel-oyarzabal-plays-down-barcelona-talk-again-happy-at-real-sociedad",
@@ -9715,7 +9723,7 @@
       "tone": 0
     },
     {
-      "id": "gdelt-40-8rpcgr",
+      "id": "gdelt-41-8rpcgr",
       "title": "卡塔尔最新动态汇总，情绪中性｜qatar-tribune.com",
       "source": "qatar-tribune.com",
       "url": "https://www.qatar-tribune.com/article/231572/latest-news/fifa-and-loc-announce-tournament-dates-for-fifa-u-17-world-cup-qatar-2026",
@@ -9724,21 +9732,13 @@
       "teamId": "qatar"
     },
     {
-      "id": "gdelt-41-nzse2j",
+      "id": "gdelt-42-nzse2j",
       "title": "全球媒体关注：2026 世界杯最新动态汇总，情绪中性｜manchestereveningnews.co.uk",
       "source": "manchestereveningnews.co.uk",
       "url": "https://www.manchestereveningnews.co.uk/news/nostalgia/nostalgic-panini-stickers-return-world-34052790",
       "publishedAt": "2026-06-06T11:15:00.000Z",
       "tone": 0,
       "teamId": "turkey"
-    },
-    {
-      "id": "gdelt-42-jicyme",
-      "title": "全球媒体关注：2026 世界杯最新动态汇总，情绪中性｜sbs.com.au",
-      "source": "sbs.com.au",
-      "url": "https://www.sbs.com.au/language/nepali/en/podcast-episode/nep-worldcup2026-p2-100726/3fzxhitmd",
-      "publishedAt": "2026-07-12T10:30:00.000Z",
-      "tone": 0
     },
     {
       "id": "gdelt-43-10noaz8",
