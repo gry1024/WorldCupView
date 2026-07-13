@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-13T04:39:19.060Z",
+  "updatedAt": "2026-07-13T08:25:54.860Z",
   "sources": [
     "https://worldcup26.ir/get/teams",
     "https://worldcup26.ir/get/games",
@@ -8990,17 +8990,17 @@
     {
       "teamId": "brazil",
       "supportPercent": 82,
-      "sentiment": 0,
-      "volume": 102000,
-      "headline": "全球媒体关注：2026 世界杯赛果与淘汰赛走势成为焦点，情绪偏积极｜The New York Times",
-      "source": "The New York Times",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQZUZ6MzBaS1FqU3hIbHRlWDFvaFBOMl93ODZreVBjVGR6NDFHZ1VqcF9DUEF3dW1ZYlhab21jaU5Ra1A5LWZod0dicEU0Q1ZMS2hIbzZFS3pIb21iYmVOWTF2ZFNKUHhFSkJMVTdodEhNYmk5Zk04VnBBUWttRmVEVnl1TVdGYjF3S1NuVndIYUpkdkp5R04zaQ?oc=5"
+      "sentiment": -0.35,
+      "volume": 78000,
+      "headline": "全球媒体关注：2026 世界杯赛程与小组形势更新，情绪中性｜Sky Sports",
+      "source": "Sky Sports",
+      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPNW95ejZPUE9nVVJnQS1wZzNfUURsMWhILVp4QlVQUm9WWV9QWnIxa0R2RzB2eThsb2pHbFZhY2dRSEJaRC1wTG1OVzN5Y21zM3NYcjJsQndBZ0F3MHJOQXJIb0xGemppM0YwV2Q3R3FWRFJHakNGLUZpejQ0dFRQSHI5S1lOdS0zOUd6NWpOcTBlZGJscDBnci1uak1nTnNsanFxdTJjNXgteTNUcUZMTm96NXM2Wk5ZZGNmVTN3dGFXMlpXRmVUTmp6RTVVb25HQ0JaSFZYc0Rfa01vY0VrNk5Ebw?oc=5"
     },
     {
       "teamId": "scotland",
       "supportPercent": 45,
       "sentiment": 0.03,
-      "volume": 129600,
+      "volume": 153600,
       "headline": "全球媒体关注：2026 世界杯赛程与小组形势更新，情绪中性｜Sofascore",
       "source": "Sofascore",
       "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1zX3ZYSnh4TzY4MTFOV0FjYkwwVnM1RmNPSVBmdXRkVG9HNVAzd2lTakxKVFpGSEo3ZTRDMlBzeTlid2Npd1MybmI2VlNiTXlJT0JGQk9HemxXeTZGT1AzdEZEeEgydkozZnRTdDhHSXYzUDgzNjN5NEppd25oQQ?oc=5"
@@ -9010,9 +9010,9 @@
       "supportPercent": 42,
       "sentiment": -0.03,
       "volume": 124800,
-      "headline": "全球媒体关注：2026 世界杯赛程与小组形势更新，情绪中性｜Yahoo Sports",
-      "source": "Yahoo Sports",
-      "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxQUnpNX2UwQWc1VTJoQUFDT0FDUGs2NWs0TUc1SW9FY1dROVBLSjZYY2R1TmQzV1AwUzAtdUpEejRaUDBsVThKLW1TWDlzYTBpWl9NVGxYWGdEY3ViUnE1dE1zNW9kUHRPN2FqazN2d3pXMm9fMUNkaFh0MTlzYy1mMWxZSTljb0h6YU50cU01MndyV0tLMnBIOUlBSDBNN0lXamdXTW16UGVRTXc1OGFRb1prMDZNcFoxVVdpdjFUYnBiQmU4b19Td2FCWlRjUnZtTDRzMm81c3BmQW0waGxOa2NVRmhyZU1VV2ZVZ2Z4THlsNVlzY2c?oc=5"
+      "headline": "英格兰赛程与小组形势更新，情绪中性｜Sky Sports",
+      "source": "Sky Sports",
+      "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxPcEFNY2kxUUI0aVFkNVEzNVJEZ240LXhWTk1XWkhXcXpLWDFYTVZkQ1pZSnFfYm8xcmVULXNvRG5ubC1KMXVoR2puNHExUW5VRkZjQURnckdodHdqVmhHVnM5WVNaNVR1M01MSjg1TGlIQ3NwNHp4YzNiazdfNnFLMGFIbHZZTlhjMjdicWNwR1BkTm5vNjZ2TnZvQWhCZThfRVU5THJ1cVZCcENsUDQyU3lEbExmNldmMVluRVRyazJkc1I1XzhaZG12NS0tU3I1Rl9hRzFfREFCZlhNRDJKZG1JYVdVRmx2bGhPUWhXWUdac1pnY1ctdnRR?oc=5"
     },
     {
       "teamId": "ivory-coast",
@@ -9043,27 +9043,27 @@
       "teamId": "france",
       "supportPercent": 78,
       "sentiment": 0.05,
-      "volume": 104400,
-      "headline": "法国赛果与淘汰赛走势成为焦点，情绪中性｜NDTV Sports",
-      "source": "NDTV Sports",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOb2hISVQyTk9KX25ScVI1cVBBZ0JwaDVrU3pUbzdVdkE5dGNFQU1XT0IteHZCQ1E1LTh3YTNYby1JcGhFOElhQXNHc0M0aVZxeDRuX19ySUNTS3BfUG42WnNfamdiU1huR05ialVoRkpWVjFTR05vOHN2WG1kQXdqdnh1WXNvTTVLTjdqVHJkbTlnV3docFg5NHpHSlZhaVdnU3BsNVRJakZfZ0F0V1VjQjBxWEo5MTA?oc=5"
+      "volume": 80400,
+      "headline": "法国阵容与伤病动态值得关注，情绪中性｜Sports Mole",
+      "source": "Sports Mole",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQaEdOZVFieUVWTXQ1WXFwRDJSV216Mms5ME56V1dtZUdsV2Y0MmZPeGZSSFotYmhEMk9DUElKSjVoVmlxeWZyYnJvUVk2R3B0YVFHUUtOU3I3bnpZb1BocVY2eFBwTUxBczZrdkVLSUZrMGpOUXozNVVxaUFRYmJxN0dwbkJBVVczNmV6RVZrdXNMYUVMSUo0YjRWd2dod2dFb0VfeUtDOXh2UmY4eTBweHVtX0R2V0VvWXlRcFpCSklGdw?oc=5"
     },
     {
       "teamId": "tunisia",
-      "supportPercent": 36,
-      "sentiment": -0.04,
-      "volume": 9000,
-      "headline": "突尼斯 的全球讨论热度稳定",
-      "source": "WorldCupView model"
+      "supportPercent": 40,
+      "sentiment": 0.35,
+      "volume": 24000,
+      "headline": "全球媒体关注：2026 世界杯最新动态汇总，情绪中性｜Fox Sports",
+      "source": "Fox Sports",
+      "url": "https://news.google.com/rss/articles/CBMitAJBVV95cUxPQzBJdGNBV3ZfSVB1RTJBZl9EYUl6aWg4UHZRSmhwWmNmd19NT0tIVnBWX0dlNkNULUIyeWdCa3ZqdnFtbkZ1QkVoNi01WEF2T0l3M2liTHFFakNCclZKcHppdVpYYkpueFpUb0VDZ0p6UnBDMzUydC0zQWxPSFhjRXJTUVZFMXdRbTRTaF9OWXpuRzlBY3JpX1U3T2pDS3lQSVgtNVcwS3R1QXJPbEhRbTJ0SUpGN0RfYV9KNGJDMXhQZUdNT3NBVHQwUml6OE1aODJCajFfMVg1V3Bxby0tMTF5b09RQU1VY2xOT0l1bEh5dGwwTnQxcjM1UVNxSThZMlFESk45bDF0RkJGQWdkZ2tIMnYwVXhwX21mR0FSZUhtOXM0clZRWHdaQjlHOThlTmx0R9IBtAJBVV95cUxPQzBJdGNBV3ZfSVB1RTJBZl9EYUl6aWg4UHZRSmhwWmNmd19NT0tIVnBWX0dlNkNULUIyeWdCa3ZqdnFtbkZ1QkVoNi01WEF2T0l3M2liTHFFakNCclZKcHppdVpYYkpueFpUb0VDZ0p6UnBDMzUydC0zQWxPSFhjRXJTUVZFMXdRbTRTaF9OWXpuRzlBY3JpX1U3T2pDS3lQSVgtNVcwS3R1QXJPbEhRbTJ0SUpGN0RfYV9KNGJDMXhQZUdNT3NBVHQwUml6OE1aODJCajFfMVg1V3Bxby0tMTF5b09RQU1VY2xOT0l1bEh5dGwwTnQxcjM1UVNxSThZMlFESk45bDF0RkJGQWdkZ2tIMnYwVXhwX21mR0FSZUhtOXM0clZRWHdaQjlHOThlTmx0Rw?oc=5"
     },
     {
       "teamId": "egypt",
-      "supportPercent": 35,
-      "sentiment": 0.05,
-      "volume": 24000,
-      "headline": "阿根廷最新动态汇总，情绪中性｜NDTV Sports",
-      "source": "NDTV Sports",
-      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPNlpEbUdpeWE4RURMRVNIN1ZYR0lmcE1ZS0Vlc1NXZ1RjVEZ0TUJlRWlULWp3cWFhUDlJclUtdnA4a0FOZzh5Q1NkRXVXR2hpQ2JXc2lVdGpLX0RPVXp6ZEZYZXFVNDBHOUl5b3NfVlhmdXZWM2ZYNXZCV3N5akJ2dlNHaWFDNVdZVGowMEpwQm9FVkZzT3ZmeUIwcF96RFozVEhvVktlQ3Z2WTFhb0labm9KUUV1SHFFbE4wZVA3R2dyWEZsbU1oelB4S212X1E1NGEtemEzb1RQVjI2OUF3?oc=5"
+      "supportPercent": 34,
+      "sentiment": -0.06,
+      "volume": 8000,
+      "headline": "埃及 的全球讨论热度稳定",
+      "source": "WorldCupView model"
     },
     {
       "teamId": "iraq",
@@ -9076,11 +9076,11 @@
     {
       "teamId": "portugal",
       "supportPercent": 70,
-      "sentiment": 0.03,
-      "volume": 196800,
-      "headline": "阿根廷最新动态汇总，情绪中性｜NDTV Sports",
-      "source": "NDTV Sports",
-      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQbWgzMjBlcEFqWTduNV92Ui1wOWdOdTZfR3pldExlWVZ0RFZDcWw0Y1lseEVjNnlUV3k1QThDeTY4TlM2OTBmWjZIT2JkNUgwSEl2aC1HTEE4V1hJczVodGhGb1lwYmtUcmRmUHRNdUhFVDJVSGRyQVpYZVhVcnQxam9NOTJ3Y2kwMEtsNXlZR1ZzQ2lydGZYX0xZdktURDFWV2xYZ05RNEliQ25pOXlJalRIMEx1T0U4eGxDZkVfeEE5LUx0V29zQzdn?oc=5"
+      "sentiment": 0.04,
+      "volume": 220800,
+      "headline": "英格兰最新动态汇总，情绪中性｜Sky Sports",
+      "source": "Sky Sports",
+      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQUWNWV3ZBek9qU0dudlRISVlwRXpMNjRlcU5idjdQTXZWZ1BRX3YwUE5xQXp6WTZxcko5Z2t6SnNzT205aVFuSjl6ZWJ2Znc5RkFmZEJ4enB2ZnJFQWdCdDNMTkkxeEZLVDlRNExDbDFnWlJPZjVuRmJwU2tMYk0tQzlPamloLThBZWpyRkdjS29CbFhwY29oNUJNWDB2bDNIM2U1Y2ZwWTVpelJicUtYQzIxSVN3bUpJVV9TU0JhZUtYMWYyRXNXTktVbWw1ZUNBVkdWei1fSVJORkE?oc=5"
     },
     {
       "teamId": "uzbekistan",
@@ -9140,12 +9140,11 @@
     },
     {
       "teamId": "ghana",
-      "supportPercent": 21,
-      "sentiment": 0.05,
-      "volume": 24000,
-      "headline": "全球媒体关注：2026 世界杯最新动态汇总，情绪偏积极｜espn.in",
-      "source": "espn.in",
-      "url": "https://news.google.com/rss/articles/CBMihAJBVV95cUxOYUwtQ1l0d3hfRmtSc1BMcnhKWG9GTU9KNXZDdWZMQ3R6M2FqWmZXb2h0TkNDRHdzQlJFQTdmNG8zdnFQSXJMdEVYTzJHZVZyUGttQUI3VkF5Z08zdnR3QkdrUGZNeHVERnNpV3dyTUl1cnJydGUtOG9rMS04RGRkMndReWJXYkwyNVB0Q25KMFRFcGtYWk1OOWtzQ0N0WjBuTUZmTzVjMHREOEtBamRlckYzWmV1UU9uenpQUUZ2ejBKcEZjT3NDemxNYmVsTW5rQTZZSjlUNHRfOW1DU2Y5MElEajY2WkR0ODJjMi1HMzAyOHlJT1VWcGFDSDB0NEU0Z094Ug?oc=5"
+      "supportPercent": 17,
+      "sentiment": -0.27,
+      "volume": 8000,
+      "headline": "加纳 的全球讨论热度稳定",
+      "source": "WorldCupView model"
     },
     {
       "teamId": "south-korea",
@@ -9169,15 +9168,15 @@
       "supportPercent": 61,
       "sentiment": 0.05,
       "volume": 133200,
-      "headline": "阿根廷赛果与淘汰赛走势成为焦点，情绪中性｜Al Jazeera",
-      "source": "Al Jazeera",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1aY1lwQ1YtbUhBYWZtLWhjc3AtU0ZFMXZ4QlpsZ2h6RHNFMG13eGRVZnNqaC1TV2xpZExvSjBobGRrOXRXakhxamZMS2NZRktadWN4UGZVcHpMS0hVV3lSbU1yenlyRDBlVHduM0M1SHBlWTlGUmNnNC0tLWowd9IBgwFBVV95cUxPUUhxU3c2VThHblJ3STZWcDBlUmNIQlE0aUxUVjNKYVNCdlo1Y3RhekVLU1JsU1JYdlpyZHhnXzNKX2xITGFoazN6VmY5dWptY0cxYktFSXBDUHFWUTJ2RVpFR09TT1pUb29OMkhYN2V0SE9oejgyT29zTEhCSlN3VjJGVQ?oc=5"
+      "headline": "英格兰商业、出行与观赛服务升温，情绪中性｜Business and Investment Development Agency - CzechInvest",
+      "source": "Business and Investment Development Agency - CzechInvest",
+      "url": "https://news.google.com/rss/articles/CBMimgNBVV95cUxNazNHTFB0aEVhZFB4bGV0VXJoQVZqcVpJRVFLQ3VDVDQ4SlJsUWJ0LXN3SG5YQm1idFpIdTlycWNKcEc4eDh1Q3NyQlhTNjBUTDE4UDV3XzBKQ0FDM21lNWFoTHJzQjFJNmNkSGFkdVFid0xHSG9lZzFFOFkyT3JKbU1jUTZkelJGbVBraXM0andYdjlaaHl5eU9KTU9TOUR0bzZWYWt4MFFJV2NRVzR6Sm45UjJicHdvT0FieE9xR0VSM0FEa0NDQU1QclZaVWJIZVktcXFVX0kwQU5rd01BcEdJcHNORTZ5R0xhejZNU3BUTXJBRFZ0aHZleTdsUmVTbkRVSnE3Y00yVDYxS1pTTkxtd2RxVkRYWTNETzZteU5yYlliWGsyOXBpU1M4Tk94REFSSkNQTzlGNENVQjRVaWd2SDJfNHgxV2FRdVg5ZENQakw5bkROZ0FiVXU0ZkdGZWstZFd4LUVrSWZCWjBscEItazYtaDUwdTBUbngyb2FaZ2RrUDRoTmlNbzRPbzVTVWxma19HR0htZw?oc=5"
     },
     {
       "teamId": "argentina",
       "supportPercent": 82,
       "sentiment": 0.05,
-      "volume": 202800,
+      "volume": 154800,
       "headline": "阿根廷赛果与淘汰赛走势成为焦点，情绪中性｜The New York Times",
       "source": "The New York Times",
       "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxORWEydlZLbHFkaGRsMXdQZXpiZ0FoSXNhVGs4NlNnekg2WUE0RzNtb3ZhSS0xenJCLTZkZVRnYnRZbnh6V19hM0hRVkRmVm5yRmJYb0d5WXZISE9LN2MxbHBlczljaWNFWWV1QUd5aUNOLXB5a3lKSmJXUmpEenlaa2xXcndRaUdoNFl3?oc=5"
@@ -9194,10 +9193,10 @@
       "teamId": "england",
       "supportPercent": 75,
       "sentiment": 0.05,
-      "volume": 79200,
-      "headline": "英格兰最新动态汇总，情绪中性｜Reuters",
-      "source": "Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPVlFOZVk0OEw0Tl92ODItRlZFQlREc1MtdEFCLW1wLWFYNEZXODBuanNuVklwR00wbV9mQTZuc1RsNjl1UHZubXBUNDFKU1NuSmtTR2F6dGFyWGRJVUF4b0FVTGFpWllvWUJuc1J1dEkwVXQ3UzhYSElkSGM4MXZycHJIbTQ0OURZTmE0ZEJFRmVXRE5XUGZTc0FnM0hBNTJIMlVj?oc=5"
+      "volume": 103200,
+      "headline": "英格兰最新动态汇总，情绪中性｜BBC",
+      "source": "BBC",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9fS1hwVk96NVh4dGlxWGtseHF2bkJqbnJYS2RZaUtvMDBBTlk2V21oTkRaZkw1cm8zREZYYndRQ2dDa29sUllsS3QyRF9pcjVYa1lFUFZ1ME5KSXU2Qi0xM3FB?oc=5"
     },
     {
       "teamId": "czech-republic",
@@ -9317,9 +9316,9 @@
       "supportPercent": 20,
       "sentiment": 0.05,
       "volume": 24000,
-      "headline": "全球媒体关注：2026 世界杯球迷声量和社交媒体讨论上升，情绪中性｜The Guardian",
+      "headline": "全球媒体关注：2026 世界杯赛果与淘汰赛走势成为焦点，情绪中性｜The Guardian",
       "source": "The Guardian",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNWmRRMzYwMTJNVlRnTXk4RFRocTUyNWotWkR6UkZQbnVRdmFtX3lETHd5d1lXVW16SkZDeUZZbUJqaU9aei0zZ2tWV1dkN05vV0RmeWdkbEJqcWtfUjY4RzVIalFFMV9DQkx6Vi1IN2wxSnA1cVVpWGJORGNrQW5jV2xRX1UwZE9DbHRQMFUyQmE4Q0JEVHYtdnpMMkNJb1k5MFJwX3JR?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPSzROX29mVU1OWmFldUxzc0pRNG11QXlsWDExNllaRkM4M05aVjVhSF9jQkpsalJmYnVCM1ZWSjVJM0lMMG93R0llU28za2F1TWVvNG50QXYtWnZCZGVQanQxRC0tZnFFVUVYYUpELVd5eUdHS3V2bmRGRzVSYmc3MDVyMXROT2NKTF9fLTRkdWJQcWdka1N5R2N2SXM0d29CWDc1cmhfdjllQ3lhVmlldm5ST0xQYVdDRDYwUkpZZ3hpMjhJYTRsQW5ld09yTWRoSWxhQXhsanJCbld4cHc?oc=5"
     },
     {
       "teamId": "mexico",
@@ -9389,7 +9388,25 @@
       "teamId": "argentina"
     },
     {
-      "id": "gnews-1-is62ju",
+      "id": "gnews-1-he4m8m",
+      "title": "英格兰最新动态汇总，情绪中性｜BBC",
+      "source": "BBC",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9fS1hwVk96NVh4dGlxWGtseHF2bkJqbnJYS2RZaUtvMDBBTlk2V21oTkRaZkw1cm8zREZYYndRQ2dDa29sUllsS3QyRF9pcjVYa1lFUFZ1ME5KSXU2Qi0xM3FB?oc=5",
+      "publishedAt": "2026-07-13T07:28:41.000Z",
+      "tone": 0.05,
+      "teamId": "england"
+    },
+    {
+      "id": "gnews-2-75bq93",
+      "title": "英格兰最新动态汇总，情绪中性｜Sky Sports",
+      "source": "Sky Sports",
+      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQUWNWV3ZBek9qU0dudlRISVlwRXpMNjRlcU5idjdQTXZWZ1BRX3YwUE5xQXp6WTZxcko5Z2t6SnNzT205aVFuSjl6ZWJ2Znc5RkFmZEJ4enB2ZnJFQWdCdDNMTkkxeEZLVDlRNExDbDFnWlJPZjVuRmJwU2tMYk0tQzlPamloLThBZWpyRkdjS29CbFhwY29oNUJNWDB2bDNIM2U1Y2ZwWTVpelJicUtYQzIxSVN3bUpJVV9TU0JhZUtYMWYyRXNXTktVbWw1ZUNBVkdWei1fSVJORkE?oc=5",
+      "publishedAt": "2026-07-13T04:22:54.000Z",
+      "tone": 0.05,
+      "teamId": "portugal"
+    },
+    {
+      "id": "gnews-3-is62ju",
       "title": "全球媒体关注：2026 世界杯赛程与小组形势更新，情绪中性｜Sofascore",
       "source": "Sofascore",
       "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1zX3ZYSnh4TzY4MTFOV0FjYkwwVnM1RmNPSVBmdXRkVG9HNVAzd2lTakxKVFpGSEo3ZTRDMlBzeTlid2Npd1MybmI2VlNiTXlJT0JGQk9HemxXeTZGT1AzdEZEeEgydkozZnRTdDhHSXYzUDgzNjN5NEppd25oQQ?oc=5",
@@ -9398,40 +9415,22 @@
       "teamId": "scotland"
     },
     {
-      "id": "gnews-2-1czf94w",
-      "title": "阿根廷最新动态汇总，情绪中性｜NDTV Sports",
-      "source": "NDTV Sports",
-      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPNlpEbUdpeWE4RURMRVNIN1ZYR0lmcE1ZS0Vlc1NXZ1RjVEZ0TUJlRWlULWp3cWFhUDlJclUtdnA4a0FOZzh5Q1NkRXVXR2hpQ2JXc2lVdGpLX0RPVXp6ZEZYZXFVNDBHOUl5b3NfVlhmdXZWM2ZYNXZCV3N5akJ2dlNHaWFDNVdZVGowMEpwQm9FVkZzT3ZmeUIwcF96RFozVEhvVktlQ3Z2WTFhb0labm9KUUV1SHFFbE4wZVA3R2dyWEZsbU1oelB4S212X1E1NGEtemEzb1RQVjI2OUF3?oc=5",
-      "publishedAt": "2026-07-13T00:45:52.000Z",
-      "tone": 0.05,
-      "teamId": "egypt"
-    },
-    {
-      "id": "gnews-3-1icmubl",
-      "title": "阿根廷最新动态汇总，情绪中性｜NDTV Sports",
-      "source": "NDTV Sports",
-      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQbWgzMjBlcEFqWTduNV92Ui1wOWdOdTZfR3pldExlWVZ0RFZDcWw0Y1lseEVjNnlUV3k1QThDeTY4TlM2OTBmWjZIT2JkNUgwSEl2aC1HTEE4V1hJczVodGhGb1lwYmtUcmRmUHRNdUhFVDJVSGRyQVpYZVhVcnQxam9NOTJ3Y2kwMEtsNXlZR1ZzQ2lydGZYX0xZdktURDFWV2xYZ05RNEliQ25pOXlJalRIMEx1T0U4eGxDZkVfeEE5LUx0V29zQzdn?oc=5",
-      "publishedAt": "2026-07-13T04:06:26.000Z",
-      "tone": -0.35,
-      "teamId": "portugal"
-    },
-    {
-      "id": "gnews-4-1h9xxzv",
-      "title": "法国赛果与淘汰赛走势成为焦点，情绪中性｜NDTV Sports",
-      "source": "NDTV Sports",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOb2hISVQyTk9KX25ScVI1cVBBZ0JwaDVrU3pUbzdVdkE5dGNFQU1XT0IteHZCQ1E1LTh3YTNYby1JcGhFOElhQXNHc0M0aVZxeDRuX19ySUNTS3BfUG42WnNfamdiU1huR05ialVoRkpWVjFTR05vOHN2WG1kQXdqdnh1WXNvTTVLTjdqVHJkbTlnV3docFg5NHpHSlZhaVdnU3BsNVRJakZfZ0F0V1VjQjBxWEo5MTA?oc=5",
-      "publishedAt": "2026-07-13T01:57:01.000Z",
-      "tone": 0.05,
-      "teamId": "france"
-    },
-    {
-      "id": "gnews-5-lbyd6o",
+      "id": "gnews-4-lbyd6o",
       "title": "全球媒体关注：2026 世界杯球迷声量和社交媒体讨论上升，情绪中性｜ESPN",
       "source": "ESPN",
       "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOZm9mb0VrWGJ5cG1vcWlrbWZ0UkllcWZnaklPQjAwcGNBYjFKenFDcGVFbW5RV18wUEVKc09BMDZTblF2akh0NTNLWkp3UG14b3ktM21GZHNDRU13T2MzZmJaWFFMTWNCRl80MEh4cFBLaWZVMTdoM01YUlB5VEVKOXgwVndlYVNGNktMZ2JZRTJWdWZPWGlGQTlKOVpWT1Q0c3NDTl9PcUg?oc=5",
       "publishedAt": "2026-07-12T20:45:00.000Z",
       "tone": 0.05,
       "teamId": "spain"
+    },
+    {
+      "id": "gnews-5-1iba0iy",
+      "title": "全球媒体关注：2026 世界杯赛果与淘汰赛走势成为焦点，情绪中性｜The Guardian",
+      "source": "The Guardian",
+      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPSzROX29mVU1OWmFldUxzc0pRNG11QXlsWDExNllaRkM4M05aVjVhSF9jQkpsalJmYnVCM1ZWSjVJM0lMMG93R0llU28za2F1TWVvNG50QXYtWnZCZGVQanQxRC0tZnFFVUVYYUpELVd5eUdHS3V2bmRGRzVSYmc3MDVyMXROT2NKTF9fLTRkdWJQcWdka1N5R2N2SXM0d29CWDc1cmhfdjllQ3lhVmlldm5ST0xQYVdDRDYwUkpZZ3hpMjhJYTRsQW5ld09yTWRoSWxhQXhsanJCbld4cHc?oc=5",
+      "publishedAt": "2026-07-13T06:58:00.000Z",
+      "tone": 0.05,
+      "teamId": "panama"
     },
     {
       "id": "gnews-6-1obebjq",
@@ -9442,63 +9441,62 @@
       "tone": 0.05
     },
     {
-      "id": "gnews-7-t7a1ej",
-      "title": "全球媒体关注：2026 世界杯球迷声量和社交媒体讨论上升，情绪中性｜The Guardian",
-      "source": "The Guardian",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNWmRRMzYwMTJNVlRnTXk4RFRocTUyNWotWkR6UkZQbnVRdmFtX3lETHd5d1lXVW16SkZDeUZZbUJqaU9aei0zZ2tWV1dkN05vV0RmeWdkbEJqcWtfUjY4RzVIalFFMV9DQkx6Vi1IN2wxSnA1cVVpWGJORGNrQW5jV2xRX1UwZE9DbHRQMFUyQmE4Q0JEVHYtdnpMMkNJb1k5MFJwX3JR?oc=5",
-      "publishedAt": "2026-07-12T15:16:00.000Z",
-      "tone": 0.05,
-      "teamId": "panama"
+      "id": "gnews-7-1icmubl",
+      "title": "阿根廷最新动态汇总，情绪中性｜NDTV Sports",
+      "source": "NDTV Sports",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQbWgzMjBlcEFqWTduNV92Ui1wOWdOdTZfR3pldExlWVZ0RFZDcWw0Y1lseEVjNnlUV3k1QThDeTY4TlM2OTBmWjZIT2JkNUgwSEl2aC1HTEE4V1hJczVodGhGb1lwYmtUcmRmUHRNdUhFVDJVSGRyQVpYZVhVcnQxam9NOTJ3Y2kwMEtsNXlZR1ZzQ2lydGZYX0xZdktURDFWV2xYZ05RNEliQ25pOXlJalRIMEx1T0U4eGxDZkVfeEE5LUx0V29zQzdn?oc=5",
+      "publishedAt": "2026-07-13T04:06:26.000Z",
+      "tone": -0.35,
+      "teamId": "portugal"
     },
     {
-      "id": "gnews-8-mcnoxd",
-      "title": "全球媒体关注：2026 世界杯赛果与淘汰赛走势成为焦点，情绪中性｜The Guardian",
-      "source": "The Guardian",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOTlRuaURudjZMN1JZV2VZSWlSVFNLUS0ycThYLXpFM19oSmYwWmtQVVRNczhzUS0zN2Nla3gwMnBrRFFHdzRLV0lmaUN3bGlGX0hfSVRObEMwV05fclVkckd2aVN6U3NJZTVKY3NOb3dFSm1jdWVuQzFGeHZwUlZWeFp6WVRycTlGYk43S19hY3A0OTZfbHdqMFhZdFZlVmZpOWFlQTd6MlJDbDRfWUE?oc=5",
-      "publishedAt": "2026-07-12T19:40:00.000Z",
-      "tone": 0.05
+      "id": "gnews-8-1a0luac",
+      "title": "全球媒体关注：2026 世界杯赛果与淘汰赛走势成为焦点，情绪偏积极｜Al Jazeera",
+      "source": "Al Jazeera",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOVC04ZTBidWJKUDVtTExTNFhXb0RZWHM4TnZUcHhVS2h4bmh4U1M0X21NT3JUSml0azdiV3I1NFAwY3NfU3I5eGZGLXRIVkJHZ3VXR2ZfbGZQTjN4ZnMwTGRJYTlELVRWSWFSRFMzMlpnQXhNbkNoVXRaSEc4SzFVN3FzMmw3VlBMaFhjSzhNN0M1OVlyd3hNb0RqVlRQeDdoZnlhVDd6d1dIZmk4b0ZvN3V30gG3AUFVX3lxTE0tcjd4WUtEb0V4Q2FMdmE0aFZPUVBodWxRNnJJRXY2X3J1ZUlwcFUwakxjNUpTRjBNaXFDV0hYdnZVcGcwamVydG80NW52VTlGMXJkT0NIMGtOa2NNanFYNDJYSlYxVHBtcFF2YjZHdlo4bUpEZnM2STh2Qmk3TTRSYzctM19GQ0pYdXE0Qlh4UXNxWlRQT1kzX1NublRDc3NBRzZrMkRSc1FqZG42ZkdubnNnbU9uMA?oc=5",
+      "publishedAt": "2026-07-13T06:31:36.000Z",
+      "tone": 0.35
     },
     {
-      "id": "gnews-9-2qr6p9",
-      "title": "全球媒体关注：2026 世界杯赛果与淘汰赛走势成为焦点，情绪中性｜BBC",
-      "source": "BBC",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9rUmtkX2RQM20wZnFUZjFkSnZPNnFGSW05SDBiREk1VGVUOEdoR0xHR3JDZHFHWFp4R2NGR2FwenlfNm5idnp4ZU5sR2tRQlJqeFdRZUluTEM1TXV1N01FOHRRbG9VVDQ?oc=5",
-      "publishedAt": "2026-07-12T04:26:44.000Z",
-      "tone": 0.05
-    },
-    {
-      "id": "gnews-10-gt1v35",
-      "title": "全球媒体关注：2026 世界杯赛果与淘汰赛走势成为焦点，情绪偏积极｜The New York Times",
-      "source": "The New York Times",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQZUZ6MzBaS1FqU3hIbHRlWDFvaFBOMl93ODZreVBjVGR6NDFHZ1VqcF9DUEF3dW1ZYlhab21jaU5Ra1A5LWZod0dicEU0Q1ZMS2hIbzZFS3pIb21iYmVOWTF2ZFNKUHhFSkJMVTdodEhNYmk5Zk04VnBBUWttRmVEVnl1TVdGYjF3S1NuVndIYUpkdkp5R04zaQ?oc=5",
-      "publishedAt": "2026-07-12T13:07:00.000Z",
+      "id": "gnews-9-1qywjl7",
+      "title": "全球媒体关注：2026 世界杯最新动态汇总，情绪中性｜Fox Sports",
+      "source": "Fox Sports",
+      "url": "https://news.google.com/rss/articles/CBMitAJBVV95cUxPQzBJdGNBV3ZfSVB1RTJBZl9EYUl6aWg4UHZRSmhwWmNmd19NT0tIVnBWX0dlNkNULUIyeWdCa3ZqdnFtbkZ1QkVoNi01WEF2T0l3M2liTHFFakNCclZKcHppdVpYYkpueFpUb0VDZ0p6UnBDMzUydC0zQWxPSFhjRXJTUVZFMXdRbTRTaF9OWXpuRzlBY3JpX1U3T2pDS3lQSVgtNVcwS3R1QXJPbEhRbTJ0SUpGN0RfYV9KNGJDMXhQZUdNT3NBVHQwUml6OE1aODJCajFfMVg1V3Bxby0tMTF5b09RQU1VY2xOT0l1bEh5dGwwTnQxcjM1UVNxSThZMlFESk45bDF0RkJGQWdkZ2tIMnYwVXhwX21mR0FSZUhtOXM0clZRWHdaQjlHOThlTmx0R9IBtAJBVV95cUxPQzBJdGNBV3ZfSVB1RTJBZl9EYUl6aWg4UHZRSmhwWmNmd19NT0tIVnBWX0dlNkNULUIyeWdCa3ZqdnFtbkZ1QkVoNi01WEF2T0l3M2liTHFFakNCclZKcHppdVpYYkpueFpUb0VDZ0p6UnBDMzUydC0zQWxPSFhjRXJTUVZFMXdRbTRTaF9OWXpuRzlBY3JpX1U3T2pDS3lQSVgtNVcwS3R1QXJPbEhRbTJ0SUpGN0RfYV9KNGJDMXhQZUdNT3NBVHQwUml6OE1aODJCajFfMVg1V3Bxby0tMTF5b09RQU1VY2xOT0l1bEh5dGwwTnQxcjM1UVNxSThZMlFESk45bDF0RkJGQWdkZ2tIMnYwVXhwX21mR0FSZUhtOXM0clZRWHdaQjlHOThlTmx0Rw?oc=5",
+      "publishedAt": "2026-07-13T04:22:49.000Z",
       "tone": 0.35,
-      "teamId": "brazil"
+      "teamId": "tunisia"
     },
     {
-      "id": "gnews-11-h982vu",
-      "title": "全球媒体关注：2026 世界杯最新动态汇总，情绪偏积极｜espn.in",
-      "source": "espn.in",
-      "url": "https://news.google.com/rss/articles/CBMihAJBVV95cUxOYUwtQ1l0d3hfRmtSc1BMcnhKWG9GTU9KNXZDdWZMQ3R6M2FqWmZXb2h0TkNDRHdzQlJFQTdmNG8zdnFQSXJMdEVYTzJHZVZyUGttQUI3VkF5Z08zdnR3QkdrUGZNeHVERnNpV3dyTUl1cnJydGUtOG9rMS04RGRkMndReWJXYkwyNVB0Q25KMFRFcGtYWk1OOWtzQ0N0WjBuTUZmTzVjMHREOEtBamRlckYzWmV1UU9uenpQUUZ2ejBKcEZjT3NDemxNYmVsTW5rQTZZSjlUNHRfOW1DU2Y5MElEajY2WkR0ODJjMi1HMzAyOHlJT1VWcGFDSDB0NEU0Z094Ug?oc=5",
-      "publishedAt": "2026-07-12T05:16:00.000Z",
+      "id": "gnews-10-1qedmgx",
+      "title": "全球媒体关注：2026 世界杯赛果与淘汰赛走势成为焦点，情绪中性｜Opta Analyst",
+      "source": "Opta Analyst",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQem5YTGVGdi0zTG1FRHE0RU1pbUMxUWo1bUl3dWpZZEV1bWlZNXpYZ1AyNGFPXzVud2JnVW91Y3lWN0VWUWs1UkpxT0FrSmZlZkxQM0lnNEl2eEFwV3V2aE5ZVnZjTVhuNmpicElqbXNmMnNaSGZISFRlTS1sVVlhX0p3ZEYxRHFnZUtZS01BczdNZw?oc=5",
+      "publishedAt": "2026-07-12T13:00:43.000Z",
+      "tone": 0.05
+    },
+    {
+      "id": "gnews-11-17y3kvp",
+      "title": "法国阵容与伤病动态值得关注，情绪中性｜Sports Mole",
+      "source": "Sports Mole",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQaEdOZVFieUVWTXQ1WXFwRDJSV216Mms5ME56V1dtZUdsV2Y0MmZPeGZSSFotYmhEMk9DUElKSjVoVmlxeWZyYnJvUVk2R3B0YVFHUUtOU3I3bnpZb1BocVY2eFBwTUxBczZrdkVLSUZrMGpOUXozNVVxaUFRYmJxN0dwbkJBVVczNmV6RVZrdXNMYUVMSUo0YjRWd2dod2dFb0VfeUtDOXh2UmY4eTBweHVtX0R2V0VvWXlRcFpCSklGdw?oc=5",
+      "publishedAt": "2026-07-12T08:26:00.000Z",
       "tone": 0.05,
-      "teamId": "ghana"
+      "teamId": "france"
     },
     {
-      "id": "gnews-12-jcig8c",
-      "title": "全球媒体关注：2026 世界杯赛程与小组形势更新，情绪中性｜Yahoo Sports",
-      "source": "Yahoo Sports",
-      "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxQUnpNX2UwQWc1VTJoQUFDT0FDUGs2NWs0TUc1SW9FY1dROVBLSjZYY2R1TmQzV1AwUzAtdUpEejRaUDBsVThKLW1TWDlzYTBpWl9NVGxYWGdEY3ViUnE1dE1zNW9kUHRPN2FqazN2d3pXMm9fMUNkaFh0MTlzYy1mMWxZSTljb0h6YU50cU01MndyV0tLMnBIOUlBSDBNN0lXamdXTW16UGVRTXc1OGFRb1prMDZNcFoxVVdpdjFUYnBiQmU4b19Td2FCWlRjUnZtTDRzMm81c3BmQW0waGxOa2NVRmhyZU1VV2ZVZ2Z4THlsNVlzY2c?oc=5",
-      "publishedAt": "2026-07-11T07:00:00.000Z",
-      "tone": 0.05,
-      "teamId": "turkey"
+      "id": "gnews-12-1m88fdr",
+      "title": "全球媒体关注：2026 世界杯赛果与淘汰赛走势成为焦点，情绪中性｜Morocco World News",
+      "source": "Morocco World News",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOUzVRTHFjdkM2NGdQVU5TZ3VxY3BEM0JKOVhQUnNFM2dvOGxaVlhCU0hyRGxxWXpueHJZcGVOZ3FrTTAyVF9KRk9ON1d3MnZWR3c2NDdJdXdubEN5MGFXb21PX1FNenZScWRCOW9vVXc5cUVOeVAySWVqWGFLeF9jNFNub2N2a3ZzcjdzT0ZnTTZKY2ZpSXNoR0VGNHI4WU9BWTluLVVyRDg4bHdvdWJFY3dxYllYUG5IUlE?oc=5",
+      "publishedAt": "2026-07-12T14:48:58.000Z",
+      "tone": 0.05
     },
     {
-      "id": "gnews-13-q7xgoy",
-      "title": "全球媒体关注：2026 世界杯最新动态汇总，情绪中性｜Planet Football",
-      "source": "Planet Football",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPUUczV0tMdUNmMUZwVHZ2UnlhQXRuVUVJQlQ2S01mYjN1SWl3TEF6STIxa25KSXQtSlNsaVBzbUZ5Zk0wZzBLNUl1Q3ZYT1M4Vm1FeS1wLU9Lc3NuRFVMSnk5T29zT3ZvRmxFclEzRFhQNzVDY2VxbmI1VnpxT0VTN0xDaXd4WVdNU2ZneEgyRWxqRWNzY25yTDZqVjA3Zw?oc=5",
-      "publishedAt": "2026-07-12T15:21:10.000Z",
+      "id": "gnews-13-oljpsw",
+      "title": "全球媒体关注：2026 世界杯赛果与淘汰赛走势成为焦点，情绪中性｜Bavarian Football Works",
+      "source": "Bavarian Football Works",
+      "url": "https://news.google.com/rss/articles/CBMipAJBVV95cUxPTDhVcGdPbVNLeDRoVVdoYnQzMVZTQ1Q2UTFRRGRmVkwybC12MFFqMmtPbks5YzhLa2IxYlNlTDlzZUNXeDBLNGo1QnB1eHp3ZTIwN3ZyWW5WMWNDOGtFejZOd0FxWlRaaTV4SUpfNzZuUVFjanRZb2p2YWFBNzhfZkdyMk45MTFUbFlSMWZiQ0pycUJ6aWhURVczTmxyODJUSWVCVEhlMl9xdW5RZUc1TllpQ2FRcEZRUW1WQmpfVjNxTFNPMFY2Ri1GVWZ4anVCdnhPd1FDamJXZ200MGNCM2NQWTJvUVdpRmNvWUZNLXI4ZHBYbVB0Y2ppeXlWUTJNc01saEZ0WTBHVzZTdU9sUG44RS1FaC04RUw1WFN1Mk55RVVV?oc=5",
+      "publishedAt": "2026-07-13T06:45:00.000Z",
       "tone": 0.05
     },
     {
@@ -9506,12 +9504,29 @@
       "title": "全球媒体关注：2026 世界杯赛程与小组形势更新，情绪中性｜Yahoo Sports",
       "source": "Yahoo Sports",
       "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOU1U0UXo4NFBRTUV0ZE1tOWt1X1BOYUZEUDJfaVhKU2NCQWtfZFc1cC14SW9kcWxkRUlNc1BwS1hqeUtHcFlUX2owY0xXdkNfR0tGNl9JNnhwU3l6WUZwTi1BOU5YSmZpZFA4YWp4Y2FWVjNoZ0lqOUxnM2pRMG5BeTNRZFA3aUdRY1BWbzFGbFBnemNBNnZ1TVFaNUJPUUV5Z0kxa2RhN1Ryck9UMlY5RzV5dlNTczl6OWVyRXZPSWdwSmszX3FCaUdqQWx3MFVMYWdnZHRmVFF0T1hULW1IcURfSQ?oc=5",
-      "publishedAt": "2026-07-12T21:52:38.000Z",
+      "publishedAt": "2026-07-13T05:55:43.000Z",
       "tone": -0.35,
       "teamId": "scotland"
     },
     {
-      "id": "gnews-15-1cigs3x",
+      "id": "gnews-15-1gt9gey",
+      "title": "英格兰赛程与小组形势更新，情绪中性｜Sky Sports",
+      "source": "Sky Sports",
+      "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxPcEFNY2kxUUI0aVFkNVEzNVJEZ240LXhWTk1XWkhXcXpLWDFYTVZkQ1pZSnFfYm8xcmVULXNvRG5ubC1KMXVoR2puNHExUW5VRkZjQURnckdodHdqVmhHVnM5WVNaNVR1M01MSjg1TGlIQ3NwNHp4YzNiazdfNnFLMGFIbHZZTlhjMjdicWNwR1BkTm5vNjZ2TnZvQWhCZThfRVU5THJ1cVZCcENsUDQyU3lEbExmNldmMVluRVRyazJkc1I1XzhaZG12NS0tU3I1Rl9hRzFfREFCZlhNRDJKZG1JYVdVRmx2bGhPUWhXWUdac1pnY1ctdnRR?oc=5",
+      "publishedAt": "2026-07-13T06:59:00.000Z",
+      "tone": 0.05,
+      "teamId": "turkey"
+    },
+    {
+      "id": "gnews-16-1bi60m5",
+      "title": "全球媒体关注：2026 世界杯最新动态汇总，情绪中性｜The New York Times",
+      "source": "The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOZW9pQXlZZE4wYTBoOUFYMGl3RVV1WlNQR1U3bUk5blR5UGQyY04tcDdoaW9DT0lnYi04ZlNVRWUtc0VqMTl5aTJodUEzLVNIa05manBOd2lyUVYySzZMbGlnMDdNajk4VVJoeW10V2dlM3l4T0xOdVRVY2IydUdxbG5vbWNfYy1nOHFqdlQ5VHhYWUE?oc=5",
+      "publishedAt": "2026-07-13T04:15:03.000Z",
+      "tone": 0.05
+    },
+    {
+      "id": "gnews-17-1cigs3x",
       "title": "全球媒体关注：2026 世界杯赛程与小组形势更新，情绪中性｜FOX Sports",
       "source": "FOX Sports",
       "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOUVFCYXl0QkQ3TVVHMFlVZmFTVU5ZYkFIbkVOVUJzTUJxWU9lSU9ocDV5OGZxX2Y2MzM3RXpSOHJmTkYyS3Y3OXRWelBmMWdDNDdvZ1lnTDhFZnVWSjJNeC1GZ3VBMmdwUEF6aXVEd3pKdGEtakI5VFVLaXpTTUNrUGd6UVlpTWFfZmZ0MnNGZHZPZGdWV2YxRHVHV1cyM1prcTl2RtIBpAFBVV95cUxNQnBNVzFVejlFR0RBdTZSRUtvX19acUd4VTNKc3lLVFQ4eFRGV3ZFc202eDJIOWNzenFSUklSdHJLZFBRMGdYZE84UUtYVEVuckRoY0xsVnNvWndKTEcxdUFQLWVad0JzcV9qT0VBRzUyTFowYnQ4V1ExS2lGWFFaWjZ2TTVTeS1EOFh0RkYwWno0YzVFMGphLU9nRDlaZm5uV2Fudg?oc=5",
@@ -9520,25 +9535,33 @@
       "teamId": "scotland"
     },
     {
-      "id": "gnews-16-1gt9gey",
-      "title": "英格兰赛程与小组形势更新，情绪中性｜Sky Sports",
-      "source": "Sky Sports",
-      "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxPcEFNY2kxUUI0aVFkNVEzNVJEZ240LXhWTk1XWkhXcXpLWDFYTVZkQ1pZSnFfYm8xcmVULXNvRG5ubC1KMXVoR2puNHExUW5VRkZjQURnckdodHdqVmhHVnM5WVNaNVR1M01MSjg1TGlIQ3NwNHp4YzNiazdfNnFLMGFIbHZZTlhjMjdicWNwR1BkTm5vNjZ2TnZvQWhCZThfRVU5THJ1cVZCcENsUDQyU3lEbExmNldmMVluRVRyazJkc1I1XzhaZG12NS0tU3I1Rl9hRzFfREFCZlhNRDJKZG1JYVdVRmx2bGhPUWhXWUdac1pnY1ctdnRR?oc=5",
-      "publishedAt": "2026-07-13T00:05:47.000Z",
+      "id": "gnews-18-1dmj3u3",
+      "title": "英格兰商业、出行与观赛服务升温，情绪中性｜Business and Investment Development Agency - CzechInvest",
+      "source": "Business and Investment Development Agency - CzechInvest",
+      "url": "https://news.google.com/rss/articles/CBMimgNBVV95cUxNazNHTFB0aEVhZFB4bGV0VXJoQVZqcVpJRVFLQ3VDVDQ4SlJsUWJ0LXN3SG5YQm1idFpIdTlycWNKcEc4eDh1Q3NyQlhTNjBUTDE4UDV3XzBKQ0FDM21lNWFoTHJzQjFJNmNkSGFkdVFid0xHSG9lZzFFOFkyT3JKbU1jUTZkelJGbVBraXM0andYdjlaaHl5eU9KTU9TOUR0bzZWYWt4MFFJV2NRVzR6Sm45UjJicHdvT0FieE9xR0VSM0FEa0NDQU1QclZaVWJIZVktcXFVX0kwQU5rd01BcEdJcHNORTZ5R0xhejZNU3BUTXJBRFZ0aHZleTdsUmVTbkRVSnE3Y00yVDYxS1pTTkxtd2RxVkRYWTNETzZteU5yYlliWGsyOXBpU1M4Tk94REFSSkNQTzlGNENVQjRVaWd2SDJfNHgxV2FRdVg5ZENQakw5bkROZ0FiVXU0ZkdGZWstZFd4LUVrSWZCWjBscEItazYtaDUwdTBUbngyb2FaZ2RrUDRoTmlNbzRPbzVTVWxma19HR0htZw?oc=5",
+      "publishedAt": "2026-07-11T21:59:18.000Z",
       "tone": 0.05,
-      "teamId": "turkey"
+      "teamId": "norway"
     },
     {
-      "id": "gnews-17-1xe4uds",
-      "title": "阿根廷赛程与小组形势更新，情绪中性｜The New York Times",
-      "source": "The New York Times",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPS1p4SW1iOW9zdWRmekhYc21xU19WbS00dGs4VGlFSEtlUkg4anZHOWZabVdTVlNMLWNneUxwYjNTNXhiRWljUW5MT0JYYlFBdFB3UVFHYnpBVC1nUm0tR3Awbml6Rk1uMndTQndpN05WbFRqNm5kOG04LWNJZ3MzelJ4UUhfd2lUeFE?oc=5",
-      "publishedAt": "2026-07-12T18:42:00.000Z",
+      "id": "gnews-19-jxwmst",
+      "title": "阿根廷赛程与小组形势更新，情绪中性｜olympics.com",
+      "source": "olympics.com",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQY1Y3UU00WmY0RmI4TGsySVAtcUZlUVBPMWItbzBwemlIQzk5OF9OLU1tMVV6dFhqUFh3N2VTcHVnTlVmT1NxcnA2djFCbWRsVFU0U0Nlc1NkSTBIRHRtZVB3TmR0N1E1dHRhbzBEaV8wYkNDVmFBSm9HZU81N002dGM5cmtJMWNKVWNpaks0c3EzckdzLXp6VzBKMEFMOHBKeFBNTm0ydmFjSzhkN3Q2TUR3NnhTYkVTdEY2Ng?oc=5",
+      "publishedAt": "2026-07-13T06:40:00.000Z",
       "tone": 0.05,
       "teamId": "argentina"
     },
     {
-      "id": "gnews-18-1ydu17h",
+      "id": "gnews-20-6bymkn",
+      "title": "全球媒体关注：2026 世界杯赛程与小组形势更新，情绪中性｜The Independent",
+      "source": "The Independent",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNRXlaSmlZSkNwZWZsSTJsTHlheHN2akJ4YnZNaWU5NVNrS2lzdDlORGZVTzdmZW9Cek9QTktZRWY3MTRTUUxCWTZheS16MVlPbDZmcmItREFKOWVMM0x0VGtEYk5VQlBMLXFMV295QzR0dUxRTGZrdDViSlBmRjlQUXJxN1AzUDJDTWRvUHdsM1hSRXpJekkxZC1LRlZsVlBEamhMVGNR?oc=5",
+      "publishedAt": "2026-07-13T05:40:58.000Z",
+      "tone": -0.35
+    },
+    {
+      "id": "gnews-21-1ydu17h",
       "title": "全球媒体关注：2026 世界杯球迷声量和社交媒体讨论上升，情绪中性｜The Conversation",
       "source": "The Conversation",
       "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxObldwS1NEVDNqZmE2SmFCeEJSMG91ck92V3BINXRuZ01IYjY2U0VtaURfcy1idUJwWmlROUpPcVZUQkFTa082Z1pvLUF1MXpKZkozZjdqS0JDX3pacnZUVG1FOHdLMWlWdVpxNFpvQ3lfQWdjODI3QUdLZlpJRTMyaE9LdDUyeGQweWVoQWhEMkViWDVQS3d5alhxNUNlZUlNNC1RNWFuLW5uM0JEX2w4YW5lSmFvZWlXUjU5azRR?oc=5",
@@ -9547,57 +9570,31 @@
       "teamId": "south-africa"
     },
     {
-      "id": "gnews-19-1aua4rf",
-      "title": "全球媒体关注：2026 世界杯商业、出行与观赛服务升温，情绪中性｜Business and Investment Development Agency - CzechInvest",
-      "source": "Business and Investment Development Agency - CzechInvest",
-      "url": "https://news.google.com/rss/articles/CBMitANBVV95cUxQUU1qSzJsdmpuN2pOSE0yRW9LdFAwaVRpRTA0X3QtRHdwNTJYQVlWMzk4N0UzNVNZVlZxbjhneEUtY0tDaHFwUndWQTZMSUIxejZ3N1NVckpwSTBuaDlJRl9pVHBoR3VGb1lQaS1GYlU0b1o2aE1VNFdXYXhJeXlYaE5tY1IyQ3ZlQlBXSWo3dDdwRUZWZmNxU2dqSVRHMHhaQ3NJM2tZTkJ1R3p4UW5wRHk2eTJaVlRIZER4cXBNUDNXNnhFNlB6c0N3MXFncHNyWlBDMkYzT2RoS2RwTTVwd2d0dF9fZHl4UlZJc3JYWkJhdWNiaVFzT2dDUm9UZmYtMEpZM0RuTW5XT0RlQ2tlX0dlcjBSZUdvcEZ3UHh4OHNIVjcyY1pZZ0V3S0ZuTnZla2xZUGYyZ0ZTQzYtVDlnTFpOVHBCUWdWWTkxUzlUd295Ym9WTmdfVjFwYzlFeU4zWVFHLXY5Wmd0X241SWJBbnBtRmNXUjYzeEFQeEx1cGZNYTBhZzBPYTFpSm5PTDYzbXVFbGJ3ZDhPVW9GVWcwQ0ZTX3BmWl9kcUN1WmctY21nTGRU?oc=5",
-      "publishedAt": "2026-07-12T21:59:47.000Z",
-      "tone": 0.05,
-      "teamId": "czech-republic"
-    },
-    {
-      "id": "gnews-20-1huapo3",
-      "title": "英格兰最新动态汇总，情绪中性｜olympics.com",
-      "source": "olympics.com",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQSjEyeWNWSHUyZ2lhVDBfMW9fd3NjMUYzdGo1RTMwZDZNaDhsaE54VlotR1Fsa2RFVXltdEpqcEE5MWtUTkdUNmZWUkpoUkxMcV9wWklnR2FCbU1jampGVlhCaC12bmphUF9jYTZMT3ozTUtmV1ZSeXF3cDROUHNlZlctM0hENWlOWmgwVF9xTXVZSmZYcE9UTGw2NkFjT1hnekVhSmk4UTN6TzA?oc=5",
-      "publishedAt": "2026-07-12T10:06:00.000Z",
-      "tone": 0.05,
-      "teamId": "scotland"
-    },
-    {
-      "id": "gnews-21-6bymkn",
-      "title": "全球媒体关注：2026 世界杯赛程与小组形势更新，情绪中性｜The Independent",
-      "source": "The Independent",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNRXlaSmlZSkNwZWZsSTJsTHlheHN2akJ4YnZNaWU5NVNrS2lzdDlORGZVTzdmZW9Cek9QTktZRWY3MTRTUUxCWTZheS16MVlPbDZmcmItREFKOWVMM0x0VGtEYk5VQlBMLXFMV295QzR0dUxRTGZrdDViSlBmRjlQUXJxN1AzUDJDTWRvUHdsM1hSRXpJekkxZC1LRlZsVlBEamhMVGNR?oc=5",
-      "publishedAt": "2026-07-13T01:10:58.000Z",
-      "tone": -0.35
-    },
-    {
-      "id": "gnews-22-1rw0kin",
-      "title": "阿根廷赛果与淘汰赛走势成为焦点，情绪中性｜Al Jazeera",
-      "source": "Al Jazeera",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1aY1lwQ1YtbUhBYWZtLWhjc3AtU0ZFMXZ4QlpsZ2h6RHNFMG13eGRVZnNqaC1TV2xpZExvSjBobGRrOXRXakhxamZMS2NZRktadWN4UGZVcHpMS0hVV3lSbU1yenlyRDBlVHduM0M1SHBlWTlGUmNnNC0tLWowd9IBgwFBVV95cUxPUUhxU3c2VThHblJ3STZWcDBlUmNIQlE0aUxUVjNKYVNCdlo1Y3RhekVLU1JsU1JYdlpyZHhnXzNKX2xITGFoazN6VmY5dWptY0cxYktFSXBDUHFWUTJ2RVpFR09TT1pUb29OMkhYN2V0SE9oejgyT29zTEhCSlN3VjJGVQ?oc=5",
-      "publishedAt": "2026-07-13T02:59:16.000Z",
-      "tone": 0.05,
-      "teamId": "norway"
-    },
-    {
-      "id": "gnews-23-iml0zr",
+      "id": "gnews-22-iml0zr",
       "title": "全球媒体关注：2026 世界杯赛程与小组形势更新，情绪中性｜UEFA.com",
       "source": "UEFA.com",
       "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPN2JMTXRPVmREV09GaEdtaGRTS1pVbXlKZ3hyb2lzWUE1QnEyNVh4REc0ZUFCeVY0UXVVb2ZTVnlzNExOSmJsd1VmaHF4ekJ4RHJBc3h6UkxVMllZekl3UjZGakVtUDZxbGFzWmxHdnU2OUdHcldtX2pMU3YyMzQwdm80djczWTdKVzVmb1kyOFdJdzZfYlVEa0pBUGpfeHdMM2hleVlPamp4UDk4Q1U2SDZ3ajYxX3pMMWVFZ3RKNkNTbVlNWDVZYXBWcnFkUzhVYnplV1BwNkl4d28?oc=5",
-      "publishedAt": "2026-07-13T00:21:43.000Z",
+      "publishedAt": "2026-07-13T07:12:16.000Z",
       "tone": -0.35,
       "teamId": "turkey"
     },
     {
-      "id": "gnews-24-de4k0a",
+      "id": "gnews-23-de4k0a",
       "title": "全球媒体关注：2026 世界杯赛程与小组形势更新，情绪中性｜Sky Sports",
       "source": "Sky Sports",
       "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPNW95ejZPUE9nVVJnQS1wZzNfUURsMWhILVp4QlVQUm9WWV9QWnIxa0R2RzB2eThsb2pHbFZhY2dRSEJaRC1wTG1OVzN5Y21zM3NYcjJsQndBZ0F3MHJOQXJIb0xGemppM0YwV2Q3R3FWRFJHakNGLUZpejQ0dFRQSHI5S1lOdS0zOUd6NWpOcTBlZGJscDBnci1uak1nTnNsanFxdTJjNXgteTNUcUZMTm96NXM2Wk5ZZGNmVTN3dGFXMlpXRmVUTmp6RTVVb25HQ0JaSFZYc0Rfa01vY0VrNk5Ebw?oc=5",
-      "publishedAt": "2026-07-13T00:14:16.000Z",
+      "publishedAt": "2026-07-13T05:52:57.000Z",
       "tone": -0.35,
       "teamId": "brazil"
+    },
+    {
+      "id": "gnews-24-1xe4uds",
+      "title": "阿根廷赛程与小组形势更新，情绪中性｜The New York Times",
+      "source": "The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPS1p4SW1iOW9zdWRmekhYc21xU19WbS00dGs4VGlFSEtlUkg4anZHOWZabVdTVlNMLWNneUxwYjNTNXhiRWljUW5MT0JYYlFBdFB3UVFHYnpBVC1nUm0tR3Awbml6Rk1uMndTQndpN05WbFRqNm5kOG04LWNJZ3MzelJ4UUhfd2lUeFE?oc=5",
+      "publishedAt": "2026-07-12T18:42:00.000Z",
+      "tone": 0.05,
+      "teamId": "argentina"
     },
     {
       "id": "gnews-25-1nwxpzm",
@@ -9609,30 +9606,30 @@
       "teamId": "portugal"
     },
     {
-      "id": "gnews-26-1bi60m5",
-      "title": "全球媒体关注：2026 世界杯最新动态汇总，情绪中性｜The New York Times",
-      "source": "The New York Times",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOZW9pQXlZZE4wYTBoOUFYMGl3RVV1WlNQR1U3bUk5blR5UGQyY04tcDdoaW9DT0lnYi04ZlNVRWUtc0VqMTl5aTJodUEzLVNIa05manBOd2lyUVYySzZMbGlnMDdNajk4VVJoeW10V2dlM3l4T0xOdVRVY2IydUdxbG5vbWNfYy1nOHFqdlQ5VHhYWUE?oc=5",
-      "publishedAt": "2026-07-13T04:15:03.000Z",
+      "id": "gnews-26-z7yarz",
+      "title": "全球媒体关注：2026 世界杯赛果与淘汰赛走势成为焦点，情绪中性｜Al Jazeera",
+      "source": "Al Jazeera",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOcC0tYWp3UW5zbGNDN1ZzNm9ZcG5jQ3JWUnRhd05vN1FJcmRwREc4eV85d1MtNE4tX0xSeUgycmtmNnU5c3hOSnUxMXR5VjlwNGpmRENJWkgwakxISVR2c2x3dGJtQVNscDBvX2pVaUREVGlJR2ZRV2R6WEI3bTJzN19Bb0hjMkQtYlZhMDNhaEk4RmhnX3JNaUZ1UXljLVpkdWFpMk12N0RDcHVXSGZ4SjNZcXczZ9IBuwFBVV95cUxNNjR6bE1XWmh0ZE5HMTBlNFcyakp0cnR1dE9OVEZKbHdYcDVvM0w4cmVGYkNBcE84SFJXMmRBeGY0bHBGNlRPa1g3bk9Tbjd2N09CZ05OdWhJUHJTOG1fa3lTOXVNckw1Rm1lM05yOUx1d1V6dkhoSXFkNVI1blg2TE1MRnFMNVItZG5CaEk2RmVfbGp3bVVuQkM3ODVqMFUzcGdJa0VLdXBJYnA1bW5qMFFXbzFLREU5bTVn?oc=5",
+      "publishedAt": "2026-07-13T05:05:51.000Z",
       "tone": 0.05
     },
     {
-      "id": "gnews-27-1dmj3u3",
-      "title": "英格兰商业、出行与观赛服务升温，情绪中性｜Business and Investment Development Agency - CzechInvest",
+      "id": "gnews-27-1aua4rf",
+      "title": "全球媒体关注：2026 世界杯商业、出行与观赛服务升温，情绪中性｜Business and Investment Development Agency - CzechInvest",
       "source": "Business and Investment Development Agency - CzechInvest",
-      "url": "https://news.google.com/rss/articles/CBMimgNBVV95cUxNazNHTFB0aEVhZFB4bGV0VXJoQVZqcVpJRVFLQ3VDVDQ4SlJsUWJ0LXN3SG5YQm1idFpIdTlycWNKcEc4eDh1Q3NyQlhTNjBUTDE4UDV3XzBKQ0FDM21lNWFoTHJzQjFJNmNkSGFkdVFid0xHSG9lZzFFOFkyT3JKbU1jUTZkelJGbVBraXM0andYdjlaaHl5eU9KTU9TOUR0bzZWYWt4MFFJV2NRVzR6Sm45UjJicHdvT0FieE9xR0VSM0FEa0NDQU1QclZaVWJIZVktcXFVX0kwQU5rd01BcEdJcHNORTZ5R0xhejZNU3BUTXJBRFZ0aHZleTdsUmVTbkRVSnE3Y00yVDYxS1pTTkxtd2RxVkRYWTNETzZteU5yYlliWGsyOXBpU1M4Tk94REFSSkNQTzlGNENVQjRVaWd2SDJfNHgxV2FRdVg5ZENQakw5bkROZ0FiVXU0ZkdGZWstZFd4LUVrSWZCWjBscEItazYtaDUwdTBUbngyb2FaZ2RrUDRoTmlNbzRPbzVTVWxma19HR0htZw?oc=5",
-      "publishedAt": "2026-07-11T21:59:18.000Z",
+      "url": "https://news.google.com/rss/articles/CBMitANBVV95cUxQUU1qSzJsdmpuN2pOSE0yRW9LdFAwaVRpRTA0X3QtRHdwNTJYQVlWMzk4N0UzNVNZVlZxbjhneEUtY0tDaHFwUndWQTZMSUIxejZ3N1NVckpwSTBuaDlJRl9pVHBoR3VGb1lQaS1GYlU0b1o2aE1VNFdXYXhJeXlYaE5tY1IyQ3ZlQlBXSWo3dDdwRUZWZmNxU2dqSVRHMHhaQ3NJM2tZTkJ1R3p4UW5wRHk2eTJaVlRIZER4cXBNUDNXNnhFNlB6c0N3MXFncHNyWlBDMkYzT2RoS2RwTTVwd2d0dF9fZHl4UlZJc3JYWkJhdWNiaVFzT2dDUm9UZmYtMEpZM0RuTW5XT0RlQ2tlX0dlcjBSZUdvcEZ3UHh4OHNIVjcyY1pZZ0V3S0ZuTnZla2xZUGYyZ0ZTQzYtVDlnTFpOVHBCUWdWWTkxUzlUd295Ym9WTmdfVjFwYzlFeU4zWVFHLXY5Wmd0X241SWJBbnBtRmNXUjYzeEFQeEx1cGZNYTBhZzBPYTFpSm5PTDYzbXVFbGJ3ZDhPVW9GVWcwQ0ZTX3BmWl9kcUN1WmctY21nTGRU?oc=5",
+      "publishedAt": "2026-07-12T21:59:47.000Z",
       "tone": 0.05,
-      "teamId": "norway"
+      "teamId": "czech-republic"
     },
     {
-      "id": "gnews-28-u6awi7",
-      "title": "全球媒体关注：2026 世界杯最新动态汇总，情绪中性｜ESPN",
-      "source": "ESPN",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPYzZTT3UwM0pXTURfeS1SN2hqWTFXNDM4dzBnUGFvSmNBMUtnOG5BSExLSGpVZV92MVpENGNkNWlnWFhrbXhOUjR3MzlBamQ4NVBOOVpDLWk5amY5dmprWVY0aGhiS1pTcGpXMlByMjRibXVQbGE0b1BSbjBYaTdhdFZHSDFjS1Z5M2JSOS02LTExcGM1aW91aTFFeWZZWWZQbkhNSA?oc=5",
-      "publishedAt": "2026-07-12T10:52:00.000Z",
+      "id": "gnews-28-1rw0kin",
+      "title": "阿根廷赛果与淘汰赛走势成为焦点，情绪中性｜Al Jazeera",
+      "source": "Al Jazeera",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1aY1lwQ1YtbUhBYWZtLWhjc3AtU0ZFMXZ4QlpsZ2h6RHNFMG13eGRVZnNqaC1TV2xpZExvSjBobGRrOXRXakhxamZMS2NZRktadWN4UGZVcHpMS0hVV3lSbU1yenlyRDBlVHduM0M1SHBlWTlGUmNnNC0tLWowd9IBgwFBVV95cUxPUUhxU3c2VThHblJ3STZWcDBlUmNIQlE0aUxUVjNKYVNCdlo1Y3RhekVLU1JsU1JYdlpyZHhnXzNKX2xITGFoazN6VmY5dWptY0cxYktFSXBDUHFWUTJ2RVpFR09TT1pUb29OMkhYN2V0SE9oejgyT29zTEhCSlN3VjJGVQ?oc=5",
+      "publishedAt": "2026-07-13T05:57:56.000Z",
       "tone": 0.05,
-      "teamId": "spain"
+      "teamId": "norway"
     },
     {
       "id": "gnews-29-1gw79ym",
@@ -9644,15 +9641,24 @@
       "teamId": "portugal"
     },
     {
-      "id": "gnews-30-gqdyvn",
-      "title": "全球媒体关注：2026 世界杯最新动态汇总，情绪中性｜The New York Times",
+      "id": "gnews-30-1vz5fze",
+      "title": "全球媒体关注：2026 世界杯赛程与小组形势更新，情绪中性｜The New York Times",
       "source": "The New York Times",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOdHJ0aEVaZkV1cm96c1RHYnJ2cml5M2FtLUpBNEdnR3ZsSGxuYW5Lay1PYlBkMERlS19tN0UzdDZ2bTl3a0tOTF9lRm5CeXdBcnlJNU56alZOT0l6cmU3UjkzcDY0UEhKbXNEWVEzMzMyWVYyUmUtZVZJbHFTMG5TbllVRE8tV0w1enNSaUZfSjN5STlNN3lJOGN2MmItX0VPYlYxem9nX3Y0OU5LY1lIWXQ3LUgydw?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxObjJzbGhYRm42b3k3R3htUTZPQXFWV2RILTl2ZzlXYWtxN3Jvel9XWklOYTF4ZXEwbDgtWGVfWHhoWHZQeWFPTk1EckFhQTI3WFFrbERvazNQSmtINXZFWG9udldTTjZHZHQySmJRVXJpS1RzSDFNMHg2Q1JkMnJnak5nSzQ?oc=5",
       "publishedAt": "2026-07-12T09:02:38.000Z",
       "tone": 0.05
     },
     {
-      "id": "gnews-31-1jqfek4",
+      "id": "gnews-31-1huapo3",
+      "title": "英格兰最新动态汇总，情绪中性｜olympics.com",
+      "source": "olympics.com",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQSjEyeWNWSHUyZ2lhVDBfMW9fd3NjMUYzdGo1RTMwZDZNaDhsaE54VlotR1Fsa2RFVXltdEpqcEE5MWtUTkdUNmZWUkpoUkxMcV9wWklnR2FCbU1jampGVlhCaC12bmphUF9jYTZMT3ozTUtmV1ZSeXF3cDROUHNlZlctM0hENWlOWmgwVF9xTXVZSmZYcE9UTGw2NkFjT1hnekVhSmk4UTN6TzA?oc=5",
+      "publishedAt": "2026-07-12T10:06:00.000Z",
+      "tone": 0.05,
+      "teamId": "scotland"
+    },
+    {
+      "id": "gnews-32-1jqfek4",
       "title": "全球媒体关注：2026 世界杯赛程与小组形势更新，情绪中性｜ESPN",
       "source": "ESPN",
       "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNazBRZDFsYjkyM1lXUGRBZzU2c3FfaHdOTWNtTUZGMWZhR1FCdDd1LTJ5U0VBN1FHbFZWRndrMzZVUTNGUFZqa3A5U3pLT1lreXNMZllmU2pPQUFFOGhCTEJoZHlnWFM3VU1xM0ZxNWJiZG4zMTA5OTZqQUlzUGp3Zm1tSXpWeGViTEFvdUVaaTgtcVdUTnZqX2F3eFdKWnNsTHBFRUl3OVVxTF91TE5udTZlNVF5UTFoU2hpdjJjSDdKZE5JNV9XNENMS290NWtu?oc=5",
@@ -9661,7 +9667,42 @@
       "teamId": "turkey"
     },
     {
-      "id": "gnews-32-14heqqe",
+      "id": "gnews-33-16eo01w",
+      "title": "全球媒体关注：2026 世界杯赛程与小组形势更新，情绪中性｜Radio Times",
+      "source": "Radio Times",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQRG5zTHJpTkkxRzJITm5mRlIxMTI1MEtPaGYtcWxwcnoxaGR2Z1loYXQ3aTFpVGJ6SHhBWV9oemtFSGtrTzNLSUEwcktpUVp5Ul9SLXhTX0dQVkJkMDZsVFV1VS1tUlkxVWVyV1QyTGR1ZDU0dUhGOFNYQUtOeUtVZXhVWQ?oc=5",
+      "publishedAt": "2026-07-13T04:23:54.000Z",
+      "tone": 0.05,
+      "teamId": "turkey"
+    },
+    {
+      "id": "gnews-34-soqdwf",
+      "title": "阿根廷赛果与淘汰赛走势成为焦点，情绪中性｜Sky Sports",
+      "source": "Sky Sports",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPaEhHdTlLd0VGY0VpTkxUSmVDa25qRkNCQUkta1lueVJaQ0NaRWZva1ZmN1RjeGhZRGxiZXhPa0daRk1fZVlBMDhibmdDT19FZWw3RVpVZWJKMnEtb3VfVThMZDVpT3MzVGhyVW8zaFN4M1NkaFFYOV85OHd2ZDFIQVpDWVN6cTBEZW42S29Sa3M0RjJCSUNzZFZR?oc=5",
+      "publishedAt": "2026-07-13T07:52:20.000Z",
+      "tone": 0.35,
+      "teamId": "scotland"
+    },
+    {
+      "id": "gnews-35-u6awi7",
+      "title": "全球媒体关注：2026 世界杯最新动态汇总，情绪中性｜ESPN",
+      "source": "ESPN",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPYzZTT3UwM0pXTURfeS1SN2hqWTFXNDM4dzBnUGFvSmNBMUtnOG5BSExLSGpVZV92MVpENGNkNWlnWFhrbXhOUjR3MzlBamQ4NVBOOVpDLWk5amY5dmprWVY0aGhiS1pTcGpXMlByMjRibXVQbGE0b1BSbjBYaTdhdFZHSDFjS1Z5M2JSOS02LTExcGM1aW91aTFFeWZZWWZQbkhNSA?oc=5",
+      "publishedAt": "2026-07-12T10:52:00.000Z",
+      "tone": 0.05,
+      "teamId": "spain"
+    },
+    {
+      "id": "gnews-36-u9exwo",
+      "title": "全球媒体关注：2026 世界杯最新动态汇总，情绪中性｜Radio Times",
+      "source": "Radio Times",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOa09pYWNhc2o3OE5NdFZac3pPQ3BNOVBFRHp2WGJlRDNZZWJmd2tZc3B3MGxqWVZWblJtR3hKUkZ3Mm8xYVlfSEd5ZDB5UEl1RFhFU1lYb0FqOEdZOVhib2R5UU4yYnBGNWVZeGFrNktsdVVvVFkwRTdLZVBIUk1JWFV5eFQ?oc=5",
+      "publishedAt": "2026-07-13T00:57:39.000Z",
+      "tone": -0.35
+    },
+    {
+      "id": "gnews-37-14heqqe",
       "title": "墨西哥商业、出行与观赛服务升温，情绪中性｜Sky Sports",
       "source": "Sky Sports",
       "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxOay1vMlA4d3VvMTlLUVl3b1ZUXzJLWFVaY1JxZ1hxMVI4VlJoRGEyZEd6aFVxM2EzYjlsdDdYX3JaYWJrSTFsQlUxckJadzN0ck9od01McEFheUJJVmMtXzZRQUZwTkU3Q2pvbXNfelp0ak1UVWlqOWtXNGl3azR4MVkyMXZUZ01STFlqQ3VfS3FWN3NIVHhhY05YdFo5QVptcjgzNEFUb2VLeUNBYnl4YjNPWDFIQmtzaXdTcVFqaGFEVExOSURhd19ab1BrNGxBV2lIZlZuajdwS1dZcE0zaVBwMHBnSXZ2X0dsTEdzcjBDQUV6TWtiZg?oc=5",
@@ -9670,42 +9711,7 @@
       "teamId": "portugal"
     },
     {
-      "id": "gnews-33-aum41h",
-      "title": "全球媒体关注：2026 世界杯赛果与淘汰赛走势成为焦点，情绪中性｜Yahoo Sports",
-      "source": "Yahoo Sports",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNenRpaF9FY0ljWFpEZl9UeDI1YV9aa1BCNU0tTkRDOUNFSFMtUk1hWjlHRzltd1JWRGxkWU9PZ0dLdHVGb3FYbnV6bVhRemJLMG05ZmdYQkRBX24xblhtWXJRel9TZWhpR1F5N1F5WXlFNktpWHdvSFp4ekUwbWhodkNsc3lNd2JlWEVuZg?oc=5",
-      "publishedAt": "2026-07-13T00:00:00.000Z",
-      "tone": 0.05,
-      "teamId": "portugal"
-    },
-    {
-      "id": "gnews-34-115kxgk",
-      "title": "阿根廷赛果与淘汰赛走势成为焦点，情绪中性｜Reuters",
-      "source": "Reuters",
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQNk1HNTZCUDdraUpKQUlMcFZsYU9LYVVWTXFoRTFjNVZsQ2lHYngyaDNsaHJMWldYSm9FZVJzQ3oxSy1rOXFIMVhtSFBXWmtWRFBNV3ZROHd0czgxRlhrTDBEaFc1NldFelk4RmZNb0k5YVFqYjJIVkMtUi1YTklkZm54TTh1cU04NEhIOXNScEtVV0FKUnRMeEk1MXQ1MnA5LW1ZY0xYNkdyV1ljTkdkS3lsTEh0WG9FU0ZtZm44d1dXTWZGODdz?oc=5",
-      "publishedAt": "2026-07-12T19:23:16.000Z",
-      "tone": 0.05,
-      "teamId": "argentina"
-    },
-    {
-      "id": "gnews-35-soqdwf",
-      "title": "阿根廷赛果与淘汰赛走势成为焦点，情绪中性｜Sky Sports",
-      "source": "Sky Sports",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPaEhHdTlLd0VGY0VpTkxUSmVDa25qRkNCQUkta1lueVJaQ0NaRWZva1ZmN1RjeGhZRGxiZXhPa0daRk1fZVlBMDhibmdDT19FZWw3RVpVZWJKMnEtb3VfVThMZDVpT3MzVGhyVW8zaFN4M1NkaFFYOV85OHd2ZDFIQVpDWVN6cTBEZW42S29Sa3M0RjJCSUNzZFZR?oc=5",
-      "publishedAt": "2026-07-13T04:30:59.000Z",
-      "tone": 0.35,
-      "teamId": "scotland"
-    },
-    {
-      "id": "gnews-36-sy2jh0",
-      "title": "全球媒体关注：2026 世界杯最新动态汇总，情绪中性｜The New York Times",
-      "source": "The New York Times",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQU1lQYXQwdVpETWlaY1NGVEJHMnpvMFRjTEo4N3MxZlpyUUhfUllFMkI4RldkZ1o3bVRDZDZxT2EtZnpPWGRwRUNrQTVJbnRYXzd3VGQycEtJWXZnVTRVMU9LeXJmS1FfYVhGM3Qtd0tSSHBZYy15YVB3dEJwT082ZzJKNEI0Z1QzZ3M2QVVwWnhKd0laQTlwQzlTMmRtU1pBUE85cW5OdzMwY3AtSXJoVkp6U2w?oc=5",
-      "publishedAt": "2026-07-12T09:02:46.000Z",
-      "tone": 0.05
-    },
-    {
-      "id": "gnews-37-1iyyybo",
+      "id": "gnews-38-1iyyybo",
       "title": "全球媒体关注：2026 世界杯赛程与小组形势更新，情绪中性｜Al Jazeera",
       "source": "Al Jazeera",
       "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQZTNxcTBEWldJQmdINHBSNkF3TUhYbDFNX2c4T1ZDQmREZ1FQT3F2b003MEtNNU5aV0lZZXBmcWRReWIwbVA4WGM2c2ZPOXg2YjN3by1uYW1FZ0RIeDBTWi1tZENwem1IMDZwbU9wbHR1ajM4VFFQU29pb2p0aExNTFQ0ZVZrMExnbXJPMWJfZEYyMTczQ0Q5RlZXanR2eE9uemlXZEZjcmVBekRmXzUzR2o4WXo5Z9IBuwFBVV95cUxQbUg0NXZzZXFKTDcxR0dHOUl4VEZCYXJ0cHp1S0cwMVNnN2xkODBIZzEwLXJTOFBLSldZeGNrUXdKbnkwd3RVMHZLSkl0akpoWGpqdHpiSHUyZktydkRDbk1CRjBNUzg1NmdFSFFhckppWmVMd3JVelRPTl90T3JQcER2R09jdUpGekhKMGxlRV9kM205UGktcDNfTGVoSjNuekFPZmE4Y2pIdktwVDNkb0hJWGdsdUoxdTNV?oc=5",
@@ -9713,31 +9719,21 @@
       "tone": 0.05
     },
     {
-      "id": "gnews-38-12mtje3",
-      "title": "阿根廷最新动态汇总，情绪中性｜rg.org",
-      "source": "rg.org",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxONEFicmtBd2QybWxvUDBvaExKQXphejNCM3M4ejEtc3N1UHpEdEVqZzU0MU5IOUhLamh4M3FUODlZYUhBSU9FRjFRblRzNFVfeW1mLXlfQXcxbklfbF96SHhmcDJnLXVPUVBmWXdZNEVWZXBwWDhwdERjdjhYOVNhRWJvcG4zRWhh?oc=5",
-      "publishedAt": "2026-07-12T15:07:26.000Z",
+      "id": "gnews-39-2fi7n1",
+      "title": "全球媒体关注：2026 世界杯赛程与小组形势更新，情绪中性｜Yahoo Sports",
+      "source": "Yahoo Sports",
+      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNaFNrMEJKOHAwQWVGclIwNkNnckVOUlJZOEVLcl96MU1JYXo2Zm0wLS05UjJyd3ctZmFuVnFLV3FzQ2tsWEZzVWY3TUxEMnN6Rkw3RFUtR19QZHgzUks5TVlQa2Y1bk5LYV9XTzI5WG80eUZJTjRnTTNacHdMRXRVM1VPeWoxUWZYQjJoVFJlUTcwN0F6VkRLcjRJM21vSEFmZ2lBQ0VXSU5Nbmg4YWVISWI0NHN1c2hzMEEyTkxiWGtSUTJIODNILXI1OXdtSm4zeGlJbkFLSmhGMkk?oc=5",
+      "publishedAt": "2026-07-11T16:07:05.000Z",
       "tone": 0.05,
-      "teamId": "argentina"
+      "teamId": "portugal"
     },
     {
-      "id": "gnews-39-1ygs7dc",
-      "title": "英格兰最新动态汇总，情绪中性｜Reuters",
-      "source": "Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPVlFOZVk0OEw0Tl92ODItRlZFQlREc1MtdEFCLW1wLWFYNEZXODBuanNuVklwR00wbV9mQTZuc1RsNjl1UHZubXBUNDFKU1NuSmtTR2F6dGFyWGRJVUF4b0FVTGFpWllvWUJuc1J1dEkwVXQ3UzhYSElkSGM4MXZycHJIbTQ0OURZTmE0ZEJFRmVXRE5XUGZTc0FnM0hBNTJIMlVj?oc=5",
-      "publishedAt": "2026-07-12T18:56:13.000Z",
-      "tone": 0.05,
-      "teamId": "england"
-    },
-    {
-      "id": "gnews-40-16eo01w",
-      "title": "全球媒体关注：2026 世界杯赛程与小组形势更新，情绪中性｜Radio Times",
-      "source": "Radio Times",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQRG5zTHJpTkkxRzJITm5mRlIxMTI1MEtPaGYtcWxwcnoxaGR2Z1loYXQ3aTFpVGJ6SHhBWV9oemtFSGtrTzNLSUEwcktpUVp5Ul9SLXhTX0dQVkJkMDZsVFV1VS1tUlkxVWVyV1QyTGR1ZDU0dUhGOFNYQUtOeUtVZXhVWQ?oc=5",
-      "publishedAt": "2026-07-12T20:36:19.000Z",
-      "tone": 0.05,
-      "teamId": "turkey"
+      "id": "gnews-40-mcnoxd",
+      "title": "全球媒体关注：2026 世界杯赛果与淘汰赛走势成为焦点，情绪中性｜The Guardian",
+      "source": "The Guardian",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOTlRuaURudjZMN1JZV2VZSWlSVFNLUS0ycThYLXpFM19oSmYwWmtQVVRNczhzUS0zN2Nla3gwMnBrRFFHdzRLV0lmaUN3bGlGX0hfSVRObEMwV05fclVkckd2aVN6U3NJZTVKY3NOb3dFSm1jdWVuQzFGeHZwUlZWeFp6WVRycTlGYk43S19hY3A0OTZfbHdqMFhZdFZlVmZpOWFlQTd6MlJDbDRfWUE?oc=5",
+      "publishedAt": "2026-07-12T19:40:00.000Z",
+      "tone": 0.05
     },
     {
       "id": "gnews-41-1nb1wxn",
@@ -9749,33 +9745,25 @@
       "teamId": "norway"
     },
     {
-      "id": "gnews-42-16c6bv0",
-      "title": "法国最新动态汇总，情绪中性｜Yahoo Sports",
-      "source": "Yahoo Sports",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNdlFOVHpRSG5KT19uMG1Wb0FaSVEzQTYwVlEyaHgzcFlzeEUyUTRqQ1VRc1YxZGVMbWk2YzBIVGgxM01lekNWQ2phT2JPZHVfQ2RZeEVTRUxWWHRUTVRFV2NmZ2Fwa1BoQlctVW5yV1NCN0R5N1hEYktzd25WcTB1SA?oc=5",
-      "publishedAt": "2026-07-12T20:58:48.000Z",
+      "id": "gnews-42-87cqb4",
+      "title": "全球媒体关注：2026 世界杯赛程与小组形势更新，情绪中性｜The New York Times",
+      "source": "The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOdW9mUDVrY1ZDMmpjeFJGcXQ2V3VtdjNUaHAtbWYwcFdIRGM1dGRXMmZBeEM2MVFKYVJ1d1MtT2xCZ0F6SmxvTXl3NG1pMU9lUWxvYWlMMERjbDJIQ0VKaTNlTXBTZXZQWnYtY2pvdzdaVUVocWhZdHliekxKWW45eEV5RnJDN1NwdnJFTkVkOVRpMnhYbEEyZV9ua2kwWE5kX1dmYw?oc=5",
+      "publishedAt": "2026-07-12T09:02:38.000Z",
       "tone": 0.05,
-      "teamId": "france"
+      "teamId": "scotland"
     },
     {
-      "id": "gnews-43-11dujac",
-      "title": "全球媒体关注：2026 世界杯赛果与淘汰赛走势成为焦点，情绪中性｜Al Jazeera",
-      "source": "Al Jazeera",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPSjVvME1XR2E3M19QSkhMdUM0aENzUTRoT0xnaEttVDFOWnBoTVhXSm1EZDF4Vk0tSjBPOTBuWmVIclVYb1Z3RkRCWHhqX2pzaW5Gdm5zMEZ0TlllWEZ4bEdPQ3R3bkFtSWprWVd1QWw0WGUxOU45dFF2UUROclAtMlhpcUF0V0lsQk1kY2hOaW9YMW4yX1owVFdqWVZYVGJEX2NRMk9n0gGrAUFVX3lxTE8xWWgzRXJLYmZCUGt2RjVLbGxXSktlMHBDUHJwMjRfczVuY2hsaVZ3VGNsdHFDbm9HNjhDZlhDTjNsZ3ltSEZBc3dRaVowWGlQdS1BNFNHbUU5M0ZCcjUxYTlvQkZvNnJjNXdqWUtNWTRmeWh4RFhMOUdEaU1kYnJqUldZNWxyM18yel9ubi1DcXVlTlZXZTRHZmtUeVJOMndMN0ljQWhkSFhwMA?oc=5",
-      "publishedAt": "2026-07-12T12:26:08.000Z",
-      "tone": 0.05
-    },
-    {
-      "id": "gnews-44-2fi7n1",
-      "title": "全球媒体关注：2026 世界杯赛程与小组形势更新，情绪中性｜Yahoo Sports",
-      "source": "Yahoo Sports",
-      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNaFNrMEJKOHAwQWVGclIwNkNnckVOUlJZOEVLcl96MU1JYXo2Zm0wLS05UjJyd3ctZmFuVnFLV3FzQ2tsWEZzVWY3TUxEMnN6Rkw3RFUtR19QZHgzUks5TVlQa2Y1bk5LYV9XTzI5WG80eUZJTjRnTTNacHdMRXRVM1VPeWoxUWZYQjJoVFJlUTcwN0F6VkRLcjRJM21vSEFmZ2lBQ0VXSU5Nbmg4YWVISWI0NHN1c2hzMEEyTkxiWGtSUTJIODNILXI1OXdtSm4zeGlJbkFLSmhGMkk?oc=5",
-      "publishedAt": "2026-07-11T16:07:05.000Z",
+      "id": "gnews-43-115kxgk",
+      "title": "阿根廷赛果与淘汰赛走势成为焦点，情绪中性｜Reuters",
+      "source": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQNk1HNTZCUDdraUpKQUlMcFZsYU9LYVVWTXFoRTFjNVZsQ2lHYngyaDNsaHJMWldYSm9FZVJzQ3oxSy1rOXFIMVhtSFBXWmtWRFBNV3ZROHd0czgxRlhrTDBEaFc1NldFelk4RmZNb0k5YVFqYjJIVkMtUi1YTklkZm54TTh1cU04NEhIOXNScEtVV0FKUnRMeEk1MXQ1MnA5LW1ZY0xYNkdyV1ljTkdkS3lsTEh0WG9FU0ZtZm44d1dXTWZGODdz?oc=5",
+      "publishedAt": "2026-07-12T19:23:16.000Z",
       "tone": 0.05,
-      "teamId": "portugal"
+      "teamId": "argentina"
     },
     {
-      "id": "gnews-45-apmv40",
+      "id": "gnews-44-apmv40",
       "title": "全球媒体关注：2026 世界杯最新动态汇总，情绪中性｜FOX Sports",
       "source": "FOX Sports",
       "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1KQ3JsMFZaWnhERjRxajVDdm5SN2o0dzdXTFRRREVycFN4TnhhNEZjNmw2Wng4NEVTbEtFSWRLdC1SczdQcjRyYTZUYVU5cjhJUGtSWHJhVzY4MHpfTkNidWdNLTBRU1Ewd3FpYmlqbmxhdEdEa0Q4bG9Vc3LSAXxBVV95cUxNbGkwY0JFM1B1dEpBa2tpT0NYVUNvSTZQcmN4b2JyYWMzbWR0dEw5N2VRMFprWUJ0M2QtcDdlQ0swMWhzUERESE5Dbnp0cHV5Zkp0VzM2SHFYUnJxeUt2OTBWcUpnZVl3ZDgzMmlENEVHQms1RXdHNXhaUlBQ?oc=5",
@@ -9784,16 +9772,33 @@
       "teamId": "netherlands"
     },
     {
-      "id": "gnews-46-1wbf6us",
-      "title": "阿根廷最新动态汇总，情绪中性｜The Guardian",
-      "source": "The Guardian",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNLXJXT3V3UkxodUxrWXZ0MDctZXVPRzVfdTVGMTk3c2JGNjdFS3RUYklTQ1E0Y3pzVUQtUWx6QlFVaU9OcGQzVXBfaENNdHNyd25VYW1LekR4a3Q3d0sydGZ2bUE2bGJiMXA0aFA3b2FhQnd0dkVWVi1kU210WmlxQnlGYjZxOUZJWVNYcUxtOFR2Q1lPdVRUdHItVlRXX2Jx?oc=5",
-      "publishedAt": "2026-07-13T01:30:00.000Z",
+      "id": "gnews-45-1ygs7dc",
+      "title": "英格兰最新动态汇总，情绪中性｜Reuters",
+      "source": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPVlFOZVk0OEw0Tl92ODItRlZFQlREc1MtdEFCLW1wLWFYNEZXODBuanNuVklwR00wbV9mQTZuc1RsNjl1UHZubXBUNDFKU1NuSmtTR2F6dGFyWGRJVUF4b0FVTGFpWllvWUJuc1J1dEkwVXQ3UzhYSElkSGM4MXZycHJIbTQ0OURZTmE0ZEJFRmVXRE5XUGZTc0FnM0hBNTJIMlVj?oc=5",
+      "publishedAt": "2026-07-12T18:56:13.000Z",
       "tone": 0.05,
-      "teamId": "argentina"
+      "teamId": "england"
     },
     {
-      "id": "gnews-47-1ixdw15",
+      "id": "gnews-46-zgtzic",
+      "title": "法国赛程与小组形势更新，情绪中性｜UEFA.com",
+      "source": "UEFA.com",
+      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOeUpNVURDQk9zTXVhLVlJUmlJU1FiNmh1TmZlZkxwb2RPMXdmSDZCSlVBRWtGWVItdlN4Vm9fSUFPX2JUY1pFQVJZZDVoMERDWkxBZ3hZcW9KMGlNM0RWLXlNbUR6WjMwaWxqbFRPYnBhVVhocHdIOFUtUGc2QTVYUzllNDFuNlRkbmp1TXdlLWRDNUx3WjZlSHM2VTlOdDd1aWhpbFdCZzQ3bjVySVBIM19qN2UxaHIxSFIyVjd3c3RBRVMyWldYNE5pMUd6ZzgyOFk3ZTNUSQ?oc=5",
+      "publishedAt": "2026-07-13T06:07:23.000Z",
+      "tone": 0.05,
+      "teamId": "turkey"
+    },
+    {
+      "id": "gnews-47-gqdyvn",
+      "title": "全球媒体关注：2026 世界杯最新动态汇总，情绪中性｜The New York Times",
+      "source": "The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOdHJ0aEVaZkV1cm96c1RHYnJ2cml5M2FtLUpBNEdnR3ZsSGxuYW5Lay1PYlBkMERlS19tN0UzdDZ2bTl3a0tOTF9lRm5CeXdBcnlJNU56alZOT0l6cmU3UjkzcDY0UEhKbXNEWVEzMzMyWVYyUmUtZVZJbHFTMG5TbllVRE8tV0w1enNSaUZfSjN5STlNN3lJOGN2MmItX0VPYlYxem9nX3Y0OU5LY1lIWXQ3LUgydw?oc=5",
+      "publishedAt": "2026-07-12T00:31:00.000Z",
+      "tone": 0.05
+    },
+    {
+      "id": "gnews-48-1ixdw15",
       "title": "英格兰赛程与小组形势更新，情绪中性｜Business and Investment Development Agency - CzechInvest",
       "source": "Business and Investment Development Agency - CzechInvest",
       "url": "https://news.google.com/rss/articles/CBMi6gNBVV95cUxQSlpRRGljeDBhWlExQ2JZbS1pa1lfcGlzYVJpOWlTYlc1dk9La1NrVVJUY0lfeF8yVjhUTTVud2hNRUx6cW1IanlMT21ZWllxdG9rX2ZrTlZDM2hlM1ZrWC1NaHBFdmtQZGk3dWtlQzFsalZJbE1pTVJqWVhHTHM3RUJjM01lQ2F5YVpvVmxFVTB3OExJVGxLZWY4VXFZUmpUem53UUstMFVfOGRPNlZZV2JmOVR1cVh4dUtqZXN0d04yMDJmXzJuZWpwTjdSY0Y5dE9ja1FNS3FKNVVqbUdwMUh1alNMbnFFUmNxRjcyMWFqaGNSUjVuZUJaMTJTcUtJMGFzV0Utclp6YVhBcVZVX3Rnb3QyWUE5UTNoLXhJS2pxLXFDSVhSdU9WaGZubndua28wTkdPRlptN1BGZDQ5Tkh4Qk1ENlh2T2UwVElOWnZlQkVaZmVQR2pJZEVpbDJ0eVVGczlfX2oydzNaVGlGcnhLQlh5NFRaQnNDVDRrLWZ4ZnhRSGwxZG5tNUFXbzNUY0o3bmJtaWJoeTdoU1l6bWE4UHRWeGlZZWkyc201SVloWXotbDk2SWdxTHJFcTRLcVpjS3F6YkFpYVJuTk9KSnQtaW1BVGZQNWZhT25oU3V0ZzUtVUZpWEJR?oc=5",
@@ -9802,21 +9807,13 @@
       "teamId": "norway"
     },
     {
-      "id": "gnews-48-czulsw",
-      "title": "阿根廷赛果与淘汰赛走势成为焦点，情绪中性｜Al Jazeera",
-      "source": "Al Jazeera",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQOGo3TkRzUFktRm9HTjVHZU0ySUNNQW1RekxFNE85aTNYX2wtMWRvb0pyMFNNQTQ4MVRjbWZzWWx3S2lkZnhUdFVBY21fQXQ1VXFjOFk3VWx1dFRhZ0V3YkJMZkdxTjhQcUY2eWFRWGZHV29USHA3WENKZTlWMEc5YmtmZkpQNjdIc3dvWlVsNWo5TGg2TGNrSGFVekdOMzdHcDdxQ0ZyV3J4UU1iY28ycHY0ZDhuMjFnVUttWDFxSdIBxAFBVV95cUxNZ0dlV2Z6Yk9sSzBCdVp0Z2J6YUlDTzhlTEhRTkVkUkFtS2t0dTNWV3U1UHRkS3hFSjVrRER6SFU3Y2V1dWUzYVBxMmFPU2hJa0R3S0xxWDdab3lRUm1aSjQ1UWdMUm5nenRwZ2dJWUh2ZVl0eFBQU2w1dHdWZGlnMGpsRm5jSy11d2pFaGRFenU0NTdZbzItQmRxU2hNMEdyV0FlcUxWWU9wM0lKTWRUa19mbFRQbVlyc2NEVndyVDRuR2Jf?oc=5",
-      "publishedAt": "2026-07-12T19:35:39.000Z",
+      "id": "gnews-49-aum41h",
+      "title": "全球媒体关注：2026 世界杯赛果与淘汰赛走势成为焦点，情绪中性｜Yahoo Sports",
+      "source": "Yahoo Sports",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNenRpaF9FY0ljWFpEZl9UeDI1YV9aa1BCNU0tTkRDOUNFSFMtUk1hWjlHRzltd1JWRGxkWU9PZ0dLdHVGb3FYbnV6bVhRemJLMG05ZmdYQkRBX24xblhtWXJRel9TZWhpR1F5N1F5WXlFNktpWHdvSFp4ekUwbWhodkNsc3lNd2JlWEVuZg?oc=5",
+      "publishedAt": "2026-07-13T00:00:00.000Z",
       "tone": 0.05,
-      "teamId": "argentina"
-    },
-    {
-      "id": "gnews-49-u9exwo",
-      "title": "全球媒体关注：2026 世界杯最新动态汇总，情绪中性｜Radio Times",
-      "source": "Radio Times",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOa09pYWNhc2o3OE5NdFZac3pPQ3BNOVBFRHp2WGJlRDNZZWJmd2tZc3B3MGxqWVZWblJtR3hKUkZ3Mm8xYVlfSEd5ZDB5UEl1RFhFU1lYb0FqOEdZOVhib2R5UU4yYnBGNWVZeGFrNktsdVVvVFkwRTdLZVBIUk1JWFV5eFQ?oc=5",
-      "publishedAt": "2026-07-12T15:55:33.000Z",
-      "tone": -0.35
+      "teamId": "portugal"
     }
   ]
 }
