@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-14T20:20:19.163Z",
+  "updatedAt": "2026-07-14T22:09:12.834Z",
   "sources": [
     "https://worldcup26.ir/get/teams",
     "https://worldcup26.ir/get/games",
@@ -3426,9 +3426,9 @@
       "position": "AM",
       "goals": 0,
       "assists": 0,
-      "shots": 2,
-      "shotsOnTarget": 1,
-      "xg": 0.32,
+      "shots": 4,
+      "shotsOnTarget": 2,
+      "xg": 0.64,
       "image": "/player-photos/julian-quinones-20260701.png",
       "headline": "本届进球球员"
     },
@@ -8888,9 +8888,9 @@
       "awayTeamId": "spain",
       "homeTeamLabel": "Winner Match 97",
       "awayTeamLabel": "Winner Match 98",
-      "status": "live",
+      "status": "finished",
       "homeScore": 0,
-      "awayScore": 1,
+      "awayScore": 2,
       "odds": {
         "home": 2.34,
         "draw": 3.33,
@@ -8898,19 +8898,25 @@
       },
       "stats": {
         "homeShots": 11,
-        "awayShots": 13,
+        "awayShots": 15,
         "homeShotsOnTarget": 4,
-        "awayShotsOnTarget": 6,
+        "awayShotsOnTarget": 7,
         "homePossession": 54,
         "awayPossession": 46,
         "homeCorners": 4,
-        "awayCorners": 4
+        "awayCorners": 5
       },
-      "scorers": [],
-      "summary": "法国 对 西班牙 正在进行，当前比分 0-1。",
+      "scorers": [
+        {
+          "playerName": "Pedro Porro",
+          "teamId": "spain",
+          "minute": 58
+        }
+      ],
+      "summary": "法国 0-2 西班牙，比赛已结束。",
       "highlights": [
-        "防守质量高于进攻转化",
-        "门将和定位球成为关键变量"
+        "58' 外文名：Pedro Porro 改写比分",
+        "法国 对阵 西班牙 技术统计已生成"
       ]
     },
     {
@@ -9493,7 +9499,15 @@
       "tone": 0
     },
     {
-      "id": "gdelt-12-1oxy99z",
+      "id": "gdelt-12-tm2btk",
+      "title": "全球媒体关注：2026 世界杯最新动态汇总，情绪中性｜creativebloq.com",
+      "source": "creativebloq.com",
+      "url": "https://www.creativebloq.com/design/advertising/the-good-the-bad-and-the-ai-of-world-cup-2026-adverts",
+      "publishedAt": "2026-05-12T08:15:00.000Z",
+      "tone": 0
+    },
+    {
+      "id": "gdelt-13-1oxy99z",
       "title": "法国赛程与小组形势更新，情绪中性｜economictimes.indiatimes.com",
       "source": "economictimes.indiatimes.com",
       "url": "https://economictimes.indiatimes.com/news/new-updates/fifa-world-cup-2026-today-match-schedule-15-july-france-vs-spain-match-time-in-india-venue-semifinal-preview-standings-and-live-streaming-details/articleshow/132398811.cms",
@@ -9502,21 +9516,13 @@
       "teamId": "france"
     },
     {
-      "id": "gdelt-13-fa1e56",
+      "id": "gdelt-14-fa1e56",
       "title": "阿根廷最新动态汇总，情绪中性｜hola.com",
       "source": "hola.com",
       "url": "https://www.hola.com/us/entertainment/20260714912821/argentina-fifa-world-cup-2026-locker-room-chant-meaning/",
       "publishedAt": "2026-07-14T16:30:00.000Z",
       "tone": 0,
       "teamId": "netherlands"
-    },
-    {
-      "id": "gdelt-14-tm2btk",
-      "title": "全球媒体关注：2026 世界杯最新动态汇总，情绪中性｜creativebloq.com",
-      "source": "creativebloq.com",
-      "url": "https://www.creativebloq.com/design/advertising/the-good-the-bad-and-the-ai-of-world-cup-2026-adverts",
-      "publishedAt": "2026-05-12T08:15:00.000Z",
-      "tone": 0
     },
     {
       "id": "gdelt-15-ugpip0",
@@ -9569,21 +9575,21 @@
       "teamId": "portugal"
     },
     {
-      "id": "gdelt-21-jicyme",
-      "title": "全球媒体关注：2026 世界杯最新动态汇总，情绪中性｜sbs.com.au",
-      "source": "sbs.com.au",
-      "url": "https://www.sbs.com.au/language/nepali/en/podcast-episode/nep-worldcup2026-p2-100726/3fzxhitmd",
-      "publishedAt": "2026-07-12T10:30:00.000Z",
-      "tone": 0
-    },
-    {
-      "id": "gdelt-22-3ctgv5",
+      "id": "gdelt-21-3ctgv5",
       "title": "墨西哥赛程与小组形势更新，情绪中性｜economictimes.indiatimes.com",
       "source": "economictimes.indiatimes.com",
       "url": "https://economictimes.indiatimes.com/news/new-updates/mexico-vs-ecuador-fifa-world-cup-2026-round-of-32-india-time-live-streaming-key-players-predicted-lineups-and-match-preview/articleshow/132099691.cms",
       "publishedAt": "2026-06-30T18:45:00.000Z",
       "tone": 0,
       "teamId": "ecuador"
+    },
+    {
+      "id": "gdelt-22-jicyme",
+      "title": "全球媒体关注：2026 世界杯最新动态汇总，情绪中性｜sbs.com.au",
+      "source": "sbs.com.au",
+      "url": "https://www.sbs.com.au/language/nepali/en/podcast-episode/nep-worldcup2026-p2-100726/3fzxhitmd",
+      "publishedAt": "2026-07-12T10:30:00.000Z",
+      "tone": 0
     },
     {
       "id": "gdelt-23-18pd2pm",
@@ -9729,16 +9735,7 @@
       "teamId": "paraguay"
     },
     {
-      "id": "gdelt-40-1qlbfkl",
-      "title": "全球媒体关注：2026 世界杯商业、出行与观赛服务升温，情绪中性｜marketing-interactive.com",
-      "source": "marketing-interactive.com",
-      "url": "https://www.marketing-interactive.com/who-needs-a-ticket-here-are-the-brands-bringing-world-cup-fever-beyond-the-stadium",
-      "publishedAt": "2026-07-14T11:30:00.000Z",
-      "tone": 0,
-      "teamId": "brazil"
-    },
-    {
-      "id": "gdelt-41-180wyss",
+      "id": "gdelt-40-180wyss",
       "title": "全球媒体关注：2026 世界杯球迷声量和社交媒体讨论上升，情绪中性｜birminghammail.co.uk",
       "source": "birminghammail.co.uk",
       "url": "https://www.birminghammail.co.uk/whats-on/shopping/amazons-world-cup-2026-water-34128761",
@@ -9747,13 +9744,22 @@
       "teamId": "belgium"
     },
     {
-      "id": "gdelt-42-1dufu4t",
+      "id": "gdelt-41-1dufu4t",
       "title": "全球媒体关注：2026 世界杯最新动态汇总，情绪中性｜mid-day.com",
       "source": "mid-day.com",
       "url": "https://www.mid-day.com/entertainment/korean-entertainment/article/blackpinks-lisa-joins-katy-perry-and-future-for-fifa-world-cup-2026-kick-off-23634979",
       "publishedAt": "2026-06-13T08:00:00.000Z",
       "tone": 0,
       "teamId": "turkey"
+    },
+    {
+      "id": "gdelt-42-1qlbfkl",
+      "title": "全球媒体关注：2026 世界杯商业、出行与观赛服务升温，情绪中性｜marketing-interactive.com",
+      "source": "marketing-interactive.com",
+      "url": "https://www.marketing-interactive.com/who-needs-a-ticket-here-are-the-brands-bringing-world-cup-fever-beyond-the-stadium",
+      "publishedAt": "2026-07-14T11:30:00.000Z",
+      "tone": 0,
+      "teamId": "brazil"
     },
     {
       "id": "gdelt-43-13rpvvz",
