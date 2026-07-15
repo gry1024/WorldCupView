@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-15T03:26:35.965Z",
+  "updatedAt": "2026-07-15T06:25:15.247Z",
   "sources": [
     "https://worldcup26.ir/get/teams",
     "https://worldcup26.ir/get/games",
@@ -9804,22 +9804,22 @@
       "tone": 0
     },
     {
-      "id": "gdelt-48-1q6cp20",
-      "title": "全球媒体关注：2026 世界杯最新动态汇总，情绪中性｜indiawest.com",
-      "source": "indiawest.com",
-      "url": "https://indiawest.com/nora-fatehi-to-perform-at-fifa-2026-opening-ceremony/",
-      "publishedAt": "2026-05-11T22:00:00.000Z",
-      "tone": 0,
-      "teamId": "norway"
-    },
-    {
-      "id": "gdelt-49-1qlbfkl",
+      "id": "gdelt-48-1qlbfkl",
       "title": "全球媒体关注：2026 世界杯商业、出行与观赛服务升温，情绪中性｜marketing-interactive.com",
       "source": "marketing-interactive.com",
       "url": "https://www.marketing-interactive.com/who-needs-a-ticket-here-are-the-brands-bringing-world-cup-fever-beyond-the-stadium",
       "publishedAt": "2026-07-14T11:30:00.000Z",
       "tone": 0,
       "teamId": "brazil"
+    },
+    {
+      "id": "gdelt-49-1q6cp20",
+      "title": "全球媒体关注：2026 世界杯最新动态汇总，情绪中性｜indiawest.com",
+      "source": "indiawest.com",
+      "url": "https://indiawest.com/nora-fatehi-to-perform-at-fifa-2026-opening-ceremony/",
+      "publishedAt": "2026-05-11T22:00:00.000Z",
+      "tone": 0,
+      "teamId": "norway"
     }
   ]
 }
