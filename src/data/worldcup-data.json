@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-15T21:12:03.807Z",
+  "updatedAt": "2026-07-15T23:09:15.326Z",
   "sources": [
     "https://worldcup26.ir/get/teams",
     "https://worldcup26.ir/get/games",
@@ -9550,7 +9550,15 @@
       "tone": 0
     },
     {
-      "id": "gdelt-13-1oxy99z",
+      "id": "gdelt-13-ugpip0",
+      "title": "全球媒体关注：2026 世界杯最新动态汇总，情绪中性｜timesofindia.indiatimes.com",
+      "source": "timesofindia.indiatimes.com",
+      "url": "https://timesofindia.indiatimes.com/education/news/five-things-every-student-should-know-before-the-fifa-world-cup-2026-kicks-off-tonight/articleshow/131658049.cms",
+      "publishedAt": "2026-06-11T12:30:00.000Z",
+      "tone": 0
+    },
+    {
+      "id": "gdelt-14-1oxy99z",
       "title": "法国赛程与小组形势更新，情绪中性｜economictimes.indiatimes.com",
       "source": "economictimes.indiatimes.com",
       "url": "https://economictimes.indiatimes.com/news/new-updates/fifa-world-cup-2026-today-match-schedule-15-july-france-vs-spain-match-time-in-india-venue-semifinal-preview-standings-and-live-streaming-details/articleshow/132398811.cms",
@@ -9559,21 +9567,13 @@
       "teamId": "france"
     },
     {
-      "id": "gdelt-14-fa1e56",
+      "id": "gdelt-15-fa1e56",
       "title": "阿根廷最新动态汇总，情绪中性｜hola.com",
       "source": "hola.com",
       "url": "https://www.hola.com/us/entertainment/20260714912821/argentina-fifa-world-cup-2026-locker-room-chant-meaning/",
       "publishedAt": "2026-07-14T16:30:00.000Z",
       "tone": 0,
       "teamId": "netherlands"
-    },
-    {
-      "id": "gdelt-15-ugpip0",
-      "title": "全球媒体关注：2026 世界杯最新动态汇总，情绪中性｜timesofindia.indiatimes.com",
-      "source": "timesofindia.indiatimes.com",
-      "url": "https://timesofindia.indiatimes.com/education/news/five-things-every-student-should-know-before-the-fifa-world-cup-2026-kicks-off-tonight/articleshow/131658049.cms",
-      "publishedAt": "2026-06-11T12:30:00.000Z",
-      "tone": 0
     },
     {
       "id": "gdelt-16-1j9286d",
@@ -9644,15 +9644,7 @@
       "teamId": "canada"
     },
     {
-      "id": "gdelt-24-jicyme",
-      "title": "全球媒体关注：2026 世界杯最新动态汇总，情绪中性｜sbs.com.au",
-      "source": "sbs.com.au",
-      "url": "https://www.sbs.com.au/language/nepali/en/podcast-episode/nep-worldcup2026-p2-100726/3fzxhitmd",
-      "publishedAt": "2026-07-12T10:30:00.000Z",
-      "tone": 0
-    },
-    {
-      "id": "gdelt-25-uxy3aw",
+      "id": "gdelt-24-uxy3aw",
       "title": "全球媒体关注：2026 世界杯最新动态汇总，情绪中性｜vietnamnet.vn",
       "source": "vietnamnet.vn",
       "url": "https://vietnamnet.vn/en/vietnam-s-u17-generation-backed-for-long-term-2034-world-cup-mission-2516244.html",
@@ -9660,7 +9652,7 @@
       "tone": 0
     },
     {
-      "id": "gdelt-26-f3rdca",
+      "id": "gdelt-25-f3rdca",
       "title": "全球媒体关注：2026 世界杯最新动态汇总，情绪中性｜skiddle.com",
       "source": "skiddle.com",
       "url": "https://www.skiddle.com/news/all/Best-places-to-watch-the-World-Cup-2026-in-London/61680/",
@@ -9668,11 +9660,19 @@
       "tone": 0
     },
     {
-      "id": "gdelt-27-19hgcpq",
+      "id": "gdelt-26-19hgcpq",
       "title": "全球媒体关注：2026 世界杯商业、出行与观赛服务升温，情绪中性｜businessghana.com",
       "source": "businessghana.com",
       "url": "http://www.businessghana.com/site/news/business/347744/OMPAY-Concludes-Region%E2%80%99s-First-Fintech-Led-FIFA-World-Cup-2026%E2%84%A2-Campaign,-Courtesy-of-Visa",
       "publishedAt": "2026-04-29T11:15:00.000Z",
+      "tone": 0
+    },
+    {
+      "id": "gdelt-27-jicyme",
+      "title": "全球媒体关注：2026 世界杯最新动态汇总，情绪中性｜sbs.com.au",
+      "source": "sbs.com.au",
+      "url": "https://www.sbs.com.au/language/nepali/en/podcast-episode/nep-worldcup2026-p2-100726/3fzxhitmd",
+      "publishedAt": "2026-07-12T10:30:00.000Z",
       "tone": 0
     },
     {
@@ -9822,16 +9822,7 @@
       "teamId": "turkey"
     },
     {
-      "id": "gdelt-45-1qlbfkl",
-      "title": "全球媒体关注：2026 世界杯商业、出行与观赛服务升温，情绪中性｜marketing-interactive.com",
-      "source": "marketing-interactive.com",
-      "url": "https://www.marketing-interactive.com/who-needs-a-ticket-here-are-the-brands-bringing-world-cup-fever-beyond-the-stadium",
-      "publishedAt": "2026-07-14T11:30:00.000Z",
-      "tone": 0,
-      "teamId": "brazil"
-    },
-    {
-      "id": "gdelt-46-10noaz8",
+      "id": "gdelt-45-10noaz8",
       "title": "全球媒体关注：2026 世界杯最新动态汇总，情绪中性｜bournemouthecho.co.uk",
       "source": "bournemouthecho.co.uk",
       "url": "https://www.bournemouthecho.co.uk/news/26130334.panini-world-cup-2026-uk-tour-coming-bournemouth/",
@@ -9840,7 +9831,7 @@
       "teamId": "panama"
     },
     {
-      "id": "gdelt-47-1bk5jic",
+      "id": "gdelt-46-1bk5jic",
       "title": "全球媒体关注：2026 世界杯赛果与淘汰赛走势成为焦点，情绪中性｜soompi.com",
       "source": "soompi.com",
       "url": "https://www.soompi.com/article/1841057wpp/bts-confirmed-to-headline-at-world-cup-final-halftime-show-with-madonna-and-shakira",
@@ -9848,12 +9839,21 @@
       "tone": 0
     },
     {
-      "id": "gdelt-48-b7zoqi",
+      "id": "gdelt-47-b7zoqi",
       "title": "全球媒体关注：2026 世界杯赛果与淘汰赛走势成为焦点，情绪偏积极｜toffeeweb.com",
       "source": "toffeeweb.com",
       "url": "https://www.toffeeweb.com/favourites-to-win-world-cup-2026/",
       "publishedAt": "2026-05-26T12:45:00.000Z",
       "tone": 0
+    },
+    {
+      "id": "gdelt-48-1qlbfkl",
+      "title": "全球媒体关注：2026 世界杯商业、出行与观赛服务升温，情绪中性｜marketing-interactive.com",
+      "source": "marketing-interactive.com",
+      "url": "https://www.marketing-interactive.com/who-needs-a-ticket-here-are-the-brands-bringing-world-cup-fever-beyond-the-stadium",
+      "publishedAt": "2026-07-14T11:30:00.000Z",
+      "tone": 0,
+      "teamId": "brazil"
     },
     {
       "id": "gdelt-49-1q6cp20",
