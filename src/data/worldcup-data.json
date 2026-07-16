@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-16T06:28:22.500Z",
+  "updatedAt": "2026-07-16T09:23:38.263Z",
   "sources": [
     "https://worldcup26.ir/get/teams",
     "https://worldcup26.ir/get/games",
@@ -9558,23 +9558,16 @@
       "tone": 0
     },
     {
-      "id": "gdelt-14-1j9286d",
-      "title": "全球媒体关注：2026 世界杯最新动态汇总，情绪中性｜plymouthherald.co.uk",
-      "source": "plymouthherald.co.uk",
-      "url": "https://www.plymouthherald.co.uk/latest-world-cup-2026-news-10995272",
-      "publishedAt": "2026-06-03T16:15:00.000Z",
-      "tone": 0
+      "id": "gdelt-14-1oxy99z",
+      "title": "法国赛程与小组形势更新，情绪中性｜economictimes.indiatimes.com",
+      "source": "economictimes.indiatimes.com",
+      "url": "https://economictimes.indiatimes.com/news/new-updates/fifa-world-cup-2026-today-match-schedule-15-july-france-vs-spain-match-time-in-india-venue-semifinal-preview-standings-and-live-streaming-details/articleshow/132398811.cms",
+      "publishedAt": "2026-07-14T19:15:00.000Z",
+      "tone": 0,
+      "teamId": "france"
     },
     {
-      "id": "gdelt-15-tvzxbr",
-      "title": "全球媒体关注：2026 世界杯最新动态汇总，情绪中性｜fourfourtwo.com",
-      "source": "fourfourtwo.com",
-      "url": "https://www.fourfourtwo.com/competition/world-cup-2026-will-prolong-half-time-interval-for-extravagant-show-acts-announced",
-      "publishedAt": "2026-05-14T11:15:00.000Z",
-      "tone": 0
-    },
-    {
-      "id": "gdelt-16-fa1e56",
+      "id": "gdelt-15-fa1e56",
       "title": "阿根廷最新动态汇总，情绪中性｜hola.com",
       "source": "hola.com",
       "url": "https://www.hola.com/us/entertainment/20260714912821/argentina-fifa-world-cup-2026-locker-room-chant-meaning/",
@@ -9583,13 +9576,20 @@
       "teamId": "netherlands"
     },
     {
-      "id": "gdelt-17-1oxy99z",
-      "title": "法国赛程与小组形势更新，情绪中性｜economictimes.indiatimes.com",
-      "source": "economictimes.indiatimes.com",
-      "url": "https://economictimes.indiatimes.com/news/new-updates/fifa-world-cup-2026-today-match-schedule-15-july-france-vs-spain-match-time-in-india-venue-semifinal-preview-standings-and-live-streaming-details/articleshow/132398811.cms",
-      "publishedAt": "2026-07-14T19:15:00.000Z",
-      "tone": 0,
-      "teamId": "france"
+      "id": "gdelt-16-1j9286d",
+      "title": "全球媒体关注：2026 世界杯最新动态汇总，情绪中性｜plymouthherald.co.uk",
+      "source": "plymouthherald.co.uk",
+      "url": "https://www.plymouthherald.co.uk/latest-world-cup-2026-news-10995272",
+      "publishedAt": "2026-06-03T16:15:00.000Z",
+      "tone": 0
+    },
+    {
+      "id": "gdelt-17-tvzxbr",
+      "title": "全球媒体关注：2026 世界杯最新动态汇总，情绪中性｜fourfourtwo.com",
+      "source": "fourfourtwo.com",
+      "url": "https://www.fourfourtwo.com/competition/world-cup-2026-will-prolong-half-time-interval-for-extravagant-show-acts-announced",
+      "publishedAt": "2026-05-14T11:15:00.000Z",
+      "tone": 0
     },
     {
       "id": "gdelt-18-1urdwcv",
@@ -9685,7 +9685,15 @@
       "tone": 0
     },
     {
-      "id": "gdelt-29-1a1q8l6",
+      "id": "gdelt-29-jicyme",
+      "title": "全球媒体关注：2026 世界杯最新动态汇总，情绪中性｜sbs.com.au",
+      "source": "sbs.com.au",
+      "url": "https://www.sbs.com.au/language/nepali/en/podcast-episode/nep-worldcup2026-p2-100726/3fzxhitmd",
+      "publishedAt": "2026-07-12T10:30:00.000Z",
+      "tone": 0
+    },
+    {
+      "id": "gdelt-30-1a1q8l6",
       "title": "全球媒体关注：2026 世界杯最新动态汇总，情绪中性｜fourfourtwo.com",
       "source": "fourfourtwo.com",
       "url": "https://www.fourfourtwo.com/competition/fifa-world-cup-spot-fixing-scandal-emerges-as-yellow-card-suspicions-revealed",
@@ -9694,21 +9702,13 @@
       "teamId": "canada"
     },
     {
-      "id": "gdelt-30-ffkz3h",
+      "id": "gdelt-31-ffkz3h",
       "title": "美国最新动态汇总，情绪中性｜ibtimes.co.uk",
       "source": "ibtimes.co.uk",
       "url": "https://www.ibtimes.co.uk/eleonora-incardona-fifa-world-cup-2026-coverage-1801329",
       "publishedAt": "2026-06-08T06:45:00.000Z",
       "tone": 0,
       "teamId": "tunisia"
-    },
-    {
-      "id": "gdelt-31-jicyme",
-      "title": "全球媒体关注：2026 世界杯最新动态汇总，情绪中性｜sbs.com.au",
-      "source": "sbs.com.au",
-      "url": "https://www.sbs.com.au/language/nepali/en/podcast-episode/nep-worldcup2026-p2-100726/3fzxhitmd",
-      "publishedAt": "2026-07-12T10:30:00.000Z",
-      "tone": 0
     },
     {
       "id": "gdelt-32-kvu6h4",
@@ -9856,11 +9856,11 @@
       "teamId": "norway"
     },
     {
-      "id": "gdelt-49-1l92gkb",
-      "title": "全球媒体关注：2026 世界杯最新动态汇总，情绪中性｜prnewswire.com",
-      "source": "prnewswire.com",
-      "url": "https://www.prnewswire.com/news-releases/hisense-celebrates-fifa-world-cup-2026-kickoff-with-rgb-miniled-innovation-302798768.html",
-      "publishedAt": "2026-06-12T03:45:00.000Z",
+      "id": "gdelt-49-1qlbfkl",
+      "title": "全球媒体关注：2026 世界杯商业、出行与观赛服务升温，情绪中性｜marketing-interactive.com",
+      "source": "marketing-interactive.com",
+      "url": "https://www.marketing-interactive.com/who-needs-a-ticket-here-are-the-brands-bringing-world-cup-fever-beyond-the-stadium",
+      "publishedAt": "2026-07-14T11:30:00.000Z",
       "tone": 0,
       "teamId": "brazil"
     }
