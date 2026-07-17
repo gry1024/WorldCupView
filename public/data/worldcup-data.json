@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-16T22:13:34.725Z",
+  "updatedAt": "2026-07-17T00:09:22.002Z",
   "sources": [
     "https://worldcup26.ir/get/teams",
     "https://worldcup26.ir/get/games",
@@ -9600,7 +9600,16 @@
       "teamId": "portugal"
     },
     {
-      "id": "gdelt-19-1oxy99z",
+      "id": "gdelt-19-3ctgv5",
+      "title": "墨西哥赛程与小组形势更新，情绪中性｜economictimes.indiatimes.com",
+      "source": "economictimes.indiatimes.com",
+      "url": "https://economictimes.indiatimes.com/news/new-updates/mexico-vs-ecuador-fifa-world-cup-2026-round-of-32-india-time-live-streaming-key-players-predicted-lineups-and-match-preview/articleshow/132099691.cms",
+      "publishedAt": "2026-06-30T18:45:00.000Z",
+      "tone": 0,
+      "teamId": "mexico"
+    },
+    {
+      "id": "gdelt-20-1oxy99z",
       "title": "法国赛程与小组形势更新，情绪中性｜economictimes.indiatimes.com",
       "source": "economictimes.indiatimes.com",
       "url": "https://economictimes.indiatimes.com/news/new-updates/fifa-world-cup-2026-today-match-schedule-15-july-france-vs-spain-match-time-in-india-venue-semifinal-preview-standings-and-live-streaming-details/articleshow/132398811.cms",
@@ -9609,22 +9618,13 @@
       "teamId": "france"
     },
     {
-      "id": "gdelt-20-fa1e56",
+      "id": "gdelt-21-fa1e56",
       "title": "阿根廷最新动态汇总，情绪中性｜hola.com",
       "source": "hola.com",
       "url": "https://www.hola.com/us/entertainment/20260714912821/argentina-fifa-world-cup-2026-locker-room-chant-meaning/",
       "publishedAt": "2026-07-14T16:30:00.000Z",
       "tone": 0,
       "teamId": "netherlands"
-    },
-    {
-      "id": "gdelt-21-3ctgv5",
-      "title": "墨西哥赛程与小组形势更新，情绪中性｜economictimes.indiatimes.com",
-      "source": "economictimes.indiatimes.com",
-      "url": "https://economictimes.indiatimes.com/news/new-updates/mexico-vs-ecuador-fifa-world-cup-2026-round-of-32-india-time-live-streaming-key-players-predicted-lineups-and-match-preview/articleshow/132099691.cms",
-      "publishedAt": "2026-06-30T18:45:00.000Z",
-      "tone": 0,
-      "teamId": "mexico"
     },
     {
       "id": "gdelt-22-18pd2pm",
