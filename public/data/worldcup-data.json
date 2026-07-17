@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-17T12:19:09.570Z",
+  "updatedAt": "2026-07-17T14:51:35.636Z",
   "sources": [
     "https://worldcup26.ir/get/teams",
     "https://worldcup26.ir/get/games",
@@ -9583,21 +9583,21 @@
       "teamId": "france"
     },
     {
-      "id": "gdelt-17-1urdwcv",
-      "title": "全球媒体关注：2026 世界杯最新动态汇总，情绪中性｜fourfourtwo.com",
-      "source": "fourfourtwo.com",
-      "url": "https://www.fourfourtwo.com/competition/what-is-the-world-cup-2026-intro-theme",
-      "publishedAt": "2026-06-04T13:30:00.000Z",
-      "tone": 0
-    },
-    {
-      "id": "gdelt-18-fa1e56",
+      "id": "gdelt-17-fa1e56",
       "title": "阿根廷最新动态汇总，情绪中性｜hola.com",
       "source": "hola.com",
       "url": "https://www.hola.com/us/entertainment/20260714912821/argentina-fifa-world-cup-2026-locker-room-chant-meaning/",
       "publishedAt": "2026-07-14T16:30:00.000Z",
       "tone": 0,
       "teamId": "netherlands"
+    },
+    {
+      "id": "gdelt-18-1urdwcv",
+      "title": "全球媒体关注：2026 世界杯最新动态汇总，情绪中性｜fourfourtwo.com",
+      "source": "fourfourtwo.com",
+      "url": "https://www.fourfourtwo.com/competition/what-is-the-world-cup-2026-intro-theme",
+      "publishedAt": "2026-06-04T13:30:00.000Z",
+      "tone": 0
     },
     {
       "id": "gdelt-19-nipiaa",
