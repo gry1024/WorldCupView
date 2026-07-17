@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-17T22:03:06.346Z",
+  "updatedAt": "2026-07-17T23:02:47.328Z",
   "sources": [
     "https://worldcup26.ir/get/teams",
     "https://worldcup26.ir/get/games",
@@ -9591,7 +9591,16 @@
       "teamId": "brazil"
     },
     {
-      "id": "gdelt-18-1oxy99z",
+      "id": "gdelt-18-1rn3tqu",
+      "title": "全球媒体关注：2026 世界杯球迷声量和社交媒体讨论上升，情绪中性｜finanznachrichten.de",
+      "source": "finanznachrichten.de",
+      "url": "https://www.finanznachrichten.de/nachrichten-2026-05/68497930-pif-named-as-official-tournament-supporter-of-fifa-world-cup-2026-004.htm",
+      "publishedAt": "2026-05-14T13:30:00.000Z",
+      "tone": 0,
+      "teamId": "portugal"
+    },
+    {
+      "id": "gdelt-19-1oxy99z",
       "title": "法国赛程与小组形势更新，情绪中性｜economictimes.indiatimes.com",
       "source": "economictimes.indiatimes.com",
       "url": "https://economictimes.indiatimes.com/news/new-updates/fifa-world-cup-2026-today-match-schedule-15-july-france-vs-spain-match-time-in-india-venue-semifinal-preview-standings-and-live-streaming-details/articleshow/132398811.cms",
@@ -9600,22 +9609,13 @@
       "teamId": "france"
     },
     {
-      "id": "gdelt-19-fa1e56",
+      "id": "gdelt-20-fa1e56",
       "title": "阿根廷最新动态汇总，情绪中性｜hola.com",
       "source": "hola.com",
       "url": "https://www.hola.com/us/entertainment/20260714912821/argentina-fifa-world-cup-2026-locker-room-chant-meaning/",
       "publishedAt": "2026-07-14T16:30:00.000Z",
       "tone": 0,
       "teamId": "netherlands"
-    },
-    {
-      "id": "gdelt-20-1rn3tqu",
-      "title": "全球媒体关注：2026 世界杯球迷声量和社交媒体讨论上升，情绪中性｜finanznachrichten.de",
-      "source": "finanznachrichten.de",
-      "url": "https://www.finanznachrichten.de/nachrichten-2026-05/68497930-pif-named-as-official-tournament-supporter-of-fifa-world-cup-2026-004.htm",
-      "publishedAt": "2026-05-14T13:30:00.000Z",
-      "tone": 0,
-      "teamId": "portugal"
     },
     {
       "id": "gdelt-21-3ctgv5",
@@ -9703,21 +9703,21 @@
       "teamId": "tunisia"
     },
     {
-      "id": "gdelt-31-jicyme",
-      "title": "全球媒体关注：2026 世界杯最新动态汇总，情绪中性｜sbs.com.au",
-      "source": "sbs.com.au",
-      "url": "https://www.sbs.com.au/language/nepali/en/podcast-episode/nep-worldcup2026-p2-100726/3fzxhitmd",
-      "publishedAt": "2026-07-12T10:30:00.000Z",
-      "tone": 0
-    },
-    {
-      "id": "gdelt-32-kvu6h4",
+      "id": "gdelt-31-kvu6h4",
       "title": "全球媒体关注：2026 世界杯赛程与小组形势更新，情绪中性｜asiaone.com",
       "source": "asiaone.com",
       "url": "https://www.asiaone.com/lifestyle/world-cup-2026-watch-live-matches-singapore",
       "publishedAt": "2026-06-03T09:00:00.000Z",
       "tone": 0,
       "teamId": "portugal"
+    },
+    {
+      "id": "gdelt-32-jicyme",
+      "title": "全球媒体关注：2026 世界杯最新动态汇总，情绪中性｜sbs.com.au",
+      "source": "sbs.com.au",
+      "url": "https://www.sbs.com.au/language/nepali/en/podcast-episode/nep-worldcup2026-p2-100726/3fzxhitmd",
+      "publishedAt": "2026-07-12T10:30:00.000Z",
+      "tone": 0
     },
     {
       "id": "gdelt-33-1y8nrvi",
