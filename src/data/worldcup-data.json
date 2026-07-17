@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-17T20:13:13.141Z",
+  "updatedAt": "2026-07-17T22:03:06.346Z",
   "sources": [
     "https://worldcup26.ir/get/teams",
     "https://worldcup26.ir/get/games",
@@ -9582,7 +9582,16 @@
       "tone": 0
     },
     {
-      "id": "gdelt-17-1oxy99z",
+      "id": "gdelt-17-nipiaa",
+      "title": "全球媒体关注：2026 世界杯最新动态汇总，情绪中性｜wwd.com",
+      "source": "wwd.com",
+      "url": "https://wwd.com/pop-culture/culture-news/world-cup-2026-brand-collaborations-1238984935/",
+      "publishedAt": "2026-05-29T19:45:00.000Z",
+      "tone": 0,
+      "teamId": "brazil"
+    },
+    {
+      "id": "gdelt-18-1oxy99z",
       "title": "法国赛程与小组形势更新，情绪中性｜economictimes.indiatimes.com",
       "source": "economictimes.indiatimes.com",
       "url": "https://economictimes.indiatimes.com/news/new-updates/fifa-world-cup-2026-today-match-schedule-15-july-france-vs-spain-match-time-in-india-venue-semifinal-preview-standings-and-live-streaming-details/articleshow/132398811.cms",
@@ -9591,22 +9600,13 @@
       "teamId": "france"
     },
     {
-      "id": "gdelt-18-fa1e56",
+      "id": "gdelt-19-fa1e56",
       "title": "阿根廷最新动态汇总，情绪中性｜hola.com",
       "source": "hola.com",
       "url": "https://www.hola.com/us/entertainment/20260714912821/argentina-fifa-world-cup-2026-locker-room-chant-meaning/",
       "publishedAt": "2026-07-14T16:30:00.000Z",
       "tone": 0,
       "teamId": "netherlands"
-    },
-    {
-      "id": "gdelt-19-nipiaa",
-      "title": "全球媒体关注：2026 世界杯最新动态汇总，情绪中性｜wwd.com",
-      "source": "wwd.com",
-      "url": "https://wwd.com/pop-culture/culture-news/world-cup-2026-brand-collaborations-1238984935/",
-      "publishedAt": "2026-05-29T19:45:00.000Z",
-      "tone": 0,
-      "teamId": "brazil"
     },
     {
       "id": "gdelt-20-1rn3tqu",
@@ -9745,15 +9745,7 @@
       "teamId": "brazil"
     },
     {
-      "id": "gdelt-36-furpvb",
-      "title": "全球媒体关注：2026 世界杯赛果与淘汰赛走势成为焦点，情绪偏积极｜jagranjosh.com",
-      "source": "jagranjosh.com",
-      "url": "https://www.jagranjosh.com/general-knowledge/messi-vs-mbappe-who-leads-the-golden-boot-race-1820010606-1",
-      "publishedAt": "2026-07-17T05:45:00.000Z",
-      "tone": 0
-    },
-    {
-      "id": "gdelt-37-1l539d3",
+      "id": "gdelt-36-1l539d3",
       "title": "全球媒体关注：2026 世界杯赛果与淘汰赛走势成为焦点，情绪中性｜thisdaylive.com",
       "source": "thisdaylive.com",
       "url": "https://www.thisdaylive.com/2026/07/09/justin-bieber-to-co-headline-fifa-world-cup-2026-final-halftime-show-with-madonna-shakira-and-bts/",
@@ -9761,7 +9753,7 @@
       "tone": 0
     },
     {
-      "id": "gdelt-38-1l2phig",
+      "id": "gdelt-37-1l2phig",
       "title": "全球媒体关注：2026 世界杯最新动态汇总，情绪中性｜jagranjosh.com",
       "source": "jagranjosh.com",
       "url": "https://www.jagranjosh.com/general-knowledge/oldest-players-at-fifa-world-cup-1820009872-1",
@@ -9769,11 +9761,19 @@
       "tone": 0
     },
     {
-      "id": "gdelt-39-1kmslb1",
+      "id": "gdelt-38-1kmslb1",
       "title": "全球媒体关注：2026 世界杯最新动态汇总，情绪中性｜dstv.com",
       "source": "dstv.com",
       "url": "https://www.dstv.com/en-za/news/142178/watch-every-fifa-world-cup-2026/",
       "publishedAt": "2026-06-10T13:00:00.000Z",
+      "tone": 0
+    },
+    {
+      "id": "gdelt-39-furpvb",
+      "title": "全球媒体关注：2026 世界杯赛果与淘汰赛走势成为焦点，情绪偏积极｜jagranjosh.com",
+      "source": "jagranjosh.com",
+      "url": "https://www.jagranjosh.com/general-knowledge/messi-vs-mbappe-who-leads-the-golden-boot-race-1820010606-1",
+      "publishedAt": "2026-07-17T05:45:00.000Z",
       "tone": 0
     },
     {
