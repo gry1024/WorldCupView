@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-23T15:20:35.213Z",
+  "updatedAt": "2026-07-23T17:42:38.276Z",
   "sources": [
     "https://worldcup26.ir/get/teams",
     "https://worldcup26.ir/get/games",
@@ -9697,7 +9697,15 @@
       "tone": 0
     },
     {
-      "id": "gdelt-15-1j9286d",
+      "id": "gdelt-15-1pz2g10",
+      "title": "全球媒体关注：2026 世界杯赛果与淘汰赛走势成为焦点，情绪偏积极｜news.webindia123.com",
+      "source": "news.webindia123.com",
+      "url": "https://news.webindia123.com/news/Articles/Entertainment/20260719/4476507.html",
+      "publishedAt": "2026-07-19T06:15:00.000Z",
+      "tone": 0
+    },
+    {
+      "id": "gdelt-16-1j9286d",
       "title": "全球媒体关注：2026 世界杯最新动态汇总，情绪中性｜plymouthherald.co.uk",
       "source": "plymouthherald.co.uk",
       "url": "https://www.plymouthherald.co.uk/latest-world-cup-2026-news-10995272",
@@ -9705,19 +9713,11 @@
       "tone": 0
     },
     {
-      "id": "gdelt-16-tvzxbr",
+      "id": "gdelt-17-tvzxbr",
       "title": "全球媒体关注：2026 世界杯最新动态汇总，情绪中性｜fourfourtwo.com",
       "source": "fourfourtwo.com",
       "url": "https://www.fourfourtwo.com/competition/world-cup-2026-will-prolong-half-time-interval-for-extravagant-show-acts-announced",
       "publishedAt": "2026-05-14T11:15:00.000Z",
-      "tone": 0
-    },
-    {
-      "id": "gdelt-17-1pz2g10",
-      "title": "全球媒体关注：2026 世界杯赛果与淘汰赛走势成为焦点，情绪偏积极｜news.webindia123.com",
-      "source": "news.webindia123.com",
-      "url": "https://news.webindia123.com/news/Articles/Entertainment/20260719/4476507.html",
-      "publishedAt": "2026-07-19T06:15:00.000Z",
       "tone": 0
     },
     {
@@ -9824,7 +9824,16 @@
       "tone": 0
     },
     {
-      "id": "gdelt-30-1a1q8l6",
+      "id": "gdelt-30-1hp4apy",
+      "title": "全球媒体关注：2026 世界杯赛果与淘汰赛走势成为焦点，情绪中性｜timesofindia.indiatimes.com",
+      "source": "timesofindia.indiatimes.com",
+      "url": "https://timesofindia.indiatimes.com/education/news/kerala-declares-holiday-for-schools-and-colleges-after-fifa-world-cup-2026-final/articleshow/132493311.cms",
+      "publishedAt": "2026-07-19T11:45:00.000Z",
+      "tone": 0,
+      "teamId": "colombia"
+    },
+    {
+      "id": "gdelt-31-1a1q8l6",
       "title": "全球媒体关注：2026 世界杯最新动态汇总，情绪中性｜fourfourtwo.com",
       "source": "fourfourtwo.com",
       "url": "https://www.fourfourtwo.com/competition/fifa-world-cup-spot-fixing-scandal-emerges-as-yellow-card-suspicions-revealed",
@@ -9833,22 +9842,13 @@
       "teamId": "canada"
     },
     {
-      "id": "gdelt-31-ffkz3h",
+      "id": "gdelt-32-ffkz3h",
       "title": "美国最新动态汇总，情绪中性｜ibtimes.co.uk",
       "source": "ibtimes.co.uk",
       "url": "https://www.ibtimes.co.uk/eleonora-incardona-fifa-world-cup-2026-coverage-1801329",
       "publishedAt": "2026-06-08T06:45:00.000Z",
       "tone": 0,
       "teamId": "tunisia"
-    },
-    {
-      "id": "gdelt-32-1hp4apy",
-      "title": "全球媒体关注：2026 世界杯赛果与淘汰赛走势成为焦点，情绪中性｜timesofindia.indiatimes.com",
-      "source": "timesofindia.indiatimes.com",
-      "url": "https://timesofindia.indiatimes.com/education/news/kerala-declares-holiday-for-schools-and-colleges-after-fifa-world-cup-2026-final/articleshow/132493311.cms",
-      "publishedAt": "2026-07-19T11:45:00.000Z",
-      "tone": 0,
-      "teamId": "colombia"
     },
     {
       "id": "gdelt-33-9r5taf",
@@ -9893,7 +9893,15 @@
       "tone": 0
     },
     {
-      "id": "gdelt-38-1dwqfxk",
+      "id": "gdelt-38-1l4fryf",
+      "title": "全球媒体关注：2026 世界杯赛果与淘汰赛走势成为焦点，情绪中性｜aninews.in",
+      "source": "aninews.in",
+      "url": "https://aninews.in/news/entertainment/hollywood/this-performance-that-will-live-on-forever-shakira-pens-heartfelt-note-after-fifa-world-cup-2026-final-halftime-show20260720125707/",
+      "publishedAt": "2026-07-20T08:15:00.000Z",
+      "tone": 0
+    },
+    {
+      "id": "gdelt-39-1dwqfxk",
       "title": "全球媒体关注：2026 世界杯最新动态汇总，情绪中性｜timesofindia.indiatimes.com",
       "source": "timesofindia.indiatimes.com",
       "url": "https://timesofindia.indiatimes.com/city/jaipur/five-things-you-need-to-know-before-the-fifa-world-cup-2026-kicks-off/articleshow/131665678.cms",
@@ -9901,7 +9909,7 @@
       "tone": 0
     },
     {
-      "id": "gdelt-39-cspd71",
+      "id": "gdelt-40-cspd71",
       "title": "全球媒体关注：2026 世界杯最新动态汇总，情绪中性｜montrealgazette.com",
       "source": "montrealgazette.com",
       "url": "https://montrealgazette.com/press-releases/pr-newswire/hisense-celebrates-fifa-world-cup-2026-kickoff-with-rgb-miniled-innovation/",
@@ -9910,7 +9918,7 @@
       "teamId": "brazil"
     },
     {
-      "id": "gdelt-40-1l539d3",
+      "id": "gdelt-41-1l539d3",
       "title": "全球媒体关注：2026 世界杯赛果与淘汰赛走势成为焦点，情绪中性｜thisdaylive.com",
       "source": "thisdaylive.com",
       "url": "https://www.thisdaylive.com/2026/07/09/justin-bieber-to-co-headline-fifa-world-cup-2026-final-halftime-show-with-madonna-shakira-and-bts/",
@@ -9918,7 +9926,7 @@
       "tone": 0
     },
     {
-      "id": "gdelt-41-1l2phig",
+      "id": "gdelt-42-1l2phig",
       "title": "全球媒体关注：2026 世界杯最新动态汇总，情绪中性｜jagranjosh.com",
       "source": "jagranjosh.com",
       "url": "https://www.jagranjosh.com/general-knowledge/oldest-players-at-fifa-world-cup-1820009872-1",
@@ -9926,19 +9934,11 @@
       "tone": 0
     },
     {
-      "id": "gdelt-42-1kmslb1",
+      "id": "gdelt-43-1kmslb1",
       "title": "全球媒体关注：2026 世界杯最新动态汇总，情绪中性｜dstv.com",
       "source": "dstv.com",
       "url": "https://www.dstv.com/en-za/news/142178/watch-every-fifa-world-cup-2026/",
       "publishedAt": "2026-06-10T13:00:00.000Z",
-      "tone": 0
-    },
-    {
-      "id": "gdelt-43-1l4fryf",
-      "title": "全球媒体关注：2026 世界杯赛果与淘汰赛走势成为焦点，情绪中性｜aninews.in",
-      "source": "aninews.in",
-      "url": "https://aninews.in/news/entertainment/hollywood/this-performance-that-will-live-on-forever-shakira-pens-heartfelt-note-after-fifa-world-cup-2026-final-halftime-show20260720125707/",
-      "publishedAt": "2026-07-20T08:15:00.000Z",
       "tone": 0
     },
     {
