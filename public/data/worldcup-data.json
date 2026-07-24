@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-24T21:17:20.476Z",
+  "updatedAt": "2026-07-24T23:12:41.775Z",
   "sources": [
     "https://worldcup26.ir/get/teams",
     "https://worldcup26.ir/get/games",
@@ -9909,7 +9909,16 @@
       "tone": 0
     },
     {
-      "id": "gdelt-40-1dwqfxk",
+      "id": "gdelt-40-1y6lyk0",
+      "title": "阿根廷赛果与淘汰赛走势成为焦点，情绪中性｜news.webindia123.com",
+      "source": "news.webindia123.com",
+      "url": "https://news.webindia123.com/news/Articles/India/20260719/4476609.html",
+      "publishedAt": "2026-07-19T17:15:00.000Z",
+      "tone": 0,
+      "teamId": "argentina"
+    },
+    {
+      "id": "gdelt-41-1dwqfxk",
       "title": "全球媒体关注：2026 世界杯最新动态汇总，情绪中性｜timesofindia.indiatimes.com",
       "source": "timesofindia.indiatimes.com",
       "url": "https://timesofindia.indiatimes.com/city/jaipur/five-things-you-need-to-know-before-the-fifa-world-cup-2026-kicks-off/articleshow/131665678.cms",
@@ -9917,22 +9926,13 @@
       "tone": 0
     },
     {
-      "id": "gdelt-41-cspd71",
+      "id": "gdelt-42-cspd71",
       "title": "全球媒体关注：2026 世界杯最新动态汇总，情绪中性｜montrealgazette.com",
       "source": "montrealgazette.com",
       "url": "https://montrealgazette.com/press-releases/pr-newswire/hisense-celebrates-fifa-world-cup-2026-kickoff-with-rgb-miniled-innovation/",
       "publishedAt": "2026-06-12T04:15:00.000Z",
       "tone": 0,
       "teamId": "brazil"
-    },
-    {
-      "id": "gdelt-42-1y6lyk0",
-      "title": "阿根廷赛果与淘汰赛走势成为焦点，情绪中性｜news.webindia123.com",
-      "source": "news.webindia123.com",
-      "url": "https://news.webindia123.com/news/Articles/India/20260719/4476609.html",
-      "publishedAt": "2026-07-19T17:15:00.000Z",
-      "tone": 0,
-      "teamId": "argentina"
     },
     {
       "id": "gdelt-43-1l539d3",
