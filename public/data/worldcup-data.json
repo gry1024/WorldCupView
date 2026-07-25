@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-25T03:32:58.515Z",
+  "updatedAt": "2026-07-25T06:26:31.457Z",
   "sources": [
     "https://worldcup26.ir/get/teams",
     "https://worldcup26.ir/get/games",
@@ -9197,11 +9197,10 @@
     {
       "teamId": "turkey",
       "supportPercent": 42,
-      "sentiment": 0,
-      "volume": 28800,
-      "headline": "全球媒体关注：2026 世界杯最新动态汇总，情绪中性｜mid-day.com",
-      "source": "mid-day.com",
-      "url": "https://www.mid-day.com/entertainment/korean-entertainment/article/blackpinks-lisa-joins-katy-perry-and-future-for-fifa-world-cup-2026-kick-off-23634979"
+      "sentiment": 0.04,
+      "volume": 21000,
+      "headline": "土耳其 的全球讨论热度稳定",
+      "source": "WorldCupView model"
     },
     {
       "teamId": "ivory-coast",
@@ -9723,7 +9722,15 @@
       "teamId": "colombia"
     },
     {
-      "id": "gdelt-18-1j9286d",
+      "id": "gdelt-18-9r5taf",
+      "title": "全球媒体关注：2026 世界杯最新动态汇总，情绪中性｜theshillongtimes.com",
+      "source": "theshillongtimes.com",
+      "url": "https://theshillongtimes.com/2026/07/21/big-b-reacts-to-messis-heartbreaking-defeat/",
+      "publishedAt": "2026-07-21T06:45:00.000Z",
+      "tone": 0
+    },
+    {
+      "id": "gdelt-19-1j9286d",
       "title": "全球媒体关注：2026 世界杯最新动态汇总，情绪中性｜plymouthherald.co.uk",
       "source": "plymouthherald.co.uk",
       "url": "https://www.plymouthherald.co.uk/latest-world-cup-2026-news-10995272",
@@ -9731,19 +9738,11 @@
       "tone": 0
     },
     {
-      "id": "gdelt-19-tvzxbr",
+      "id": "gdelt-20-tvzxbr",
       "title": "全球媒体关注：2026 世界杯最新动态汇总，情绪中性｜fourfourtwo.com",
       "source": "fourfourtwo.com",
       "url": "https://www.fourfourtwo.com/competition/world-cup-2026-will-prolong-half-time-interval-for-extravagant-show-acts-announced",
       "publishedAt": "2026-05-14T11:15:00.000Z",
-      "tone": 0
-    },
-    {
-      "id": "gdelt-20-9r5taf",
-      "title": "全球媒体关注：2026 世界杯最新动态汇总，情绪中性｜theshillongtimes.com",
-      "source": "theshillongtimes.com",
-      "url": "https://theshillongtimes.com/2026/07/21/big-b-reacts-to-messis-heartbreaking-defeat/",
-      "publishedAt": "2026-07-21T06:45:00.000Z",
       "tone": 0
     },
     {
@@ -9842,7 +9841,15 @@
       "teamId": "qatar"
     },
     {
-      "id": "gdelt-32-x8m1rv",
+      "id": "gdelt-32-1l4fryf",
+      "title": "全球媒体关注：2026 世界杯赛果与淘汰赛走势成为焦点，情绪中性｜aninews.in",
+      "source": "aninews.in",
+      "url": "https://aninews.in/news/entertainment/hollywood/this-performance-that-will-live-on-forever-shakira-pens-heartfelt-note-after-fifa-world-cup-2026-final-halftime-show20260720125707/",
+      "publishedAt": "2026-07-20T08:15:00.000Z",
+      "tone": 0
+    },
+    {
+      "id": "gdelt-33-x8m1rv",
       "title": "全球媒体关注：2026 世界杯最新动态汇总，情绪中性｜sbs.com.au",
       "source": "sbs.com.au",
       "url": "https://www.sbs.com.au/ondemand/tv-series/stories-from-the-cities-usa/season-1/stories-from-the-cities-s1-ep6/2479687747593",
@@ -9850,21 +9857,13 @@
       "tone": 0
     },
     {
-      "id": "gdelt-33-1a1q8l6",
+      "id": "gdelt-34-1a1q8l6",
       "title": "全球媒体关注：2026 世界杯最新动态汇总，情绪中性｜fourfourtwo.com",
       "source": "fourfourtwo.com",
       "url": "https://www.fourfourtwo.com/competition/fifa-world-cup-spot-fixing-scandal-emerges-as-yellow-card-suspicions-revealed",
       "publishedAt": "2026-06-02T14:30:00.000Z",
       "tone": 0,
       "teamId": "canada"
-    },
-    {
-      "id": "gdelt-34-1l4fryf",
-      "title": "全球媒体关注：2026 世界杯赛果与淘汰赛走势成为焦点，情绪中性｜aninews.in",
-      "source": "aninews.in",
-      "url": "https://aninews.in/news/entertainment/hollywood/this-performance-that-will-live-on-forever-shakira-pens-heartfelt-note-after-fifa-world-cup-2026-final-halftime-show20260720125707/",
-      "publishedAt": "2026-07-20T08:15:00.000Z",
-      "tone": 0
     },
     {
       "id": "gdelt-35-ffkz3h",
@@ -9985,13 +9984,12 @@
       "teamId": "belgium"
     },
     {
-      "id": "gdelt-49-1dufu4t",
-      "title": "全球媒体关注：2026 世界杯最新动态汇总，情绪中性｜mid-day.com",
-      "source": "mid-day.com",
-      "url": "https://www.mid-day.com/entertainment/korean-entertainment/article/blackpinks-lisa-joins-katy-perry-and-future-for-fifa-world-cup-2026-kick-off-23634979",
-      "publishedAt": "2026-06-13T08:00:00.000Z",
-      "tone": 0,
-      "teamId": "turkey"
+      "id": "gdelt-49-1b31gja",
+      "title": "全球媒体关注：2026 世界杯赛果与淘汰赛走势成为焦点，情绪中性｜thestar.com.my",
+      "source": "thestar.com.my",
+      "url": "https://www.thestar.com.my/metro/metro-news/2026/07/23/fans-pack-kl-eatery-to-watch-world-cup-final",
+      "publishedAt": "2026-07-23T00:45:00.000Z",
+      "tone": 0
     }
   ]
 }
