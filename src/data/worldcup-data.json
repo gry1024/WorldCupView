@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-27T15:49:15.417Z",
+  "updatedAt": "2026-07-27T17:51:43.577Z",
   "sources": [
     "https://worldcup26.ir/get/teams",
     "https://worldcup26.ir/get/games",
@@ -9171,12 +9171,12 @@
   "social": [
     {
       "teamId": "mexico",
-      "supportPercent": 65,
-      "sentiment": 0.05,
-      "volume": 67200,
-      "headline": "墨西哥最新动态汇总，情绪中性｜The Guardian",
-      "source": "The Guardian",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPVUd1VjJuaVFNQjJjaTYyTGZXX1NfaGlKRThYWGVaelZFdXktc3dmLWE1ZUpYMmtzbmlLejdsNExDQmxiUlpfZjVlRTZYWFMwaXY1cHoxN3Y5alBCQ1VoX0FfQS00czhVZDR4RTN3SkNqeGROU0tGbHZHb0VoU3daNkU1UkxkV2d5X0RaeTZlRzd5MEgwTEdZVA?oc=5"
+      "supportPercent": 64,
+      "sentiment": 0,
+      "volume": 91200,
+      "headline": "墨西哥最新动态汇总，情绪中性｜newkerala.com",
+      "source": "newkerala.com",
+      "url": "https://www.newkerala.com/news/a/club-tijuana-expresses-great-pride-serving-as-irans-266.htm"
     },
     {
       "teamId": "south-africa",
@@ -9204,11 +9204,12 @@
     },
     {
       "teamId": "canada",
-      "supportPercent": 51,
-      "sentiment": 0.15,
-      "volume": 37500,
-      "headline": "加拿大 的全球讨论热度稳定",
-      "source": "WorldCupView model"
+      "supportPercent": 50,
+      "sentiment": 0,
+      "volume": 66000,
+      "headline": "全球媒体关注：2026 世界杯最新动态汇总，情绪中性｜jamaicaobserver.com",
+      "source": "jamaicaobserver.com",
+      "url": "https://www.jamaicaobserver.com/2026/05/25/jamaican-receive-extensive-free-air-premium-multi-platform-coverage-fifa-world-cup-2026/"
     },
     {
       "teamId": "bosnia-and-herzegovina",
@@ -9220,11 +9221,12 @@
     },
     {
       "teamId": "qatar",
-      "supportPercent": 49,
-      "sentiment": 0.13,
-      "volume": 34500,
-      "headline": "卡塔尔 的全球讨论热度稳定",
-      "source": "WorldCupView model"
+      "supportPercent": 48,
+      "sentiment": 0,
+      "volume": 63600,
+      "headline": "卡塔尔商业、出行与观赛服务升温，情绪中性｜gdnonline.com",
+      "source": "gdnonline.com",
+      "url": "https://www.gdnonline.com:443/Details/1395871/Qatar-Airways-unveils-FIFA-World-Cup-2026-livery"
     },
     {
       "teamId": "switzerland",
@@ -9237,11 +9239,11 @@
     {
       "teamId": "brazil",
       "supportPercent": 82,
-      "sentiment": 0.12,
-      "volume": 150000,
-      "headline": "全球媒体关注：2026 世界杯商业、出行与观赛服务升温，情绪中性｜YouGov",
-      "source": "YouGov",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOUUhaQTgtdUF0QkdiQzJWUkZDMWNqUFVTbnVBMW5VS25fMzlVeUdrZmF6N1FBZkJxVlVCSDkzR0dTakwxMTVHeXNSUkgyUTZna0hFZWdHZjU0MFU1SXh2dXhEWTlYZjNUMWFadUdmSTV1bGJ2RHRzc3Bvbno3VWNvcVNySHVvYTl5WnlPMWYzN2pQaTBkZmwxbVdmdlUyTUNVc3hld1RYOTloSU10Vmo4czc2RmtZUUdVUDNzeEt3?oc=5"
+      "sentiment": 0,
+      "volume": 102000,
+      "headline": "全球媒体关注：2026 世界杯最新动态汇总，情绪中性｜wwd.com",
+      "source": "wwd.com",
+      "url": "https://wwd.com/pop-culture/culture-news/world-cup-2026-brand-collaborations-1238984935/"
     },
     {
       "teamId": "morocco",
@@ -9262,11 +9264,10 @@
     {
       "teamId": "scotland",
       "supportPercent": 45,
-      "sentiment": 0.03,
-      "volume": 153600,
-      "headline": "全球媒体关注：2026 世界杯最新动态汇总，情绪中性｜Economics Observatory",
-      "source": "Economics Observatory",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPeDExbmhhZ253Q1prbVkyX2VMelBKWXlTWVR3RVJiN21saFB1OVFkX3dDdUZxQzg4a1Z5alVybXUyU3RmeXFSZ3VxNHp3ajhWdmRXRUxadGRVdW1lLXY5c2FNWlBZeUh0STFDZTB3V1dMbTJNOHBsRDRNeXpBWE1Dc3kzdW5pSGVRMmhWblhJc2hRWkVFNlJKdk9iNDktMXY3Ukd2VDZCNXQ?oc=5"
+      "sentiment": 0.08,
+      "volume": 27000,
+      "headline": "苏格兰 的全球讨论热度稳定",
+      "source": "WorldCupView model"
     },
     {
       "teamId": "united-states",
@@ -9278,12 +9279,12 @@
     },
     {
       "teamId": "paraguay",
-      "supportPercent": 44,
-      "sentiment": 0.05,
+      "supportPercent": 43,
+      "sentiment": 0,
       "volume": 31200,
-      "headline": "全球媒体关注：2026 世界杯最新动态汇总，情绪中性｜The Guardian",
-      "source": "The Guardian",
-      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQbUhzLWEwVkRCVWJzWEdXandzZHc1cmJ1Y2V5Y1J0a1dMNEpyQlVQR2REODJzNXVIaC1MSmVFZF9PUDRBU242MnlEZm11R2JWdmxKdGtRMWhUSDdQV3M5V3NBUFZSMmtQWENxcDl0VFlVWFYta3JuLTFpMDNWdnEzWHpFWlVsMW8wREFJUUpxY0hXQ1pZS1NHb1hvb3dCNVZnSjBIRTVNQ3RxR2E4bGVmWGF2bm5FaW1XTFpZNGNWOWZhVzR0RkZSSnl0QnEwVy14NG41TWZhTQ?oc=5"
+      "headline": "全球媒体关注：2026 世界杯最新动态汇总，情绪中性｜prokerala.com",
+      "source": "prokerala.com",
+      "url": "https://www.prokerala.com/news/articles/a1771682.html"
     },
     {
       "teamId": "australia",
@@ -9296,20 +9297,18 @@
     {
       "teamId": "turkey",
       "supportPercent": 42,
-      "sentiment": 0.05,
-      "volume": 52800,
-      "headline": "全球媒体关注：2026 世界杯最新动态汇总，情绪中性｜Yahoo Sports",
-      "source": "Yahoo Sports",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE84Zy1CYjluSHJrbllCQXlvZVJrWU1mcmtGOUVPRWhZbFpXeWlURWxNa0d2R0d4WlZWbEx4QjlvQVNVTDFpZU10eXJXazVWSDNxcHl5THFaVzIzaXYxellyZFUyVG43ajdoS2VKTVJ2ZGVUalFoV2tXT2ZpaVZIdw?oc=5"
+      "sentiment": 0.04,
+      "volume": 21000,
+      "headline": "土耳其 的全球讨论热度稳定",
+      "source": "WorldCupView model"
     },
     {
       "teamId": "germany",
-      "supportPercent": 76,
-      "sentiment": -0.35,
-      "volume": 73200,
-      "headline": "全球媒体关注：2026 世界杯最新动态汇总，情绪中性｜South China Morning Post",
-      "source": "South China Morning Post",
-      "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxNYmNOdjRDbEtnczR0MjNydlBJOGxuTGphMnBPT2tKS2g3MGRtMUxSUW16LXdlVDY4SWdCZVZWcTV1TDJ3ZTJNV2plV1dYeTc5R2RESnh5Y2pYNm9md002QjNwN2FvOTFPRG1CMlhqMlhJeEM1Si1IM1lmSjFkUDlOTVI4RWRDMko1NVpER0dfanpfOFljN1FoMDUwd0x4alVpbEZXbXJXdTQwVm9VVm9xNC1EbmVydGhFcExiUkJlNndxQ0tsdFJQakZvSmJqSjlLdHVrUjRTeEZWaXJScGd3TDk3SlVuRHB1dXVuZVBhUV9QZkhZ0gH0AUFVX3lxTFBNeDV5SmRmdGh0a1dKd09ELXYxOVpxdU9qdV9PRWlUS01tV0dFY3QtWk1fQUVodTh4d2l3YjVyNnJpNUxTanpwTVFLN2hqMzlNLWtncTdIOTlHYzFqc01SM2xFZGpYV2loS2FDZGNHX25yVl9WdVFmc2pYYnBhS0pLdGNnbTJFa0N2WGowR0FMOVlncnJ5UjdObUZBNzNYclppVTQwZUY1STBNT2NyaVJFUjktYlhlb19GTUVzWUlCTUlUd0J5TU00clkyMmczOEpSV2dyLWJURTN1UWJLQ1FleTVwZ192RVE2SFFJYU1YVVdsSDE?oc=5"
+      "supportPercent": 82,
+      "sentiment": 0.41,
+      "volume": 76500,
+      "headline": "德国 的全球讨论热度稳定",
+      "source": "WorldCupView model"
     },
     {
       "teamId": "curacao",
@@ -9329,19 +9328,21 @@
     },
     {
       "teamId": "ecuador",
-      "supportPercent": 63,
-      "sentiment": 0.3,
+      "supportPercent": 60,
+      "sentiment": 0,
       "volume": 60000,
-      "headline": "厄瓜多尔 的全球讨论热度稳定",
-      "source": "WorldCupView model"
+      "headline": "全球媒体关注：2026 世界杯球迷声量和社交媒体讨论上升，情绪中性｜ft.lk",
+      "source": "ft.lk",
+      "url": "https://www.ft.lk/front-page/SLT-Mobitel-PEOTV-secures-exclusive-media-broadcast-rights-for-FIFA-World-Cup-2026/44-792844"
     },
     {
       "teamId": "netherlands",
-      "supportPercent": 73,
-      "sentiment": 0.43,
-      "volume": 79500,
-      "headline": "荷兰 的全球讨论热度稳定",
-      "source": "WorldCupView model"
+      "supportPercent": 69,
+      "sentiment": 0,
+      "volume": 75600,
+      "headline": "阿根廷最新动态汇总，情绪中性｜hola.com",
+      "source": "hola.com",
+      "url": "https://www.hola.com/us/entertainment/20260714912821/argentina-fifa-world-cup-2026-locker-room-chant-meaning/"
     },
     {
       "teamId": "japan",
@@ -9362,10 +9363,11 @@
     {
       "teamId": "tunisia",
       "supportPercent": 36,
-      "sentiment": -0.04,
-      "volume": 9000,
-      "headline": "突尼斯 的全球讨论热度稳定",
-      "source": "WorldCupView model"
+      "sentiment": 0,
+      "volume": 24000,
+      "headline": "美国最新动态汇总，情绪中性｜ibtimes.co.uk",
+      "source": "ibtimes.co.uk",
+      "url": "https://www.ibtimes.co.uk/eleonora-incardona-fifa-world-cup-2026-coverage-1801329"
     },
     {
       "teamId": "belgium",
@@ -9401,12 +9403,11 @@
     },
     {
       "teamId": "spain",
-      "supportPercent": 75,
-      "sentiment": -0.08,
-      "volume": 129600,
-      "headline": "全球媒体关注：2026 世界杯球迷声量和社交媒体讨论上升，情绪中性｜ESPN",
-      "source": "ESPN",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPc3ZKNWlsRlNRM1dLY3FPRXBjQ2VSVm14eDA5V0dIMi02YUV2d01sZXpCWUtfT2dVaEpaUnZ5TVNBOHQwYTFRQnNmV3pMMUp2eERhRWlJeGdBX1pHZjRGajYzeHRyQ3hqOUdhMHd0TnFXc3A4Rl8yX2tmRGpNUU5sT2l1SzRjOVpkUV9rRmQ1Y0dfYWxRMnRtcTdTa2R1OThaLXNLNl9VdWtoNEg3?oc=5"
+      "supportPercent": 80,
+      "sentiment": 0.48,
+      "volume": 87000,
+      "headline": "西班牙 的全球讨论热度稳定",
+      "source": "WorldCupView model"
     },
     {
       "teamId": "cape-verde",
@@ -9435,11 +9436,11 @@
     {
       "teamId": "france",
       "supportPercent": 78,
-      "sentiment": 0.05,
-      "volume": 104400,
-      "headline": "法国球迷声量和社交媒体讨论上升，情绪中性｜Yahoo Sports",
-      "source": "Yahoo Sports",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1BR2FOcFRrQWMzMWdtd3RyUW5RLUFvelZDbHpNbFRmT0ctVDI0MWhjOE00TDRQTlNFdFYyLVlFNXZLYW5OT0oxUG9CeGptWGUwcFBPbUZEaG5taXdJZ1cyV3cycWZtSjZndFloZVpSSUxIM1FqaEN4VlBTS2hIVWc?oc=5"
+      "sentiment": 0,
+      "volume": 80400,
+      "headline": "法国赛程与小组形势更新，情绪中性｜economictimes.indiatimes.com",
+      "source": "economictimes.indiatimes.com",
+      "url": "https://economictimes.indiatimes.com/news/new-updates/fifa-world-cup-2026-today-match-schedule-15-july-france-vs-spain-match-time-in-india-venue-semifinal-preview-standings-and-live-streaming-details/articleshow/132398811.cms"
     },
     {
       "teamId": "senegal",
@@ -9467,12 +9468,12 @@
     },
     {
       "teamId": "argentina",
-      "supportPercent": 81,
-      "sentiment": -0.08,
+      "supportPercent": 82,
+      "sentiment": 0,
       "volume": 130800,
-      "headline": "阿根廷赛果与淘汰赛走势成为焦点，情绪中性｜Euronews.com",
-      "source": "Euronews.com",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPenNLQ1lQTm93NGVqNTZtcmFibEFwX3hjSjBlOEw0MTN6SzNtdEc3MVNXX1libWRPZm1qWFpQMHd6ZllRellKSThQWkQ2OENIZFBiMU9QZDVVUDVYdjhSbG1jaFJORVhyWXFGSmpjSEg3Nl9HNnhia0NxZkl6TWhzN09FRXRHY05qdFZlYkxUeHpPdWlSN1g2ZlQyWU8tV1VMMXI2bXNnV044SGtfRFk0?oc=5"
+      "headline": "阿根廷赛程与小组形势更新，情绪中性｜economictimes.indiatimes.com",
+      "source": "economictimes.indiatimes.com",
+      "url": "https://economictimes.indiatimes.com/news/new-updates/fifa-world-cup-2026-final-live-date-time-venue-india-time-spain-vs-argentina-match-schedule/articleshow/132474504.cms"
     },
     {
       "teamId": "algeria",
@@ -9484,12 +9485,11 @@
     },
     {
       "teamId": "austria",
-      "supportPercent": 26,
-      "sentiment": 0.05,
-      "volume": 24000,
-      "headline": "全球媒体关注：2026 世界杯球迷声量和社交媒体讨论上升，情绪中性｜World Socialist Web Site",
-      "source": "World Socialist Web Site",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1tVFE4WW1zclROU2s3UTRNdm5UNUN1Y1NfUm1kck4yTDVQeE44OVYySU9UWkYxWGJpWjBmaHNJdHJhQmdob09lbjJWOEg0WkdxaXIwcUZmaTg5bXhSUEgxRHZXX1BJeHdW?oc=5"
+      "supportPercent": 24,
+      "sentiment": -0.19,
+      "volume": 8000,
+      "headline": "奥地利 的全球讨论热度稳定",
+      "source": "WorldCupView model"
     },
     {
       "teamId": "jordan",
@@ -9501,12 +9501,12 @@
     },
     {
       "teamId": "portugal",
-      "supportPercent": 69,
-      "sentiment": -0.04,
-      "volume": 388800,
-      "headline": "全球媒体关注：2026 世界杯赛果与淘汰赛走势成为焦点，情绪中性｜Yahoo Sports",
-      "source": "Yahoo Sports",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOYnNuWGE5TGdMRDdSMTdORHJQejFBZzB4MVdFdkd6blAzVkEtOGRjTmlDSDZxeEpUMGNSQ3RqVjBBLXNXc3Nva29zd1Y4UTdLYTBrU1pVa0pWZlE3SnBVOTFlZ2xmMDN5T01Odldsc1dRWDJaTEFuNmM0SGJOaVRlSjl3?oc=5"
+      "supportPercent": 70,
+      "sentiment": 0,
+      "volume": 100800,
+      "headline": "全球媒体关注：2026 世界杯球迷声量和社交媒体讨论上升，情绪中性｜finanznachrichten.de",
+      "source": "finanznachrichten.de",
+      "url": "https://www.finanznachrichten.de/nachrichten-2026-05/68497930-pif-named-as-official-tournament-supporter-of-fifa-world-cup-2026-004.htm"
     },
     {
       "teamId": "democratic-republic-of-the-congo",
@@ -9526,11 +9526,12 @@
     },
     {
       "teamId": "colombia",
-      "supportPercent": 70,
-      "sentiment": 0.39,
-      "volume": 73500,
-      "headline": "哥伦比亚 的全球讨论热度稳定",
-      "source": "WorldCupView model"
+      "supportPercent": 66,
+      "sentiment": 0,
+      "volume": 94800,
+      "headline": "全球媒体关注：2026 世界杯最新动态汇总，情绪中性｜prnewswire.com",
+      "source": "prnewswire.com",
+      "url": "https://www.prnewswire.com/news-releases/outerstuff-under-license-by-fifa-launches-official-licensed-fifa-world-cup-2026-collection-at-pacsun-302773259.html"
     },
     {
       "teamId": "england",
@@ -9550,11 +9551,12 @@
     },
     {
       "teamId": "ghana",
-      "supportPercent": 17,
-      "sentiment": -0.27,
-      "volume": 8000,
-      "headline": "加纳 的全球讨论热度稳定",
-      "source": "WorldCupView model"
+      "supportPercent": 20,
+      "sentiment": 0,
+      "volume": 24000,
+      "headline": "全球媒体关注：2026 世界杯赛果与淘汰赛走势成为焦点，情绪中性｜timesofindia.indiatimes.com",
+      "source": "timesofindia.indiatimes.com",
+      "url": "https://timesofindia.indiatimes.com/education/news/stayed-up-for-the-fifa-world-cup-final-students-in-kerala-meghalaya-and-manipur-got-a-monday-morning-off/articleshow/132509231.cms"
     },
     {
       "teamId": "panama",
@@ -9567,442 +9569,425 @@
   ],
   "news": [
     {
-      "id": "gnews-0-bfi5t",
-      "title": "全球媒体关注：2026 世界杯球迷声量和社交媒体讨论上升，情绪中性｜ESPN",
-      "source": "ESPN",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPc3ZKNWlsRlNRM1dLY3FPRXBjQ2VSVm14eDA5V0dIMi02YUV2d01sZXpCWUtfT2dVaEpaUnZ5TVNBOHQwYTFRQnNmV3pMMUp2eERhRWlJeGdBX1pHZjRGajYzeHRyQ3hqOUdhMHd0TnFXc3A4Rl8yX2tmRGpNUU5sT2l1SzRjOVpkUV9rRmQ1Y0dfYWxRMnRtcTdTa2R1OThaLXNLNl9VdWtoNEg3?oc=5",
-      "publishedAt": "2026-07-27T06:46:00.000Z",
-      "tone": 0.05,
-      "teamId": "spain"
+      "id": "gdelt-0-1h56dph",
+      "title": "全球媒体关注：2026 世界杯最新动态汇总，情绪中性｜fourfourtwo.com",
+      "source": "fourfourtwo.com",
+      "url": "https://www.fourfourtwo.com/competition/pick-your-perfect-world-cup-2026-look-with-fourfourtwos-kit-picker",
+      "publishedAt": "2026-05-26T10:30:00.000Z",
+      "tone": 0
     },
     {
-      "id": "gnews-1-1s33l4z",
-      "title": "全球媒体关注：2026 世界杯球迷声量和社交媒体讨论上升，情绪中性｜BBC",
-      "source": "BBC",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9wMmpDYUFsNUg3VDNFTGxwbTE2N1hKRl80RzlhdjJhbFRCWlExUm9SbXh2ckI1b0ozajVTNGNoNVNwd2pTR1FyNWExU0U3MnNOZHJaUlBhdThNd2plTTVqQmRiVU9vZHc?oc=5",
-      "publishedAt": "2026-07-27T08:07:28.000Z",
-      "tone": 0.05
+      "id": "gdelt-1-599bm6",
+      "title": "卡塔尔商业、出行与观赛服务升温，情绪中性｜gdnonline.com",
+      "source": "gdnonline.com",
+      "url": "https://www.gdnonline.com:443/Details/1395871/Qatar-Airways-unveils-FIFA-World-Cup-2026-livery",
+      "publishedAt": "2026-05-26T06:00:00.000Z",
+      "tone": 0,
+      "teamId": "qatar"
     },
     {
-      "id": "gnews-2-11dnft0",
-      "title": "全球媒体关注：2026 世界杯球迷声量和社交媒体讨论上升，情绪中性｜The Guardian",
-      "source": "The Guardian",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOZER3ZV9VT0wySEhfTHpJV1hFQVJHYnFXSlJuYzVhd05Ob0ZzQU5zYXFLa29XU0lxX21NTW1vTkFKb2drN1haNnZFWFlMRWg4SGVFeXh6blJNanlqbm5xU2x3cjdkQ0xNVlkxa3EyTnFDc1NVTlFaZUNUZkJvZGphZEYwYUh4TDFDc3I4MVUyWElLV29CWDcxOUp2bUh6cElZdnk1X2FtQ0w4NGtLa2lmcWRUT2c?oc=5",
-      "publishedAt": "2026-07-27T11:23:00.000Z",
-      "tone": 0.05
+      "id": "gdelt-2-uwkaiu",
+      "title": "全球媒体关注：2026 世界杯商业、出行与观赛服务升温，情绪中性｜montrealgazette.com",
+      "source": "montrealgazette.com",
+      "url": "https://montrealgazette.com/press-releases/globe-newswire/pu-prime-champions-global-excellence-as-regional-sponsor-of-afa-with-the-launch-of-pu-world-cup-2026/",
+      "publishedAt": "2026-05-04T08:45:00.000Z",
+      "tone": 0
     },
     {
-      "id": "gnews-3-a5rlwb",
-      "title": "全球媒体关注：2026 世界杯球迷声量和社交媒体讨论上升，情绪中性｜Al Jazeera",
-      "source": "Al Jazeera",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPQV8zTjd0aEtycHNTekJzR1JFVjVjMVd4UXc0UXhuY1JMVkd4MTVtWnQ0RUR0LTlfMHJ1bGxXZ09YUlFuN2wtaFBTNk9NY2tuWG9jcDAyRnFZVGhFa3g3dVZVVHZaZU9qRk9KMHBFejNZNDV6UG5PekpUUnN2UU9uVTUzSzRvUXdZVWFocFMtOUV6WXdwU2pYTlFSTk5DU1VUanpsVUlRWFcwRkp6WHZmNlJTTTBfelJNWEJPbmZoVlLSAcYBQVVfeXFMTmhZWGVUNU1rVUhjQ05aYVV4UnNLeHR4OUFVWHJHdTJ0Z2RzaUtNazBkOHZ6RkFGQlEwZG1OV3FxX3VrR1NvZ0xHRDNtXzFHdHBwVlo2UEh6Z2dqT1pkLXVkeVdOM2tOQWQ0U0FyU2JVbzdrWjIxclpNVVJMdGRDeHp0bFFnMURFWWhEMlJad3gyRnhnRGlHd1hBbUhMT3F0NUVoelhwb0dSbGJidGo2TVhKZ3VfdEltTkp5WFRiUUp6ZldhcHln?oc=5",
-      "publishedAt": "2026-07-27T09:37:10.000Z",
-      "tone": 0.05
+      "id": "gdelt-3-cb9mrk",
+      "title": "全球媒体关注：2026 世界杯球迷声量和社交媒体讨论上升，情绪中性｜ft.lk",
+      "source": "ft.lk",
+      "url": "https://www.ft.lk/front-page/SLT-Mobitel-PEOTV-secures-exclusive-media-broadcast-rights-for-FIFA-World-Cup-2026/44-792844",
+      "publishedAt": "2026-06-03T21:15:00.000Z",
+      "tone": 0,
+      "teamId": "ecuador"
     },
     {
-      "id": "gnews-4-106n50w",
-      "title": "全球媒体关注：2026 世界杯球迷声量和社交媒体讨论上升，情绪中性｜Reuters",
-      "source": "Reuters",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxORWwtLVVqYW83TFRqc3VFRWtHN2VKbWhlZnhXQllhVnRqTXFGQmh4ZmFKbmdqZ1FXWjZUbGFFc1JNSVB2R0RlT3VTY3d2MWRXZVhvVGRlcU9TU3Iwc2RVX0o2ODhBWmw3NFIyT211WENMRFcxNTFZWWVWYXJtVGtCdzJwVmdXYi1oYjdsUG15Q21hZjNZMWk1ejFtRXBpU0xINmNDRG85Q1h1dDhmRjJzc3R3?oc=5",
-      "publishedAt": "2026-07-27T08:00:09.000Z",
-      "tone": 0.05
-    },
-    {
-      "id": "gnews-5-z25xco",
-      "title": "法国球迷声量和社交媒体讨论上升，情绪中性｜Yahoo Sports",
-      "source": "Yahoo Sports",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1BR2FOcFRrQWMzMWdtd3RyUW5RLUFvelZDbHpNbFRmT0ctVDI0MWhjOE00TDRQTlNFdFYyLVlFNXZLYW5OT0oxUG9CeGptWGUwcFBPbUZEaG5taXdJZ1cyV3cycWZtSjZndFloZVpSSUxIM1FqaEN4VlBTS2hIVWc?oc=5",
-      "publishedAt": "2026-07-27T09:45:00.000Z",
-      "tone": 0.05,
-      "teamId": "france"
-    },
-    {
-      "id": "gnews-6-188jgok",
-      "title": "全球媒体关注：2026 世界杯最新动态汇总，情绪中性｜The Guardian",
-      "source": "The Guardian",
-      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQbUhzLWEwVkRCVWJzWEdXandzZHc1cmJ1Y2V5Y1J0a1dMNEpyQlVQR2REODJzNXVIaC1MSmVFZF9PUDRBU242MnlEZm11R2JWdmxKdGtRMWhUSDdQV3M5V3NBUFZSMmtQWENxcDl0VFlVWFYta3JuLTFpMDNWdnEzWHpFWlVsMW8wREFJUUpxY0hXQ1pZS1NHb1hvb3dCNVZnSjBIRTVNQ3RxR2E4bGVmWGF2bm5FaW1XTFpZNGNWOWZhVzR0RkZSSnl0QnEwVy14NG41TWZhTQ?oc=5",
-      "publishedAt": "2026-07-27T07:25:00.000Z",
-      "tone": 0.05,
-      "teamId": "paraguay"
-    },
-    {
-      "id": "gnews-7-1bykx2",
-      "title": "阿根廷赛果与淘汰赛走势成为焦点，情绪中性｜Euronews.com",
-      "source": "Euronews.com",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPenNLQ1lQTm93NGVqNTZtcmFibEFwX3hjSjBlOEw0MTN6SzNtdEc3MVNXX1libWRPZm1qWFpQMHd6ZllRellKSThQWkQ2OENIZFBiMU9QZDVVUDVYdjhSbG1jaFJORVhyWXFGSmpjSEg3Nl9HNnhia0NxZkl6TWhzN09FRXRHY05qdFZlYkxUeHpPdWlSN1g2ZlQyWU8tV1VMMXI2bXNnV044SGtfRFk0?oc=5",
-      "publishedAt": "2026-07-27T09:42:54.000Z",
-      "tone": 0.05,
+      "id": "gdelt-4-1jgoo49",
+      "title": "阿根廷赛程与小组形势更新，情绪中性｜economictimes.indiatimes.com",
+      "source": "economictimes.indiatimes.com",
+      "url": "https://economictimes.indiatimes.com/news/new-updates/fifa-world-cup-2026-final-live-date-time-venue-india-time-spain-vs-argentina-match-schedule/articleshow/132474504.cms",
+      "publishedAt": "2026-07-18T07:45:00.000Z",
+      "tone": 0,
       "teamId": "argentina"
     },
     {
-      "id": "gnews-8-14lwg5u",
-      "title": "阿根廷最新动态汇总，情绪偏谨慎｜GiveMeSport",
-      "source": "GiveMeSport",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNT1BqZF9icjRQcXVMbEFzNGZ6RV9aQkU4RVR4WThZcDg3SjNZUEU1bVJnZEdQb3JJVU9iU0RBUFN3R1RSNGZac1dzNjhnLS01SEJqY0p1Q1p1QWFfS0JYZzJRdzVGUkpQU3VQOTFRR09ESmdUWXRidXZodThwRXpPSXhiWHlnRHlGbjFTazFMYWJ0Y2JJdk9ubG9rX1FtV1E?oc=5",
-      "publishedAt": "2026-07-27T10:01:19.000Z",
-      "tone": -0.35,
-      "teamId": "spain"
+      "id": "gdelt-5-dlhj3m",
+      "title": "全球媒体关注：2026 世界杯最新动态汇总，情绪中性｜timesofindia.indiatimes.com",
+      "source": "timesofindia.indiatimes.com",
+      "url": "https://timesofindia.indiatimes.com/entertainment/events/kolkata-hits-the-streets-with-world-cup-fun-carnival-rally/articleshow/132068476.cms",
+      "publishedAt": "2026-06-29T10:15:00.000Z",
+      "tone": 0
     },
     {
-      "id": "gnews-9-n8eds",
-      "title": "墨西哥最新动态汇总，情绪中性｜The Guardian",
-      "source": "The Guardian",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPVUd1VjJuaVFNQjJjaTYyTGZXX1NfaGlKRThYWGVaelZFdXktc3dmLWE1ZUpYMmtzbmlLejdsNExDQmxiUlpfZjVlRTZYWFMwaXY1cHoxN3Y5alBCQ1VoX0FfQS00czhVZDR4RTN3SkNqeGROU0tGbHZHb0VoU3daNkU1UkxkV2d5X0RaeTZlRzd5MEgwTEdZVA?oc=5",
-      "publishedAt": "2026-07-25T19:06:00.000Z",
-      "tone": 0.05,
+      "id": "gdelt-6-1bh8hrd",
+      "title": "全球媒体关注：2026 世界杯最新动态汇总，情绪中性｜jamaicaobserver.com",
+      "source": "jamaicaobserver.com",
+      "url": "https://www.jamaicaobserver.com/2026/05/25/jamaican-receive-extensive-free-air-premium-multi-platform-coverage-fifa-world-cup-2026/",
+      "publishedAt": "2026-05-25T11:15:00.000Z",
+      "tone": 0,
+      "teamId": "canada"
+    },
+    {
+      "id": "gdelt-7-kgduxh",
+      "title": "全球媒体关注：2026 世界杯最新动态汇总，情绪中性｜economictimes.indiatimes.com",
+      "source": "economictimes.indiatimes.com",
+      "url": "https://economictimes.indiatimes.com/news/new-updates/best-apps-to-watch-fifa-world-cup-2026-live-on-mobile-phone-streaming-guide-free-in-india/articleshow/131700322.cms",
+      "publishedAt": "2026-06-13T09:00:00.000Z",
+      "tone": 0
+    },
+    {
+      "id": "gdelt-8-1w5db1o",
+      "title": "全球媒体关注：2026 世界杯最新动态汇总，情绪中性｜prnewswire.com",
+      "source": "prnewswire.com",
+      "url": "https://www.prnewswire.com/news-releases/outerstuff-under-license-by-fifa-launches-official-licensed-fifa-world-cup-2026-collection-at-pacsun-302773259.html",
+      "publishedAt": "2026-05-15T13:30:00.000Z",
+      "tone": 0,
+      "teamId": "colombia"
+    },
+    {
+      "id": "gdelt-9-y33s5r",
+      "title": "全球媒体关注：2026 世界杯最新动态汇总，情绪中性｜thesouthafrican.com",
+      "source": "thesouthafrican.com",
+      "url": "https://www.thesouthafrican.com/lifestyle/celeb-news/international-celebs/tyla-joins-official-fifa-world-cup-2026-album/",
+      "publishedAt": "2026-06-04T22:45:00.000Z",
+      "tone": 0
+    },
+    {
+      "id": "gdelt-10-1ksaktt",
+      "title": "全球媒体关注：2026 世界杯赛果与淘汰赛走势成为焦点，情绪偏积极｜kenya-today.com",
+      "source": "kenya-today.com",
+      "url": "https://kenya-today.com/world-cup-2026-betting-in-kenya-win-a-samsung-a26-try-flash-bet-simulation-unlock-massive-jackpots-on-meridianbet/",
+      "publishedAt": "2026-05-24T12:30:00.000Z",
+      "tone": 0
+    },
+    {
+      "id": "gdelt-11-127oq3d",
+      "title": "墨西哥最新动态汇总，情绪中性｜newkerala.com",
+      "source": "newkerala.com",
+      "url": "https://www.newkerala.com/news/a/club-tijuana-expresses-great-pride-serving-as-irans-266.htm",
+      "publishedAt": "2026-05-27T08:45:00.000Z",
+      "tone": 0,
       "teamId": "mexico"
     },
     {
-      "id": "gnews-10-10fnemt",
-      "title": "全球媒体关注：2026 世界杯最新动态汇总，情绪中性｜Economics Observatory",
-      "source": "Economics Observatory",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPeDExbmhhZ253Q1prbVkyX2VMelBKWXlTWVR3RVJiN21saFB1OVFkX3dDdUZxQzg4a1Z5alVybXUyU3RmeXFSZ3VxNHp3ajhWdmRXRUxadGRVdW1lLXY5c2FNWlBZeUh0STFDZTB3V1dMbTJNOHBsRDRNeXpBWE1Dc3kzdW5pSGVRMmhWblhJc2hRWkVFNlJKdk9iNDktMXY3Ukd2VDZCNXQ?oc=5",
-      "publishedAt": "2026-07-27T11:39:07.000Z",
-      "tone": 0.05,
-      "teamId": "scotland"
+      "id": "gdelt-12-1pz2g10",
+      "title": "全球媒体关注：2026 世界杯赛果与淘汰赛走势成为焦点，情绪偏积极｜news.webindia123.com",
+      "source": "news.webindia123.com",
+      "url": "https://news.webindia123.com/news/Articles/Entertainment/20260719/4476507.html",
+      "publishedAt": "2026-07-19T06:15:00.000Z",
+      "tone": 0
     },
     {
-      "id": "gnews-11-yypu78",
-      "title": "全球媒体关注：2026 世界杯商业、出行与观赛服务升温，情绪中性｜YouGov",
-      "source": "YouGov",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOUUhaQTgtdUF0QkdiQzJWUkZDMWNqUFVTbnVBMW5VS25fMzlVeUdrZmF6N1FBZkJxVlVCSDkzR0dTakwxMTVHeXNSUkgyUTZna0hFZWdHZjU0MFU1SXh2dXhEWTlYZjNUMWFadUdmSTV1bGJ2RHRzc3Bvbno3VWNvcVNySHVvYTl5WnlPMWYzN2pQaTBkZmwxbVdmdlUyTUNVc3hld1RYOTloSU10Vmo4czc2RmtZUUdVUDNzeEt3?oc=5",
-      "publishedAt": "2026-07-27T12:03:36.000Z",
-      "tone": 0.05,
-      "teamId": "brazil"
+      "id": "gdelt-13-qoxw2z",
+      "title": "全球媒体关注：2026 世界杯最新动态汇总，情绪中性｜siasat.com",
+      "source": "siasat.com",
+      "url": "https://www.siasat.com/where-to-watch-fifa-world-cup-2026-in-india-3480901/",
+      "publishedAt": "2026-06-01T13:15:00.000Z",
+      "tone": 0
     },
     {
-      "id": "gnews-12-cvyk6q",
-      "title": "全球媒体关注：2026 世界杯赛果与淘汰赛走势成为焦点，情绪中性｜Yahoo Sports",
-      "source": "Yahoo Sports",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOYnNuWGE5TGdMRDdSMTdORHJQejFBZzB4MVdFdkd6blAzVkEtOGRjTmlDSDZxeEpUMGNSQ3RqVjBBLXNXc3Nva29zd1Y4UTdLYTBrU1pVa0pWZlE3SnBVOTFlZ2xmMDN5T01Odldsc1dRWDJaTEFuNmM0SGJOaVRlSjl3?oc=5",
-      "publishedAt": "2026-07-27T14:19:00.000Z",
-      "tone": 0.05,
-      "teamId": "portugal"
+      "id": "gdelt-14-1ilmpaj",
+      "title": "全球媒体关注：2026 世界杯赛果与淘汰赛走势成为焦点，情绪中性｜timesofindia.indiatimes.com",
+      "source": "timesofindia.indiatimes.com",
+      "url": "https://timesofindia.indiatimes.com/education/news/stayed-up-for-the-fifa-world-cup-final-students-in-kerala-meghalaya-and-manipur-got-a-monday-morning-off/articleshow/132509231.cms",
+      "publishedAt": "2026-07-20T08:15:00.000Z",
+      "tone": 0,
+      "teamId": "ghana"
     },
     {
-      "id": "gnews-13-a5tuuf",
-      "title": "全球媒体关注：2026 世界杯最新动态汇总，情绪中性｜South China Morning Post",
-      "source": "South China Morning Post",
-      "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxNYmNOdjRDbEtnczR0MjNydlBJOGxuTGphMnBPT2tKS2g3MGRtMUxSUW16LXdlVDY4SWdCZVZWcTV1TDJ3ZTJNV2plV1dYeTc5R2RESnh5Y2pYNm9md002QjNwN2FvOTFPRG1CMlhqMlhJeEM1Si1IM1lmSjFkUDlOTVI4RWRDMko1NVpER0dfanpfOFljN1FoMDUwd0x4alVpbEZXbXJXdTQwVm9VVm9xNC1EbmVydGhFcExiUkJlNndxQ0tsdFJQakZvSmJqSjlLdHVrUjRTeEZWaXJScGd3TDk3SlVuRHB1dXVuZVBhUV9QZkhZ0gH0AUFVX3lxTFBNeDV5SmRmdGh0a1dKd09ELXYxOVpxdU9qdV9PRWlUS01tV0dFY3QtWk1fQUVodTh4d2l3YjVyNnJpNUxTanpwTVFLN2hqMzlNLWtncTdIOTlHYzFqc01SM2xFZGpYV2loS2FDZGNHX25yVl9WdVFmc2pYYnBhS0pLdGNnbTJFa0N2WGowR0FMOVlncnJ5UjdObUZBNzNYclppVTQwZUY1STBNT2NyaVJFUjktYlhlb19GTUVzWUlCTUlUd0J5TU00clkyMmczOEpSV2dyLWJURTN1UWJLQ1FleTVwZ192RVE2SFFJYU1YVVdsSDE?oc=5",
-      "publishedAt": "2026-07-27T08:00:12.000Z",
-      "tone": -0.35,
-      "teamId": "germany"
+      "id": "gdelt-15-tm2btk",
+      "title": "全球媒体关注：2026 世界杯最新动态汇总，情绪中性｜creativebloq.com",
+      "source": "creativebloq.com",
+      "url": "https://www.creativebloq.com/design/advertising/the-good-the-bad-and-the-ai-of-world-cup-2026-adverts",
+      "publishedAt": "2026-05-12T08:15:00.000Z",
+      "tone": 0
     },
     {
-      "id": "gnews-14-jcaazj",
-      "title": "全球媒体关注：2026 世界杯球迷声量和社交媒体讨论上升，情绪中性｜DW.com",
-      "source": "DW.com",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQdXVMY2V5RXBhRVY3VWtjamdyaTRORmZzV04wd0sydXJ6V2hQejBDUTRMWGIyUVd6TjItSFFNSmV2Vzc0ZnNOelpFRElwTnZ2MkRWbkFUUXdLaF9OdkhxdHJyS3JvVm0yOUltN2QyaG83bDhOb1FYN0NHVjBxMDdybVdnajlqTXpURGpR0gGLAUFVX3lxTE15VGdrNEhySUVNOTlxMUd5V3F0dDhCSlM1SVFiRHE5SFVBYkhob2Q5SS13cVVQZXQ1cFpnbVk1ekc0R0RCdW9MYWtTYVVZd2JXZHlNX1EtNkRsTUxMd2Y4TlZrN1E2T3JJcDlGZC1PSDBHOGhZMHA0Tksta0dXRmNzUURjXzVIVldSZWM?oc=5",
-      "publishedAt": "2026-07-27T11:52:08.000Z",
-      "tone": 0.05
+      "id": "gdelt-16-1hp4apy",
+      "title": "全球媒体关注：2026 世界杯赛果与淘汰赛走势成为焦点，情绪中性｜timesofindia.indiatimes.com",
+      "source": "timesofindia.indiatimes.com",
+      "url": "https://timesofindia.indiatimes.com/education/news/kerala-declares-holiday-for-schools-and-colleges-after-fifa-world-cup-2026-final/articleshow/132493311.cms",
+      "publishedAt": "2026-07-19T11:45:00.000Z",
+      "tone": 0,
+      "teamId": "colombia"
     },
     {
-      "id": "gnews-15-1udt2k8",
-      "title": "全球媒体关注：2026 世界杯球迷声量和社交媒体讨论上升，情绪中性｜WANA News Agency",
-      "source": "WANA News Agency",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNdXRhZ1pSdTNkYmdOaFdfYUpFZG0xUUhiUmtoNWF0Ymp3ckR2SnFITzZRcWdkM3lfUk05QURyQ3FJNHhQY2VPTWhYNmNQX295ellVTFVhYlE5cmV1OVlxU3V1OXZRT0FGNl9tb09jMTFSdnVlTk10dWJNazhZZkY5RjFpanlfeEE?oc=5",
-      "publishedAt": "2026-07-27T13:23:51.000Z",
-      "tone": 0.05
+      "id": "gdelt-17-9r5taf",
+      "title": "全球媒体关注：2026 世界杯最新动态汇总，情绪中性｜theshillongtimes.com",
+      "source": "theshillongtimes.com",
+      "url": "https://theshillongtimes.com/2026/07/21/big-b-reacts-to-messis-heartbreaking-defeat/",
+      "publishedAt": "2026-07-21T06:45:00.000Z",
+      "tone": 0
     },
     {
-      "id": "gnews-16-b85u1s",
-      "title": "全球媒体关注：2026 世界杯赛果与淘汰赛走势成为焦点，情绪偏积极｜Yahoo Sports",
-      "source": "Yahoo Sports",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOejRkcDFxZlN4Wm50OXRpd0xrUDRkZll2T2MtSlVDWEFxUGZIWWN0STI4NHh6TnpxNEJGSTZRSXl2SFpzbGhBYzAycjU0VkJTZ1M4dGpxdk1ncG5fWVlEcVVLU09hYnVpOGI5NjZUQUpvOTV2VmluR21yR0Z0TUtzSkczdw?oc=5",
-      "publishedAt": "2026-07-27T14:14:00.000Z",
-      "tone": 0.35,
-      "teamId": "brazil"
-    },
-    {
-      "id": "gnews-17-1m7q9pd",
-      "title": "全球媒体关注：2026 世界杯球迷声量和社交媒体讨论上升，情绪中性｜Yahoo Sports",
-      "source": "Yahoo Sports",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQYzhtVTZqUHpuMG0tT3Bfa2R3X0hRaGR1S3RUcjcyRE9jWHdjdHRYaHZlZ2pWTE9aNFhFZVVaSVdYbkxobUhVb1pNV0JRYkJjdEFDOXh4R0dpNi14Y29WT3BEWGRhY3lCenlqclRObjIxRnZoUFNoRUJzVG1aY2xLajhDeXNkWTN5?oc=5",
-      "publishedAt": "2026-07-27T12:04:58.000Z",
-      "tone": 0.05,
-      "teamId": "portugal"
-    },
-    {
-      "id": "gnews-18-1jno4ls",
-      "title": "全球媒体关注：2026 世界杯球迷声量和社交媒体讨论上升，情绪中性｜Yahoo Sports",
-      "source": "Yahoo Sports",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQQURmMVJncHdoN1RYRUk4ejNPU0lGRjg2UGEtdDdhazNEMGpHbTFsV1VWYm1mekR3U1RtcHZUc0UtcC1JNXRlMDdBeVB3SUY1UnF5dlFVY2J3TmlIZmV2NGJxbGkzNUdVcmZLWXNkU05nVmFFVDNwNHR4NEFERC1Qb0VaNmE?oc=5",
-      "publishedAt": "2026-07-27T14:05:40.000Z",
-      "tone": 0.05,
-      "teamId": "scotland"
-    },
-    {
-      "id": "gnews-19-1fg3pct",
-      "title": "全球媒体关注：2026 世界杯赛果与淘汰赛走势成为焦点，情绪中性｜Yahoo Sports",
-      "source": "Yahoo Sports",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1CRlVCanFHcnJneUt3R3hHaUxtYnA1Q2RnRF9rRDJSN2xGbnNfeWg5OVRreVc1NGhudEFVX3dOb2M3ZVNaTzRGVmtQVVlKMmxrSU1nYTRfU1NxUWNPTXRYVGx1R29jeTJUWHZ5SktXSDF6UQ?oc=5",
-      "publishedAt": "2026-07-27T06:49:00.000Z",
-      "tone": 0.05,
-      "teamId": "portugal"
-    },
-    {
-      "id": "gnews-20-18bb65o",
-      "title": "全球媒体关注：2026 世界杯最新动态汇总，情绪中性｜Yahoo Sports",
-      "source": "Yahoo Sports",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE84Zy1CYjluSHJrbllCQXlvZVJrWU1mcmtGOUVPRWhZbFpXeWlURWxNa0d2R0d4WlZWbEx4QjlvQVNVTDFpZU10eXJXazVWSDNxcHl5THFaVzIzaXYxellyZFUyVG43ajdoS2VKTVJ2ZGVUalFoV2tXT2ZpaVZIdw?oc=5",
-      "publishedAt": "2026-07-27T09:13:00.000Z",
-      "tone": 0.05,
-      "teamId": "turkey"
-    },
-    {
-      "id": "gnews-21-1765izl",
-      "title": "全球媒体关注：2026 世界杯球迷声量和社交媒体讨论上升，情绪中性｜Yahoo Sports",
-      "source": "Yahoo Sports",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNZWlFU1drX09ROGZYc0xoNVR1V3g2Wm12Q1ptSVR0LUtkR0s5bldaTk5FSVIwR3FocWdKT2RXaTRJdDEzaFlYU05IZ0hha09vbDYyNEk3b2xibS1fNEttVGVXWk1RT0hubHRJQ0VxNTRBMXRMYTN0U1ZWbkxhMUtvZjIySEloRDh2?oc=5",
-      "publishedAt": "2026-07-27T14:10:00.000Z",
-      "tone": -0.35,
-      "teamId": "portugal"
-    },
-    {
-      "id": "gnews-22-1i7osvx",
-      "title": "全球媒体关注：2026 世界杯球迷声量和社交媒体讨论上升，情绪中性｜Yahoo Sports",
-      "source": "Yahoo Sports",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNVldhb291bnhKS2tabl9BZkxCS25FQkJpV0VKVTYzZWFnT1pjSW9uRkxSQmJTbVFnc2M3Ym9Rbko1c2dTeHNfUUMyOFoxMzFCV2x2R25aODk5eEpJNHhUR1paRGxSQlMzdlh5NFU5Ni1La2xoMlZrM2RBdTlnYVF3UGZCX3VucnpacVFReURfTzM?oc=5",
-      "publishedAt": "2026-07-27T10:42:23.000Z",
-      "tone": 0.05,
-      "teamId": "portugal"
-    },
-    {
-      "id": "gnews-23-g8404i",
-      "title": "全球媒体关注：2026 世界杯球迷声量和社交媒体讨论上升，情绪中性｜Yahoo Sports",
-      "source": "Yahoo Sports",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNOUlwRFJqd3pjUEFMc3l0QmxjQi02YVhuR3ZrOWJDeVppQ3k5cWlyUWlfM2RuY0Zqa0Q0d21tc2JmRTlvSXJfNjhaRW5JdERxaHFoT2VycExMUHdoRDQ3bmZSSEFYZGthMWNTLUxLd3JUT3hXcnM1MUJocE9FVkh0TTU0N1owUXM?oc=5",
-      "publishedAt": "2026-07-27T07:41:29.000Z",
-      "tone": -0.35,
-      "teamId": "portugal"
-    },
-    {
-      "id": "gnews-24-12m6i7o",
-      "title": "全球媒体关注：2026 世界杯赛程与小组形势更新，情绪中性｜olympics.com",
-      "source": "olympics.com",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOYVp1bDVFRURJeUstdDFDMTdtLWwtbUtkTllVdU1UbTNxV2N6dndxMWszSmhFMTB0eWxqMjhJaG85am9OdVB2MEd2cTdBRU1WUTZiU29ISXkyQ0p4TUJ4ZXBvb0ctUHlEbFlEdnh4TURYeWVfbThJWEhSQWctSTV5R0s3YkY5dw?oc=5",
-      "publishedAt": "2026-07-23T15:11:00.000Z",
-      "tone": 0.05
-    },
-    {
-      "id": "gnews-25-1uoo5uo",
-      "title": "全球媒体关注：2026 世界杯最新动态汇总，情绪中性｜Yahoo Finance",
-      "source": "Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOQXVvekNxTHo2djFPUnBRTTFQVHY3czRvOG9DT25TUVViRlBPaUc5VG9meWVZUmdkNF9ILWJBaXlCUUw4R01YTG9aOHpCcU5TV0xOclJka3puZlNBS01lUVFiaFpUT2lpOXZMN0FNMDE2b0lDYW5vTEVvVi1rTVVDYmwzeDRZM2FjckphXzRab1pNWkZpOW5LSUdaakZ4Zk5lVTlvNVcxOWRpajlpWGZnVEFR?oc=5",
-      "publishedAt": "2026-07-27T08:15:00.000Z",
-      "tone": 0.05,
-      "teamId": "turkey"
-    },
-    {
-      "id": "gnews-26-1td9rbt",
-      "title": "全球媒体关注：2026 世界杯球迷声量和社交媒体讨论上升，情绪中性｜Yahoo Sports",
-      "source": "Yahoo Sports",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxORkI0WExhNlNnWXd0UWUxbThiMnFWQkNfeG1oY2lVZ0lHZlNVaEQxcU5ZZWFQUlV1b3kwMXl6WlZqZzlVY3RzWDJmcC1RS0lteE5iRk02Q211LXdteG5jUW9pZE5LNldJUnQydTRmTmptVlE0dUpGNXYySHhOMG1pcm1QOEN3RkJ6dEJfNF9mWXY?oc=5",
-      "publishedAt": "2026-07-27T06:30:00.000Z",
-      "tone": -0.35,
-      "teamId": "portugal"
-    },
-    {
-      "id": "gnews-27-gkhgbt",
-      "title": "全球媒体关注：2026 世界杯最新动态汇总，情绪中性｜The Guardian",
-      "source": "The Guardian",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxORk9NT0hSck13VFBwWnY0Y3BaQlNLaEpBeEYzd2hMVTJ3N3BsaklLTXV6clVhS25CNlU1UUk2VjJWZy1BcmtRbzJYT2FjVG5TOHlDV1RtWk1pLWZFNTA5RnV6czNWTkxKZGVBbUhfdjUySWRPbll0ZlVfSk83R3NXVFVDTDB3bG9jLTlsTXp1ZVUxYTJSaFVR?oc=5",
-      "publishedAt": "2026-07-27T01:30:00.000Z",
-      "tone": 0.05
-    },
-    {
-      "id": "gnews-28-ixhw85",
-      "title": "全球媒体关注：2026 世界杯最新动态汇总，情绪中性｜Yahoo Sports",
-      "source": "Yahoo Sports",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPRGZXUWlMX05UeWlJVkw2amxKZHppaUtZb2RQai1zaWtrYUxMel9YT19WR2xaRVhUWjRwVWpMbUFLY1liNER6d0haRkdvRl81QlBzQjBMcEJvQ3lGSXFpTlhqdTlXcElGTGxzeld2NnU2eXpieGoxcHMyTWNqaTFNZllUbk5jU2hScUE?oc=5",
-      "publishedAt": "2026-07-27T13:30:00.000Z",
-      "tone": 0.05,
-      "teamId": "portugal"
-    },
-    {
-      "id": "gnews-29-16kk8zk",
-      "title": "全球媒体关注：2026 世界杯球迷声量和社交媒体讨论上升，情绪中性｜upi.com",
-      "source": "upi.com",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQOTJWNE1aWG5LRmstTzNrdUIxYnFMMmRqeFkxbzlnSHJUNlRyLVFRNEdxb0NDWHdTY3NvR3A0dDlic3FMcUREOGsweE1QRUNuNXhCcjBadU80MlBvdGlkZTN6T0Zqa1dVMndFYkg1dWpCMjdLNG50dVZYRGJzdjdWQl9SdnhmWjc2TGFFeVh6VE84YWVTUjY4WnFBOWdaOHppUE9FYzBoR3Z2eGVGMjVLbg?oc=5",
-      "publishedAt": "2026-07-27T12:28:36.000Z",
-      "tone": 0.05
-    },
-    {
-      "id": "gnews-30-1agqyzb",
-      "title": "全球媒体关注：2026 世界杯球迷声量和社交媒体讨论上升，情绪中性｜DAZN",
-      "source": "DAZN",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNeDBZYjlEWktmZ0Ezc1V1VUdFcWJ1OHYxNlpoci12NUlTSFdXVFVxbXRTdHpVc2VvSEphQy1MSFh2dUozUXl2WnRtUlJMemJwT0t5dkd1dmV5V2hUaUtnN3pTZDg1TWFUT3l3MDR0LW5pMXFlQ21sSEpXZk80aHlnNUlDeUpSQ0pCak9kX000UXFRci13S2ZPellOeXp0OUVTU3loa1BTemZyYWp0d19CMFU0cw?oc=5",
-      "publishedAt": "2026-07-27T11:00:35.000Z",
-      "tone": 0.05
-    },
-    {
-      "id": "gnews-31-3ivnpj",
-      "title": "阿根廷球迷声量和社交媒体讨论上升，情绪中性｜Yahoo Sports",
-      "source": "Yahoo Sports",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPbE80UDIwSnRIWDVWVVozaHhWbXVTYnc2VzVLRHVvSXhid1NyN2ZKd29kdldZQm1Ka1d2SmowYTBvblJkaDVxMUhaako2QUQ0UnFObHFpd1dBdFljTzh2OTlPUjRMYThZNERGYkpfR291SU11Wm1kakNtSGtUTVpGeHQ0OW9ETmZMZXR5NDZ4azR6YlU?oc=5",
-      "publishedAt": "2026-07-27T10:37:32.000Z",
-      "tone": 0.05,
+      "id": "gdelt-18-wtb1e1",
+      "title": "阿根廷赛果与淘汰赛走势成为焦点，情绪偏积极｜economictimes.indiatimes.com",
+      "source": "economictimes.indiatimes.com",
+      "url": "https://economictimes.indiatimes.com/news/new-updates/fifa-world-cup-2026-prize-money-how-much-winner-and-runner-up-will-get-after-argentina-vs-spain-final-check-complete-prize-breakdown-of-the-top-four-teams/articleshow/132490530.cms",
+      "publishedAt": "2026-07-19T07:00:00.000Z",
+      "tone": 0,
       "teamId": "argentina"
     },
     {
-      "id": "gnews-32-pv337n",
-      "title": "全球媒体关注：2026 世界杯球迷声量和社交媒体讨论上升，情绪中性｜World Socialist Web Site",
-      "source": "World Socialist Web Site",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1tVFE4WW1zclROU2s3UTRNdm5UNUN1Y1NfUm1kck4yTDVQeE44OVYySU9UWkYxWGJpWjBmaHNJdHJhQmdob09lbjJWOEg0WkdxaXIwcUZmaTg5bXhSUEgxRHZXX1BJeHdW?oc=5",
-      "publishedAt": "2026-07-27T01:47:04.000Z",
-      "tone": 0.05,
-      "teamId": "austria"
+      "id": "gdelt-19-ugpip0",
+      "title": "全球媒体关注：2026 世界杯最新动态汇总，情绪中性｜timesofindia.indiatimes.com",
+      "source": "timesofindia.indiatimes.com",
+      "url": "https://timesofindia.indiatimes.com/education/news/five-things-every-student-should-know-before-the-fifa-world-cup-2026-kicks-off-tonight/articleshow/131658049.cms",
+      "publishedAt": "2026-06-11T12:30:00.000Z",
+      "tone": 0
     },
     {
-      "id": "gnews-33-1cigs3x",
-      "title": "全球媒体关注：2026 世界杯赛程与小组形势更新，情绪中性｜FOX Sports",
-      "source": "FOX Sports",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOUVFCYXl0QkQ3TVVHMFlVZmFTVU5ZYkFIbkVOVUJzTUJxWU9lSU9ocDV5OGZxX2Y2MzM3RXpSOHJmTkYyS3Y3OXRWelBmMWdDNDdvZ1lnTDhFZnVWSjJNeC1GZ3VBMmdwUEF6aXVEd3pKdGEtakI5VFVLaXpTTUNrUGd6UVlpTWFfZmZ0MnNGZHZPZGdWV2YxRHVHV1cyM1prcTl2RtIBpAFBVV95cUxNQnBNVzFVejlFR0RBdTZSRUtvX19acUd4VTNKc3lLVFQ4eFRGV3ZFc202eDJIOWNzenFSUklSdHJLZFBRMGdYZE84UUtYVEVuckRoY0xsVnNvWndKTEcxdUFQLWVad0JzcV9qT0VBRzUyTFowYnQ4V1ExS2lGWFFaWjZ2TTVTeS1EOFh0RkYwWno0YzVFMGphLU9nRDlaZm5uV2Fudg?oc=5",
-      "publishedAt": "2026-07-21T12:35:00.000Z",
-      "tone": 0.05,
-      "teamId": "scotland"
+      "id": "gdelt-20-1j9286d",
+      "title": "全球媒体关注：2026 世界杯最新动态汇总，情绪中性｜plymouthherald.co.uk",
+      "source": "plymouthherald.co.uk",
+      "url": "https://www.plymouthherald.co.uk/latest-world-cup-2026-news-10995272",
+      "publishedAt": "2026-06-03T16:15:00.000Z",
+      "tone": 0
     },
     {
-      "id": "gnews-34-809p84",
-      "title": "全球媒体关注：2026 世界杯最新动态汇总，情绪中性｜ESPN",
-      "source": "ESPN",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOem5nQXpkQjA1Z0pjWVlVX0tWTTkzWFNFbDVtRExLYmp4VEwzaWN0MjkyYmI5QkwzT0lfbkdOTDdLS1E2NWxpcXhLdGtacEk5ZFBDaXFud2huNWpXLWFmOWlRYjVQQzVSVVB4VVh0MUtrb2kwU0xWb1RXNVlIc0IxVnRzZlBsc1dkN19FYVNIdVZSSGNhT053NVJNTTFzUmpGcmVVUHNYdlpJYzJ0YnlteGtCQU5FaDU5a0lFbGU5bVNtbTAz?oc=5",
-      "publishedAt": "2026-07-26T10:31:00.000Z",
-      "tone": 0.05,
-      "teamId": "spain"
+      "id": "gdelt-21-tvzxbr",
+      "title": "全球媒体关注：2026 世界杯最新动态汇总，情绪中性｜fourfourtwo.com",
+      "source": "fourfourtwo.com",
+      "url": "https://www.fourfourtwo.com/competition/world-cup-2026-will-prolong-half-time-interval-for-extravagant-show-acts-announced",
+      "publishedAt": "2026-05-14T11:15:00.000Z",
+      "tone": 0
     },
     {
-      "id": "gnews-35-cznsfv",
-      "title": "全球媒体关注：2026 世界杯球迷声量和社交媒体讨论上升，情绪中性｜Yahoo Sports UK",
-      "source": "Yahoo Sports UK",
-      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOWDZwOTdEMTl1UWxaSG9TenI5WXVqcktqSGpKcTd2Ynhhd3VxZEdyQ0UybjJvTS0wU21Oa0VVVzRROUI0d24xNnY4SW5vbDVuQ0tNMjdBd1I1S2FhajBsbkp6c2Z4SFdrUHRDdkpOdDg0NzNWMGRDX3pmUzNRbWdtMW1lcTR1VGItZjdCT2VlTm9HcDhyZmtDQVRPbWJ5REttZWp3emgwdFd2NUo5cWpyMFpkbS1aMUZVLUxkUHBucXBlU2RGS2xKdFBn?oc=5",
-      "publishedAt": "2026-07-27T14:00:46.000Z",
-      "tone": 0.05,
+      "id": "gdelt-22-1urdwcv",
+      "title": "全球媒体关注：2026 世界杯最新动态汇总，情绪中性｜fourfourtwo.com",
+      "source": "fourfourtwo.com",
+      "url": "https://www.fourfourtwo.com/competition/what-is-the-world-cup-2026-intro-theme",
+      "publishedAt": "2026-06-04T13:30:00.000Z",
+      "tone": 0
+    },
+    {
+      "id": "gdelt-23-nipiaa",
+      "title": "全球媒体关注：2026 世界杯最新动态汇总，情绪中性｜wwd.com",
+      "source": "wwd.com",
+      "url": "https://wwd.com/pop-culture/culture-news/world-cup-2026-brand-collaborations-1238984935/",
+      "publishedAt": "2026-05-29T19:45:00.000Z",
+      "tone": 0,
+      "teamId": "brazil"
+    },
+    {
+      "id": "gdelt-24-1rn3tqu",
+      "title": "全球媒体关注：2026 世界杯球迷声量和社交媒体讨论上升，情绪中性｜finanznachrichten.de",
+      "source": "finanznachrichten.de",
+      "url": "https://www.finanznachrichten.de/nachrichten-2026-05/68497930-pif-named-as-official-tournament-supporter-of-fifa-world-cup-2026-004.htm",
+      "publishedAt": "2026-05-14T13:30:00.000Z",
+      "tone": 0,
       "teamId": "portugal"
     },
     {
-      "id": "gnews-36-3t222i",
-      "title": "法国球迷声量和社交媒体讨论上升，情绪中性｜Yahoo Sports",
-      "source": "Yahoo Sports",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxORW4yOGo4cWY2RWVYOUNyWVdyX2pVakFGTGxmd051emdXOHZHLUkyMUhqS1JBemQwenh4cVJ4T2J2bkgxLUF3Qk83TTZXR3NIamNlN1hnckpxX1Zhd2I5WTVWa3NmcnBJQzRPQWNXVmVWT2RxazVpdUViUmd2UEdmSjVqUDBWTHdH?oc=5",
-      "publishedAt": "2026-07-27T06:10:00.000Z",
-      "tone": 0.05,
+      "id": "gdelt-25-3ctgv5",
+      "title": "墨西哥赛程与小组形势更新，情绪中性｜economictimes.indiatimes.com",
+      "source": "economictimes.indiatimes.com",
+      "url": "https://economictimes.indiatimes.com/news/new-updates/mexico-vs-ecuador-fifa-world-cup-2026-round-of-32-india-time-live-streaming-key-players-predicted-lineups-and-match-preview/articleshow/132099691.cms",
+      "publishedAt": "2026-06-30T18:45:00.000Z",
+      "tone": 0,
+      "teamId": "mexico"
+    },
+    {
+      "id": "gdelt-26-1oxy99z",
+      "title": "法国赛程与小组形势更新，情绪中性｜economictimes.indiatimes.com",
+      "source": "economictimes.indiatimes.com",
+      "url": "https://economictimes.indiatimes.com/news/new-updates/fifa-world-cup-2026-today-match-schedule-15-july-france-vs-spain-match-time-in-india-venue-semifinal-preview-standings-and-live-streaming-details/articleshow/132398811.cms",
+      "publishedAt": "2026-07-14T19:15:00.000Z",
+      "tone": 0,
       "teamId": "france"
     },
     {
-      "id": "gnews-37-30jc6",
-      "title": "全球媒体关注：2026 世界杯赛果与淘汰赛走势成为焦点，情绪中性｜Goal.com",
-      "source": "Goal.com",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQMUFBcFlNQWlBVng3TzhqeERvZ2RFZk9sTjR4YXN0dnE0RnVNVkZ3UGZObFBWaG9SdUh6LXV0c0RmWDNuV1UxQzZhbnFfcHh5Vi1pbG5lNHM1eVhEWE1JNHJ5WVpmUGRqSTNKUmktZE1KRW5CYW5pSlBvaktqeTU4bHRjUHNjQXZSS0tFZzA1aDVkZDA3ZndSbXlibldCTTdtaWdsa0Nkd3ZCd2MxbDl4RnIyT1hWVTN0M0E?oc=5",
-      "publishedAt": "2026-07-27T15:09:55.000Z",
-      "tone": 0.05
+      "id": "gdelt-27-fa1e56",
+      "title": "阿根廷最新动态汇总，情绪中性｜hola.com",
+      "source": "hola.com",
+      "url": "https://www.hola.com/us/entertainment/20260714912821/argentina-fifa-world-cup-2026-locker-room-chant-meaning/",
+      "publishedAt": "2026-07-14T16:30:00.000Z",
+      "tone": 0,
+      "teamId": "netherlands"
     },
     {
-      "id": "gnews-38-7onxoj",
-      "title": "全球媒体关注：2026 世界杯赛程与小组形势更新，情绪中性｜olympics.com",
-      "source": "olympics.com",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPYmgzMlhTVmlKSVo0NTBGRVhiRjl3NWc4OUhTRTNhZlV0SDR1dTBWdnd5NWpMTVd1WGVKNDFZSk8tVkxWeGtOaU5lcjAzeHprZzdwNmFzaXNFN2xNSTFLUk9oYk9mSDFwa2dCTXhldWNQZEs4TkR5bXBNWk1MMHh2ckk0d21aVmY3Q3J0VzJZWW5IaUZJOWc?oc=5",
-      "publishedAt": "2026-07-19T07:00:00.000Z",
-      "tone": 0.05,
-      "teamId": "scotland"
+      "id": "gdelt-28-18pd2pm",
+      "title": "全球媒体关注：2026 世界杯最新动态汇总，情绪中性｜jpost.com",
+      "source": "jpost.com",
+      "url": "http://www.jpost.com/jerusalem-report/article-896937",
+      "publishedAt": "2026-05-22T16:30:00.000Z",
+      "tone": 0
     },
     {
-      "id": "gnews-39-1k3y57o",
-      "title": "全球媒体关注：2026 世界杯赛程与小组形势更新，情绪中性｜Yahoo Sports",
-      "source": "Yahoo Sports",
-      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOU1U0UXo4NFBRTUV0ZE1tOWt1X1BOYUZEUDJfaVhKU2NCQWtfZFc1cC14SW9kcWxkRUlNc1BwS1hqeUtHcFlUX2owY0xXdkNfR0tGNl9JNnhwU3l6WUZwTi1BOU5YSmZpZFA4YWp4Y2FWVjNoZ0lqOUxnM2pRMG5BeTNRZFA3aUdRY1BWbzFGbFBnemNBNnZ1TVFaNUJPUUV5Z0kxa2RhN1Ryck9UMlY5RzV5dlNTczl6OWVyRXZPSWdwSmszX3FCaUdqQWx3MFVMYWdnZHRmVFF0T1hULW1IcURfSQ?oc=5",
+      "id": "gdelt-29-1l4fryf",
+      "title": "全球媒体关注：2026 世界杯赛果与淘汰赛走势成为焦点，情绪中性｜aninews.in",
+      "source": "aninews.in",
+      "url": "https://aninews.in/news/entertainment/hollywood/this-performance-that-will-live-on-forever-shakira-pens-heartfelt-note-after-fifa-world-cup-2026-final-halftime-show20260720125707/",
+      "publishedAt": "2026-07-20T08:15:00.000Z",
+      "tone": 0
+    },
+    {
+      "id": "gdelt-30-uxy3aw",
+      "title": "全球媒体关注：2026 世界杯最新动态汇总，情绪中性｜vietnamnet.vn",
+      "source": "vietnamnet.vn",
+      "url": "https://vietnamnet.vn/en/vietnam-s-u17-generation-backed-for-long-term-2034-world-cup-mission-2516244.html",
+      "publishedAt": "2026-05-16T04:45:00.000Z",
+      "tone": 0
+    },
+    {
+      "id": "gdelt-31-f3rdca",
+      "title": "全球媒体关注：2026 世界杯最新动态汇总，情绪中性｜skiddle.com",
+      "source": "skiddle.com",
+      "url": "https://www.skiddle.com/news/all/Best-places-to-watch-the-World-Cup-2026-in-London/61680/",
+      "publishedAt": "2026-05-22T15:15:00.000Z",
+      "tone": 0
+    },
+    {
+      "id": "gdelt-32-1a17fli",
+      "title": "卡塔尔最新动态汇总，情绪中性｜thepeninsulaqatar.com",
+      "source": "thepeninsulaqatar.com",
+      "url": "http://thepeninsulaqatar.com/article/24/05/2026/qatar-permanent-representative-to-un-hosts-from-fifa-world-cup-2022-to-fifa-world-cup-2026-a-legacy-in-motion-reception",
+      "publishedAt": "2026-05-24T09:45:00.000Z",
+      "tone": 0,
+      "teamId": "qatar"
+    },
+    {
+      "id": "gdelt-33-x8m1rv",
+      "title": "全球媒体关注：2026 世界杯最新动态汇总，情绪中性｜sbs.com.au",
+      "source": "sbs.com.au",
+      "url": "https://www.sbs.com.au/ondemand/tv-series/stories-from-the-cities-usa/season-1/stories-from-the-cities-s1-ep6/2479687747593",
+      "publishedAt": "2026-05-05T06:15:00.000Z",
+      "tone": 0
+    },
+    {
+      "id": "gdelt-34-1a1q8l6",
+      "title": "全球媒体关注：2026 世界杯最新动态汇总，情绪中性｜fourfourtwo.com",
+      "source": "fourfourtwo.com",
+      "url": "https://www.fourfourtwo.com/competition/fifa-world-cup-spot-fixing-scandal-emerges-as-yellow-card-suspicions-revealed",
+      "publishedAt": "2026-06-02T14:30:00.000Z",
+      "tone": 0,
+      "teamId": "canada"
+    },
+    {
+      "id": "gdelt-35-ffkz3h",
+      "title": "美国最新动态汇总，情绪中性｜ibtimes.co.uk",
+      "source": "ibtimes.co.uk",
+      "url": "https://www.ibtimes.co.uk/eleonora-incardona-fifa-world-cup-2026-coverage-1801329",
+      "publishedAt": "2026-06-08T06:45:00.000Z",
+      "tone": 0,
+      "teamId": "tunisia"
+    },
+    {
+      "id": "gdelt-36-pm2t0e",
+      "title": "全球媒体关注：2026 世界杯最新动态汇总，情绪中性｜economictimes.indiatimes.com",
+      "source": "economictimes.indiatimes.com",
+      "url": "https://economictimes.indiatimes.com/magazines/panache/shakira-bts-justin-bieber-break-the-internet-with-their-performance-at-fifa-world-cup-half-time-show-where-to-watch-on-ott-in-india/articleshow/132503850.cms",
       "publishedAt": "2026-07-20T02:00:00.000Z",
-      "tone": -0.35,
-      "teamId": "scotland"
+      "tone": 0
     },
     {
-      "id": "gnews-40-ofntww",
-      "title": "全球媒体关注：2026 世界杯最新动态汇总，情绪中性｜news.cgtn.com",
-      "source": "news.cgtn.com",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOS3JnZ3VUdU9iM0daOU9pTTF0ZmN5ODZ6VGMzSmo3a1JiZ294dTdaTzkzQnZlUmFZalRETE5fSEpmTVlWdXpEN2VCcXpLMlZVa0s1U2U1ZFNpcEwxZkVSUGYyZldra09wQ0pocEdseERQNUJ2d00tZ09mNXZaVmhkRDN4TG44SjVmQTIwSFZIRWgwUEwtY0hwN0FlNHhqZ1V1LWN3UU4xN3lHVDJCZk00UzNtMUE?oc=5",
-      "publishedAt": "2026-07-27T09:01:22.000Z",
-      "tone": 0.05
-    },
-    {
-      "id": "gnews-41-ik00o5",
-      "title": "阿根廷赛果与淘汰赛走势成为焦点，情绪中性｜The Daily Star",
-      "source": "The Daily Star",
-      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPMDhOOW9LZ3lLRmI2TG82UUFoZTU5bWZkT0I4N1pFbTJuMnpiVklITDBvRncwZXlFNU9rVTA2SzJWOUZMUEVTV0tVYnVNbllaOXNHXzJxa2ktcUZqOUlNcTRrSDBTWDdqRXZuTExIRk9MNG9IeG15bTdfMlNaSWtlWXFQbmJLT3VqeTRJQnVyMUN4cmFIUXVha2RpaEpfRzZnQkpPZm52VENGYWdrMER5NW1STTY4QV9nTEVuMGRDajFTVHVlRzQwZ0c5cw?oc=5",
-      "publishedAt": "2026-07-27T14:40:43.000Z",
-      "tone": 0.05,
-      "teamId": "brazil"
-    },
-    {
-      "id": "gnews-42-iw82jp",
-      "title": "全球媒体关注：2026 世界杯赛程与小组形势更新，情绪中性｜Yahoo Sports",
-      "source": "Yahoo Sports",
-      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNeHhnOFNxWTRYVWxjUDF2Wnc5LVk5NnNXdVZNODhySld5TWpndVRkVEp4X0JESlp4SzFYeHJteEdTVFJiMzhFQ09QU3RXZFN6VFRGSGNMRUZjb09wdnhlVVBaNHF5clY5OFBJQU9nS05YMTNjZkF2VHV6SHBLMk5TcXBhRmNkSk5qQWk4Z1dlZFZGOXhXZ0lXZG5MV3lpNmN0dHA0blp0Y09NQXAyV3pDV3RPMi1MZ0NLbEVOVTJ4ZUpFSy00VFhjOFhfcGJ5WVlwcTZWZElMeUJTVEJOalBsaQ?oc=5",
-      "publishedAt": "2026-07-19T08:45:00.000Z",
-      "tone": 0.05,
+      "id": "gdelt-37-kvu6h4",
+      "title": "全球媒体关注：2026 世界杯赛程与小组形势更新，情绪中性｜asiaone.com",
+      "source": "asiaone.com",
+      "url": "https://www.asiaone.com/lifestyle/world-cup-2026-watch-live-matches-singapore",
+      "publishedAt": "2026-06-03T09:00:00.000Z",
+      "tone": 0,
       "teamId": "portugal"
     },
     {
-      "id": "gnews-43-9vgb6a",
-      "title": "阿根廷赛果与淘汰赛走势成为焦点，情绪中性｜VnExpress International",
-      "source": "VnExpress International",
-      "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxON05zZ0Z4c3Uxal9rQUE1bF9nQV92SFpST2hwWVZpM0RhclIzVDJld2M0d2k0cTlKVVVyLUVhcmMwU0lrYVJIZG5fZDFoanNWdVlMRm9zZ2t1MFZYYmxsZ3FJdnVCcmpkUnN2M0xXVGNiQ0pYaFRaZmVISHZYWTJjVUtrZ1B5dG85ck8wQ1o1aEFhSGgtaFgxdGFaWUstelhjS1IzRVZpdm8tbTFVVldnUnVXRDVWZzAycHVFZEQ4UExrN2owUElWNlRRM0FmTHl1OG0zX3hLQjJQRlBFbkhvbWFtNm8zekY2?oc=5",
-      "publishedAt": "2026-07-27T13:08:07.000Z",
-      "tone": -0.35,
+      "id": "gdelt-38-jicyme",
+      "title": "全球媒体关注：2026 世界杯最新动态汇总，情绪中性｜sbs.com.au",
+      "source": "sbs.com.au",
+      "url": "https://www.sbs.com.au/language/nepali/en/podcast-episode/nep-worldcup2026-p2-100726/3fzxhitmd",
+      "publishedAt": "2026-07-12T10:30:00.000Z",
+      "tone": 0
+    },
+    {
+      "id": "gdelt-39-1y8nrvi",
+      "title": "全球媒体关注：2026 世界杯赛果与淘汰赛走势成为焦点，情绪偏积极｜leadership.ng",
+      "source": "leadership.ng",
+      "url": "https://leadership.ng/watch-the-fifa-world-cup-2026-live-on-startimes-win-50-million-naira/",
+      "publishedAt": "2026-06-02T22:30:00.000Z",
+      "tone": 0
+    },
+    {
+      "id": "gdelt-40-1y6lyk0",
+      "title": "阿根廷赛果与淘汰赛走势成为焦点，情绪中性｜news.webindia123.com",
+      "source": "news.webindia123.com",
+      "url": "https://news.webindia123.com/news/Articles/India/20260719/4476609.html",
+      "publishedAt": "2026-07-19T17:15:00.000Z",
+      "tone": 0,
       "teamId": "argentina"
     },
     {
-      "id": "gnews-44-157ynpl",
-      "title": "全球媒体关注：2026 世界杯最新动态汇总，情绪中性｜Yahoo Sports",
-      "source": "Yahoo Sports",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQdjRjS2lpdG9XU0JDNGhsQnhrMEFZVFQ3d0ZkUnhXVTMyaEVaU183emZocUhFYU5ncWQtZTRhc09Vd2hMUWNiWDJuUDlxeVFfQUlQaUpoS093c05laEF4Mmdma2JFQm5IY2tpdG12Qkk3d2pQRUtnNHNManYwcUctRUc5eU1uekhoQjJkblh6YnBadw?oc=5",
-      "publishedAt": "2026-07-24T23:31:55.000Z",
-      "tone": 0.05,
-      "teamId": "portugal"
+      "id": "gdelt-41-1b31gja",
+      "title": "全球媒体关注：2026 世界杯赛果与淘汰赛走势成为焦点，情绪中性｜thestar.com.my",
+      "source": "thestar.com.my",
+      "url": "https://www.thestar.com.my/metro/metro-news/2026/07/23/fans-pack-kl-eatery-to-watch-world-cup-final",
+      "publishedAt": "2026-07-23T00:45:00.000Z",
+      "tone": 0
     },
     {
-      "id": "gnews-45-1xuqtg6",
-      "title": "全球媒体关注：2026 世界杯最新动态汇总，情绪中性｜Yahoo Sports",
-      "source": "Yahoo Sports",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQUGk5WGhaTl9hLUtkSFk1aUtjaWo1eHNkczBuSmhtbHRZS2steHAwRjZPRTZ3YkRPSVc1U1Z2WW1tSWNsTG5xSlVqaUJ0eVJYVWllbnVtSnJlbVZMdzNiZlFLbDF0QkJnNnhUUUx2Ui03N2o3eHg1R2p4UVJvNDF6ZVdDeG1OdlRGQVE?oc=5",
-      "publishedAt": "2026-07-26T15:48:33.000Z",
-      "tone": 0.05,
-      "teamId": "portugal"
+      "id": "gdelt-42-vd5hrv",
+      "title": "全球媒体关注：2026 世界杯阵容与伤病动态值得关注，情绪中性｜thedailystar.net",
+      "source": "thedailystar.net",
+      "url": "https://www.thedailystar.net/life-living/news/performances-you-cant-miss-the-world-cup-closing-ceremony-4227651",
+      "publishedAt": "2026-07-19T17:30:00.000Z",
+      "tone": 0
     },
     {
-      "id": "gnews-46-13y8sec",
-      "title": "全球媒体关注：2026 世界杯球迷声量和社交媒体讨论上升，情绪中性｜Yahoo Sports",
-      "source": "Yahoo Sports",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPeEdsdnhUUjVlaXE2OVJ1U1hRTXZCc1U0UGJVcHJLNWFaN1pyLVAxaC0ycEc5bVdIQTh0alVoVzZwOTZqOFpFVmtMckZwcDV5bnFoc1d4MGxsNFcyVTlZN1R2RmNwTzNDRlFEeE9RYmQwV3NCLTllZmRUdUwxZXVmcDBVckllR2tEaFRz?oc=5",
-      "publishedAt": "2026-07-27T08:03:35.000Z",
-      "tone": 0.05,
-      "teamId": "portugal"
+      "id": "gdelt-43-1dwqfxk",
+      "title": "全球媒体关注：2026 世界杯最新动态汇总，情绪中性｜timesofindia.indiatimes.com",
+      "source": "timesofindia.indiatimes.com",
+      "url": "https://timesofindia.indiatimes.com/city/jaipur/five-things-you-need-to-know-before-the-fifa-world-cup-2026-kicks-off/articleshow/131665678.cms",
+      "publishedAt": "2026-06-11T18:30:00.000Z",
+      "tone": 0
     },
     {
-      "id": "gnews-47-168l4n5",
-      "title": "全球媒体关注：2026 世界杯赛果与淘汰赛走势成为焦点，情绪中性｜Yahoo Sports",
-      "source": "Yahoo Sports",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPQ1V4TDU2YkF6MGR6YkJiSV84Vk1wMUlmUS1OYVlYXzNBWWhvRVFCN0w5YU9kY1Q5ZDFfRGtWS19hTTdic1E0ZUgtUTh3Y1lBN19DbVZwWjJNcHFiazZpVkI5WVFNQzJaUTU3OUNpNXU3U1E2c09mbGQ0YzlDUjhvYkd0N04wdmM?oc=5",
-      "publishedAt": "2026-07-19T07:55:11.000Z",
-      "tone": 0.05,
-      "teamId": "portugal"
-    },
-    {
-      "id": "gnews-48-4m9qcg",
-      "title": "全球媒体关注：2026 世界杯赛程与小组形势更新，情绪中性｜olympics.com",
-      "source": "olympics.com",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPa1EtSE1naElSdUlSS0Qyek5QbEFIS3plRTdLY1pXbDF0RkRfMDhjN2VLeUpmSmxKWERVdDdnWnU2dlhCS0ladlk5SkJXUTVXVDlWbV9CODN6SXVKZmE4anNraVkzRTdLUmJhbVpsZnk2c01kNkhMb1lQbHM2Qk5zS1FiYTFPWElDWXI0dV9TYmtBU1hycDg4eVBxSms1UUNi?oc=5",
-      "publishedAt": "2026-07-11T07:00:00.000Z",
-      "tone": 0.05,
+      "id": "gdelt-44-cspd71",
+      "title": "全球媒体关注：2026 世界杯最新动态汇总，情绪中性｜montrealgazette.com",
+      "source": "montrealgazette.com",
+      "url": "https://montrealgazette.com/press-releases/pr-newswire/hisense-celebrates-fifa-world-cup-2026-kickoff-with-rgb-miniled-innovation/",
+      "publishedAt": "2026-06-12T04:15:00.000Z",
+      "tone": 0,
       "teamId": "brazil"
     },
     {
-      "id": "gnews-49-c4kh5z",
-      "title": "全球媒体关注：2026 世界杯赛果与淘汰赛走势成为焦点，情绪偏积极｜Yahoo Sports",
-      "source": "Yahoo Sports",
-      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPenJjS1J6bkRSaWNaNmtiZU1PbWU0U3J3amdXNmN3N0tGYm9pdlVHa0M2VUNEOWZIWkxoNkoxSXRQQlpxZHZDdlZlU2JhaTV5RVdpMk9qd2lOQmRvOFhFZG5zb2c4ekdMbFNfT18ydXlXNGRQaXR2RERoRE1KQ01uRnNGQ2FsdmtHTGlLemlYQnBRMGQ5a09DQlZPOWVQeEl4Q21CcjZ3NU5wVTdLSkkwbTNiR0hWTk5qc2VXaHRxZmw5SzVPNXJhNjduVUpTNEZCajBRTm1XVDQ?oc=5",
-      "publishedAt": "2026-07-19T07:00:00.000Z",
-      "tone": 0.35,
-      "teamId": "scotland"
+      "id": "gdelt-45-1l539d3",
+      "title": "全球媒体关注：2026 世界杯赛果与淘汰赛走势成为焦点，情绪中性｜thisdaylive.com",
+      "source": "thisdaylive.com",
+      "url": "https://www.thisdaylive.com/2026/07/09/justin-bieber-to-co-headline-fifa-world-cup-2026-final-halftime-show-with-madonna-shakira-and-bts/",
+      "publishedAt": "2026-07-09T04:15:00.000Z",
+      "tone": 0
+    },
+    {
+      "id": "gdelt-46-1l2phig",
+      "title": "全球媒体关注：2026 世界杯最新动态汇总，情绪中性｜jagranjosh.com",
+      "source": "jagranjosh.com",
+      "url": "https://www.jagranjosh.com/general-knowledge/oldest-players-at-fifa-world-cup-1820009872-1",
+      "publishedAt": "2026-06-17T07:00:00.000Z",
+      "tone": 0
+    },
+    {
+      "id": "gdelt-47-1kmslb1",
+      "title": "全球媒体关注：2026 世界杯最新动态汇总，情绪中性｜dstv.com",
+      "source": "dstv.com",
+      "url": "https://www.dstv.com/en-za/news/142178/watch-every-fifa-world-cup-2026/",
+      "publishedAt": "2026-06-10T13:00:00.000Z",
+      "tone": 0
+    },
+    {
+      "id": "gdelt-48-furpvb",
+      "title": "全球媒体关注：2026 世界杯赛果与淘汰赛走势成为焦点，情绪偏积极｜jagranjosh.com",
+      "source": "jagranjosh.com",
+      "url": "https://www.jagranjosh.com/general-knowledge/messi-vs-mbappe-who-leads-the-golden-boot-race-1820010606-1",
+      "publishedAt": "2026-07-17T05:45:00.000Z",
+      "tone": 0
+    },
+    {
+      "id": "gdelt-49-444gbh",
+      "title": "全球媒体关注：2026 世界杯最新动态汇总，情绪中性｜prokerala.com",
+      "source": "prokerala.com",
+      "url": "https://www.prokerala.com/news/articles/a1771682.html",
+      "publishedAt": "2026-06-05T09:00:00.000Z",
+      "tone": 0,
+      "teamId": "paraguay"
     }
   ]
 }
